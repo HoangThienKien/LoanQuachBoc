@@ -29,6 +29,7 @@ Xem trực tuyến: `https://hoangthienkien.github.io/LoanQuachBoc/`
 2. Bấm **✎ Sửa**: bấm vào chữ để sửa; rê chuột vào một đoạn để **＋ Đoạn / ＋ Thoại / ＋ Ghi chú / ✕**.
    Ở đầu mỗi cảnh: chọn **ảnh bối cảnh**, **＋ Cảnh mới**, **✕ Xoá cảnh**. Cuối tập: **＋ Act mới**.
    Trang chủ: **＋ Tạo tập mới**, **＋ Thêm character sheet**. Thư mục Bối cảnh: **＋ Thêm ảnh**, **＋ Tạo nhóm**.
+   Lỡ tay xoá hay sửa nhầm: bấm **↶ Hoàn tác** (Ctrl/⌘+Z khi không đang gõ chữ) — nhớ 100 bước; **↷** để làm lại.
 3. Bấm **Lưu** (Ctrl/⌘+S) → trang tự commit lên GitHub. GitHub Pages cập nhật sau ~1 phút.
    Chưa lưu kịp thì bản nháp vẫn được giữ trong trình duyệt, lần mở sau sẽ hỏi khôi phục.
 
