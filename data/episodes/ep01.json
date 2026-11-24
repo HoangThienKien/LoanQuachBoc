@@ -1,0 +1,1625 @@
+{
+ "id": "ep01",
+ "code": "EP01",
+ "title": "Lý Cao Tông",
+ "sub": "The Fallen King",
+ "arc": "Arc I",
+ "meta": "9:30 · 11 scenes · 4 locations",
+ "front": [
+  {
+   "k": "head",
+   "t": "SCENE INDEX — EP01"
+  },
+  {
+   "k": "p",
+   "t": "Danh sách đầy đủ 11 scenes theo thứ tự phát sóng."
+  },
+  {
+   "k": "p",
+   "t": "S01 [0:00–0:45]     Bình Minh Thăng Long               LOC-A · Kinh thành từ trên cao"
+  },
+  {
+   "k": "p",
+   "t": "Act I / Mở đầu series — không có nhân vật, chỉ có thành"
+  },
+  {
+   "k": "p",
+   "t": "S02 [0:45–1:30]     Tô Hiến Thành Già Yếu              LOC-A · Góc sân điện — bình"
+  },
+  {
+   "k": "p",
+   "t": "minh     Act I / Hình ảnh biểu tượng — người đã dựng nên cơ nghiệp"
+  },
+  {
+   "k": "p",
+   "t": "S03 [1:30–2:15]     Lần Đầu Lên Ngôi                   LOC-B · Điện Thiên An"
+  },
+  {
+   "k": "p",
+   "t": "Act I / Cậu bé nhỏ bé trên ngai vàng lớn — VO đầu tiên"
+  },
+  {
+   "k": "p",
+   "t": "S04 [2:15–3:30]     Montage — Những Năm Thái Bình      LOC-C · Hành cung + rừng săn +"
+  },
+  {
+   "k": "p",
+   "t": "hồ    Act II / Hành cung, lễ hội, săn bắn — thiên hạ vẫn yên bình"
+  },
+  {
+   "k": "p",
+   "t": "S05 [3:30–4:15]     Tấu Chương Chất Đống               LOC-B · Điện làm việc"
+  },
+  {
+   "k": "p",
+   "t": "Act II / Đại thần dâng sớ — Cao Tông không đọc"
+  },
+  {
+   "k": "p",
+   "t": "S06 [4:15–5:00]     Đoàn Thượng Lần Đầu                LOC-D · Hồng Châu — bờ sông"
+  },
+  {
+   "k": "p",
+   "t": "Act II / Không giới thiệu tên — một hào trưởng giữa dân chúng"
+  },
+  {
+   "k": "p",
+   "t": "S07 [5:00–5:45]     Bản Đồ Đốm Lửa                     LOC-B · Điện làm việc — đêm"
+  },
+  {
+   "k": "p",
+   "t": "Act II / Bản đồ Đại Việt — những đốm lửa xuất hiện từng cái một"
+  },
+  {
+   "k": "p",
+   "t": "S08 [5:45–7:00]     Signature Moment — Pháo Hoa        LOC-A · Hồ trong cung — đêm"
+  },
+  {
+   "k": "p",
+   "t": "Act II / MŨ BÌNH THIÊN — pháo hoa — điểm đỏ Hồng Châu"
+  },
+  {
+   "k": "p",
+   "t": "S09 [7:00–7:45]     Tin Cấp Báo                        LOC-B · Điện Kim Tinh"
+  },
+  {
+   "k": "p",
+   "t": "Act III / Đoàn Thượng dựng cờ — đại thần hoảng hốt"
+  },
+  {
+   "k": "p",
+   "t": "S10 [7:45–8:45]     Nhìn Bản Đồ Lần Cuối               LOC-B · Điện làm việc — ngày"
+  },
+  {
+   "k": "p",
+   "t": "Act III / Cao Tông im lặng trước bản đồ — VO kết"
+  },
+  {
+   "k": "p",
+   "t": "S11 [8:45–9:10]     Final Image                        LOC-D · Hồng Châu từ xa"
+  },
+  {
+   "k": "p",
+   "t": "Act III / Bản đồ — đốm lửa Hồng Châu — fade to black"
+  },
+  {
+   "k": "p",
+   "t": "PC  [9:10–9:20]     Post Credit — Giọng Đoàn Thượng    LOC-D · Hồng Châu"
+  },
+  {
+   "k": "p",
+   "t": "Post / Lần đầu Đoàn Thượng nói — hook sang EP02"
+  },
+  {
+   "k": "hr"
+  },
+  {
+   "k": "head",
+   "t": "LOCATION BREAKDOWN — 4 SETS"
+  },
+  {
+   "k": "p",
+   "t": "EP01 là tập có ít locations nhất trong Arc I — chỉ 4 địa điểm, và phần lớn thời gian ở LOC-A (Thăng Long) và LOC-B (nội điện). Sự tập trung về không gian này có chủ ý: Cao Tông không rời Thăng Long. Thế giới của ông là thế giới trong tường thành — và đó chính là vấn đề."
+  },
+  {
+   "k": "head",
+   "t": "LOC-A  THĂNG LONG — KINH THÀNH & HỒ"
+  },
+  {
+   "k": "p",
+   "t": "3 sub-set: (1) Thăng Long từ trên cao — mái ngói, chuông chùa, sông Nhị Hà; (2) Sân điện và các góc cung; (3) Hồ trong cung — đêm pháo hoa. LOC-A là không gian của vẻ đẹp và sự tự mãn. Ánh sáng luôn đẹp ở đây — đó là điều đáng sợ."
+  },
+  {
+   "k": "p",
+   "t": "Scenes: S01, S02, S08  —  Tổng runtime: ~2 phút 15 giây  —  Exterior / Bình minh + Đêm pháo hoa"
+  },
+  {
+   "k": "head",
+   "t": "LOC-B  NỘI ĐIỆN — ĐIỆN THIÊN AN, ĐIỆN KIM TINH, ĐIỆN LÀM VIỆC"
+  },
+  {
+   "k": "p",
+   "t": "3 sub-set: (1) Điện Thiên An — ngai vàng lớn, cậu bé nhỏ bé; (2) Điện làm việc — bản đồ, tấu chương, đèn dầu; (3) Điện Kim Tinh — tin cấp báo. Đây là set dùng nhiều nhất tập, vì đây là thế giới của Cao Tông. Nhưng ngay cả trong thế giới của mình, ông vẫn bị áp đảo bởi không gian."
+  },
+  {
+   "k": "p",
+   "t": "Scenes: S03, S05, S07, S09, S10  —  Tổng runtime: ~3 phút 30 giây  —  Interior / Ngày và đêm"
+  },
+  {
+   "k": "head",
+   "t": "LOC-C  HÀNH CUNG & RỪNG SĂN"
+  },
+  {
+   "k": "p",
+   "t": "Ngoài thành — hành cung mùa hè, rừng săn, hồ du ngoạn. Ánh sáng đẹp hơn Thăng Long — đây là nơi Cao Tông thực sự hạnh phúc. Sự tương phản giữa vẻ đẹp của LOC-C và thực tế đang xảy ra bên ngoài là ngôn ngữ hình ảnh chính của Act II."
+  },
+  {
+   "k": "p",
+   "t": "Scenes: S04  —  Tổng runtime: ~1 phút 15 giây  —  Exterior / Ngày đẹp — montage"
+  },
+  {
+   "k": "head",
+   "t": "LOC-D  HỒNG CHÂU — BỜ SÔNG & BÌNH NGUYÊN"
+  },
+  {
+   "k": "p",
+   "t": "Hoàn toàn khác Thăng Long: đất phù sa, bờ sông, người dân thật. Đoàn Thượng xuất hiện ở đây — không có tên, không có giới thiệu. LOC-D là thế giới mà Cao Tông không bao giờ đặt chân đến, và đó là lý do mọi thứ sụp đổ. Scenes: S06, S11, PC  —  Tổng runtime: ~1 phút  —  Exterior / Ngày"
+  },
+  {
+   "k": "hr"
+  },
+  {
+   "k": "head",
+   "t": "PRODUCTION SEQUENCE — LỊCH QUAY ĐỀ XUẤT"
+  },
+  {
+   "k": "p",
+   "t": "LOC-B là set lớn nhất và phức tạp nhất — 5 scenes, nhiều sub-set. Ưu tiên quay LOC-B trước để tận dụng build điện Kim Tinh đã có từ EP03/EP04. LOC-A đêm (S08) quay riêng vì cần setup pháo hoa và lighting đêm đặc biệt."
+  },
+  {
+   "k": "head",
+   "t": "NGÀY      SCENE   CẢNH                                LOCATION                GHI CHÚ"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 1  S03  Lần Đầu Lên Ngôi                       LOC-B · Điện Thiên An      Dùng lại set điện lớn từ EP03/EP04"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 1  S09  Tin Cấp Báo                            LOC-B · Điện Kim Tinh      Cùng set — không dọn cảnh"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 2  S05  Tấu Chương Chất Đống                   LOC-B · Điện làm việc      Set nhỏ hơn, 1 diễn viên chính"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 2  S07  Bản Đồ Đốm Lửa                         LOC-B · Điện làm việc đêm  Cùng set, đổi lighting sang đêm"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 2  S10  Nhìn Bản Đồ Lần Cuối                   LOC-B · Điện làm việc      Liên tục với S07, cùng ngày quay"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 3  S08  Signature Moment — Pháo Hoa            LOC-A · Hồ trong cung      Đêm — setup pháo hoa, ánh nước phức tạp nhất tập"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 4  S01  Bình Minh Thăng Long                   LOC-A · Aerial + mái ngói Golden hour sáng — quay 5:30am"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 4  S02  Tô Hiến Thành Già Yếu                  LOC-A · Sân điện           Liên tục với S01, cùng ngày"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 5  S04  Montage — Những Năm Thái Bình          LOC-C · Hành cung + rừng   Nhiều location phụ — quay cả ngày"
+  },
+  {
+   "k": "head",
+   "t": "Ngày 6  S06  Đoàn Thượng Lần Đầu                    LOC-D · Hồng Châu"
+  },
+  {
+   "k": "p",
+   "t": "Extras đông — dân chúng, bờ sông"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 6  S11  Final Image                            LOC-D · Bình nguyên        Liên tục với S06, cùng ngày"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 6  PC   Post Credit — Đoàn Thượng              LOC-D · Hồng Châu          Chỉ 10 giây, 1 diễn viên, giọng VO"
+  },
+  {
+   "k": "hr"
+  },
+  {
+   "k": "head",
+   "t": "VỊ TRÍ TRONG ARC"
+  },
+  {
+   "k": "p",
+   "t": "EP01 là tập đầu tiên khán giả xem — và phải làm được ba việc cùng lúc: thiết lập thế giới, thiết lập giọng kể, và thiết lập câu hỏi trung tâm của toàn series."
+  },
+  {
+   "k": "p",
+   "t": "Câu hỏi đó không phải 'ai sẽ thắng?' mà là: làm thế nào một triều đại tồn tại gần hai trăm năm lại có thể sụp đổ? Và câu trả lời EP01 đưa ra không phải là kẻ thù mạnh hơn, không phải thiên tai, không phải phản thần — mà là sự thờ ơ của một người ở vị trí không thể thờ ơ."
+  },
+  {
+   "k": "p",
+   "t": "Lý Cao Tông không phải ác nhân. Ông không tàn bạo, không ngu ngốc, không điên cuồng. Ông chỉ là người không hiểu mình đang nắm giữ điều gì — và vì không hiểu, ông không biết mình đang đánh mất nó. Đây là loại bi kịch khó diễn đạt nhất: bi kịch của sự thiếu vắng, không phải sự có mặt."
+  },
+  {
+   "k": "p",
+   "t": "Tone: Elegy — khúc ai điếu cho một triều đại. Không có nhịp kịch tính, không có villain, không có trận chiến. Chỉ có ánh sáng đẹp dần tắt đi."
+  },
+  {
+   "k": "head",
+   "t": "Mũ bình thiên — symbolic device xuyên suốt series:"
+  },
+  {
+   "k": "p",
+   "t": "Chiếc mũ bình thiên của Cao Tông xuất hiện lần đầu trong EP01 — và sẽ xuất hiện trong tất cả 5 tập Arc I với ý nghĩa thay đổi theo từng tập. Ở EP01: mũ quá lớn với cậu bé lên ngôi (S03), sau đó trở thành thứ ông đội thường ngày không suy nghĩ (S08). Ở các tập sau: mũ xuất hiện trong tay người khác, trên bàn trong cung điện trống, cuối cùng là trên đầu người không phải dòng họ Lý."
+  },
+  {
+   "k": "head",
+   "t": "FORMAT   Animated short — 9 phút 30 giây"
+  },
+  {
+   "k": "p",
+   "t": "CẤU TRÚC   3 Acts: I (Memory/Coronation) → II (Burden/Years of Blindness) → III (Legacy/Reckoning)"
+  },
+  {
+   "k": "p",
+   "t": "TONE   Elegy. Không có khoảnh khắc hành động. Nhịp chậm, đều, như nước dâng."
+  },
+  {
+   "k": "p",
+   "t": "VISUAL   Benchmark cho toàn series: Thăng Long đẹp, ấm, vàng son — đối lập với thế giới bên ngoài desaturated"
+  },
+  {
+   "k": "lab",
+   "c": "vo",
+   "l": "VO",
+   "t": "Ngôi thứ nhất — Cao Tông kể lại như người đã chết. Giọng không hối hận, không cay đắng. Chỉ buồn."
+  },
+  {
+   "k": "p",
+   "t": "ÂM NHẠC   Nhã nhạc cung đình dần phai → silence → một nốt đàn bầu đơn độc ở"
+  },
+  {
+   "k": "p",
+   "t": "Act III"
+  },
+  {
+   "k": "hr"
+  },
+  {
+   "k": "head",
+   "t": "CHARACTER BRIEF — LÝ CAO TÔNG"
+  },
+  {
+   "k": "p",
+   "t": "Lý Cao Tông lên ngôi năm 1175, khi còn rất nhỏ — đây là điều quan trọng nhất để hiểu ông. Ông không chọn làm vua. Ông được đặt lên ngai vàng trước khi có thể hiểu ngai vàng là gì. Và trong suốt cuộc đời, ông không bao giờ thực sự hiểu được điều đó."
+  },
+  {
+   "k": "lab",
+   "c": "vo",
+   "l": "VO",
+   "t": "của Cao Tông khác tất cả các nhân vật khác trong Arc I: ông kể như người nhìn lại từ cuối cuộc đời và thực sự không hiểu tại sao mọi thứ xảy ra như vậy. Không phải ông ngây thơ — ông chỉ không có framework để hiểu. Và đây là điều bi thảm nhất: ông là người duy nhất trong 5 tập không học được bài học của mình."
+  },
+  {
+   "k": "p",
+   "t": "Đây không phải nhân vật để ghét hay thương. Đây là nhân vật để nhìn — như nhìn một cơn mưa đã biết trước sẽ đến mà không thể ngăn."
+  },
+  {
+   "k": "lab",
+   "c": "act",
+   "l": "WARDROBE",
+   "t": "",
+   "list": [
+    "Cậu bé lên ngôi (S03): long bào đỏ quá lớn, mũ bình thiên nghiêng một chút — chi tiết nhỏ này phải thấy rõ",
+    "Trưởng thành (S04–S08): long bào đầy đủ phẩm cấp nhưng trông thoải mái, không trang trọng — ông mặc như mặc đồ nhà",
+    "S08 pháo hoa: đứng một mình, áo ngoài đơn giản hơn — đây là Cao Tông không có ai nhìn",
+    "S10 lần cuối: lần đầu tiên ông trông già — không phải vì trang phục mà vì tư thế",
+    "Mũ bình thiên: xuất hiện ở S03 (đầu) và S08 (đầu). Phải là cùng một chiếc mũ — prop nhất quán xuyên suốt series"
+   ]
+  },
+  {
+   "k": "hr"
+  }
+ ],
+ "acts": [
+  {
+   "t": "ACT I — MEMORY",
+   "time": "0:00–2:15",
+   "intro": [
+    {
+     "k": "p",
+     "t": "Thời gian: 2 phút 15 giây. Ba cảnh — mỗi cảnh một lớp của Act I: thế giới ông thừa hưởng (S01), người đã xây dựng thế giới đó (S02), và khoảnh khắc ông tiếp nhận nó quá sớm (S03). Không có đối thoại đáng kể — Act I là hình ảnh và VO."
+    },
+    {
+     "k": "quote",
+     "lines": [
+      "生於憂患，死於安樂",
+      "Sinh ư ưu hoạn, tử ư an lạc",
+      "\"Sống nhờ gian nan, chết vì an lạc\"",
+      "— Mạnh Tử · Cáo Tử hạ"
+     ]
+    },
+    {
+     "k": "lab",
+     "c": "note",
+     "l": "NOTE",
+     "t": "Quote hiện lên hoàn toàn, im lặng, trên nền đen — trước khi bất kỳ hình ảnh nào xuất hiện. Đây là câu mà người đời sau sẽ dùng để nói về Cao Tông. Irony của nó chỉ rõ ràng khi xem xong tập. 8 chữ này là toàn bộ arc của EP01 được nén lại."
+    }
+   ],
+   "scenes": [
+    {
+     "id": "S01",
+     "t": "BÌNH MINH THĂNG LONG",
+     "time": "0:00–0:45",
+     "loc": "LOC-A · Thăng Long từ trên cao · Exterior / Bình minh",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Cảnh mở đầu series. Không có nhân vật — chỉ là Thăng Long lúc bình minh. 45 giây thuần hình ảnh và âm thanh. Thiết lập thế giới trước khi thiết lập con người. Quan trọng: Thăng Long phải ĐẸPMỘT CÁCH THỰC SỰ — để khán giả hiểu tại sao mọi người muốn bảo vệ nó."
+      },
+      {
+       "k": "slug",
+       "t": "EXTERIOR — THĂNG LONG — BÌNH MINH"
+      },
+      {
+       "k": "arrow",
+       "t": "Aerial từ cao: mái ngói cong của kinh thành, xếp lớp từ trong ra ngoài như sóng nước."
+      },
+      {
+       "k": "arrow",
+       "t": "Sương sớm mỏng còn lảng bảng trên mái. Khói bếp đầu tiên của ngày bắt đầu bốc lên từ khu dân cư."
+      },
+      {
+       "k": "arrow",
+       "t": "Chuông chùa — nghe trước khi thấy: tiếng chuông vang lên trong sương, không biết từ đâu."
+      },
+      {
+       "k": "arrow",
+       "t": "Sông Nhị Hà phía Đông: nước màu bạc trong ánh bình minh, thuyền chài đầu tiên đang ra khơi."
+      },
+      {
+       "k": "arrow",
+       "t": "Camera hạ dần: thấy điện Thiên An ở trung tâm, cổng thành, tường thành — tất cả còn ngủ."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Ánh bình minh vàng hồng — đây là ánh sáng ấm nhất trong toàn series. LOC-A được thiết kế để đẹp có chủ đích: người xem phải cảm nhận được giá trị của thứ sắp bị đánh mất. Key light từ Đông, fill từ mây. Không desaturate — EP01 Act I là tập duy nhất trong series cho phép màu sắc đầy đủ."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "0:00: Im lặng tuyệt đối 2 giây. Sau đó tiếng chuông chùa — một tiếng, vang rất lâu, fade ra. Rồi: tiếng sương rơi trên mái ngói, tiếng thuyền chài xa, tiếng chim sáng. Không có nhạc — chỉ âm thanh tự nhiên của một thành phố đang thức dậy."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Aerial từ cao 60m, từ từ hạ xuống trong 45 giây. Không cắt — một shot liên tục. Bắt đầu từ toàn cảnh (thấy cả kinh thành + sông + vùng ngoại ô), kết thúc ở tầm ngang mái điện Thiên An. Chuyển động camera: chậm và đều như hơi thở."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "0:00–0:45: Không có nhạc nhân tạo. Chỉ có âm thanh thực. Nhạc sẽ vào lần đầu ở S02."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "45 giây. Không được vội. Đây là cảnh khán giả cần để thở trước khi câu chuyện bắt đầu."
+      }
+     ],
+     "chips": [],
+     "set": "Thang_Long_kinh_thanh"
+    },
+    {
+     "id": "S02",
+     "t": "TÔ HIẾN THÀNH GIÀ YẾU",
+     "time": "0:45–1:30",
+     "loc": "LOC-A · Sân điện — góc nhìn ra Thăng Long · Exterior / Bình minh",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Hình ảnh biểu tượng — không có thoại, không có giới thiệu tên. Chỉ là một ông lão đứng nhìn kinh thành. Khán giả không cần biết ông là ai để hiểu ông đại diện cho điều gì: người đã dùng cả đời để xây dựng thứ người khác sẽ thừa hưởng mà không hiểu giá trị của nó."
+      },
+      {
+       "k": "slug",
+       "t": "EXTERIOR — SÂN ĐIỆN — BÌNH MINH, LIÊN TỤC VỚI S01"
+      },
+      {
+       "k": "arrow",
+       "t": "Một góc sân điện — cột gỗ, nền đá, cây cảnh già. Không phải trung tâm, chỉ là một góc."
+      },
+      {
+       "k": "arrow",
+       "t": "Tô Hiến Thành (70t+): áo quan cũ, tóc bạc trắng, lưng hơi còng. Đứng nhìn về phía kinh thành."
+      },
+      {
+       "k": "arrow",
+       "t": "Ông không làm gì. Chỉ nhìn. Như người đang kiểm tra một công trình của mình lần cuối."
+      },
+      {
+       "k": "arrow",
+       "t": "Xa xa: tiếng chuông chùa thứ hai của buổi sáng."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "WARDROBE",
+       "t": "",
+       "list": [
+        "Tô Hiến Thành: triều phục cũ, có dấu hiệu đã vá lại — ông không quan tâm đến diện mạo. Tóc búi gọn nhưng một vài sợi xổ ra. Đôi tay: gân guốc, đốm đồi mồi."
+       ]
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Tô Hiến Thành không được nhìn buồn hay tiếc nuối. Ông nhìn với biểu cảm của người đang xác nhận: công việc đã được làm xong. Sau đó ông xong. Ánh mắt bình thản, không kỳ vọng."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Có những người đã dành cả đời để dựng nên cơ nghiệp.\""
+      },
+      {
+       "k": "p",
+       "t": "Tô Hiến Thành nhìn lần cuối. Rồi quay lưng, bước vào điện — chậm, không do dự."
+      },
+      {
+       "k": "p",
+       "t": "Khi ông bước qua ngưỡng cửa: một viên quan trẻ đứng bên trong cúi đầu xoa thủ, khẽ gọi: \"Tô công.\" Không lớn — chỉ đủ nghe. Tô Hiến Thành không dừng lại, không quay đầu. Chỉ tiếp tục đi."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "Đây là lần duy nhất tên ông được nhắc đến trong tập. Không cần thêm. Khán giả không biết ông là ai vẫn hiểu: đây là người được kính trọng. Khán giả biết lịch sử sẽ nhận ra ngay."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Nhưng ta chưa bao giờ hiểu điều đó.\""
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Medium shot từ phía sau và bên trái Tô Hiến Thành — thấy lưng ông và kinh thành phía trước. Khi ông quay lưng: camera giữ nguyên, không theo — chỉ nhìn ông bước vào bóng tối của cửa điện. Shot cuối: cửa điện trống, ánh bình minh tiếp tục, không có ông."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Tô Hiến Thành trong bóng của cột điện — một nửa sáng, một nửa tối. Khi ông quay lưng bước vào: ông đi vào phần tối của cửa. Đây là metaphor hình ảnh cho sự kết thúc của một thế hệ."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "0:45: Nhã nhạc cung đình bắt đầu — rất nhỏ, như âm nhạc từ xa vọng lại. Một bản nhã nhạc hoàn chỉnh nhưng được mix ở volume thấp, như ký ức. Đây là âm nhạc của triều Lý trong thời hoàng kim."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng bước chân của Tô Hiến Thành trên nền đá: nặng nhưng đều. Khi ông vào cửa điện: tiếng bước chân dừng lại — bóng tối nuốt âm thanh. Chỉ còn tiếng gió nhẹ và nhã nhạc xa xa."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "45 giây. Scene này không cần nhiều hơn."
+      }
+     ],
+     "chips": [],
+     "set": "Hoang_cung_dien_cac"
+    },
+    {
+     "id": "S03",
+     "t": "LẦN ĐẦU LÊN NGÔI",
+     "time": "1:30–2:15",
+     "loc": "LOC-B · Điện Thiên An · Interior / Ngày — buổi lễ đăng quang",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Cao Tông còn rất nhỏ — bao nhiêu tuổi không quan trọng, chỉ cần thấy ông bé so với ngai vàng. Đây là khoảnh khắc thiết lập toàn bộ arc: một đứa trẻ nhỏ, một ngai vàng lớn, và chiếc mũ bình thiên hơi nghiêng. VO đầu tiên."
+      },
+      {
+       "k": "slug",
+       "t": "INTERIOR — ĐIỆN THIÊN AN — NGÀY"
+      },
+      {
+       "k": "arrow",
+       "t": "Điện Thiên An: rộng lớn đến mức không tưởng — cột cao, trần cao, nền đá rộng."
+      },
+      {
+       "k": "arrow",
+       "t": "Ngai vàng ở cuối điện: lớn, nặng, được chạm khắc tinh xảo — trông như thứ không thể di chuyển."
+      },
+      {
+       "k": "arrow",
+       "t": "Lý Cao Tông (7–8 tuổi) ngồi trên ngai. Long bào đỏ quá lớn so với người — ông gần như chìm trong đó."
+      },
+      {
+       "k": "arrow",
+       "t": "Mũ bình thiên trên đầu: hơi nghiêng sang phải một chút. Không ai điều chỉnh."
+      },
+      {
+       "k": "arrow",
+       "t": "Hai hàng quan lại quỳ rạp — những người lớn, những bộ đồ quan trọng, quỳ trước một đứa trẻ."
+      },
+      {
+       "k": "arrow",
+       "t": "Máy quay xoay quanh điện Thiên An — thấy sự lớn lao của không gian và sự nhỏ bé của cậu bé."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Cao Tông (cậu bé): không sợ hãi, không hào hứng — chỉ là không hiểu. Mắt nhìn quanh điện với ánh nhìn của đứa trẻ đang cố tìm hiểu xem tại sao tất cả mọi người lại quỳ xuống. Tay bóp nhẹ tay vịn ngai — không phải vì lo lắng, chỉ là bóp vì đó là thứ tay có thể bóp."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "QUAN TRỌNG: Chiếc mũ bình thiên nghiêng — chi tiết nhỏ này phải thấy rõ trong close-up. Đây là chi tiết symbolic đầu tiên của series. Không cần giải thích. Khán giả sẽ nhớ nó."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Khi ta lên ngôi...\""
+      },
+      {
+       "k": "p",
+       "t": "Camera dừng lại — close-up mặt cậu bé Cao Tông. Mắt nhìn thẳng về phía trước, không nhìn xuống các quan."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Đại Việt đã là một trong những quốc gia hùng mạnh nhất phương"
+      },
+      {
+       "k": "p",
+       "t": "Nam.\""
+      },
+      {
+       "k": "p",
+       "t": "Wide shot: toàn bộ điện — cậu bé nhỏ bé trên ngai, hai hàng quan lại dài tưởng không hết."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Và ta đã tưởng điều đó là hiển nhiên.\""
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Sequence ba shot: (1) Wide từ cuối điện — thấy toàn cảnh, cậu bé rất nhỏ; (2) Medium từ bên cạnh — thấy chiều cao của cột và sự nhỏ bé của người; (3) Close-up mặt — mũ bình thiên nghiêng, mắt không hiểu. Sau đó pull back ra wide lần nữa — kết thúc với hình ảnh nhỏ bé."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Ánh sáng điện Thiên An: cột sáng từ trên cao xuyên xuống — cùng pattern với EP03 LOC-E nhưng đây là phiên bản tráng lệ. Ánh sáng rơi xuống ngai vàng và cậu bé — highlight mũ bình thiên. Đây là ánh sáng uy quyền chưa bị nghi ngờ."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "1:30: Nhã nhạc đạt đỉnh — đây là lần duy nhất trong tập nhạc được nghe ở volume đầy đủ. Âm nhạc của đăng quang. Sau câu VO cuối: nhã nhạc bắt đầu fade rất từ từ — sẽ tiếp tục fade suốt Act II."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "45 giây."
+      }
+     ],
+     "chips": [
+      "lct"
+     ],
+     "set": "Dien_buoi_chau"
+    }
+   ]
+  },
+  {
+   "t": "ACT II — BURDEN",
+   "time": "2:15–7:00",
+   "intro": [
+    {
+     "k": "p",
+     "t": "Thời gian: 4 phút 45 giây — act dài nhất, trái tim của tập. Nhiều năm trôi qua trong Act II: từ đăng quang đến lúc Hồng Châu bùng cháy. Không phải một sự kiện — mà là tích lũy của rất nhiều sự kiện nhỏ, không có sự kiện nào đủ lớn để Cao Tông thấy nguy hiểm. Đây là cách triều đại thật sự sụp đổ."
+    }
+   ],
+   "scenes": [
+    {
+     "id": "S04",
+     "t": "MONTAGE — NHỮNG NĂM THÁI BÌNH",
+     "time": "2:15–3:30",
+     "loc": "LOC-C · Hành cung + rừng săn + hồ du ngoạn · Exterior / Nhiều mùa, nhiều năm",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Nhiều năm trong 75 giây. Không phải montage nhanh — đây là montage chậm, mỗi shot đủ dài để thấy thế giới đẹp như thế nào. Đây là cuộc sống của Cao Tông trưởng thành — và nó thực sự tốt đẹp. Đó là lý do ông không lo lắng."
+      },
+      {
+       "k": "slug",
+       "t": "EXTERIOR — HÀNH CUNG VÀ VÙNG PHỤ CẬN — NHIỀU NĂM"
+      },
+      {
+       "k": "arrow",
+       "t": "Hành cung mùa hè: đình tạ trên hồ, sen nở, âm nhạc vang lên từ xa."
+      },
+      {
+       "k": "arrow",
+       "t": "Rừng săn mùa thu: Cao Tông (giờ đã trưởng thành, khoảng 20 tuổi) cưỡi ngựa, cung tên, tiếng cười."
+      },
+      {
+       "k": "arrow",
+       "t": "Lễ hội Thăng Long: đèn hoa, người đông, Cao Tông ngồi xem từ lầu cao."
+      },
+      {
+       "k": "arrow",
+       "t": "Du ngoạn thuyền rồng: sông Nhị Hà buổi chiều, ánh vàng trên nước, nhạc cung đình."
+      },
+      {
+       "k": "arrow",
+       "t": "Tất cả đều đẹp. Tất cả đều thật. Cao Tông không giả vờ hạnh phúc — ông thực sự hạnh phúc."
+      },
+      {
+       "k": "arrow",
+       "t": "XEN KẼ — Hồng Châu (không có Cao Tông): một nhóm dân đang đắp đê bờ sông, một hào trưởng cưỡi ngựa kiểm tra công trình — không thấy mặt. 3 giây. Không có tên, không có chú thích."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "WARDROBE",
+       "t": "",
+       "list": [
+        "Cao Tông trưởng thành (20t): trong montage này ông trông khỏe mạnh, tươi tắn — đây là đỉnh cao của sức trẻ. Long bào đỏ nay vừa vặn. Mũ bình thiên đội thẳng — không còn nghiêng."
+       ]
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Thiên hạ vẫn yên bình.\""
+      },
+      {
+       "k": "p",
+       "t": "Shot đầu: một quan hầu dâng tập tấu chương dày — Cao Tông nhìn, gật đầu, rồi quay sang thị vệ nói nhỏ. Cắt ngay: cảnh hành cung mùa hè, tiếng đàn tranh từ xa. Tấu chương vẫn chưa được mở."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Vậy nên ta tin...\""
+      },
+      {
+       "k": "p",
+       "t": "Shot: rừng săn, Cao Tông cười lớn sau mũi tên trúng đích."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Mọi thứ sẽ luôn như thế.\""
+      },
+      {
+       "k": "p",
+       "t": "Shot cuối montage: Cao Tông trên thuyền rồng, tay kéo dài trên mặt nước, mắt nhắm, mặt hướng lên trời — người hoàn toàn không có lo âu."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Montage: mỗi shot 8–12 giây, không cắt nhanh. Camera luôn ở tầm vừa — không aerial, không close-up. Góc nhìn của người đứng bên cạnh quan sát. Ánh sáng luôn đẹp — golden hour, ánh nước, ánh đèn lễ hội. Đây là cách Cao Tông nhìn thế giới của mình."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Act II S04: ánh sáng đẹp nhất tập. Vàng, ấm, rõ nét. Đây là sự xa xỉ ánh sáng — được dùng để contrast với những gì sắp đến. Nhã nhạc trong montage: âm lượng vẫn còn, nhưng đã thấp hơn S03. Đang fade."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "2:15: Nhã nhạc đã xuống còn 60% volume. Trong montage này: nhạc đẹp, hoàn chỉnh — nhưng có cảm giác nhạc đang chơi ở phòng bên, không phải phòng ta đang đứng."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "75 giây. Chậm — đây là sự xa xỉ của người không có lo âu."
+      }
+     ],
+     "chips": [
+      "lct"
+     ],
+     "set": "Lang_ven_song_nui_da_voi"
+    },
+    {
+     "id": "S05",
+     "t": "TẤU CHƯƠNG CHẤT ĐỐNG",
+     "time": "3:30–4:15",
+     "loc": "LOC-B · Điện làm việc · Interior / Ngày",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Đại thần dâng sớ — Cao Tông không đọc. Không phải ông từ chối đọc, không phải ông nổi giận. Ông chỉ không đọc — như người không thấy lý do phải lo lắng. Điểm nhấn: khán giả thấy tấu chương nhưng không đọc được nội dung."
+      },
+      {
+       "k": "slug",
+       "t": "INTERIOR — ĐIỆN LÀM VIỆC — NGÀY"
+      },
+      {
+       "k": "arrow",
+       "t": "Căn phòng làm việc nhỏ hơn điện Thiên An — có bàn, có sách vở, có bản đồ."
+      },
+      {
+       "k": "arrow",
+       "t": "Nhưng trên bàn: tấu chương chất thành đống — nhiều tờ, nội dung không đọc được, chỉ thấy số lượng."
+      },
+      {
+       "k": "arrow",
+       "t": "Cao Tông ngồi nhưng không ở bàn làm việc — ông ngồi bên cửa sổ, nhìn ra sân."
+      },
+      {
+       "k": "arrow",
+       "t": "Một đại thần già bước vào, dâng thêm tấu chương. Đặt lên đống đã có sẵn."
+      },
+      {
+       "k": "arrow",
+       "t": "Đống tấu chương cao thêm một chút."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Cao Tông khi đại thần vào: ông quay lại, gật đầu lịch sự, rồi quay lại cửa sổ. Không phải coi thường — chỉ là ông thực sự đang nhìn thứ gì đó ở ngoài cửa sổ thú vị hơn. Đại thần: không phàn nàn, chỉ đặt tấu chương xuống và lui ra. Đây là thói quen, không phải phản kháng."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Người ta luôn nói về những nguy cơ.\""
+      },
+      {
+       "k": "p",
+       "t": "Góc nhìn từ bên ngoài cửa sổ — thấy Cao Tông trong phòng, đống tấu chương trên bàn, ông nhìn ra ngoài nhưng không nhìn thấy camera."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Nhưng nguy cơ nào đã từng chạm tới Thăng Long?\""
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Shot quan trọng nhất: từ bên ngoài cửa sổ nhìn vào — Cao Tông chiếm 1/3 khung hình bên phải (nhìn ra ngoài), đống tấu chương chiếm 1/3 bên trái (trên bàn). 1/3 còn lại ở giữa là khoảng trống giữa hai thứ đó. Không cần dialogue — hình ảnh nói hết."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Điện làm việc: ánh sáng ban ngày từ cửa sổ — sáng bên ngoài, hơi tối bên trong. Tấu chương trong vùng tối. Cao Tông trong ánh sáng cửa sổ. Composition này nhất quán với nhân vật: ánh sáng luôn ở phía ông nhìn ra, bóng tối ở phía những thứ ông không nhìn."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "3:30: Nhã nhạc xuống còn 40% volume. Âm nhạc đang biến mất dần."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng đặt tấu chương xuống bàn — tiếng giấy trên gỗ, nhẹ. Tiếng bước chân lui ra. Tiếng gió qua cửa sổ. Không có âm nhạc drama."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "45 giây."
+      }
+     ],
+     "chips": [
+      "lct"
+     ],
+     "set": "Dien_buoi_chau"
+    },
+    {
+     "id": "S06",
+     "t": "ĐOÀN THƯỢNG LẦN ĐẦU",
+     "time": "4:15–5:00",
+     "loc": "LOC-D · Hồng Châu — bờ sông · Exterior / Ngày",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Đoàn Thượng xuất hiện — không giới thiệu tên, không giới thiệu backstory. Chỉ là một hào trưởng giữa dân chúng Hồng Châu. Sức mạnh của cảnh này đến từ sự đối lập với S04: nếu S04 là thế giới của Cao Tông thì S06 là thế giới thật. Và hai thế giới đó không biết nhau tồn tại."
+      },
+      {
+       "k": "slug",
+       "t": "EXTERIOR — HỒNG CHÂU — BỜ SÔNG — NGÀY"
+      },
+      {
+       "k": "arrow",
+       "t": "Bờ sông Hồng Châu: đất phù sa, ngư dân kéo lưới, trẻ con trên bãi bồi."
+      },
+      {
+       "k": "arrow",
+       "t": "Màu sắc hoàn toàn khác Thăng Long: không có vàng son, không có mái ngói — chỉ có màu của đất và nước."
+      },
+      {
+       "k": "arrow",
+       "t": "Đoàn Thượng (40t) đứng giữa một nhóm dân chúng. Không ngai, không lính hầu, không phân biệt được với người dân xung quanh — ngoại trừ cách mọi người nhìn ông."
+      },
+      {
+       "k": "arrow",
+       "t": "Ông đang nghe một người nông dân nói chuyện. Ông gật đầu. Ông không phán xét, không ra lệnh — chỉ đang nghe."
+      },
+      {
+       "k": "arrow",
+       "t": "Không giới thiệu tên. Không cần."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "WARDROBE",
+       "t": "",
+       "list": [
+        "Đoàn Thượng: áo vải thô, màu lam sẫm — không khác mấy với người dân xung quanh. Đây là sự lựa chọn có chủ đích của nhân vật, không phải vì nghèo."
+       ]
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Đoàn Thượng trong cảnh này: ông không được trông như hero. Chỉ là người bình thường đang làm việc của mình — lắng nghe, hiểu, giải quyết. Đây là contrast với Cao Tông trong S05: một người nghe, một người không nghe."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "Đoàn Thượng sẽ không nói một từ nào trong EP01. Sự hiện diện của ông là đủ. Giọng ông chỉ vang lên trong post credit — và lúc đó nó sẽ nặng hơn vì khán giả đã xem ông hành động trước."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Wide shot bờ sông — Đoàn Thượng là một trong nhiều người trong khung, không đặc biệt hơn ai. Camera không di chuyển đến gần ngay — để 10 giây khán giả tự tìm ông trong đám đông. Sau đó zoom chậm vào medium shot — thấy ông đang lắng nghe người nông dân. Không bao giờ close-up."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Hồng Châu: ánh sáng ban ngày flat, không glamour. Đây là ánh sáng của công việc, không phải của nghệ thuật. Desaturated nhẹ — không nhiều như chiến trường EP03, nhưng rõ ràng kém ánh sáng Thăng Long."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "4:15: Nhã nhạc biến mất hoàn toàn. Thay bằng: tiếng sông, tiếng người, tiếng cuộc sống Hồng Châu. Đây là lần đầu tiên trong tập không có nhã nhạc — như chuyển sang một kênh âm thanh khác hoàn toàn."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng sông Hồng Châu: khác sông Nhị Hà trong S01 — to hơn, gần hơn, thực tế hơn. Tiếng lưới kéo, tiếng người gọi nhau, tiếng trẻ con. Đây là thế giới không im lặng vì uy quyền — nó im lặng khi cần thiết và ồn khi có lý do."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "45 giây."
+      }
+     ],
+     "chips": [
+      "lct",
+      "dt"
+     ],
+     "set": "Bo_song_be_tre"
+    },
+    {
+     "id": "S07",
+     "t": "BẢN ĐỒ ĐỐM LỬA",
+     "time": "5:00–5:45",
+     "loc": "LOC-B · Điện làm việc — đêm · Interior / Đêm",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Bản đồ Đại Việt — những đốm lửa xuất hiện từng cái một. Cảnh trực quan hóa điều mà Cao Tông không thấy: hệ thống đang sụp đổ từng mảnh, không phải một lúc. Đây là cảnh nhịp nhàng nhất tập — 7–8 đốm lửa, mỗi cái xuất hiện với một tiếng động nhỏ."
+      },
+      {
+       "k": "slug",
+       "t": "INTERIOR — ĐIỆN LÀM VIỆC — ĐÊM"
+      },
+      {
+       "k": "arrow",
+       "t": "Cùng điện làm việc của S05 nhưng ban đêm — đèn dầu, bóng tối dày hơn."
+      },
+      {
+       "k": "arrow",
+       "t": "Bản đồ Đại Việt trải trên bàn — tờ giấy lớn, vẽ tay, chi tiết."
+      },
+      {
+       "k": "arrow",
+       "t": "Không có Cao Tông trong cảnh này — chỉ có bản đồ và camera."
+      },
+      {
+       "k": "arrow",
+       "t": "Từng đốm đỏ xuất hiện trên bản đồ, từng cái một — mỗi cái ở một vùng khác nhau."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "Không có nhân vật trong S07. Chỉ có bản đồ và đốm lửa. Đây là cảnh duy nhất trong EP01 không có con người — vì đây là thứ tồn tại độc lập với ý thức của Cao Tông."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Có những nguy cơ nho nhỏ xuất hiện.\""
+      },
+      {
+       "k": "p",
+       "t": "Đốm đỏ đầu tiên xuất hiện — vùng Bắc. Tiếng âm nhạc nhỏ."
+      },
+      {
+       "k": "p",
+       "t": "Đốm thứ hai — vùng Đông. Rồi thứ ba — vùng Nam. Thứ tư, thứ năm..."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Từng cái. Từng cái một.\""
+      },
+      {
+       "k": "p",
+       "t": "Đốm thứ sáu, thứ bảy. Bản đồ bắt đầu đỏ lác đác. Cuối cùng: đốm thứ tám — ở Hồng Châu, lớn hơn các đốm kia."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Top-down shot — camera nhìn thẳng xuống bản đồ. Không di chuyển. Chỉ nhìn. Mỗi đốm lửa xuất hiện: không có hiệu ứng rực rỡ — chỉ là một điểm đỏ nhỏ, như ai đó đặt một hạt ớt xuống. Hồng Châu: đốm đỏ to hơn và sáng hơn một chút."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Đèn dầu chiếu lên bản đồ từ bên cạnh — tạo shadow nhẹ của những nếp gấp giấy. Mỗi đốm đỏ tự phát sáng nhẹ — không phải lửa thật, chỉ là một điểm sáng nhỏ. Không dramatic, không hoành tráng. Chỉ là những điểm sáng trên giấy."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Mỗi đốm xuất hiện: một tiếng rất khẽ — như tiếng bấc đèn dầu bén lửa. 0.3 giây, không vang. Khoảng cách giữa mỗi tiếng: 4 giây. 7 tiếng tổng cộng. Đốm Hồng Châu: tiếng to hơn một chút — không phải bùng nổ, chỉ là rõ ràng hơn."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "5:00: Nhã nhạc cung đình đã hoàn toàn biến mất. Thay bằng: silence và tiếng đốm lửa nhỏ. Đây là khoảnh khắc transition âm nhạc quan trọng nhất tập."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "45 giây. Nhịp đều — mỗi đốm xuất hiện cách nhau 4 giây."
+      }
+     ],
+     "chips": [
+      "lct"
+     ],
+     "set": "Dien_buoi_chau"
+    },
+    {
+     "id": "S08",
+     "t": "SIGNATURE MOMENT — PHÁO HOA",
+     "time": "5:45–7:00",
+     "loc": "LOC-A · Hồ trong cung — đêm · Exterior / Đêm pháo hoa",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "SIGNATURE CINEMATIC MOMENT. Cao Tông đứng một mình bên hồ, pháo hoa phản chiếu trên nước, mũ bình thiên trên đầu. Đây là khoảnh khắc phải được nhớ mãi — không phải vì nó bi thảm mà vì nó đẹp. Và trong khoảnh khắc đẹp nhất đó: điểm đỏ Hồng Châu xuất hiện trên bản đồ phía sau."
+      },
+      {
+       "k": "center",
+       "t": "─ SIGNATURE CINEMATIC MOMENT ─"
+      },
+      {
+       "k": "head",
+       "t": "Đây là cảnh phải được nhớ mãi. Không phải vì bi kịch — mà vì vẻ đẹp của nó."
+      },
+      {
+       "k": "slug",
+       "t": "EXTERIOR — HỒ TRONG CUNG — ĐÊM"
+      },
+      {
+       "k": "arrow",
+       "t": "Hồ trong cung: mặt nước tối, cây cảnh xung quanh, không có ai khác ngoài Cao Tông."
+      },
+      {
+       "k": "arrow",
+       "t": "Pháo hoa rực sáng trên hồ — phản chiếu trên mặt nước nhân đôi ánh sáng."
+      },
+      {
+       "k": "arrow",
+       "t": "Cao Tông đứng một mình bên bờ hồ. Mặc áo ngoài đơn giản — đây là ông không có ai nhìn."
+      },
+      {
+       "k": "arrow",
+       "t": "Mũ bình thiên trên đầu — ông không bỏ mũ ngay cả khi một mình."
+      },
+      {
+       "k": "arrow",
+       "t": "Gương mặt ông phản chiếu ánh pháo hoa — thay đổi màu sắc liên tục: đỏ, vàng, xanh, trắng."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Cao Tông bên hồ: đây là khoảnh khắc thật nhất của ông trong tập — không có triều đình, không có nghi lễ. Ông nhìn pháo hoa với vẻ genuinely thích thú. Không phải thú vui giả tạo — ông thực sự yêu thích điều này. Đây là điều khiến cảnh này bi thảm: ông không phải người xấu, ông chỉ không ở đúng chỗ."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Ta đã nghĩ...\""
+      },
+      {
+       "k": "p",
+       "t": "Pháo hoa bùng lên — ánh sáng rực rỡ nhất tập."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Một triều đại tồn tại gần hai trăm năm...\""
+      },
+      {
+       "k": "p",
+       "t": "Camera kéo lên cao chậm — thấy Cao Tông nhỏ dần bên hồ, kinh thành rực"
+      },
+      {
+       "k": "p",
+       "t": "sáng xung quanh."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Thì sẽ còn tồn tại thêm hai trăm năm nữa.\""
+      },
+      {
+       "k": "p",
+       "t": "Camera tiếp tục kéo lên. Thấy Thăng Long từ trên cao — đẹp, rực rỡ,"
+      },
+      {
+       "k": "p",
+       "t": "bình yên."
+      },
+      {
+       "k": "p",
+       "t": "Sau đó: camera pan nhẹ sang Đông Nam. Và ở rìa khung hình, rất nhỏ, rất xa — một điểm đỏ trong màn đêm."
+      },
+      {
+       "k": "p",
+       "t": "Đó là Hồng Châu."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "HỒNG CHÂU xuất hiện như một chữ nhỏ trên góc màn hình — không phải graphic lớn, chỉ là tên địa danh nhỏ, như trên bản đồ."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Sequence: (1) Medium shot Cao Tông từ phía sau — thấy lưng ông và pháo hoa trước mặt; (2) Close-up mặt từ bên cạnh — ánh pháo hoa phản chiếu, gương mặt thay đổi màu sắc; (3) Crane shot kéo thẳng lên — Cao Tông nhỏ dần, kinh thành hiện ra, cuối cùng điểm đỏ Hồng Châu ở rìa. Ba shot này là một movement liên tục, không cắt."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Đây là cảnh ánh sáng phức tạp nhất tập: pháo hoa thật + phản chiếu trên hồ = hai nguồn sáng, cả hai đều di động, cả hai đều thay đổi màu. Gương mặt Cao Tông: không có lighting setup cố định — ông được chiếu bởi pháo hoa, tức là ánh sáng không bao giờ giữ nguyên một màu. Đây là khoảnh khắc duy nhất trong series mà ánh sáng trên mặt nhân vật hoàn toàn nằm ngoài kiểm soát."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "5:45: Lần đầu tiên trong tập — không phải nhã nhạc, không phải silence. Một nốt đàn bầu đơn độc, dài, không vibrato. Cao hơn khi pháo hoa ở đỉnh, thấp xuống khi điểm đỏ Hồng Châu xuất hiện. Đây là leitmotif của EP01 — sẽ quay lại ở S10."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Pháo hoa: âm thanh thật nhưng được mix xa hơn thực tế — như nghe từ phía bên kia kinh thành. Tiếng nước hồ phản chiếu pháo hoa: tiếng gợn sóng nhỏ. Khi điểm đỏ xuất hiện: silence hoàn toàn 3 giây — pháo hoa dừng đột ngột (hoặc chỉ là camera không nghe thấy nữa)."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "75 giây. Đây là scene dài nhất tập — cần không gian để thở."
+      }
+     ],
+     "chips": [
+      "lct"
+     ],
+     "set": "Hoang_cung_dien_cac"
+    }
+   ]
+  },
+  {
+   "t": "ACT III — LEGACY",
+   "time": "7:00–9:30",
+   "intro": [
+    {
+     "k": "p",
+     "t": "Thời gian: 2 phút 30 giây. Không phải act hành động — đây là act của sự nhận thức muộn. Cao Tông nhìn bản đồ lần đầu thực sự nhìn, và im lặng. VO cuối cùng là câu buồn nhất tập vì nó không phán xét ai — không phán xét Cao Tông, không phán xét Đoàn Thượng, không phán xét số phận. Chỉ là sự thật được nói ra quá muộn."
+    }
+   ],
+   "scenes": [
+    {
+     "id": "S09",
+     "t": "TIN CẤP BÁO",
+     "time": "7:00–7:45",
+     "loc": "LOC-B · Điện Kim Tinh · Interior / Ngày",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Hồng Châu tự quản — đại thần hoảng hốt vào báo. Cảnh ngắn, nhịp nhanh nhất tập. Contrast với nhịp chậm của toàn bộ Act II."
+      },
+      {
+       "k": "slug",
+       "t": "INTERIOR — ĐIỆN KIM TINH — NGÀY"
+      },
+      {
+       "k": "arrow",
+       "t": "Điện Kim Tinh: quan lại đông đủ — một buổi thiết triều thường lệ đang diễn ra."
+      },
+      {
+       "k": "arrow",
+       "t": "FLASH CUT trước khi đại thần vào — 2 giây: ngoài cổng thành, một sứ giả bụi đất phủ đầu ngã khỏi ngựa. Bụi đường trắng trên áo đen. Một lá thư nhỏ trong tay — 4 chữ “Hồng Châu xưng vương”. Cắt ngay vào trong điện."
+      },
+      {
+       "k": "arrow",
+       "t": "Một đại thần chạy vào — không bình thường, không có ai chạy trong điện."
+      },
+      {
+       "k": "arrow",
+       "t": "Ông ta quỳ xuống, tay run, mặt trắng bệch."
+      },
+      {
+       "k": "arrow",
+       "t": "Cao Tông ngồi trên ngai — lần đầu tiên trong tập ông ngồi ngai vàng với tư cách vua thật sự, không phải cậu bé."
+      },
+      {
+       "k": "dlg",
+       "who": "ĐẠI THẦN",
+       "lines": [
+        [
+         "p",
+         "(hơi thở đứt quãng — đã chạy, đã sợ)"
+        ],
+        [
+         "d",
+         "Bệ hạ... Hồng Châu đã không còn chờ mệnh lệnh từ triều đình...Đoàn Thượng và các hào trưởng địa phương đã tự xưng vương, tự tổ chức quân dân...Thần e rằng nếu không xử lý, mầm loạn sẽ lan ra khắp nơi."
+        ],
+        [
+         "d",
+         "Triều đình xáo động. Tiếng xì xào."
+        ],
+        [
+         "d",
+         "Cao Tông nhìn đại thần. Không nổi giận. Không ra lệnh ngay. Chỉ nhìn."
+        ],
+        [
+         "d",
+         "Và trong khoảnh khắc đó: lần đầu tiên trong tập, gương mặt ông hiện ra một điều gì đó chưa từng thấy trước đây."
+        ]
+       ]
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Khoảnh khắc Cao Tông nhận tin: không phải sợ hãi, không phải tức giận — mà là không hiểu. Ông nhìn đại thần với biểu cảm của người không thể kết nối thông tin vừa nhận được với thế giới ông biết. Đây là khoảnh khắc nhận thức đầu tiên — và nó quá muộn."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Cut nhanh: đại thần chạy vào → quỳ xuống → mặt Cao Tông → triều đình xáo động → lại mặt Cao Tông. Nhịp nhanh nhất tập. Kết thúc bằng close-up mặt Cao Tông — giữ 3 giây im lặng."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "7:00: Nốt đàn bầu từ S08 quay lại — lần này thấp hơn, nặng hơn."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng xì xào triều đình khi tin được loan ra. Sau đó: silence khi Cao Tông không phản ứng. Sự im lặng của ông làm cả triều đình im theo."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "45 giây."
+      }
+     ],
+     "chips": [
+      "lct",
+      "dt"
+     ],
+     "set": "Dien_buoi_chau"
+    },
+    {
+     "id": "S10",
+     "t": "NHÌN BẢN ĐỒ LẦN CUỐI",
+     "time": "7:45–8:45",
+     "loc": "LOC-B · Điện làm việc · Interior / Ngày",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Cao Tông đứng trước bản đồ — một mình, lần đầu tiên thực sự nhìn. Không nổi giận, không ra lệnh, không khóc. Chỉ nhìn. VO cuối của tập. Đây là khoảnh khắc câu mở đầu series được trả lời."
+      },
+      {
+       "k": "slug",
+       "t": "INTERIOR — ĐIỆN LÀM VIỆC — NGÀY"
+      },
+      {
+       "k": "arrow",
+       "t": "Điện làm việc — cùng nơi của S05 và S07. Nhưng bây giờ: tấu chương đã bị dọn dẹp, chỉ còn bản đồ."
+      },
+      {
+       "k": "arrow",
+       "t": "Bản đồ Đại Việt trải trên bàn — những đốm đỏ từ S07 vẫn ở đó, và thêm Hồng Châu sáng hơn."
+      },
+      {
+       "k": "arrow",
+       "t": "Cao Tông đứng trước bàn, nhìn xuống bản đồ. Một mình. Không có quan lại."
+      },
+      {
+       "k": "arrow",
+       "t": "Ông không mặc long bào — chỉ áo trong, như người vừa bỏ lớp vỏ ngoài xuống."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "Cao Tông không mặc long bào trong S10 — đây là lần đầu và duy nhất trong tập. Chi tiết nhỏ nhưng quan trọng: ông đang ở một mình với sự thật, không có lớp bảo vệ của nghi lễ."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Cao Tông nhìn bản đồ: không nói gì, không di chuyển trong 10 giây đầu. Sau đó một ngón tay chạm vào điểm Hồng Châu — nhẹ, như người đang đọc chữ nổi. Ông không rút tay lại. Giữ nguyên."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Hoá ra"
+      },
+      {
+       "k": "p",
+       "t": "Ngón tay Cao Tông trên điểm Hồng Châu."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Điều khó nhất không phải dựng nên một triều đại.\""
+      },
+      {
+       "k": "p",
+       "t": "Ông nhìn lên — không nhìn vào ai, nhìn vào khoảng không."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Mà là giữ cho nó tiếp tục tồn tại.\""
+      },
+      {
+       "k": "p",
+       "t": "Cao Tông nhìn lại bản đồ. Ngón tay vẫn đặt trên Hồng Châu."
+      },
+      {
+       "k": "p",
+       "t": "Camera từ từ pull back — ông ngày càng nhỏ dần trước bản đồ lớn."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Bắt đầu: medium shot Cao Tông và bản đồ. Khi VO bắt đầu: camera pull back rất chậm. Đến câu VO cuối: Cao Tông chỉ còn là một bóng người nhỏ trước tờ giấy lớn. Không cắt — một shot liên tục từ medium đến wide."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Ánh sáng ban ngày từ cửa sổ — flat, không có gì đặc biệt. Đây là ánh sáng của sự thật không được tô điểm. Bóng Cao Tông đổ xuống bản đồ — bóng ông che một phần bản đồ. Irony của ánh sáng: ông đứng đây và vẫn che khuất bản đồ."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "7:45: Nốt đàn bầu — lần này không phải một nốt mà là một chuỗi ngắn, 5 nốt, xuống dần. Đây là leitmotif đầy đủ của EP01. Khi VO kết thúc: nhạc dừng. Silence."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "60 giây. Không được vội — đây là khoảnh khắc khán giả cần để ở lại cùng Cao Tông."
+      }
+     ],
+     "chips": [
+      "lct"
+     ],
+     "set": "Dien_buoi_chau"
+    },
+    {
+     "id": "S11",
+     "t": "FINAL IMAGE",
+     "time": "8:45–9:10",
+     "loc": "LOC-D · Hồng Châu từ xa · Exterior / Đêm",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Bản đồ Đại Việt. Đốm lửa Hồng Châu bùng lên. Fade to black. Đây là khoảnh khắc chuyển sang hook — giọng Đoàn Thượng lần đầu tiên."
+      },
+      {
+       "k": "center",
+       "t": "─ FINAL IMAGE ─"
+      },
+      {
+       "k": "arrow",
+       "t": "Hồng Châu nhìn từ xa — bình nguyên đêm, tối."
+      },
+      {
+       "k": "arrow",
+       "t": "Hàng trăm đốm đèn chài trên sông."
+      },
+      {
+       "k": "arrow",
+       "t": "Một đốm sáng lớn hơn ở bến trung tâm."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Wide shot Hồng Châu từ xa — đêm tối. Camera tĩnh hoàn toàn. Ngọn lửa xuất hiện ở trung tâm khung hình, không phải ở rìa như S08. Đây là lần đầu tiên Hồng Châu ở trung tâm."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Silence hoàn toàn. Không có nhạc. Chỉ có ngọn lửa."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng gió đêm trên bình nguyên. Khi ngọn lửa xuất hiện: một tiếng — không phải tiếng cháy, mà là tiếng gió thay đổi hướng. Rất nhỏ."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "25 giây. Fade to black khi ngọn lửa đạt đến kích thước lớn nhất."
+      },
+      {
+       "k": "dlg",
+       "who": "FADE TO BLACK.",
+       "lines": []
+      }
+     ],
+     "chips": [
+      "dt"
+     ],
+     "set": "Bo_de"
+    }
+   ]
+  },
+  {
+   "t": "POST CREDIT",
+   "time": "9:10–9:20",
+   "intro": [
+    {
+     "k": "center",
+     "t": "─ POST CREDIT ─"
+    },
+    {
+     "k": "lab",
+     "c": "note",
+     "l": "SEQ",
+     "t": "Đoàn Thượng nói lần đầu tiên trong series — hook sang EP02. Quay cùng ngày với S06 và S11 (LOC-D)."
+    },
+    {
+     "k": "lab",
+     "c": "loc",
+     "l": "LOC",
+     "t": "LOC-D · Hồng Châu — đêm, ánh lửa · Exterior / Đêm"
+    },
+    {
+     "k": "slug",
+     "t": "EXTERIOR — HỒNG CHÂU — ĐÊM, ÁNH LỬA"
+    },
+    {
+     "k": "arrow",
+     "t": "Đoàn Thượng đứng nhìn về phía Thăng Long. Ánh đuốc từ phía sau chiếu lên."
+    },
+    {
+     "k": "arrow",
+     "t": "Không thấy rõ mặt — chỉ thấy bóng và ánh sáng từ sau."
+    },
+    {
+     "k": "arrow",
+     "t": "Giọng ông vang lên. Không có ai nghe — chỉ có khán giả."
+    },
+    {
+     "k": "dlg",
+     "who": "ĐOÀN THƯỢNG",
+     "lines": [
+      [
+       "p",
+       "(bằng phẳng, không tức giận — đây là sự thật, không phải tuyên ngôn)"
+      ],
+      [
+       "d",
+       "Nước sông dâng lên sẽ không chờ chiếu chỉ từ kinh thành."
+      ]
+     ]
+    },
+    {
+     "k": "lab",
+     "c": "sound",
+     "l": "SOUND",
+     "t": "Không có âm thanh khác. Chỉ tiếng gió và giọng Đoàn Thượng. Sau khi ông nói xong: im lặng 3 giây. Tiếng lửa xa xa."
+    },
+    {
+     "k": "lab",
+     "c": "music",
+     "l": "MUSIC",
+     "t": "Không có nhạc. Câu nói của Đoàn Thượng phải vang trong đầu khán giả không có gì lấn át."
+    },
+    {
+     "k": "lab",
+     "c": "note",
+     "l": "TIMING",
+     "t": "10 giây. CUT TO BLACK."
+    },
+    {
+     "k": "dlg",
+     "who": "CUT TO BLACK.",
+     "lines": []
+    }
+   ],
+   "scenes": []
+  }
+ ],
+ "back": [
+  {
+   "k": "head",
+   "t": "PRODUCTION NOTES — NHỮNG ĐIỂM CẦN GIỮ"
+  },
+  {
+   "k": "head",
+   "t": "1. Nhã nhạc fade xuyên suốt tập — không dừng đột ngột"
+  },
+  {
+   "k": "p",
+   "t": "Nhã nhạc bắt đầu ở S03 ở volume đầy đủ và fade liên tục, không dừng hẳn cho đến S06 khi nó hoàn toàn biến mất. Đây là ngôn ngữ âm nhạc chính của EP01: không phải nhạc 'vui' rồi 'buồn' — mà là nhạc dần tắt đi như ánh sáng hoàng hôn. Không ai để ý cho đến khi nó đã biến mất."
+  },
+  {
+   "k": "p",
+   "t": "2. Cao Tông không phải villain — không được phán xét trong bất kỳ cảnh"
+  },
+  {
+   "k": "head",
+   "t": "nào"
+  },
+  {
+   "k": "p",
+   "t": "Không có cảnh nào trong EP01 đặt camera theo góc nhìn phán xét Cao Tông. Ông không bị đặt thấp hơn trong khung hình, không có ánh sáng đổ từ dưới lên mặt, không có âm nhạc cảnh báo khi ông xuất hiện. Ông được nhìn như người nhìn chính mình — bình thường, ấm áp, không nguy hiểm. Tất cả sự phán xét đến từ sự đối lập với những gì khán giả thấy bên ngoài tường"
+  },
+  {
+   "k": "p",
+   "t": "thành."
+  },
+  {
+   "k": "head",
+   "t": "3. Mũ bình thiên — chi tiết nhất quán xuyên series"
+  },
+  {
+   "k": "p",
+   "t": "Xuất hiện 2 lần trong EP01: S03 (nghiêng — cậu bé chưa vừa ngai) và S08 (thẳng — người đã quen với quyền lực). Prop này phải là cùng một chiếc mũ trong tất cả 5 tập. Trong EP02, EP03, EP04, EP05 nó sẽ xuất hiện với ngữ cảnh khác nhau — luôn là cùng một chiếc mũ, không thay thế."
+  },
+  {
+   "k": "head",
+   "t": "4. LOC-D (Hồng Châu) là thế giới Cao Tông không bao giờ đến"
+  },
+  {
+   "k": "p",
+   "t": "Trong toàn bộ EP01, Cao Tông không xuất hiện trong LOC-D. Hai thế giới (Thăng Long và Hồng Châu) không bao giờ chiếm cùng một khung hình. Đây là ngôn ngữ hình ảnh cốt lõi: chúng không đối đầu, chúng song song tồn tại mà không biết nhau."
+  },
+  {
+   "k": "head",
+   "t": "5. Đoàn Thượng không nói trong phần chính — chỉ nói trong post credit"
+  },
+  {
+   "k": "p",
+   "t": "Ông xuất hiện ở S06 nhưng không có thoại. Giọng ông chỉ vang lên sau khi fade to black — khi khán giả đã xem xong câu chuyện của Cao Tông. Sự sắp xếp này có nghĩa: Đoàn Thượng không phải reaction của Cao Tông, ông là một câu chuyện độc lập đang song song diễn ra."
+  },
+  {
+   "k": "hr"
+  },
+  {
+   "k": "center",
+   "t": "— HẾT SCRIPT EP01 —"
+  },
+  {
+   "k": "center",
+   "t": "TIẾP THEO: EP02 — ĐOÀN THƯỢNG / THE FRONTIER KING"
+  }
+ ],
+ "cast": [
+  "lct",
+  "dt"
+ ],
+ "rev": 1
+}

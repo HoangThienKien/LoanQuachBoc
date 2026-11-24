@@ -1,0 +1,340 @@
+{
+ "title": "LOẠN QUÁCH BỐC",
+ "tagline": "Lý — Trần, 1207–1216. Arc I: Năm chân dung trước cơn bão · Arc II: Sau cơn bão.",
+ "footer": "Nguồn: Full script PDF v3 (EP01–EP05, Special Event, EP07–EP08). Bấm ✎ Sửa để chỉnh, Lưu để ghi lên GitHub.",
+ "github": {
+  "repo": "HoangThienKien/LoanQuachBoc",
+  "branch": "main",
+  "base": ""
+ },
+ "cover": "images/cover.jpg",
+ "episodes": [
+  {
+   "id": "ep01",
+   "file": "data/episodes/ep01.json"
+  },
+  {
+   "id": "ep02",
+   "file": "data/episodes/ep02.json"
+  },
+  {
+   "id": "ep03",
+   "file": "data/episodes/ep03.json"
+  },
+  {
+   "id": "ep04",
+   "file": "data/episodes/ep04.json"
+  },
+  {
+   "id": "ep05",
+   "file": "data/episodes/ep05.json"
+  },
+  {
+   "id": "se",
+   "file": "data/episodes/se.json"
+  },
+  {
+   "id": "ep07",
+   "file": "data/episodes/ep07.json"
+  },
+  {
+   "id": "ep08",
+   "file": "data/episodes/ep08.json"
+  }
+ ],
+ "characters": [
+  {
+   "id": "lct",
+   "n": "Lý Cao Tông",
+   "r": "Hoàng đế nhà Lý · EP01",
+   "imgs": [
+    "images/characters/lct1.jpg",
+    "images/characters/lct2.jpg"
+   ],
+   "thumb": "images/characters/thumb/lct.jpg",
+   "kw": [
+    "Cao Tông"
+   ]
+  },
+  {
+   "id": "dt",
+   "n": "Đoàn Thượng",
+   "r": "Hào trưởng Hồng Châu · EP02, EP07",
+   "imgs": [
+    "images/characters/dt.jpg"
+   ],
+   "thumb": "images/characters/thumb/dt.jpg",
+   "kw": [
+    "Đoàn Thượng"
+   ]
+  },
+  {
+   "id": "pbd",
+   "n": "Phạm Bỉnh Di",
+   "r": "Tướng trấn giữ · EP03",
+   "imgs": [
+    "images/characters/pbd.jpg"
+   ],
+   "thumb": "images/characters/thumb/pbd.jpg",
+   "kw": [
+    "Bỉnh Di"
+   ]
+  },
+  {
+   "id": "pd",
+   "n": "Phạm Du",
+   "r": "EP04",
+   "imgs": [
+    "images/characters/pd.jpg"
+   ],
+   "thumb": "images/characters/thumb/pd.jpg",
+   "kw": [
+    "Phạm Du"
+   ]
+  },
+  {
+   "id": "qb",
+   "n": "Quách Bốc",
+   "r": "Gia tướng họ Phạm · EP05",
+   "imgs": [
+    "images/characters/qb1.jpg",
+    "images/characters/qb2.jpg"
+   ],
+   "thumb": "images/characters/thumb/qb.jpg",
+   "kw": [
+    "Quách Bốc"
+   ]
+  },
+  {
+   "id": "lht",
+   "n": "Lý Huệ Tông",
+   "r": "Thái tử Lý Sảm · EP08",
+   "imgs": [
+    "images/characters/lht.jpg"
+   ],
+   "thumb": "images/characters/thumb/lht.jpg",
+   "kw": [
+    "Huệ Tông",
+    "Lý Sảm",
+    "Thái tử Sảm"
+   ]
+  },
+  {
+   "id": "tran",
+   "n": "Họ Trần",
+   "r": "Trần Lý · Tự Khánh · Thủ Độ · Nhị Nương…",
+   "imgs": [
+    "images/characters/tran.jpg"
+   ],
+   "thumb": "images/characters/thumb/tran.jpg",
+   "kw": [
+    "Trần Lý",
+    "Tự Khánh",
+    "Thủ Độ",
+    "Nhị Nương",
+    "họ Trần"
+   ]
+  },
+  {
+   "id": "linh",
+   "n": "Quân lính triều Lý",
+   "r": "Bộ binh",
+   "imgs": [
+    "images/characters/linh.jpg"
+   ],
+   "thumb": "images/characters/thumb/linh.jpg",
+   "kw": [
+    "cấm quân",
+    "quân lính",
+    "lính"
+   ]
+  },
+  {
+   "id": "kybinh",
+   "n": "Kỵ binh triều Lý",
+   "r": "Kỵ binh",
+   "imgs": [
+    "images/characters/kybinh.jpg"
+   ],
+   "thumb": "images/characters/thumb/kybinh.jpg",
+   "kw": [
+    "kỵ binh",
+    "kị binh"
+   ]
+  }
+ ],
+ "props": [
+  {
+   "n": "Kiếm thời Lý — Trần",
+   "r": "Đạo cụ",
+   "file": "images/props/kiem.jpg"
+  }
+ ],
+ "sets": [
+  {
+   "g": "Kinh thành & cung điện",
+   "items": [
+    {
+     "k": "Thang_Long_kinh_thanh",
+     "cap": "Thăng Long — kinh thành",
+     "file": "images/sets/Thang_Long_kinh_thanh.jpg"
+    },
+    {
+     "k": "Hoang_cung_dien_cac",
+     "cap": "Hoàng cung — điện các",
+     "file": "images/sets/Hoang_cung_dien_cac.jpg"
+    },
+    {
+     "k": "Dien_buoi_chau",
+     "cap": "Điện — buổi chầu",
+     "file": "images/sets/Dien_buoi_chau.jpg"
+    }
+   ]
+  },
+  {
+   "g": "Làng xóm",
+   "items": [
+    {
+     "k": "Duong_lang",
+     "cap": "Đường làng",
+     "file": "images/sets/Duong_lang.jpg"
+    },
+    {
+     "k": "Duong_lang_nha_tranh",
+     "cap": "Đường làng — nhà tranh",
+     "file": "images/sets/Duong_lang_nha_tranh.jpg"
+    },
+    {
+     "k": "Lang_chan_nui",
+     "cap": "Làng chân núi",
+     "file": "images/sets/Lang_chan_nui.jpg"
+    },
+    {
+     "k": "Nha_tranh",
+     "cap": "Nhà tranh",
+     "file": "images/sets/Nha_tranh.jpg"
+    },
+    {
+     "k": "Quan_nha_tranh",
+     "cap": "Quán nhà tranh",
+     "file": "images/sets/Quan_nha_tranh.jpg"
+    },
+    {
+     "k": "Pho_cho",
+     "cap": "Phố chợ",
+     "file": "images/sets/Pho_cho.jpg"
+    },
+    {
+     "k": "Cho_lang",
+     "cap": "Chợ làng",
+     "file": "images/sets/Cho_lang.jpg"
+    },
+    {
+     "k": "San_phoi_choi_canh",
+     "cap": "Sân phơi — chòi canh",
+     "file": "images/sets/San_phoi_choi_canh.jpg"
+    },
+    {
+     "k": "Duong_de_vao_lang",
+     "cap": "Đường đê vào làng",
+     "file": "images/sets/Duong_de_vao_lang.jpg"
+    }
+   ]
+  },
+  {
+   "g": "Đê & sông nước",
+   "items": [
+    {
+     "k": "Bo_de",
+     "cap": "Bờ đê",
+     "file": "images/sets/Bo_de.jpg"
+    },
+    {
+     "k": "Bo_song_be_tre",
+     "cap": "Bờ sông — bè tre",
+     "file": "images/sets/Bo_song_be_tre.jpg"
+    },
+    {
+     "k": "Ben_song_cau_tre",
+     "cap": "Bến sông — cầu tre",
+     "file": "images/sets/Ben_song_cau_tre.jpg"
+    },
+    {
+     "k": "Ben_thuyen_bo_bien",
+     "cap": "Bến thuyền — bờ biển",
+     "file": "images/sets/Ben_thuyen_bo_bien.jpg"
+    },
+    {
+     "k": "Lang_ven_song_nui_da_voi",
+     "cap": "Làng ven sông — núi đá vôi",
+     "file": "images/sets/Lang_ven_song_nui_da_voi.jpg"
+    },
+    {
+     "k": "Cau_co_mai",
+     "cap": "Cầu có mái",
+     "file": "images/sets/Cau_co_mai.jpg"
+    }
+   ]
+  },
+  {
+   "g": "Đồng ruộng & đường",
+   "items": [
+    {
+     "k": "Dong_ruong_cay_bua",
+     "cap": "Đồng ruộng — cày bừa",
+     "file": "images/sets/Dong_ruong_cay_bua.jpg"
+    },
+    {
+     "k": "Dong_lua",
+     "cap": "Đồng lúa",
+     "file": "images/sets/Dong_lua.jpg"
+    },
+    {
+     "k": "Xom_tren_binh_nguyen",
+     "cap": "Xóm trên bình nguyên",
+     "file": "images/sets/Xom_tren_binh_nguyen.jpg"
+    },
+    {
+     "k": "Duong_doi",
+     "cap": "Đường đồi",
+     "file": "images/sets/Duong_doi.jpg"
+    },
+    {
+     "k": "Duong_nui_cong_ai",
+     "cap": "Đường núi — cổng ải",
+     "file": "images/sets/Duong_nui_cong_ai.jpg"
+    }
+   ]
+  },
+  {
+   "g": "Quân sự & chiến trận",
+   "items": [
+    {
+     "k": "Doanh_trai_rao_go",
+     "cap": "Doanh trại — rào gỗ",
+     "file": "images/sets/Doanh_trai_rao_go.jpg"
+    },
+    {
+     "k": "Choi_canh",
+     "cap": "Chòi canh",
+     "file": "images/sets/Choi_canh.jpg"
+    },
+    {
+     "k": "Dap_luy",
+     "cap": "Đắp lũy",
+     "file": "images/sets/Dap_luy.jpg"
+    },
+    {
+     "k": "Dung_trai",
+     "cap": "Dựng trại",
+     "file": "images/sets/Dung_trai.jpg"
+    },
+    {
+     "k": "Chien_truong_voi_chien",
+     "cap": "Chiến trường — voi chiến",
+     "file": "images/sets/Chien_truong_voi_chien.jpg"
+    }
+   ]
+  }
+ ]
+}

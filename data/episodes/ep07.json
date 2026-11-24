@@ -1,0 +1,1688 @@
+{
+ "id": "ep07",
+ "code": "EP07",
+ "title": "Đoàn Thượng",
+ "sub": "The Unaligned",
+ "arc": "Arc II",
+ "meta": "9:30 · 8 scenes · 4 locations",
+ "front": [
+  {
+   "k": "head",
+   "t": "SCENE INDEX — EP07 V2"
+  },
+  {
+   "k": "p",
+   "t": "Runtime khóa: 9 phút 30 giây. Scene Index và timing chi tiết khớp tuyệt đối — không còn discrepancy 30 giây như bản trước."
+  },
+  {
+   "k": "p",
+   "t": "S01 [0:00–1:00] Phạm Du Chết  LOC-A · Hồng Châu — nhà Đoàn ThượngAct I / Khép"
+  },
+  {
+   "k": "p",
+   "t": "Arc I — kết bằng transition chén trà → sỏi"
+  },
+  {
+   "k": "p",
+   "t": "S02 [1:00–2:00] Một Thế Lực Mới  LOC-A · Hồng Châu — bàn bản đồAct I / Tự Khánh"
+  },
+  {
+   "k": "p",
+   "t": "xuất hiện qua sỏi, không qua lời kể"
+  },
+  {
+   "k": "p",
+   "t": "S03 [2:00–3:15] Quảng Điểm  LOC-B · Ải Quảng ĐiểmAct II / Turning point đầu tiên"
+  },
+  {
+   "k": "p",
+   "t": "— chiến tranh chạm vào Hồng"
+  },
+  {
+   "k": "p",
+   "t": "S04 [3:15–4:15] Lời Vu Cáo  LOC-A · Hồng ChâuAct II / Đoàn Thượng dùng chính"
+  },
+  {
+   "k": "p",
+   "t": "danh triều đình như công cụ"
+  },
+  {
+   "k": "p",
+   "t": "S05 [4:15–5:15] Hắn Không Dừng Lại  LOC-A · Hồng Châu — bàn bản đồAct III /"
+  },
+  {
+   "k": "p",
+   "t": "SCENE MẪU — giấy dó, sỏi, mực — Hồng Châu bị bao vây"
+  },
+  {
+   "k": "p",
+   "t": "S06 [5:15–6:15] Tế Giang  LOC-A + LOC-C · Hồng Châu / Thăng LongAct III / Quyền"
+  },
+  {
+   "k": "p",
+   "t": "lực tiến đến ngai vàng — chuỗi thu hẹp không gian MAP→CITY→PALACE"
+  },
+  {
+   "k": "p",
+   "t": "S07 [6:15–8:15] Hạc Kiều  LOC-D · Hạc KiềuAct IV / Climax — sự tan vỡ của tổ"
+  },
+  {
+   "k": "p",
+   "t": "chức — 'Về Hồng'"
+  },
+  {
+   "k": "p",
+   "t": "S08 [8:15–9:30] Rút Về Hồng  LOC-A · Hồng ChâuAct V / Final image — cổng đóng,"
+  },
+  {
+   "k": "p",
+   "t": "ít thoại hơn bản trước"
+  },
+  {
+   "k": "hr"
+  },
+  {
+   "k": "head",
+   "t": "VISUAL GRAMMAR CỦA EP07 — NGÔN NGỮ HÌNH ẢNH CHÍNH THỨC CỦA ARC II"
+  },
+  {
+   "k": "p",
+   "t": "EP07 không kể cho khán giả biết Tự Khánh đang làm gì. EP07 khiến khán giả tự nhìn thấy quyền lực của Tự Khánh đang thay đổi bản đồ. Đây là tập đầu tiên khóa lại ngôn ngữ hình ảnh sẽ dùng xuyên suốt Arc II."
+  },
+  {
+   "k": "head",
+   "t": "1. BẢN ĐỒ = THẾ GIỚI CHÍNH TRỊ"
+  },
+  {
+   "k": "p",
+   "t": "Giấy dó, chữ Hán chú thích từng vùng. Bản đồ mở tập (transition cuối S01) và đóng tập (cổng Hồng Châu, S08) — bản đồ là thế giới đang đổi thay, cổng là thế giới Đoàn Thượng chọn giữ lại."
+  },
+  {
+   "k": "head",
+   "t": "2. SỎI = QUYỀN KIỂM SOÁT THỰC TẾ"
+  },
+  {
+   "k": "p",
+   "t": "Không phải cờ, không phải quân cờ cầu kỳ — sỏi. Rất vật chất, rất địa phương, đúng với thế giới quyền lực của các hào trưởng. Mỗi vùng trên bản đồ có một viên sỏi đại diện cho thế lực đang thực sự kiểm soát nó tại thời điểm đó. Khi quyền kiểm soát đổi tay: sỏi cũ được lấy ra, sỏi mới đặt vào."
+  },
+  {
+   "k": "head",
+   "t": "3. MỰC = DANH NGHĨA CHÍNH TRỊ"
+  },
+  {
+   "k": "p",
+   "t": "Gia thần dùng bút lông và hai màu mực để viết một chữ Hán nhỏ lên mảnh giấy đặt cạnh mỗi viên sỏi, mỗi khi quyền kiểm soát một vùng thay đổi:"
+  },
+  {
+   "k": "bullet",
+   "t": "Mực đỏ — chữ 李 (Lý): triều đình, chính thống, ngai vàng."
+  },
+  {
+   "k": "bullet",
+   "t": "Mực đen — chữ 陳 (Trần): thế lực đang nổi lên quanh Tự Khánh."
+  },
+  {
+   "k": "bullet",
+   "t": "Mực đen — chữ 洪 (Hồng): thế lực của họ Đoàn. Cùng màu mực với Trần — chỉ khác chữ — vì cả hai đều là quyền lực thực tế ở địa phương, không phải danh nghĩa triều đình."
+  },
+  {
+   "k": "p",
+   "t": "Chữ ghi danh nghĩa. Sỏi biểu thị quyền lực thực tế. Xuyên suốt EP07: mực đỏ (Lý) vẫn tồn tại trên bản đồ nhưng ngày càng ít ý nghĩa thực tế; mực đen (Trần) ngày càng lan rộng. Đây là cách hình ảnh hóa: nhà Lý vẫn tồn tại về danh nghĩa trong khi họ Trần ngày càng chiếm thực quyền."
+  },
+  {
+   "k": "head",
+   "t": "4. TỰ KHÁNH KHÔNG BAO GIỜ ĐƯỢC VISUALIZE"
+  },
+  {
+   "k": "p",
+   "t": "Nguyên tắc thực sự, nói thẳng: khán giả không bao giờ được nhìn thấy Tự Khánh trong Arc II. Không gương mặt, không dáng người, không gáy, không bóng, không bàn tay, không reaction shot, không cảnh ông ngồi suy tính, không camera đứng về phía ông. Không biography. Không childhood. Không ambition speech. Khóa cho toàn bộ Arc II, không có ngoại lệ."
+  },
+  {
+   "k": "p",
+   "t": "Giọng nói (O.S. hoặc V.O.) là công cụ tùy chọn, không phải quy tắc cố định: xuất hiện hay không tùy thuộc chủ đích của từng sequence, tùy đạo diễn từng tập quyết định. Khi được dùng, giọng nói không bao giờ đi kèm hình ảnh của ông và không giải thích nội tâm — chỉ là mệnh lệnh hoặc một câu ngắn, rồi biến mất. Ví dụ đầu tiên: đoạn \"Mở Nước\" ở EP07 S03."
+  },
+  {
+   "k": "p",
+   "t": "Tự Khánh phải là nhân vật có sức hiện diện mạnh nhất tập dù không bao giờ lên hình — được \"nhìn thấy\" qua bản đồ, sỏi, quân đội, mệnh lệnh, vùng đất mất đi, nước lũ, liên minh, sự thay đổi của triều đình, và nỗi sợ của người khác. Đến cuối tập, khán giả có thể chưa biết nhiều về con người Tự Khánh — nhưng họ biết một điều: nếu Tự Khánh bắt đầu di chuyển, thế giới xung quanh phải thay đổi."
+  },
+  {
+   "k": "head",
+   "t": "5. CLOSE-UP RULE MỚI"
+  },
+  {
+   "k": "p",
+   "t": "Bỏ quy định cứng \"chỉ hai close-up\" của bản trước. Thay bằng: close-up chỉ xuất hiện khi có một thông tin mà wide hoặc medium không thể truyền tải đủ. Danh sách close-up khóa lại cho EP07:"
+  },
+  {
+   "k": "bullet",
+   "t": "S01 — chén trà của Phạm Du, khói ấm còn bốc lên"
+  },
+  {
+   "k": "bullet",
+   "t": "S03 — bóng bà lão (EP02 S08) mắc kẹt trong gỗ, cuốn theo dòng nước"
+  },
+  {
+   "k": "bullet",
+   "t": "S03 — một giọt nước mắt lăn trên má Đoàn Thượng"
+  },
+  {
+   "k": "bullet",
+   "t": "S04 — con dấu của vua trên chiếu chỉ"
+  },
+  {
+   "k": "bullet",
+   "t": "S05 — bút lông của gia thần chấm mực"
+  },
+  {
+   "k": "bullet",
+   "t": "S05 — mặt gia thần, sắc mặt đổi từ bình tĩnh sang kinh hãi"
+  },
+  {
+   "k": "bullet",
+   "t": "S05 — bản đồ, top shot toàn cảnh Hồng Châu bị bao vây"
+  },
+  {
+   "k": "bullet",
+   "t": "S05 — mắt Đoàn Thượng, khoảnh khắc hiểu ra"
+  },
+  {
+   "k": "bullet",
+   "t": "S07 — \"Về Hồng\""
+  },
+  {
+   "k": "p",
+   "t": "Close-up trở thành dấu câu của quyền lực và nhận thức, không phải công cụ diễn xuất."
+  },
+  {
+   "k": "head",
+   "t": "6. HAI LỚP KỊCH BẢN — SCREENPLAY VÀ Ý NGHĨA CHÍNH TRỊ"
+  },
+  {
+   "k": "p",
+   "t": "Từ EP07 trở đi, mỗi scene được viết theo hai lớp tách biệt. LỚP A — SCREENPLAY: chỉ những gì khán giả thực sự nhìn thấy và nghe thấy. LỚP B — Ý NGHĨA CHÍNH TRỊ: ghi riêng ý nghĩa chính trị của hành động, dành cho đoàn làm phim — không bao giờ biến thành narration hay dialogue trên màn hình. Trong script dưới đây, lớp B xuất hiện dưới mỗi scene như một đoạn chú thích nghiêng, tách khỏi phần hành động."
+  },
+  {
+   "k": "head",
+   "t": "7. VIEWER JOURNEY — 7 MỐC NHẬN THỨC"
+  },
+  {
+   "k": "p",
+   "t": "Khán giả không cần nhớ toàn bộ tên người hay sự kiện lịch sử. Họ chỉ cần đi qua bảy nhận thức sau:"
+  },
+  {
+   "k": "bullet",
+   "t": "0:00 — Có một khoảng trống sau Quách Bốc."
+  },
+  {
+   "k": "bullet",
+   "t": "2:00 — Có một thế lực mới đang xuất hiện."
+  },
+  {
+   "k": "bullet",
+   "t": "3:15 — Thế lực đó có thể tác động trực tiếp đến Hồng."
+  },
+  {
+   "k": "bullet",
+   "t": "4:15 — Triều đình cũng bắt đầu sợ thế lực đó."
+  },
+  {
+   "k": "bullet",
+   "t": "6:15 — Thế lực đó đang làm thay đổi cả bàn cờ."
+  },
+  {
+   "k": "bullet",
+   "t": "8:15 — Không ai còn kiểm soát được toàn bộ cuộc chơi."
+  },
+  {
+   "k": "bullet",
+   "t": "9:30 — Đoàn Thượng chọn Hồng."
+  },
+  {
+   "k": "head",
+   "t": "8. HỆ THỨ BẬC MOTIF — TRÁNH LOÃNG NGÔN NGỮ HÌNH ẢNH"
+  },
+  {
+   "k": "p",
+   "t": "EP07 mang một lượng visual grammar khá lớn cho 9 phút 30 giây. Giữ được nếu production tuyệt đối tránh biến mỗi motif thành một \"symbol shot\" riêng — motif phải hoạt động trong câu chuyện, không đứng ra tự xưng \"tôi là biểu tượng\". Thứ bậc:"
+  },
+  {
+   "k": "bullet",
+   "t": "Primary — Bản đồ / Sỏi / Mực: xương sống hình ảnh của cả tập và cả Arc II."
+  },
+  {
+   "k": "bullet",
+   "t": "Secondary — Nước / Cổng: khung mở và khung đóng của EP07."
+  },
+  {
+   "k": "bullet",
+   "t": "Character continuity — Chén trà / Bà lão: cầu nối cảm xúc với EP02, chỉ xuất hiện đúng một lần mỗi motif."
+  },
+  {
+   "k": "bullet",
+   "t": "Sound — Trống đất: leitmotif kế thừa, vận hành bằng tai chứ không bằng mắt."
+  },
+  {
+   "k": "bullet",
+   "t": "Political legitimacy — Con dấu: xuất hiện đúng một lần, ở S04."
+  },
+  {
+   "k": "hr"
+  },
+  {
+   "k": "head",
+   "t": "CHARACTER BRIEF — ĐOÀN THƯỢNG (EP07)"
+  },
+  {
+   "k": "p",
+   "t": "Định nghĩa lại bằng một câu: một người nhìn thấy bản đồ quyền lực của mình bị viết lại ngay trước mắt, và quyết định điều duy nhất ông còn có thể giữ."
+  },
+  {
+   "k": "p",
+   "t": "Đoàn Thượng của EP07 không đối đầu Tự Khánh vì tham vọng hay danh dự — ông nhận ra rằng thế giới chính trị mà ông từng có thể đứng ngoài đã biến mất. Arc I kết thúc bằng việc nhà Lý mất khả năng tự cứu mình; Arc II bắt đầu khi quyền lực trung tâm suy yếu và những người khác bắt đầu tự vẽ lại bản đồ. Đoàn Thượng là người đầu tiên nhìn thấy điều đó — trực tiếp, trên chính bàn bản đồ của mình."
+  },
+  {
+   "k": "p",
+   "t": "Wardrobe và các nguyên tắc diễn xuất giữ nguyên từ EP02/EP08 v1: không long bào, không triều phục dù được phong tước Hầu; bàn tay chai cứng; tĩnh lặng là trạng thái mặc định — chỉ ánh mắt thay đổi ở close-up S05."
+  },
+  {
+   "k": "p",
+   "t": "ARC TÓM TẮT: S01 (đẩy chén trà) → S02 (nhìn bản đồ) → S03 (nhìn nước, lần đầu bị tác động trực tiếp) → S04 (dùng triều đình) → S05 (nhận ra mình bị bao vây) → S06 (thấy trung tâm cũng sụp) → S07 (đem quân) → S08 (trở về Hồng). Observer → Calculator → Actor → Survivor. Ông không bị biến thành người khác — vẫn là Đoàn Thượng của EP02, chỉ là thế giới đã thay đổi quanh ông."
+  },
+  {
+   "k": "head",
+   "t": "SUPPORTING — GIA THẦN GHI SỔ"
+  },
+  {
+   "k": "p",
+   "t": "Không tên riêng. Là người vận hành bàn bản đồ cùng Đoàn Thượng — bút lông, nghiên mực, mực đỏ và mực đen. Vai trò của ông trong EP07 là tấm gương cảm xúc của khán giả: trong S05, chính gương mặt ông — không phải gương mặt Đoàn Thượng — là nơi nỗi sợ được phép hiện ra trước. Đoàn Thượng chỉ hiểu ra sau cùng, ở close-up cuối cảnh."
+  },
+  {
+   "k": "hr"
+  }
+ ],
+ "acts": [
+  {
+   "t": "ACT I — KHOẢNG TRỐNG",
+   "time": "0:00–2:00",
+   "intro": [
+    {
+     "k": "p",
+     "t": "Thời gian: 2 phút. Không mở bằng chiến trận. Một người của thế giới cũ biến mất; một thế lực mới xuất hiện — không qua lời kể, mà qua sỏi trên bản đồ."
+    },
+    {
+     "k": "quote",
+     "lines": [
+      "「大丈夫處其厚，不居其薄；處其實，不居其華。」",
+      "Đại trượng phu xử kỳ hậu, bất cư kỳ bạc; xử kỳ thực, bất cư kỳ hoa \"Bậc đại trượng phu ở nơi đôn hậu, không ở nơi bạc bẽo; ở nơi chân thực, không ở",
+      "nơi phù hoa.\"",
+      "— Đạo Đức Kinh"
+     ]
+    },
+    {
+     "k": "lab",
+     "c": "note",
+     "l": "NOTE",
+     "t": "Quote hiện lên toàn bộ, không đọc thành lời. Ý nghĩa của câu chỉ được trả lại bằng hình ảnh ở cảnh cổng thành đóng lại cuối tập (S08)."
+    }
+   ],
+   "scenes": [
+    {
+     "id": "S01",
+     "t": "Phạm Du Chết",
+     "time": "0:00–1:00",
+     "loc": "LOC-A · Hồng Châu — nhà Đoàn Thượng · Interior / Cuối 1209",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Giữ cảnh này nhưng ngắn và lạnh. Không cần giải thích Phạm Du, không hồi tưởng, không phản ứng cảm xúc. Đây là một người của thế giới cũ vừa biến mất."
+      },
+      {
+       "k": "slug",
+       "t": "INTERIOR — NHÀ ĐOÀN THƯỢNG — CUỐI 1209"
+      },
+      {
+       "k": "arrow",
+       "t": "Hồng Châu yên tĩnh. Đoàn Thượng đứng trong gian nhà đơn giản, trước bàn trà."
+      },
+      {
+       "k": "arrow",
+       "t": "Một mã phu bước vào, đầy bụi đường."
+      },
+      {
+       "k": "dlg",
+       "who": "MÃ PHU",
+       "lines": [
+        [
+         "d",
+         "Phạm Du chết rồi."
+        ]
+       ]
+      },
+      {
+       "k": "p",
+       "t": "Đoàn Thượng không phản ứng ngay."
+      },
+      {
+       "k": "dlg",
+       "who": "ĐOÀN THƯỢNG",
+       "lines": [
+        [
+         "d",
+         "Chết ở đâu?"
+        ]
+       ]
+      },
+      {
+       "k": "p",
+       "t": "Mã phu kể ngắn, không cắt cảnh: Phạm Du được Cao Tông sai liên lạc họ Đoàn; thuyền đến đón nhưng Du đang tư thông với Công chúa Thiên Cực; thuyền đợi không được, quay về; Du tự kiếm thuyền, đến Ma Lãng thì bị Nguyễn Nậu và Nguyễn Nải bắt; đưa về Hải Ấp; Thái tử Sảm giết."
+      },
+      {
+       "k": "p",
+       "t": "Đoàn Thượng nghe hết. Không bình luận."
+      },
+      {
+       "k": "arrow",
+       "t": "Hai chén trà vẫn trên bàn: chén của ông, và chén đối diện — chén của Phạm Du — khói vẫn còn bốc lên, ấm."
+      },
+      {
+       "k": "arrow",
+       "t": "Đoàn Thượng đưa tay đẩy chén đối diện sang một bên."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "Ý NGHĨA CHÍNH TRỊ",
+       "t": "Đây không phải một mất mát cá nhân. Đoàn Thượng mất người đồng minh duy nhất còn có thể nói chuyện với triều đình từ bên trong. Một con người của thế giới cũ vừa biến mất — khoảng trống đó sẽ không để trống lâu."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Một ngọn đèn dầu duy nhất. Ánh sáng phẳng, lạnh — không bóng đổ kịch tính."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Gió ngoài xa, hơi thở còn dồn của mã phu, tiếng sứ chạm rất khẽ khi chén trà bị đẩy."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Medium tĩnh trên Đoàn Thượng. Khi ông đẩy chén sang bên: camera đi từ mặt ông xuống hai chén trà trên bàn — chén của ông, và chén đối diện vẫn còn khói ấm. Zoom in chậm vào chén trà của Phạm Du, khói mỏng dần."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Đoàn Thượng không ngẩng lên khi nghe tin. Chỉ bàn tay đẩy chén trà là chuyển động duy nhất."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Không có nhạc trong toàn bộ S01."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "50 giây."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NGUỒN",
+       "t": "[ĐVSL]: chuỗi Phạm Du được Cao Tông sai liên lạc họ Đoàn, bỏ lỡ thuyền vì tư thông Công chúa Thiên Cực, bị Nguyễn Nậu và Nguyễn Nải bắt tại Ma Lãng, đưa về Hải Ấp và bị Thái tử Sảm giết. [SUY DIỄN KỊCH BẢN]: mã phu là người báo tin; chiếc chén trà và phản ứng im lặng của Đoàn Thượng."
+      },
+      {
+       "k": "center",
+       "t": "─ CHUYỂN CẢNH: CHÉN TRÀ → SỎI ─"
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Match cut nối Arc I sang Arc II ngay trong một chuyển động máy duy nhất. Một con người biến mất. Một thế lực xuất hiện — hình ảnh hóa trực tiếp, không một lời thoại nào cần thiết."
+      },
+      {
+       "k": "arrow",
+       "t": "Từ chén trà của Phạm Du (vẫn trong khung zoom in, khói tan dần): camera zoom out chậm."
+      },
+      {
+       "k": "arrow",
+       "t": "Hình ảnh chén trà nhòe dần thành bàn tay Đoàn Thượng — đang cầm một chén trà khác, ở một thời điểm sau đó, đứng trước tấm bản đồ giấy dó."
+      },
+      {
+       "k": "arrow",
+       "t": "Ông đưa chén trà cho gia thần đứng cạnh. Gia thần nhận chén, đặt xuống — và đưa lại cho ông một viên sỏi."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "Ý NGHĨA CHÍNH TRỊ",
+       "t": "Bàn tay Đoàn Thượng đổi một chén trà — con người, quan hệ — lấy một viên sỏi — quyền lực, lãnh thổ. Đây là câu trả lời hình ảnh cho \"một người biến mất, một thế lực xuất hiện\", không cần một lời thoại nào."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Một chuyển động zoom-out liên tục, không cắt cảnh — chén trà tan thành bàn tay, tay đưa chén đi, tay nhận sỏi về. Đây là transition duy nhất trong tập dùng match cut thay vì hard cut."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng sứ chạm nhẹ khi chén được đặt xuống; tiếng sỏi chạm lòng bàn tay — âm thanh duy nhất của toàn bộ transition."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Trống đất bắt đầu rất nhỏ, đúng lúc viên sỏi chạm tay Đoàn Thượng — mở đầu leitmotif của cả tập."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "~10 giây, tính trong mốc 1:00."
+      }
+     ],
+     "chips": [
+      "lct",
+      "dt",
+      "pd",
+      "lht"
+     ],
+     "set": "Quan_nha_tranh"
+    },
+    {
+     "id": "S02",
+     "t": "Một Thế Lực Mới",
+     "time": "1:00–2:00",
+     "loc": "LOC-A · Hồng Châu — bàn bản đồ · Interior / 1210–1211",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Bỏ hẳn cảm giác \"tin tức lịch sử được kể lại\". Không có lời người đưa tin liệt kê chức tước. Chỉ có bản đồ và sỏi. Đây là lần đầu khán giả nhìn thấy Tự Khánh bằng ngôn ngữ hình ảnh, không phải nghe về ông."
+      },
+      {
+       "k": "slug",
+       "t": "INTERIOR — BÀN BẢN ĐỒ — NHIỀU THỜI ĐIỂM"
+      },
+      {
+       "k": "arrow",
+       "t": "[Tiếp nối transition] Đoàn Thượng đứng trước bản đồ giấy dó, viên sỏi vừa nhận vẫn trong tay."
+      },
+      {
+       "k": "arrow",
+       "t": "Một người đưa tin bước vào, trao đổi rất ngắn với gia thần — không nghe được lời. Gia thần đặt một viên sỏi xuống một vùng trên bản đồ."
+      },
+      {
+       "k": "arrow",
+       "t": "Đoàn Thượng nhìn."
+      },
+      {
+       "k": "arrow",
+       "t": "Một tin khác đến. Một viên sỏi khác được đặt xuống, ở một vùng khác."
+      },
+      {
+       "k": "arrow",
+       "t": "Tự Khánh vẫn chưa xuất hiện bằng hình — nhưng trên bản đồ, các viên sỏi của thế lực Trần bắt đầu có hình dạng, cụm lại thành một vùng liền mạch."
+      },
+      {
+       "k": "arrow",
+       "t": "Đoàn Thượng đặt viên sỏi trong tay mình xuống — Hồng Châu — cạnh cụm sỏi kia."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "Ý NGHĨA CHÍNH TRỊ",
+       "t": "Tự Khánh không được giới thiệu như một nhân vật có tiểu sử — ông được giới thiệu như một hình dạng đang lớn dần trên bản đồ. Đây là nguyên tắc hình ảnh sẽ giữ xuyên suốt Arc II: Tự Khánh chỉ tồn tại như một thế lực, chưa bao giờ như một con người."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Ánh sáng ban ngày qua cửa sổ, trung tính — chiếu rõ mặt giấy dó và các viên sỏi."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng sỏi chạm gỗ — âm thanh chủ đạo thay cho lời thoại thông báo tin tức. Tiếng bước chân người đưa tin, ngắn, không lặp lại giống hệt nhau."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Close trên từng viên sỏi được đặt xuống; kết bằng một top-down nhẹ trên cụm sỏi Trần đang hình thành, với viên sỏi Hồng Châu đứng cạnh nó."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Đoàn Thượng không đi lại, không phản ứng cơ thể — chỉ mắt và tay di chuyển theo bản đồ."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Trống đất tiếp tục từ transition, bị ngắt ở nốt thứ ba khi viên sỏi thứ hai đặt xuống — nhịp gãy này lặp lại xuyên suốt tập."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "1 phút."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "Không dùng bất kỳ câu thoại nào dạng \"Tô Trung Từ được phong...\" hay \"Tự Khánh đang đánh khắp nơi.\" Toàn bộ thông tin truyền qua hành động đặt sỏi."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NGUỒN",
+       "t": "[TT]: 1210 Huệ Tông lên ngôi, Tự Khánh được phong Chương Thành hầu. [ĐVSL]: Tự Khánh tiếp tục mở rộng thế lực sau khi Tô Trung Từ chết. [SUY DIỄN KỊCH BẢN]: toàn bộ thông tin trên hình ảnh hóa qua sỏi, không có thoại tường thuật."
+      }
+     ],
+     "chips": [
+      "dt",
+      "lht"
+     ],
+     "set": "Quan_nha_tranh"
+    }
+   ]
+  },
+  {
+   "t": "ACT II — QUẢNG ĐIỂM",
+   "time": "2:00–4:15",
+   "intro": [
+    {
+     "k": "p",
+     "t": "Thời gian: 2 phút 15 giây. Turning point đầu tiên — chiến tranh của Tự Khánh lần đầu chạm vào thế giới của Đoàn Thượng — và lần đầu ông biến khoảng cách với triều đình thành một công cụ."
+    }
+   ],
+   "scenes": [
+    {
+     "id": "S03",
+     "t": "Quảng Điểm",
+     "time": "2:00–3:15",
+     "loc": "LOC-B · Ải Quảng Điểm — cùng đoạn đê với EP02 S06 · Exterior / Ngày",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Trận đánh chỉ là bàn đạp cho MỞ NƯỚC — phần exposition tên tướng được rút tối đa để chuyển từ historical information sang cinematic causality. Trận thắng, nhưng cái giá đến sau: nước sông tràn vào đất Hồng."
+      },
+      {
+       "k": "slug",
+       "t": "EXTERIOR — ẢI QUẢNG ĐIỂM — NGÀY"
+      },
+      {
+       "k": "arrow",
+       "t": "Quân Hồng tiến vào ải. Cắt sang phía đối diện: một đạo quân Trần xuất hiện."
+      },
+      {
+       "k": "arrow",
+       "t": "Một tướng nhìn về phía ải."
+      },
+      {
+       "k": "dlg",
+       "who": "MỘT TƯỚNG",
+       "lines": [
+        [
+         "d",
+         "Lại Linh."
+        ]
+       ]
+      },
+      {
+       "k": "arrow",
+       "t": "Nguyễn Đường bị bắt. Tin được truyền đến phía quân Trần — không thấy Tự Khánh suy nghĩ, chỉ thấy mệnh lệnh được truyền đi."
+      },
+      {
+       "k": "center",
+       "t": "─ MỞ NƯỚC ─"
+      },
+      {
+       "k": "arrow",
+       "t": "OTS sau lưng một người lính Trần."
+      },
+      {
+       "k": "arrow",
+       "t": "Trước mặt: quân Hồng đang ép tới."
+      },
+      {
+       "k": "arrow",
+       "t": "Người lính đứng chờ lệnh."
+      },
+      {
+       "k": "arrow",
+       "t": "Một giọng nói từ ngoài khung hình:"
+      },
+      {
+       "k": "dlg",
+       "who": "TỰ KHÁNH (O.S.)",
+       "lines": [
+        [
+         "d",
+         "Không cần dàn quân. Mở nước đánh Hồng."
+        ]
+       ]
+      },
+      {
+       "k": "p",
+       "t": "CUT TO:"
+      },
+      {
+       "k": "arrow",
+       "t": "Nước bắt đầu đổi dòng. Chảy mạnh dần, tràn qua bờ, cuốn đất đá."
+      },
+      {
+       "k": "p",
+       "t": "Một khoảng im lặng."
+      },
+      {
+       "k": "dlg",
+       "who": "TỰ KHÁNH (V.O.)",
+       "lines": [
+        [
+         "d",
+         "Để xem hắn thông minh đến đâu."
+        ]
+       ]
+      },
+      {
+       "k": "p",
+       "t": "Không quay lại Tự Khánh. Không quay lại người lính."
+      },
+      {
+       "k": "p",
+       "t": "CUT TO ĐOÀN THƯỢNG."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "Ý NGHĨA CHÍNH TRỊ",
+       "t": "Giọng nói off-screen là công cụ được chọn dùng ở đúng sequence này vì chủ đích của nó: một mệnh lệnh lạnh, ngắn, không cần dàn quân, thể hiện quyền lực không cần phô trương. Ông vẫn không có hình, không có gương mặt, không có reaction shot, không một khoảnh khắc nội tâm nào được giải thích — chỉ có giọng nói ra lệnh, từ ngoài khung hình, rồi biến mất. Ông vẫn xuất hiện như một lực lượng, chỉ là lần này lực lượng đó có giọng nói."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "— CHỈ ĐẠO GIỌNG TỰ KHÁNH Cảnh giác cao nhất của cảnh này: đừng để Tự Khánh nghe \"cool\" hay \"villain mastermind\". Ông đáng sợ vì hiệu quả, không phải vì cố tỏ ra đáng sợ. Không thì thầm. Không kéo dài chữ. Không cười. Không nhấn chữ \"thông minh\". Không \"dark voice\". Giọng phải gần như một người đang giải quyết một việc quân sự bình thường — càng bình thường, càng nguy hiểm."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "— LẦN ĐẦU DÙNG GIỌNG OFF-SCREEN Đây là lần đầu tiên trong series Tự Khánh có thoại. Nguyên tắc không được visualize vẫn khóa tuyệt đối: không bao giờ cắt sang hình ảnh của ông — kể cả gáy, bóng, hay bàn tay. Giọng nói phải đến từ ngoài khung hình tuyệt đối (O.S. rồi V.O.), và cảnh không cắt về lại người lính hay bất kỳ ai đang nghe lệnh sau khi ông nói xong — cắt thẳng sang Đoàn Thượng. Việc có dùng giọng off-screen hay không ở các sequence khác của Arc II tùy thuộc chủ đích của từng cảnh, do đạo diễn từng tập quyết định — chỉ riêng việc không xuất hiện hình ảnh là bất biến."
+      },
+      {
+       "k": "arrow",
+       "t": "Nước sông bắt đầu tràn vào những vùng đất của người Hồng — qua chính đoạn đê Đoàn Thượng từng cùng dân làng đắp tay trong tay ở EP02 S06."
+      },
+      {
+       "k": "arrow",
+       "t": "Đoàn Thượng đứng nhìn từ xa, đúng vị trí gò đất cao ông từng đứng khi đê giữ được ở EP02. Lần này nước không dừng lại."
+      },
+      {
+       "k": "arrow",
+       "t": "Dòng nước cuốn qua: đất đá, mảnh nhà cửa vỡ, xác trâu bò trôi. Người dân tháo chạy."
+      },
+      {
+       "k": "arrow",
+       "t": "Ở một góc dòng nước: một bóng dáng mắc kẹt trong đống cây gỗ bị cuốn trôi — bà lão đã quỳ trước Đoàn Thượng ở EP02 S08. Bà đã chết. Không có chuyển động sống nào từ bà."
+      },
+      {
+       "k": "arrow",
+       "t": "Đoàn Thượng nhận ra. Không lao xuống — khoảng cách và dòng nước không cho phép. Ông đứng yên."
+      },
+      {
+       "k": "arrow",
+       "t": "CLOSE-UP một giọt nước mắt lăn trên má Đoàn Thượng — thoáng chốc, rồi thôi."
+      },
+      {
+       "k": "arrow",
+       "t": "Cắt. Nước rút. Hồng Châu vẫn còn. Đoàn Thượng nhìn về phía xa."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "Ý NGHĨA CHÍNH TRỊ",
+       "t": "Tự Khánh không cần chiếm Hồng Châu để tác động đến Hồng Châu. Ông chọn đúng đoạn đê Đoàn Thượng từng tự tay giữ được ở EP02 — nơi biểu tượng cho việc Đoàn Thượng lấp đầy khoảng trống chức năng mà triều đình bỏ lại. Và trong chính dòng nước đó, người duy nhất từng quỳ xuống xin ông đừng bỏ mặc họ (EP02 S08 — Midpoint) giờ đã chết, cuốn theo gỗ vỡ. Lời thề \"Hồng Châu tự giữ lấy Hồng Châu\" (EP02 S11) va chạm trực tiếp với giới hạn thật của nó: ông giữ được đất, nhưng không giữ được từng người. Ta không kể lể điều này bằng lời — chỉ bằng một giọt nước mắt duy nhất, không tiếng khóc, không phản ứng nào khác."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Nắng gắt giữa trưa cho phần chiến trận; ánh sáng lạnh, phản chiếu trên mặt nước cho phần ngập lụt — cùng chất sáng flat từng dùng ở EP02 S06, nay không còn ấm."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Âm thanh trận đánh giữ ở mức ấn tượng, không chi tiết. Tiếng nước dâng, tiếng gỗ vỡ va vào nhau dần lấn át mọi âm thanh khác ở nửa sau. Không nhạc, không tiếng khóc."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Wide shot ải và hai đạo quân; sau đó kéo dần về phía Đoàn Thượng đứng trên gò đất cao — mirror shot với vị trí camera từng đặt ở EP02 S06 khi đê giữ được. Pan chậm theo dòng nước cuốn đất đá, nhà cửa, trâu bò — dừng đúng một nhịp ở góc có bóng bà lão mắc kẹt trong gỗ, đủ để nhận ra, không đủ lâu để trở thành cảnh khai thác cảm xúc. Sau đó cắt thẳng sang close-up giọt nước mắt — không có shot trung gian nào giữa hai hình ảnh này."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Đoàn Thượng khi nhận ra bà lão: không biến sắc mặt mạnh, không hét, không lao tới. Ông đứng yên hoàn toàn — chỉ một giọt nước mắt là chuyển động duy nhất được phép xuất hiện trên gương mặt ông trong toàn cảnh."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Trống đất hòa vào tiếng nước, không còn nghe rõ là trống nữa. Im lặng hoàn toàn đúng lúc giọt nước mắt xuất hiện."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "1 phút 15 giây."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "Tên chính xác theo Đại Việt sử lược là ải Quảng Điểm — không gọi là \"Hoàng Điểm\"."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "— CONTINUITY EP02 Hai lớp continuity với EP02 trong cùng một cảnh: (1) đoạn đê ngập nước phải là cùng địa điểm dựng cảnh với EP02 S06 (Sửa Đê), cùng góc gò đất cao. (2) bà lão mắc kẹt trong gỗ phải cùng diễn viên, cùng phục trang với bà lão ở EP02 S08 (Bà Lão Quỳ — Midpoint) để khán giả tinh ý nhận ra ngay, dù không bắt buộc phải nhận ra để cảnh vẫn có sức nặng. Đây là lần đầu Arc II dùng lại cả địa điểm lẫn nhân vật phụ của Arc I để đảo nghĩa hình ảnh."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NGUỒN",
+       "t": "[ĐVSL]: Người vùng Hồng đánh ải Quảng Điểm; Tự Khánh sai Lại Linh và Nguyễn Đường chống cự; Nguyễn Đường bị bắt; Tự Khánh cho nước sông chảy vào các ấp của người Hồng rồi rút; dân Khoái Châu theo về Hồng. [SUY DIỄN KỊCH BẢN]: Đoàn Thượng trực tiếp chứng kiến trận đánh và nước lũ; địa điểm và cái chết của bà lão là lựa chọn dàn dựng, mirror với EP02."
+      }
+     ],
+     "chips": [
+      "dt"
+     ],
+     "set": "Duong_nui_cong_ai"
+    },
+    {
+     "id": "S04",
+     "t": "Lời Vu Cáo",
+     "time": "3:15–4:15",
+     "loc": "LOC-A · Hồng Châu — bàn bản đồ · Interior / 1211",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Scene chính trị quan trọng nhất Act II. Đoàn Thượng không tự nhận là người vu cáo — ông chỉ hỏi triều đình muốn gì, rồi làm. Chiếu phong Hầu xuất hiện, nhưng không phải phần thưởng cảm xúc — nó là một công cụ."
+      },
+      {
+       "k": "slug",
+       "t": "INTERIOR — BÀN BẢN ĐỒ — 1211"
+      },
+      {
+       "k": "arrow",
+       "t": "Một sứ giả triều đình đến, đặt xuống một chiếu chỉ. Không khí không thân thiện."
+      },
+      {
+       "k": "dlg",
+       "who": "SỨ GIẢ",
+       "lines": [
+        [
+         "d",
+         "Nhà vua triệu Đoàn Thượng về kinh."
+        ]
+       ]
+      },
+      {
+       "k": "dlg",
+       "who": "ĐOÀN THƯỢNG",
+       "lines": [
+        [
+         "d",
+         "Vì việc gì?"
+        ]
+       ]
+      },
+      {
+       "k": "dlg",
+       "who": "SỨ GIẢ",
+       "lines": [
+        [
+         "d",
+         "Trần Tự Khánh đem quân về kinh."
+        ]
+       ]
+      },
+      {
+       "k": "p",
+       "t": "Đoàn Thượng im lặng một khoảng ngắn."
+      },
+      {
+       "k": "dlg",
+       "who": "ĐOÀN THƯỢNG",
+       "lines": [
+        [
+         "d",
+         "Hắn muốn gì?"
+        ]
+       ]
+      },
+      {
+       "k": "dlg",
+       "who": "SỨ GIẢ",
+       "lines": [
+        [
+         "d",
+         "Nhà vua nghi hắn có ý phế lập."
+        ]
+       ]
+      },
+      {
+       "k": "p",
+       "t": "Đoàn Thượng nhìn con dấu của vua trên chiếu — không nhìn người đưa chiếu."
+      },
+      {
+       "k": "dlg",
+       "who": "ĐOÀN THƯỢNG",
+       "lines": [
+        [
+         "d",
+         "Nhà vua muốn ta làm gì?"
+        ]
+       ]
+      },
+      {
+       "k": "dlg",
+       "who": "SỨ GIẢ",
+       "lines": [
+        [
+         "d",
+         "Đánh hắn."
+        ]
+       ]
+      },
+      {
+       "k": "p",
+       "t": "Một nhịp."
+      },
+      {
+       "k": "dlg",
+       "who": "ĐOÀN THƯỢNG",
+       "lines": [
+        [
+         "d",
+         "Vậy thì đánh."
+        ]
+       ]
+      },
+      {
+       "k": "arrow",
+       "t": "Ông nhận chiếu. Không cúi đầu. Không cảm ơn. Gấp lại. Trao cho người bên cạnh."
+      },
+      {
+       "k": "dlg",
+       "who": "ĐOÀN THƯỢNG",
+       "lines": [
+        [
+         "d",
+         "Chuẩn bị quân."
+        ]
+       ]
+      },
+      {
+       "k": "arrow",
+       "t": "Đoàn Văn Lôi xuất hiện, đứng cạnh. Chiếu phong Hầu vẫn nằm trên bàn — không ai cầm lên, không ai đọc lại."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "Ý NGHĨA CHÍNH TRỊ",
+       "t": "Đoàn Thượng không trung thành mù quáng. Ông sử dụng chính danh của triều đình khi nó phục vụ lợi ích của Hồng Châu. Chiếu phong Hầu không phải phần thưởng — nó là một công cụ, được gấp lại và cất đi như bất kỳ văn kiện hành chính nào khác."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Lạnh hơn S01–S02 — sứ giả mang theo sự trang trọng của triều đình. Một luồng sáng trực tiếp duy nhất rọi vào con dấu trên chiếu chỉ."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tối giản: tiếng giấy chiếu chỉ, bước chân Đoàn Văn Lôi bước vào từ xa."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Two-shot tĩnh cho đối thoại; close-up duy nhất của cảnh dành cho con dấu của vua trên chiếu — không phải gương mặt Đoàn Thượng."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Đoàn Thượng không mỉm cười khi nhận chiếu chỉ. Cử chỉ gấp chiếu và trao đi phải nhanh, thực dụng — như xử lý một văn kiện, không phải nhận một ân sủng."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Không có nhạc — sự vắng mặt nhấn vào tính toán chính trị."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "1 phút."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NGUỒN",
+       "t": "[ĐVSL]: Sau sự kiện Quảng Điểm, Đoàn Thượng và Đoàn Văn Lôi nói với vua rằng Tự Khánh đem quân về kinh có ý mưu đồ phế lập; Huệ Tông nổi giận, hạ chiếu các đạo quân đánh Tự Khánh và giáng Nguyên phi xuống Ngự nữ."
+      }
+     ],
+     "chips": [
+      "dt",
+      "lht"
+     ],
+     "set": "Quan_nha_tranh"
+    }
+   ]
+  },
+  {
+   "t": "ACT III — BẢN ĐỒ BỊ VIẾT LẠI",
+   "time": "4:15–6:15",
+   "intro": [
+    {
+     "k": "p",
+     "t": "Thời gian: 2 phút. Trung tâm cảm xúc và hình ảnh của tập. S05 là scene mẫu (signature scene) định hình toàn bộ ngôn ngữ điện ảnh của Arc II: mưu tính chính trị không được giải thích, mà được vật chất hóa qua hành động camera có thể đọc được."
+    }
+   ],
+   "scenes": [
+    {
+     "id": "S05",
+     "t": "Hắn Không Dừng Lại",
+     "time": "4:15–5:15",
+     "loc": "LOC-A · Hồng Châu — bàn bản đồ · Interior / 1211–1212",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Bỏ hoàn toàn montage người báo tin kiểu cũ. Toàn bộ cảnh diễn ra tại bàn bản đồ, qua năm nhịp lặp lại: gia thần viết chữ → đưa cho Đoàn Thượng → ông đặt sỏi. Nhịp lặp lại là ngôn ngữ chính — không cần thoại."
+      },
+      {
+       "k": "slug",
+       "t": "INTERIOR — BÀN BẢN ĐỒ — NHIỀU LẦN"
+      },
+      {
+       "k": "arrow",
+       "t": "Bàn bản đồ: giấy dó, chữ địa danh, các viên sỏi rải theo từng vùng. Đoàn Thượng đứng trước bản đồ. Gia thần đứng bên cạnh — bút lông, nghiên mực, một chén mực đỏ, một chén mực đen."
+      },
+      {
+       "k": "head",
+       "t": "NHỊP 1"
+      },
+      {
+       "k": "arrow",
+       "t": "Gia thần nhận tin từ một người đưa tin — trao đổi rất ngắn, không nghe được lời."
+      },
+      {
+       "k": "arrow",
+       "t": "Gia thần chấm mực đen, viết lên sỏi: 陳."
+      },
+      {
+       "k": "arrow",
+       "t": "Đưa cho Đoàn Thượng."
+      },
+      {
+       "k": "arrow",
+       "t": "Đoàn Thượng lấy viên sỏi đang đại diện cho thế lực cũ tại vùng đó ra khỏi bản đồ."
+      },
+      {
+       "k": "arrow",
+       "t": "Đặt viên sỏi mới, với chữ 陳, xuống."
+      },
+      {
+       "k": "head",
+       "t": "NHỊP 2"
+      },
+      {
+       "k": "arrow",
+       "t": "Gia thần viết tiếp — nhanh hơn. Đưa. Đoàn Thượng đặt."
+      },
+      {
+       "k": "head",
+       "t": "NHỊP 3"
+      },
+      {
+       "k": "arrow",
+       "t": "Lại viết. Lại đặt."
+      },
+      {
+       "k": "head",
+       "t": "NHỊP 4"
+      },
+      {
+       "k": "arrow",
+       "t": "Lại viết — nhưng lần này khuôn mặt gia thần bắt đầu sợ. Tay hơi khựng lại trước khi hạ bút."
+      },
+      {
+       "k": "head",
+       "t": "NHỊP 5"
+      },
+      {
+       "k": "arrow",
+       "t": "Viết. Đưa. Đặt. Viết. Đưa. Đặt. Viết. Đưa. Đặt. — không thoại, chỉ: bút trên giấy, sỏi chạm bàn, sỏi bị lấy ra, sỏi Trần thay vào."
+      },
+      {
+       "k": "arrow",
+       "t": "Camera lúc này không nhìn Đoàn Thượng nữa — nhìn gia thần. Sắc mặt ông thay đổi: từ bình tĩnh, sang bất an, sang kinh hãi."
+      },
+      {
+       "k": "arrow",
+       "t": "TOP SHOT toàn bộ bản đồ: các vùng quanh Hồng Châu gần như đã thành 陳 hết. Hồng Châu nằm giữa — một khoảng trống."
+      },
+      {
+       "k": "arrow",
+       "t": "CLOSE-UP ĐOÀN THƯỢNG — lần đầu tiên trong scene. Không sợ. Không giận. Không kinh ngạc. Hiểu. Camera đi vào mắt ông."
+      },
+      {
+       "k": "p",
+       "t": "CUT."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "Ý NGHĨA CHÍNH TRỊ",
+       "t": "Đây là khoảnh khắc quyền kiểm soát thực tế của toàn vùng chuyển từ nhiều thế lực nhỏ sang một thế lực duy nhất. Không phải một vùng đất \"thất thủ\" — đây là sự chuyển dịch bản đồ quyền lực diễn ra trước mắt Đoàn Thượng, theo thời gian thực, trong một căn phòng, không một tiếng súng nào được nghe thấy."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Cùng bàn bản đồ nhưng ánh sáng thu hẹp dần qua từng nhịp — như vòng đèn đang siết lại quanh Hồng Châu trên giấy."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Bút lông trên giấy, sỏi chạm gỗ — nhịp hai âm thanh này nhanh dần qua năm nhịp, trở thành nhịp trống của chính cảnh."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Theo đúng trình tự: tay gia thần viết → mặt gia thần → top shot toàn bản đồ → mắt Đoàn Thượng. Không cắt sang Đoàn Thượng cho đến top shot."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Gia thần: chuyển biến sắc mặt dần dần qua 5 nhịp, không đột ngột. Đoàn Thượng: hoàn toàn bất động cho đến close-up cuối — khi đó chỉ ánh mắt thay đổi."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Trống đất tăng nhịp theo tốc độ viết/đặt sỏi — gãy nhịp nhiều nhất trong toàn tập ở đây. Dừng hẳn đúng lúc top shot xuất hiện. Một nhịp duy nhất, chậm, khi camera vào mắt Đoàn Thượng."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "1 phút."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "SCENE MẪU của toàn Arc II. Nếu S05 đúng như concept này, đây là chìa khóa xử lý toàn bộ Arc II: mưu tính chính trị không được giải thích, mà được vật chất hóa thành hành động mà camera có thể đọc được."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NGUỒN",
+       "t": "[ĐVSL]: Tự Khánh hai lần đánh bại tướng của Đoàn Ma Lôi ở Đọi Sơn, kiểm soát Lý Nhân và tìm cách liên kết với Nguyễn Tự để đối phó thế lực họ Đoàn. Đầu 1212, Tự Khánh và Nguyễn Tự gặp nhau ở Triều Đông, thề kết minh và phân chia địa bàn."
+      }
+     ],
+     "chips": [
+      "dt"
+     ],
+     "set": "Quan_nha_tranh"
+    },
+    {
+     "id": "S06",
+     "t": "Tế Giang",
+     "time": "5:15–6:15",
+     "loc": "LOC-A · Hồng Châu (bàn bản đồ) + LOC-C · Thăng Long · Interior + Exterior / Cuối 1211",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Quyền lực tiến đến ngai vàng. Sau S05, khán giả đã hiểu Hồng Châu đang bị ép từ bên ngoài; S06 mở rộng scale — Tự Khánh đang tiến gần trung tâm nhà Lý. Vẫn không cho Tự Khánh POV. Không dùng montage đối xứng Hồng Châu ⇄ Thăng Long — dựng thành một chuỗi thu hẹp không gian liên tục, để quy mô tự co lại thay vì được giải thích."
+      },
+      {
+       "k": "p",
+       "t": "CHUỖI THU HẸP KHÔNG GIAN — MAP → CITY → GATE → CORRIDOR → PALACE → COFFINS"
+      },
+      {
+       "k": "arrow",
+       "t": "MAP: bản đồ rộng, trải kín khung hình. Ngón tay Đoàn Thượng chạm vào một điểm — Tế Giang."
+      },
+      {
+       "k": "p",
+       "t": "CUT."
+      },
+      {
+       "k": "arrow",
+       "t": "CITY: Thăng Long từ xa, một dải thành quách."
+      },
+      {
+       "k": "p",
+       "t": "CUT."
+      },
+      {
+       "k": "arrow",
+       "t": "GATE: một cánh cửa thành đóng lại."
+      },
+      {
+       "k": "p",
+       "t": "CUT."
+      },
+      {
+       "k": "arrow",
+       "t": "CORRIDOR: một hành lang hẹp trong cung, không một bóng người."
+      },
+      {
+       "k": "p",
+       "t": "CUT."
+      },
+      {
+       "k": "arrow",
+       "t": "PALACE: cửa cung đóng. Huệ Tông nhìn ra ngoài — chỉ một khung cửa nhỏ."
+      },
+      {
+       "k": "p",
+       "t": "CUT."
+      },
+      {
+       "k": "arrow",
+       "t": "COFFINS: ba chiếc quan tài nhỏ được khiêng ra khỏi cung. Không lời thoại."
+      },
+      {
+       "k": "arrow",
+       "t": "Không ai nói \"Tự Khánh đang đến gần.\" Khoảng cách tự thu hẹp qua từng cú cắt tự nói điều đó. Đoàn Thượng không chứng kiến — ông, và khán giả, chỉ thấy đây như một tin tức tiếp theo."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "Ý NGHĨA CHÍNH TRỊ",
+       "t": "Mỗi cú cắt trong chuỗi MAP → CITY → GATE → CORRIDOR → PALACE → COFFINS thu hẹp không gian lại một bậc — từ một vùng đất xuống còn một hành lang, một cánh cửa, một chiếc quan tài. Đây là cách hình ảnh hóa việc trung tâm quyền lực đang bị bóp nghẹt, thay vì để Hồng Châu và Thăng Long đối chiếu ngang hàng qua montage cắt qua cắt lại — vốn dễ trở thành cơ học khi dựng phim. Ba cỗ quan tài là hậu quả của một trung tâm quyền lực đã mất khả năng kiểm soát tình hình, không phải một cú sốc kịch tính được dàn dựng để gây sợ hãi."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Ánh sáng thu hẹp dần theo không gian: MAP sáng rõ, CITY chiều tà, GATE và CORRIDOR ngả dần sang xanh lạnh, PALACE và COFFINS gần như chỉ còn một nguồn sáng duy nhất."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Mỗi cú cắt giữ một lớp âm thanh riêng, ngày càng thu hẹp: gió ngoài bản đồ → tiếng thành phố xa → tiếng cửa đóng → im lặng hành lang → tiếng bước chân trong cung → hoàn toàn im lặng cho cảnh quan tài."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Sáu shot tĩnh, không di chuyển máy trong bất kỳ shot nào — chỉ cú cắt tạo nhịp thu hẹp. Không có shot nào lặp lại kích cỡ khung hình của shot trước nó; mỗi cú cắt phải khung hẹp hơn cú trước."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Cảnh quan tài không nhấn vào diễn viên nào cụ thể — wide, xa, tiết chế."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Im lặng hoàn toàn trong cảnh quan tài. Trống đất không trở lại cho đến S07."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "1 phút."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "Nguyên tắc không-POV-Tự-Khánh giữ nguyên ngay cả ở thời điểm ông tiến gần ngai vàng nhất."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "— DỰNG PHIM Concept không đổi so với bản trước — chỉ đổi cách dựng: từ montage đối xứng Hồng Châu ⇄ Thăng Long (dễ thành cơ học) sang một chuỗi cắt một chiều, thu hẹp dần. Tuyệt đối không lặp lại một cỡ khung hình đã dùng."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NGUỒN",
+       "t": "[ĐVSL]: Cuối 1211 Tự Khánh kéo quân đến bến Tế Giang vì lo Trần Nhị Nương trong kinh bị hãm hại; Đàm Thái hậu nghi ông có ý phế lập; sau đó ba hoàng tử bị giết."
+      }
+     ],
+     "chips": [
+      "dt",
+      "lht"
+     ],
+     "set": "Quan_nha_tranh"
+    }
+   ]
+  },
+  {
+   "t": "ACT IV — HẠC KIỀU",
+   "time": "6:15–8:15",
+   "intro": [
+    {
+     "k": "p",
+     "t": "Thời gian: 2 phút. Climax. Đoàn Thượng buộc phải hành động — khán giả đã đi cùng ông từ S03 đến đây, không cần giải thích thêm tại sao."
+    }
+   ],
+   "scenes": [
+    {
+     "id": "S07",
+     "t": "Hạc Kiều",
+     "time": "6:15–8:15",
+     "loc": "LOC-D · Hạc Kiều · Exterior / Ngày, 1213",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Trận chiến phải kể bằng sự tan vỡ của tổ chức, không phải bằng số lượng người chết. Không cho Tự Khánh POV. Trần Thủ Độ và Nguyễn Nộn chỉ xuất hiện như bóng người trong đội hình — không hero shot, không giới thiệu, không thoại."
+      },
+      {
+       "k": "slug",
+       "t": "EXTERIOR — HẠC KIỀU — NGÀY"
+      },
+      {
+       "k": "arrow",
+       "t": "Quân Hồng tiến cùng quân triều đình."
+      },
+      {
+       "k": "dlg",
+       "who": "ĐOÀN VĂN LÔI",
+       "lines": [
+        [
+         "d",
+         "Quân Trần ở đâu?"
+        ]
+       ]
+      },
+      {
+       "k": "dlg",
+       "who": "MỘT NGƯỜI",
+       "lines": [
+        [
+         "d",
+         "Hạc Kiều."
+        ]
+       ]
+      },
+      {
+       "k": "p",
+       "t": "Đoàn Thượng nhìn về phía trước. Không nói."
+      },
+      {
+       "k": "head",
+       "t": "BAN ĐẦU — TRẬT TỰ"
+      },
+      {
+       "k": "arrow",
+       "t": "Đội hình. Trống. Cờ. Hiệu lệnh. Hàng quân — mọi thứ còn nguyên vẹn."
+      },
+      {
+       "k": "head",
+       "t": "SAU ĐÓ — TAN VỠ"
+      },
+      {
+       "k": "arrow",
+       "t": "Đội hình vỡ. Cờ mất. Người chạy. Tiếng gọi chồng chéo. Trống đứt."
+      },
+      {
+       "k": "arrow",
+       "t": "Quân Trần triển khai; Trần Thủ Độ xuất hiện ở một cánh quân — chỉ là một bóng người trong đội hình, không cận cảnh; Nguyễn Nộn ở Bắc Giang, cũng chỉ thoáng qua."
+      },
+      {
+       "k": "arrow",
+       "t": "Quân Hồng bị đánh bật. Đoàn Cấm và Vũ Hốt bị đánh bại. Quân triều đình tan vỡ. Huệ Tông rút chạy."
+      },
+      {
+       "k": "arrow",
+       "t": "Đoàn Thượng cố giữ đội hình. Không thể."
+      },
+      {
+       "k": "dlg",
+       "who": "MỘT THUỘC TƯỚNG",
+       "lines": [
+        [
+         "d",
+         "Chủ tướng!"
+        ]
+       ]
+      },
+      {
+       "k": "p",
+       "t": "Đoàn Thượng nhìn chiến trường."
+      },
+      {
+       "k": "dlg",
+       "who": "ĐOÀN THƯỢNG",
+       "lines": [
+        [
+         "d",
+         "Về Hồng."
+        ]
+       ]
+      },
+      {
+       "k": "p",
+       "t": "Không hét. Không bi kịch. Không heroic. Một quyết định đã được hình thành từ đầu tập."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "Ý NGHĨA CHÍNH TRỊ",
+       "t": "Trận Hạc Kiều không phải một thất bại quân sự đơn thuần — đó là bằng chứng cuối cùng rằng không ai, kể cả triều đình, còn kiểm soát được toàn bộ cuộc chơi. \"Về Hồng\" là câu trả lời của một người đã hiểu điều đó từ S05, không phải một phản xạ trên chiến trường."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Nắng gắt mở đầu, dần bị bụi và khói che phủ khi trận tan vỡ — gần như đơn sắc vào lúc rút lui."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Thiết kế âm thanh chiến trận đầy đủ duy nhất của tập — xây dựng đến điểm gãy cụ thể: trống trận và hiệu lệnh có tổ chức vỡ thành hỗn loạn."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Bao quát rộng, hỗn loạn, luôn từ bên trong đội hình Đoàn Thượng — không cắt sang góc nhìn Trần Thủ Độ hay Nguyễn Nộn. Ở câu \"Về Hồng\": cắt cứng sang cận cảnh."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "\"Về Hồng\" phải được nói phẳng, không phẫn nộ, không bi lụy."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Trống đất trở lại xuyên suốt trận, vẫn gãy nhịp — ở câu \"Về Hồng\", nó hoàn thành trọn vẹn lần đầu tiên: cụm năm nốt đầy đủ, một lần, thấp."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "2 phút."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "Lần đầu Trần Thủ Độ xuất hiện trong series — chỉ thoáng qua, không thoại, không cận cảnh. Giới thiệu đầy đủ dành cho tập riêng của ông sau này."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NGUỒN",
+       "t": "[ĐVSL]: Năm 1213, Trần Thủ Độ gặp quân Đoàn Thượng, Đoàn Văn Lôi, Đoàn Khả Như; quân Hồng thua và chạy về Bắc. Sau đó Huệ Tông cùng Thái hậu chạy về Lạng Châu. [KHÁC NHAU]: Toàn thư ghi khái quát hơn, dựa chủ yếu vào Đại Việt sử lược cho phần chiến trường chi tiết."
+      }
+     ],
+     "chips": [
+      "dt",
+      "lht"
+     ],
+     "set": "Cau_co_mai"
+    }
+   ]
+  },
+  {
+   "t": "ACT V — HỒNG CHÂU",
+   "time": "8:15–9:30",
+   "intro": [
+    {
+     "k": "p",
+     "t": "Thời gian: 1 phút 15 giây. Final image. Ít thoại hơn bản trước — chỉ là hậu quả, và một cánh cổng đóng lại."
+    }
+   ],
+   "scenes": [
+    {
+     "id": "S08",
+     "t": "Rút Về Hồng",
+     "time": "8:15–9:30",
+     "loc": "LOC-A · Hồng Châu — cổng thành · Exterior / Cuối 1213",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Không có trận đánh cuối. Không thoại. Toàn bộ EP07 đã nói đủ rồi — nếu còn thêm một câu giải thích payoff, sẽ giống screenplay đang nói hộ khán giả. Để khán giả tự nói câu đó trong đầu."
+      },
+      {
+       "k": "slug",
+       "t": "EXTERIOR — CỔNG HỒNG CHÂU — CHIỀU, CUỐI 1213"
+      },
+      {
+       "k": "arrow",
+       "t": "Quân Hồng trở về. Người bị thương. Ngựa mệt. Cờ rách."
+      },
+      {
+       "k": "arrow",
+       "t": "Đoàn Thượng đi sau cùng hoặc gần cuối đoàn quân."
+      },
+      {
+       "k": "arrow",
+       "t": "Hồng Châu hiện ra. Cổng mở. Quân tiến vào. Đoàn Thượng bước vào."
+      },
+      {
+       "k": "arrow",
+       "t": "Ông quay lại. Không thấy quân Trần — chỉ thấy khói ở rất xa."
+      },
+      {
+       "k": "arrow",
+       "t": "Cổng đóng."
+      },
+      {
+       "k": "p",
+       "t": "CUT TO BLACK."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "Ý NGHĨA CHÍNH TRỊ",
+       "t": "Bản đồ mở tập là thế giới đang thay đổi. Cổng đóng tập là thế giới Đoàn Thượng chọn giữ lại. Ông không thắng, không thua theo nghĩa thông thường — ông chỉ giữ được điều duy nhất vẫn còn nằm trong tay mình. Cánh cổng chính là câu cuối cùng — không cần thêm lời nào sau \"Về Hồng\" ở S07."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Chiều tà, ánh xám tro trên cánh đồng vừa rời khỏi; ánh đuốc ấm từ trong cổng khi đoàn quân bước qua."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Đoàn quân kiệt sức — vó ngựa, vải áo, không một lời từ đầu đến cuối cảnh. Tiếng cổng đóng là âm thanh cuối cùng và lớn nhất của tập."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Kéo dần lên thành một wide shot cao khi cổng đóng — mirror-shot đảo ngược với hình ảnh bản đồ mở tập: bản đồ cho thấy thế giới đang bị viết lại từ trên; ở đây, cánh cổng khép lại bên dưới, niêm phong thế giới đó khỏi thế giới vừa cố định đoạt nó."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Đoàn Thượng không nói, không quay lại nhìn ai, không có cử chỉ nào cần diễn thêm sau khi cổng đóng. Gương mặt giữ nguyên trạng thái từ \"Về Hồng\" — một quyết định đã xong, không cần xác nhận lại."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Một nốt trống đất duy nhất, giữ lại khi cổng đóng, rồi im lặng hoàn toàn."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "1 phút 15 giây."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "— PAYOFF Câu trích mở đầu xuất hiện lại rất nhỏ trên khung hình khi cổng đóng — không đọc thành lời — rồi mờ dần trước credit."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "— TÙY CHỌN DỰNG PHIM Có thể test một bản dựng không có opening quote, để so sánh nhịp mở tập trước khi khóa bản cuối."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NGUỒN",
+       "t": "[ĐVSL]: Quân Hồng sau thất bại rút về phía Bắc/Hồng. [SUY DIỄN KỊCH BẢN]: hình ảnh cổng Hồng Châu đóng lại, không thoại."
+      }
+     ],
+     "chips": [
+      "dt"
+     ],
+     "set": "Thang_Long_kinh_thanh"
+    }
+   ]
+  }
+ ],
+ "back": [
+  {
+   "k": "head",
+   "t": "PRODUCTION NOTES — NHỮNG ĐIỂM CẦN GIỮ"
+  },
+  {
+   "k": "head",
+   "t": "1. Đánh số tập chính xác"
+  },
+  {
+   "k": "p",
+   "t": "EP07 — tập mở đầu Arc II. Không phải EP08. Sửa lại toàn bộ tham chiếu nội bộ, file name, và mọi tài liệu liên quan (scene index, character brief, production sequence)."
+  },
+  {
+   "k": "head",
+   "t": "2. Runtime khóa 9:30 — không còn discrepancy"
+  },
+  {
+   "k": "p",
+   "t": "Scene Index và timing chi tiết của từng scene khớp tuyệt đối, khóa trước khi vào production."
+  },
+  {
+   "k": "head",
+   "t": "3. Tự Khánh không bao giờ xuất hiện về visual"
+  },
+  {
+   "k": "p",
+   "t": "Khóa tuyệt đối cho toàn bộ Arc II — không hình, không gương mặt, không dáng người, không bóng, không reaction shot, không ngoại lệ. Mở rộng cả sang lần đầu Trần Thủ Độ xuất hiện ở S07: chỉ thoáng qua, không thoại, không cận cảnh. Giọng nói (O.S./V.O.) là công cụ tùy chọn theo chủ đích từng sequence — có thể dùng hoặc không, tùy quyết định của đạo diễn từng tập — nhưng không bao giờ đi kèm hình ảnh của ông. EP07 S03 (\"Mở Nước\") là lần đầu dùng công cụ này."
+  },
+  {
+   "k": "head",
+   "t": "4. Bốn motif khóa lại: BẢN ĐỒ, SỎI, MỰC, TRỐNG ĐẤT"
+  },
+  {
+   "k": "p",
+   "t": "Bản đồ = thế giới đang thay đổi; cổng Hồng Châu = thế giới được giữ lại. Sỏi = political consolidation nhìn thấy được. Mực đỏ (Lý) ngày càng vô nghĩa thực tế trong khi mực đen (Trần) ngày càng lan rộng — Hồng dùng cùng màu mực với Trần vì cả hai đều là quyền lực thực địa, không phải danh nghĩa. Trống đất kế thừa từ EP02 nhưng bị bẻ gãy nhịp cho đến khi hoàn chỉnh ở \"Về Hồng\", rồi tắt hẳn khi cổng đóng."
+  },
+  {
+   "k": "head",
+   "t": "5. Close-up rule mới"
+  },
+  {
+   "k": "p",
+   "t": "Không còn giới hạn cứng số lượng — close-up chỉ xuất hiện khi mang một thông tin mà wide/medium không truyền tải đủ. Bảy close-up khóa lại cho EP07 (xem mục Visual Grammar)."
+  },
+  {
+   "k": "head",
+   "t": "6. Hai lớp kịch bản — SCREENPLAY và Ý NGHĨA CHÍNH TRỊ"
+  },
+  {
+   "k": "p",
+   "t": "Áp dụng từ EP07 trở đi cho toàn bộ Arc II. Lớp ý nghĩa chính trị không bao giờ được phép biến thành narration hay dialogue trên màn hình — chỉ là tài liệu nội bộ cho đoàn làm phim."
+  },
+  {
+   "k": "head",
+   "t": "7. S05 là scene mẫu (signature scene) của toàn Arc II"
+  },
+  {
+   "k": "p",
+   "t": "Nếu S05 đúng như concept — mưu tính chính trị được vật chất hóa qua bút, mực, sỏi và bản đồ thay vì được giải thích bằng lời — đây là chìa khóa ngôn ngữ điện ảnh cho mọi tập tiếp theo của Arc II."
+  },
+  {
+   "k": "head",
+   "t": "8. S03 — mirror hình ảnh trực tiếp với EP02 S06 và S08"
+  },
+  {
+   "k": "p",
+   "t": "Đoạn đê bị nhấn chìm phải là cùng địa điểm dựng cảnh với EP02 (Sửa Đê) — cùng góc gò đất cao ông từng đứng nhìn khi đê giữ được. Trong chính dòng nước đó, bà lão đã quỳ xin Đoàn Thượng đừng bỏ mặc họ ở EP02 S08 (Midpoint) nay xuất hiện đã chết, mắc kẹt trong gỗ vỡ — cùng diễn viên, cùng phục trang để continuity rõ ràng. Toàn bộ tâm lý nhân vật dồn vào một chi tiết duy nhất: một giọt nước mắt, không tiếng khóc, không lời thoại, không VO giải thích. Đây là lần đầu Arc II dùng lại cả địa điểm lẫn nhân vật phụ của Arc I để đảo nghĩa hình ảnh."
+  },
+  {
+   "k": "hr"
+  },
+  {
+   "k": "center",
+   "t": "— HẾT SCRIPT EP07 v2 —"
+  },
+  {
+   "k": "center",
+   "t": "TIẾP THEO: EP08"
+  }
+ ],
+ "cast": [
+  "lct",
+  "dt",
+  "pd",
+  "lht",
+  "linh"
+ ],
+ "rev": 1
+}

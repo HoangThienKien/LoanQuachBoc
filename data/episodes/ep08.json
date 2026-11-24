@@ -1,0 +1,2318 @@
+{
+ "id": "ep08",
+ "code": "EP08",
+ "title": "Lý Huệ Tông",
+ "sub": "Người Muốn Buông",
+ "arc": "Arc II",
+ "meta": "9:50 · 16 scenes · 5 locations",
+ "front": [
+  {
+   "k": "head",
+   "t": "NHÂN VẬT"
+  },
+  {
+   "k": "p",
+   "t": "Lý Huệ Tông (Thái tử Lý Sảm trong Special Event) · Đàm Thái hậu · Trần Nhị Nương (chỉ xuất hiện cuối tập) · các quan (không tên) · người truyền tin · người báo"
+  },
+  {
+   "k": "p",
+   "t": "tin."
+  },
+  {
+   "k": "head",
+   "t": "KHÔNG XUẤT HIỆN TRỰC DIỆN"
+  },
+  {
+   "k": "p",
+   "t": "Trần Tự Khánh. Sự hiện diện của ông được thể hiện qua những gì ông gửi đi, trả lại, những mệnh lệnh được thực thi và sự phụ thuộc ngày càng rõ của triều đình"
+  },
+  {
+   "k": "p",
+   "t": "vào ông."
+  },
+  {
+   "k": "head",
+   "t": "HẠT NHÂN CỦA TẬP (dành cho writer's room, không phải lời thoại)"
+  },
+  {
+   "k": "p",
+   "t": "Một người ngày càng nắm quyền lực nhưng không bước lên ngai. Một vị vua vẫn còn ngai nhưng bắt đầu muốn rời khỏi nó."
+  },
+  {
+   "k": "head",
+   "t": "SCENE INDEX · EP08"
+  },
+  {
+   "k": "p",
+   "t": "Danh sách đầy đủ 16 scenes theo thứ tự phát sóng."
+  },
+  {
+   "k": "head",
+   "t": "Scene Thời gian Tên LOC Chương / Ghi chú"
+  },
+  {
+   "k": "p",
+   "t": "S01 0:00-0:40 Kinh Thành LOC-A I / Kinh thành sau hỏa hoạn, zoom"
+  },
+  {
+   "k": "center",
+   "t": "out rồi zoom in"
+  },
+  {
+   "k": "p",
+   "t": "S02 0:40-1:15 Triều Đình Trong Nhà LOC-B I / Cung điện mất, nghi lễ còn"
+  },
+  {
+   "k": "center",
+   "t": "Tranh"
+  },
+  {
+   "k": "p",
+   "t": "S03 1:15-1:45 Lọn Tóc LOC-B I / Tóc gửi về phía nhà vua"
+  },
+  {
+   "k": "p",
+   "t": "S04 1:45-2:15 Cánh Cửa LOC-B I / Bị chặn không bằng bạo lực"
+  },
+  {
+   "k": "p",
+   "t": "S05 2:15-3:10 Cải Lập LOC-D + LOC-B I / Một vị vua khác được lập"
+  },
+  {
+   "k": "p",
+   "t": "S06 3:10-3:45 Chiếu LOC-B II / Quyền lực còn trên giấy"
+  },
+  {
+   "k": "p",
+   "t": "S07 3:45-4:20 Mệnh Lệnh LOC-D II / Montage, chiếu đi qua nhiều"
+  },
+  {
+   "k": "center",
+   "t": "tay"
+  },
+  {
+   "k": "p",
+   "t": "S08 4:20-4:55 Huệ Tông Muốn Nhường Ngôi LOC-B II / Huệ Tông nói ra điều mình"
+  },
+  {
+   "k": "center",
+   "t": "muốn"
+  },
+  {
+   "k": "p",
+   "t": "S09 4:55-5:35 Cắt Tóc LOC-B (buồng II / Cảnh khóa: camera chỉ giữ Huệ"
+  },
+  {
+   "k": "center",
+   "t": "trong) Tông"
+  },
+  {
+   "k": "p",
+   "t": "S10 5:35-6:00 Bình Thiên LOC-B III / Biểu tượng trở lại"
+  },
+  {
+   "k": "p",
+   "t": "S11 6:00-6:35 Điện Cỏ / Kim Ỷ LOC-C III / Điện mới, không phải nhà"
+  },
+  {
+   "k": "center",
+   "t": "tranh"
+  },
+  {
+   "k": "p",
+   "t": "S12 6:35-7:10 Ngôi LOC-C III / Ngồi xuống, camera zoom out"
+  },
+  {
+   "k": "head",
+   "t": "Scene Thời gian Tên LOC Chương / Ghi chú"
+  },
+  {
+   "k": "p",
+   "t": "S13 7:10-7:45 Đỗ Nhuế LOC-C IV / Cần lực lượng mà mình không"
+  },
+  {
+   "k": "center",
+   "t": "có"
+  },
+  {
+   "k": "p",
+   "t": "S14 7:45-8:20 Xin Quân LOC-D IV / Nhà vua sai sứ đi xin"
+  },
+  {
+   "k": "p",
+   "t": "S15 8:20-9:05 Văn Thư LOC-E IV / Hai cụm chữ được lấy nét"
+  },
+  {
+   "k": "p",
+   "t": "S16 9:05-9:50 Bóng Tối Và Ngọn Đèn LOC-E IV / Trần Nhị Nương, cut to black"
+  },
+  {
+   "k": "head",
+   "t": "LOCATION BREAKDOWN · 5 SETS"
+  },
+  {
+   "k": "p",
+   "t": "Không gian của EP08 thu nhỏ dần: kinh thành, nhà tranh, điện cỏ, một căn phòng đêm. LOC-D là không gian của quyền lực khác, nơi mệnh lệnh và tin tức đi qua."
+  },
+  {
+   "k": "head",
+   "t": "LOC-A  KINH THÀNH ĐỔ NÁT"
+  },
+  {
+   "k": "p",
+   "t": "Thăng Long sau cuộc tấn công và hỏa hoạn 1214. Cùng thành phố với EP01 S01 (vàng hồng, bình minh) và với aerial cuối Special Event (khói sau đêm loạn), lần này là phần còn lại. Ánh sáng đục, desaturated nhưng chưa nặng bằng EP05 S01."
+  },
+  {
+   "k": "head",
+   "t": "Scenes  S01 · Tổng runtime: 40 giây · Exterior / Ngày đục"
+  },
+  {
+   "k": "head",
+   "t": "LOC-B  NHÀ TRANH"
+  },
+  {
+   "k": "p",
+   "t": "Nơi triều đình còn tồn tại khi cung điện mất. Hai sub-set: (1) gian thiết triều: mái tranh thấp, cột gỗ thô, nền đất nện, một chiếc ghế gỗ kê cao một bậc làm ngai, bàn án; (2) buồng trong, nhỏ, yên, dùng riêng cho S09. Không định vị nhà tranh ở kinh thành hay nơi lánh nạn."
+  },
+  {
+   "k": "p",
+   "t": "Scenes  S02, S03, S04, S05 (phần cuối), S06, S08, S09, S10 · Tổng runtime: khoảng 4 phút 10 giây · Interior / Ngày"
+  },
+  {
+   "k": "head",
+   "t": "LOC-C  ĐIỆN CỎ"
+  },
+  {
+   "k": "p",
+   "t": "Điện mới dựng tháng 12 năm 1215 trong vườn nhà Đỗ An. Khác nhà tranh về vật liệu (cỏ mới, vàng sạch), về cấu trúc (hàng cột thẳng, bậc thềm, cố gắng có hình của một điện), và về vị trí (giữa một khu vườn). Là sự tiếp nối hình ảnh của nhà tranh, không phải chính nhà tranh."
+  },
+  {
+   "k": "p",
+   "t": "Scenes  S11, S12, S13 · Tổng runtime: 1 phút 45 giây · Interior + Exterior / Ngày"
+  },
+  {
+   "k": "head",
+   "t": "LOC-D  KHÔNG GIAN CỦA MỆNH LỆNH"
+  },
+  {
+   "k": "p",
+   "t": "Các không gian trung chuyển: một đại sảnh còn đứng được nơi triều đình mới được tổ chức lại (S05), cổng, đường, sân (S07), khu trại ngoài điện cỏ và con đường ra chân trời (S14). Đây là nơi tin và lệnh đi qua, không phải nơi ai ở."
+  },
+  {
+   "k": "p",
+   "t": "Scenes  S05 (phần đầu), S07, S14 · Tổng runtime: 1 phút 45 giây · Interior + Exterior / Ngày"
+  },
+  {
+   "k": "head",
+   "t": "LOC-E  PHÒNG ĐÊM"
+  },
+  {
+   "k": "p",
+   "t": "Một căn phòng nhỏ, gần như không có chi tiết kiến trúc: một bàn, một cửa sổ, nền. Càng ít định vị càng tốt. Chỉ có bóng tối, ánh trăng lạnh, rồi ánh đèn ấm."
+  },
+  {
+   "k": "head",
+   "t": "Scenes  S15, S16 · Tổng runtime: 1 phút 30 giây · Interior / Đêm"
+  },
+  {
+   "k": "head",
+   "t": "PRODUCTION SEQUENCE · THỨ TỰ SẢN XUẤT ĐỀ XUẤT"
+  },
+  {
+   "k": "p",
+   "t": "Gom theo set và theo ánh sáng. LOC-B là set nhiều scene nhất; quay liên tục để giữ continuity của nhà tranh, nhưng S08 cần hàng quan thưa hơn S02."
+  },
+  {
+   "k": "head",
+   "t": "Ngày Scenes Ghi chú"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 1 S02, S03, S04, S05 (phần cuối) LOC-B gian thiết triều. Liên tục, cùng ánh sáng xám lạnh. Khung tham chiếu top-down của S03 phải được ghi"
+  },
+  {
+   "k": "center",
+   "t": "lại cho S09."
+  },
+  {
+   "k": "p",
+   "t": "Ngày 2 S06, S08, S10 LOC-B, cùng set. Đổi số lượng quan cho S08. S10 quay"
+  },
+  {
+   "k": "center",
+   "t": "riêng phần mũ Bình Thiên."
+  },
+  {
+   "k": "head",
+   "t": "Ngày 3 S09 LOC-B buồng trong. Setup riêng, chỉ một diễn viên"
+  },
+  {
+   "k": "center",
+   "t": "trong khung. Quay đúng khung top-down khớp S03."
+  },
+  {
+   "k": "p",
+   "t": "Ngày 4 S11, S12, S13 LOC-C điện cỏ. S12 cần zoom out liên tục ra ngoài"
+  },
+  {
+   "k": "center",
+   "t": "vườn."
+  },
+  {
+   "k": "p",
+   "t": "Ngày 5 S05 (phần đầu), S07, S14 LOC-D. Nhiều cổng, đường, ngựa, extras. Hai tập hợp hình ảnh gương nhau: S05 tin đi vào, S07 lệnh đi ra."
+  },
+  {
+   "k": "p",
+   "t": "Ngày 6 S15, S16, S01 LOC-E đêm (S15, S16 quay liền nhau, cùng phòng). S01"
+  },
+  {
+   "k": "center",
+   "t": "quay ngoại cảnh cuối cùng."
+  },
+  {
+   "k": "head",
+   "t": "VỊ TRÍ CỦA TẬP"
+  },
+  {
+   "k": "p",
+   "t": "EP08 kể một chuyển động ngược: người nắm quyền lực thực tế không bao giờ bước vào khung hình, còn người còn ngai thì dần rời khỏi mọi thứ mà ngai đứng trên."
+  },
+  {
+   "k": "p",
+   "t": "Huệ Tông không được dựng như một người yếu. Ở Chương II ông vẫn ban chiếu, vẫn ngồi thẳng sau án, vẫn nói ra điều mình muốn. Điều thay đổi qua từng chương là khoảng cách giữa điều ông làm và điều thật sự xảy ra."
+  },
+  {
+   "k": "p",
+   "t": "Tập không có VO và không có thoại giải thích chính trị hay tâm lý. Toàn bộ nội dung nằm ở không gian, blocking, vật thể, khoảng cách và hành động. Bốn tuyến hình ảnh chạy suốt tập: kinh thành cháy, nhà tranh, điện cỏ (không gian thu nhỏ); tóc (Tự Khánh gửi về, Huệ Tông cắt đi); Bình Thiên, kim ỷ (biểu tượng còn, thế giới của biểu tượng mất); chiếu, xin quân (quyền pháp lý và quyền thực tế tách"
+  },
+  {
+   "k": "p",
+   "t": "nhau)."
+  },
+  {
+   "k": "p",
+   "t": "Nối với Arc I: Huệ Tông là Thái tử Lý Sảm trong Special Event, người cùng Đàm Thái hậu rời Thăng Long bằng thuyền và được Trần Lý đón ở Hải Ấp. Mũ Bình Thiên là chiếc mũ đã xuất hiện từ EP01."
+  }
+ ],
+ "acts": [
+  {
+   "t": "CHƯƠNG I · 1214: VỊ VUA KHÔNG CÒN KINH THÀNH",
+   "time": "0:00-3:10",
+   "intro": [
+    {
+     "k": "quote",
+     "lines": [
+      "夫唯不居，是以不去",
+      "Phù duy bất cư, thị dĩ bất khứ.",
+      "\"Chỉ vì không ở đó, nên không mất đi.\"",
+      "— Đạo Đức Kinh"
+     ]
+    },
+    {
+     "k": "lab",
+     "c": "note",
+     "l": "NOTE",
+     "t": "Quote hiện lên toàn bộ một lúc, trên nền đen, không âm thanh, trước bất kỳ hình ảnh nào (khoảng 6 giây, không tính vào runtime của scene). Quote không được nhắc lại trong thoại và không được giải thích. Khán giả tự đặt nó cạnh mong muốn buông của Huệ Tông. [ĐỀ XUẤT: outline chưa có opening quote, nhưng EP01 đến EP05 đều có. Phương án thay thế ở mục Điểm cần chốt.]"
+    },
+    {
+     "k": "p",
+     "t": "Thời gian: 3 phút 10 giây. Năm cảnh, mỗi cảnh một lớp: kinh thành mất (S01), nghi lễ còn trong nhà tranh (S02), lọn tóc gửi về (S03), một quyết định bị chặn (S04), một vị vua khác được lập (S05). Không có Tự Khánh trong hình. Không có lời giải thích."
+    }
+   ],
+   "scenes": [
+    {
+     "id": "S01",
+     "t": "KINH THÀNH",
+     "time": "0:00-0:40",
+     "loc": "LOC-A · Kinh thành Thăng Long sau tấn công và hỏa hoạn · Exterior / Ngày, ánh sáng đục",
+     "items": [
+      {
+       "k": "p",
+       "t": "Không mở bằng trận đánh: trận đánh đã là quá khứ. Khác EP05 S01 (bình nguyên không người, camera tĩnh trên cao): ở đây có một người, và camera đi từ chi tiết ra toàn cảnh rồi vào lại gương mặt ông. Khác EP01 S01 (Thăng Long vàng hồng): cùng một kinh thành, không còn màu."
+      },
+      {
+       "k": "slug",
+       "t": "EXTERIOR · KINH THÀNH · SAU HỎA HOẠN"
+      },
+      {
+       "k": "arrow",
+       "t": "Mở bằng một chi tiết nhỏ của đống đổ nát: một mảnh ngói vỡ, mặt men đen vì lửa."
+      },
+      {
+       "k": "arrow",
+       "t": "Khói mỏng còn bốc lên từ nhiều điểm. Không phải khói của lửa đang cháy mà của than đã tàn."
+      },
+      {
+       "k": "arrow",
+       "t": "Những khoảng trống từng là cung điện: nền đá còn nguyên, chân cột đá còn đứng, không còn mái. Nền đất cháy đen."
+      },
+      {
+       "k": "arrow",
+       "t": "Xa xa, một người đứng một mình: Huệ Tông. Khoảng cách đủ xa để ông chỉ là một hình dáng áo trắng giữa tro."
+      },
+      {
+       "k": "arrow",
+       "t": "Không có Tự Khánh. Không có quân lính. Không có Thái hậu."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Huệ Tông đứng yên. Hai tay buông thõng. Khi camera vào gần: ánh mắt quét chậm qua những gì còn lại rồi dừng. Không kinh hoàng, không giận. Diễn viên không được đặt tên cho điều ông đang cảm thấy."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "(1) Bắt đầu macro trên mảnh ngói. Slow zoom out liên tục: mảnh ngói, nền đá, khoảng trống của điện, cả khu kinh thành. Huệ Tông xuất hiện trong khung khi khung đã rộng. Càng rộng, ông càng nhỏ. (2) Giữ khung rộng nhất khoảng 3 giây. (3) Slow zoom in vào gương mặt ông, liên tục, không cắt, cho đến khi gương mặt chiếm khung. Giữ đúng khung hình này: đó là khung để match sang S02."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Ánh sáng đục, không thấy mặt trời. Desaturated nhưng nhẹ hơn EP05 S01: còn sót đỏ gạch của ngói cháy dở và xanh rêu trên đá, dấu vết cuối cùng của một thành phố từng có màu."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Im lặng 3 giây. Sau đó: gió. Một mảnh ngói lăn. Xa, một cấu kiện gỗ cháy dở đổ xuống, một lần, không vọng lại. Không chim, không người. Khi zoom vào mặt: nền gió mỏng dần, chỉ còn hơi thở của Huệ Tông."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Không có nhạc."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "40 giây. 0:00-0:25 zoom out; 0:25-0:28 giữ; 0:28-0:40 zoom in."
+      }
+     ],
+     "chips": [
+      "lht",
+      "tran"
+     ],
+     "set": "Thang_Long_kinh_thanh"
+    },
+    {
+     "id": "S02",
+     "t": "TRIỀU ĐÌNH TRONG NHÀ TRANH",
+     "time": "0:40-1:15",
+     "loc": "LOC-B · Nhà tranh, gian thiết triều · Interior / Ngày",
+     "items": [
+      {
+       "k": "p",
+       "t": "Cung điện đã mất nhưng nghi lễ vẫn còn. Cảnh phải cho khán giả thấy cả hai điều trong cùng một khung hình mà không cần ai nói."
+      },
+      {
+       "k": "slug",
+       "t": "INTERIOR · NHÀ TRANH · NGÀY"
+      },
+      {
+       "k": "arrow",
+       "t": "Mở đúng khung cận mặt Huệ Tông ở cuối S01: cùng cỡ khung, cùng hướng nhìn. Nền sau mặt ông đã đổi: mái tranh, tia sáng dọc lọt qua khe lợp."
+      },
+      {
+       "k": "arrow",
+       "t": "Camera pull back chậm. Một căn nhà tranh thấp, cột gỗ thô, nền đất nện. Một chiếc ghế gỗ thô, kê cao hơn nền một bậc, được dùng làm ngai. Đây không phải kim ỷ."
+      },
+      {
+       "k": "arrow",
+       "t": "Huệ Tông ngồi trên ghế. Đàm Thái hậu ngồi bên cạnh, hơi lùi phía sau vai ông."
+      },
+      {
+       "k": "arrow",
+       "t": "Các quan quỳ trước vua trong triều phục chỉnh tề. Đầu gối triều phục lấm đất."
+      },
+      {
+       "k": "arrow",
+       "t": "Một lần lạy đồng loạt, rồi im. Không ai nói."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "WARDROBE",
+       "t": "Huệ Tông: áo trắng thường phục (continuity). Gấu áo bẩn, có dấu xước, hơi rách. Tay và cổ áo còn dấu vết của cuộc chạy trốn. Tóc búi, vài sợi xổ. Tóc phải nguyên vẹn: S09 sẽ cắt một lọn."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Đàm Thái hậu: hiện diện, không diễn thêm. Bà nhìn thẳng phía trước, không nhìn Huệ Tông, không nhìn các quan."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Bắt đầu close-up mặt (match S01). Pull back đến medium wide: ghế, Huệ Tông, Thái hậu, hàng quan quỳ. Khung cuối: mái tranh thấp chiếm phần trên khung hình, đè lên hàng người."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Xám lạnh. Ánh sáng chỉ đến từ cửa và khe mái, tạo cột bụi. Không có đèn."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Gió qua mái tranh. Tiếng vải. Tiếng đầu gối chạm nền đất khi quỳ. Tiếng động rất nhỏ của căn nhà. Không lời."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Không có nhạc."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "Ngai vẫn tồn tại về mặt biểu tượng, nhưng thế giới xung quanh ngai đã thu nhỏ thành một căn nhà tranh. Đối chiếu với điện Đại Hưng (Special Event) và Điện Thiên An (EP01). Không nêu nhà tranh nằm ở đâu."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "35 giây."
+      }
+     ],
+     "chips": [
+      "lht"
+     ],
+     "set": "Nha_tranh"
+    },
+    {
+     "id": "S03",
+     "t": "LỌN TÓC",
+     "time": "1:15-1:45",
+     "loc": "LOC-B · Nhà tranh · Interior / Ngày, liên tục S02",
+     "items": [
+      {
+       "k": "p",
+       "t": "Không giải thích Tự Khánh là trung thành hay chính nghĩa. Chỉ giữ nguyên nghịch lý: người từng dùng quân đánh kinh sư nay lại cắt tóc gửi đến vua và muốn vua trở về."
+      },
+      {
+       "k": "slug",
+       "t": "INTERIOR · NHÀ TRANH · NGÀY"
+      },
+      {
+       "k": "arrow",
+       "t": "Cận cảnh một gói giấy nhỏ đặt trên án thấp trước mặt Huệ Tông. Bàn tay một viên quan mở từng nếp gấp."
+      },
+      {
+       "k": "arrow",
+       "t": "Bên trong: một lọn tóc, buộc gọn bằng một sợi chỉ. Nằm trên giấy, hơi cong."
+      },
+      {
+       "k": "dlg",
+       "who": "QUAN",
+       "lines": [
+        [
+         "p",
+         "(giọng thấp, không lên gân. Không kể tội, không khuyên. Chỉ nói điều mình thấy trên tay)"
+        ],
+        [
+         "d",
+         "Tóc của Tự Khánh."
+        ]
+       ]
+      },
+      {
+       "k": "p",
+       "t": "Một nhịp."
+      },
+      {
+       "k": "dlg",
+       "who": "QUAN",
+       "lines": [
+        [
+         "p",
+         "(cùng giọng)"
+        ],
+        [
+         "d",
+         "Hắn muốn Quan Gia hồi triều."
+        ]
+       ]
+      },
+      {
+       "k": "arrow",
+       "t": "Chỉ sau hai câu này mới cắt lên mắt Huệ Tông. Ánh mắt ông rời lọn tóc, chuyển sang Đàm Thái hậu. Cut trước khi ánh mắt hai người gặp nhau."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Huệ Tông không chạm vào lọn tóc. Bàn tay viên quan không run, mở giấy đúng lễ, như đang mở một thứ phải mở."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Top-down macro trên lọn tóc nằm trên giấy. Không cắt trong suốt hai câu thoại. Chỉ sau câu thứ hai mới cắt sang extreme close-up mắt Huệ Tông, rồi mắt chuyển. Khoảng cách, góc và chiều sáng của khung top-down này là khung tham chiếu cho S09: ghi lại chính xác."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Giấy mở: tiếng sột soạt rất gần, rất thật. Hơi thở. Gió trong nhà tranh."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Không có nhạc."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "Không dùng lời tâu kèm lọn tóc mà ĐVSL có ghi nguyên văn. Phim chỉ giữ hai câu của quan. S03 và S04 được nén trong cùng không gian nhà tranh; ĐVSL đặt việc gửi tóc khi vua đang ở Châu Lạng. Đây là lựa chọn nén của kịch bản."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "30 giây."
+      }
+     ],
+     "chips": [
+      "lht",
+      "tran"
+     ],
+     "set": "Nha_tranh"
+    },
+    {
+     "id": "S04",
+     "t": "CÁNH CỬA",
+     "time": "1:45-2:15",
+     "loc": "LOC-B · Nhà tranh · Interior / Ngày, liên tục S03",
+     "items": [
+      {
+       "k": "p",
+       "t": "Một quyết định của nhà vua bị chặn lại không phải bằng bạo lực mà bằng sự hiện diện của Thái hậu và chính không gian. Không thoại."
+      },
+      {
+       "k": "slug",
+       "t": "INTERIOR · NHÀ TRANH · NGÀY"
+      },
+      {
+       "k": "arrow",
+       "t": "Huệ Tông muốn trở về. Ông đứng dậy khỏi ghế. Không ai bảo ông làm vậy. Các quan cúi đầu; vài người ngẩng lên, vội cúi xuống."
+      },
+      {
+       "k": "arrow",
+       "t": "Ông đi về phía cửa nhà tranh. Bước đều, không vội. Ánh sáng ngoài cửa sáng hơn hẳn bên trong."
+      },
+      {
+       "k": "arrow",
+       "t": "Đàm Thái hậu đứng ở ngưỡng cửa, giữa khung cửa. Không cần cho thấy bà rời ghế lúc nào. Không giữ tay. Không giằng co. Không nói. Chỉ đứng."
+      },
+      {
+       "k": "arrow",
+       "t": "Hai người nhìn nhau. Khoảng cách giữa họ: hai bước."
+      },
+      {
+       "k": "arrow",
+       "t": "Huệ Tông dừng lại. Chân ông dừng cách ngưỡng cửa một gang. Một khoảng lặng dài hơn mức thoải mái."
+      },
+      {
+       "k": "arrow",
+       "t": "Ông quay vào."
+      },
+      {
+       "k": "arrow",
+       "t": "Cánh cửa khép lại. Camera không cho thấy ai đóng nó: chỉ thấy phên cửa khép, ánh sáng ngoài thu lại thành một vệt, rồi mất."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Huệ Tông: không bị cản bằng tay hay bằng lời, ông dừng vì có người đứng đó. Không giận, không cãi, không nhìn quanh tìm ai. Đàm Thái hậu: không thay đổi tư thế, không nhíu mày, không bước lên. Không diễn động cơ."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "(1) Wide từ trong nhà nhìn ra cửa: Thái hậu là bóng ngược sáng ở ngưỡng, Huệ Tông đi vào khung từ phía camera, thấy lưng. (2) Two-shot profile, hai người đối diện, cửa ở giữa. Giữ nguyên, không cắt cận từng mặt (cắt cận sẽ biến cảnh thành cuộc đấu ý chí). (3) Cận bàn chân Huệ Tông dừng trước ngưỡng. (4) Cửa khép, vệt sáng mất."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Ngược sáng ở ngưỡng cửa. Trong nhà xám lạnh như S02."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Bước chân trên nền đất. Gió ngoài cửa. Khi ông quay: tiếng vải. Cửa khép: tiếng phên tre cọ. Không nhạc."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Không có nhạc."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "ĐVSL ghi việc Thái hậu ngăn bằng lời. Phim thay bằng blocking để không gán động cơ cho bà. Ngưỡng cửa này sẽ quay lại ở S05."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "30 giây."
+      }
+     ],
+     "chips": [
+      "lht"
+     ],
+     "set": "Nha_tranh"
+    },
+    {
+     "id": "S05",
+     "t": "CẢI LẬP",
+     "time": "2:15-3:10",
+     "loc": "LOC-D · Đại sảnh và đường (phần đầu) · LOC-B · Nhà tranh (phần cuối) · Interior + Exterior / Ngày",
+     "items": [
+      {
+       "k": "p",
+       "t": "Năm 1214. Tự Khánh và phe của mình tính chuyện thay đổi người ngồi trên ngai. Không dựng như một cuộc phản loạn đơn giản, không dựng Tự Khánh như người trực tiếp muốn chiếm ngai. Khán giả chỉ cần thấy: Huệ Tông vẫn sống, vẫn là vua theo thân phận, nhưng đã có một người khác được đặt lên vị trí vua."
+      },
+      {
+       "k": "head",
+       "t": "PHẦN ĐẦU [2:15-2:50]: MỘT TRIỀU ĐÌNH ĐANG ĐƯỢC TỔ CHỨC LẠI. KHÔNG LỜI"
+      },
+      {
+       "k": "arrow",
+       "t": "Một đại sảnh còn đứng được, khói ám một góc. Các vương hầu đến, đứng thành nhóm, chờ nhau. Chỗ chủ trì nằm ngoài khung hình hoặc để trống. Không ai được nhận diện là người đứng đầu."
+      },
+      {
+       "k": "arrow",
+       "t": "Quan lại xếp hàng. Bàn tay mở một cuộn văn thư. Bàn tay đóng lại. Bàn tay buộc dây. Chữ trên văn thư không đọc được."
+      },
+      {
+       "k": "arrow",
+       "t": "Nghi thức chuẩn bị: một chiếc lọng được mở, sân điện được quét, bình hương được khiêng qua. Người truyền tin chạy giữa các nhóm."
+      },
+      {
+       "k": "arrow",
+       "t": "Một người rời đại sảnh. Qua cổng, qua đường. Nền đá đổi thành nền đất. Người ấy đang đi về phía nhà tranh."
+      },
+      {
+       "k": "center",
+       "t": "PHẦN CUỐI [2:50-3:10]: TIN ĐẾN"
+      },
+      {
+       "k": "slug",
+       "t": "INTERIOR · NHÀ TRANH · NGÀY"
+      },
+      {
+       "k": "arrow",
+       "t": "Cánh cửa của S04, lần này mở. Người truyền tin dừng đúng ở ngưỡng cửa mà chân Huệ Tông đã dừng, rồi quỳ."
+      },
+      {
+       "k": "arrow",
+       "t": "Huệ Tông ngồi trên chiếc ghế gỗ. Trong khung chỉ có ông. Thái hậu không có trong khung."
+      },
+      {
+       "k": "dlg",
+       "who": "NGƯỜI TRUYỀN TIN",
+       "lines": [
+        [
+         "p",
+         "(quỳ ở ngưỡng cửa, không ngẩng đầu. Nói đều, như đọc một điều không phải của mình)"
+        ],
+        [
+         "d",
+         "Bẩm Quan Gia. Huệ Văn Vương đã lên ngôi ở điện Thiên An. Đổi niên hiệu Càn"
+        ],
+        [
+         "d",
+         "Ninh."
+        ]
+       ]
+      },
+      {
+       "k": "arrow",
+       "t": "Huệ Tông không phản ứng lớn. Chỉ nhìn. Ánh mắt ông đi từ người truyền tin ra ngoài cửa, nơi ánh sáng vẫn sáng hơn bên trong. Một khoảng lặng. Cut."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Huệ Tông: không đứng dậy, không đổi tư thế, không nói. Không có nhịp thở sâu, không nhắm mắt. Chỉ nhìn."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Phần đầu: các cận bàn tay và văn thư là chủ đạo; wide đại sảnh chỉ một lần, đủ để thấy còn một không gian đang vận hành. Không cận mặt ai trong phần đầu. Phần cuối: đặt camera đối xứng với S04, nhìn từ trong nhà ra ngưỡng cửa."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Phần đầu: sáng, sạch, có màu hơn nhà tranh (nhưng không đẹp). Phần cuối: trở lại xám lạnh nhà tranh. Sự khác biệt giữa hai phần là toàn bộ ý của cảnh."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Phần đầu: tiếng giấy, ngọc bội khua, bước chân trên nền đá. Phần cuối: bước chân trên nền đất, gió. Không nhạc."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Không có nhạc."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "(1) Toàn bộ chữ trên văn thư trong S05 và S06 luôn ở trạng thái không đọc được (out of focus, góc nghiêng hoặc bị bàn tay che). Việc lấy nét đọc được chữ chỉ dành cho S15. (2) Không cho Thái hậu vào khung ở phần cuối: ĐVSL ghi cùng ngày cải lập, Tự Khánh cho bắt bọn Đàm Kinh Bang; phim không dùng chi tiết này, và không thể để hình ảnh gán phản ứng cho bà. (3) S05 và S07 gương nhau: S05 tin đi vào nhà tranh, S07 lệnh đi ra khỏi nhà tranh. (4) Về thứ tự sử liệu: xem Production Notes số 2."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "55 giây. Phần đầu 35 giây, phần cuối 20 giây."
+      }
+     ],
+     "chips": [
+      "lht",
+      "tran"
+     ],
+     "set": "Nha_tranh"
+    }
+   ]
+  },
+  {
+   "t": "CHƯƠNG II · 1215: NHÀ VUA CỐ GIỮ LẤY NGÔI",
+   "time": "3:10-5:35",
+   "intro": [
+    {
+     "k": "p",
+     "t": "Thời gian: 2 phút 25 giây. Bốn cảnh: ban chiếu (S06), chiếu đi (S07), câu nói (S08), con dao (S09). Đây là chương Huệ Tông làm nhiều nhất và có ít quyền lực thực tế nhất."
+    },
+    {
+     "k": "dlg",
+     "who": "TIME JUMP: 1215",
+     "lines": []
+    },
+    {
+     "k": "lab",
+     "c": "note",
+     "l": "NOTE",
+     "t": "Cut cứng từ S05 sang S06. Super chữ trắng nhỏ, góc dưới trái: 1215. Hiện 3 giây rồi tắt. Cùng kiểu chữ với hai phụ đề Quốc ngữ ở S15. Không title card."
+    }
+   ],
+   "scenes": [
+    {
+     "id": "S06",
+     "t": "CHIẾU",
+     "time": "3:10-3:45",
+     "loc": "LOC-B · Nhà tranh, gian thiết triều · Interior / Ngày",
+     "items": [
+      {
+       "k": "p",
+       "t": "Tháng giêng năm 1215. Huệ Tông vẫn cố thực hiện vai trò của một vị vua. Quyền lực của ông vẫn tồn tại trên giấy. Nhưng đó là quyền lực cần được truyền đi qua nhiều khoảng cách và nhiều bàn tay."
+      },
+      {
+       "k": "slug",
+       "t": "INTERIOR · NHÀ TRANH · BÀN ÁN · NGÀY"
+      },
+      {
+       "k": "arrow",
+       "t": "Nghiên mực. Một cây bút lông chấm mực."
+      },
+      {
+       "k": "arrow",
+       "t": "Huệ Tông ngồi thẳng sau bàn án. Đây là lần ông ngồi đúng nghi nhất trong tập. Ông đọc lệnh; môi ông mấp máy, tiếng ông bị lọc xuống thành tiếng thì thầm không nghe rõ."
+      },
+      {
+       "k": "arrow",
+       "t": "Một viên quan chép theo. Cận nét bút chạy trên giấy. Chữ Hán không đọc được."
+      },
+      {
+       "k": "arrow",
+       "t": "Chiếc ấn được đặt xuống cuối văn bản. Một vết đỏ ướt trên giấy."
+      },
+      {
+       "k": "arrow",
+       "t": "Cuộn chiếu được cuộn lại và buộc dây."
+      },
+      {
+       "k": "p",
+       "t": "GIỌNG ĐỌC CHIẾU (ngoài hình, bị lọc như nghe qua vách; chỉ bốn mảnh này nổi rõ lên khỏi tiếng đọc)"
+      },
+      {
+       "k": "p",
+       "t": "…Trần Tự Khánh…"
+      },
+      {
+       "k": "p",
+       "t": "…chốn kinh sư…"
+      },
+      {
+       "k": "p",
+       "t": "…tông miếu…"
+      },
+      {
+       "k": "p",
+       "t": "…xã tắc…"
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Huệ Tông: ngồi thẳng, giọng đều, tay không run. Không đau khổ, không bi thương. Ông đang làm việc của một vị vua và làm đúng."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Chính diện, cân đối, hơi low angle. Static. Đây là lần cuối trong tập Huệ Tông được quay theo cách người ta quay một vị vua. Từ S07 trở đi, góc quay này không quay lại."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Xám lạnh của nhà tranh, nhưng bàn án nhận một mảng sáng từ cửa: chỗ duy nhất trong cảnh có ánh sáng rõ."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Nước mài nghiên. Bút lông sột soạt. Ấn chạm giấy: một tiếng nặng, gọn. Giọng đọc chiếu bị lọc. Không nhạc."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Không có nhạc."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "Bốn mảnh lấy từ chính chiếu tháng giêng 1215 mà ĐVSL chép (nhắc Trần Tự Khánh, chốn kinh sư, tông miếu xã tắc). Mỗi mảnh chỉ một cụm, không thành câu. Nội dung đầy đủ của chiếu ấy rất gay gắt với Tự Khánh; phim không đưa phần gay gắt vào tai khán giả. Xem Điểm cần chốt số 8. Không dùng chữ đọc được trên giấy (xem S05, S15)."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "35 giây."
+      }
+     ],
+     "chips": [
+      "lht",
+      "tran"
+     ],
+     "set": "Nha_tranh"
+    },
+    {
+     "id": "S07",
+     "t": "MỆNH LỆNH",
+     "time": "3:45-4:20",
+     "loc": "LOC-D · Cổng, đường, sân · Exterior + Interior / Ngày",
+     "items": [
+      {
+       "k": "p",
+       "t": "Khoảng cách giữa “nhà vua ra lệnh” và “mệnh lệnh có biến thành quyền lực thực tế hay không”. Không dựng đại cảnh chiến tranh để chứng minh chiếu có hiệu lực. Không lời. Không VO."
+      },
+      {
+       "k": "dlg",
+       "who": "MONTAGE · KHÔNG LỜI",
+       "lines": []
+      },
+      {
+       "k": "arrow",
+       "t": "Cuộn chiếu rời bàn án. Bàn tay này đặt vào bàn tay kia: cận, tay chạm tay."
+      },
+      {
+       "k": "arrow",
+       "t": "Cổng nhà tranh mở. Người mang chiếu lên ngựa. Cổng đóng."
+      },
+      {
+       "k": "arrow",
+       "t": "Ngựa đi qua một con đường đất. Một cổng thứ hai mở rồi đóng."
+      },
+      {
+       "k": "arrow",
+       "t": "Một quan khác nhận lấy cuộn chiếu bằng hai tay, đúng lễ, nhưng chưa mở."
+      },
+      {
+       "k": "arrow",
+       "t": "Một người đọc chiếu. Môi mấp máy, không nghe tiếng. Mặt người ấy không cho biết điều gì."
+      },
+      {
+       "k": "arrow",
+       "t": "Cuộn chiếu tiếp tục đi qua những bàn tay: bàn tay quan, bàn tay lính, bàn tay người chạy giấy. Mỗi lần trao là một match cut cùng vị trí trong khung."
+      },
+      {
+       "k": "arrow",
+       "t": "Người mang tin rời khỏi một không gian quyền lực để bước vào một thế giới rộng hơn: con đường hẹp mở ra bình nguyên, hoặc bờ sông rộng. Người ấy nhỏ dần. Cắt trước khi có bất kỳ hồi đáp nào."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Nhịp cắt đều, khoảng 3 đến 4 giây một shot. Các lần trao tay là match cut, cùng vị trí trong khung. Shot cuối: wide, tĩnh, người mang tin nhỏ ở góc dưới khung, phần lớn khung là đất và trời."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Xám ban ngày. Càng ra xa nhà tranh, ánh sáng càng mở, nhưng màu không thêm."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Cổng gỗ kẽo kẹt. Vó ngựa, nhịp đều, thưa dần. Tiếng giấy cuộn. Khi ra bình nguyên: gió mở rộng, âm thanh loãng ra. Không nhạc."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Không có nhạc."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "Không một hình ảnh nào của S07 xác nhận chiếu có được thi hành hay không. Câu hỏi được để mở đến hết Chương II."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "35 giây."
+      }
+     ],
+     "chips": [],
+     "set": "Duong_nui_cong_ai"
+    },
+    {
+     "id": "S08",
+     "t": "HUỆ TÔNG MUỐN NHƯỜNG NGÔI",
+     "time": "4:20-4:55",
+     "loc": "LOC-B · Nhà tranh, gian thiết triều · Interior / Ngày",
+     "items": [
+      {
+       "k": "p",
+       "t": "Tháng 5 năm 1215. Đây là lần đầu tiên trong tập mong muốn rời khỏi ngai được nói ra trực tiếp. Câu nói phải là điều duy nhất được nói trong cảnh."
+      },
+      {
+       "k": "slug",
+       "t": "INTERIOR · NHÀ TRANH · NGÀY"
+      },
+      {
+       "k": "arrow",
+       "t": "Hàng quan quỳ trước ghế ngai tạm, chỉnh tề như S02, nhưng thưa hơn: khoảng một phần ba chỗ đã trống."
+      },
+      {
+       "k": "arrow",
+       "t": "Huệ Tông ngồi trên ghế. Đàm Thái hậu ngồi bên cạnh, hơi lùi, đúng vị trí ở S02."
+      },
+      {
+       "k": "dlg",
+       "who": "LÝ HUỆ TÔNG",
+       "lines": [
+        [
+         "p",
+         "(giọng bình thường, gần như hỏi một việc công. Không có nhịp đệm cảm xúc trước câu nói)"
+        ],
+        [
+         "d",
+         "Trẫm muốn nhường ngôi, các khanh thấy như thế nào?"
+        ]
+       ]
+      },
+      {
+       "k": "p",
+       "t": "Giữ một khoảng lặng, khoảng 4 giây. Không ai cử động. Câu nói tồn tại trong không gian."
+      },
+      {
+       "k": "arrow",
+       "t": "Rồi quần thần ứa lệ. Một viên quan lạy phục xuống, trán chạm đất. Vài người nối theo. Một người ngẩng lên định nói, chỉ có hơi thở nghẹn, không thành lời. Đó là cách họ can ngăn."
+      },
+      {
+       "k": "arrow",
+       "t": "Huệ Tông không nổi giận. Không sụp đổ. Không khóc. Ông nhìn lần lượt từng người. Rồi ông đứng dậy và đi ra khỏi khung hình qua cửa phụ."
+      },
+      {
+       "k": "arrow",
+       "t": "Chiếc ghế ngai tạm trống. Hàng quan vẫn quỳ lạy trước nó."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Huệ Tông: không nhấn câu nói, không quay lại nhìn ai khi đi. Thái hậu: cùng nhịp với cả căn phòng, không cận mặt, không phản ứng riêng."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Ngang tầm mắt, lệch tâm nhẹ, không còn chính diện như S06. Câu nói: wide tĩnh, không cắt trong 8 giây. Sau đó mới cắt cận vài gương mặt quan ứa lệ. Shot cuối: wide ghế trống và hàng quan quỳ."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Xám lạnh như S02."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Không nhạc. Sau câu nói: im lặng hoàn toàn 4 giây. Tiếng nức nở nén lại, tiếng vải khi lạy. Bước chân Huệ Tông rời đi. Rồi chỉ còn tiếng thở của những người quỳ."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Không có nhạc."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "Câu thoại bám sát ĐVSL. Năm 1212, ĐVSL chép Huệ Tông đưa dao lên trước di tượng Phật rồi dừng lại khi Tự Khánh và quần thần cúi đầu rơi lệ. Năm 1215, quần thần cũng ứa lệ, và lần này ông không nghe. Đây là quan sát cho writer's room, không đưa vào thoại, không đưa vào hình ảnh."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "35 giây."
+      }
+     ],
+     "chips": [
+      "lht",
+      "tran"
+     ],
+     "set": "Nha_tranh"
+    },
+    {
+     "id": "S09",
+     "t": "CẮT TÓC",
+     "time": "4:55-5:35",
+     "loc": "LOC-B · Nhà tranh, buồng trong · Interior / Ngày",
+     "items": [
+      {
+       "k": "p",
+       "t": "CẢNH KHÓA CHẶT NHẤT TẬP. ĐVSL ghi Huệ Tông và Thái hậu cùng lấy dao cắt tóc. Nhưng camera của phim chỉ giữ Huệ Tông. Không dùng cảnh này để giải thích động cơ của Đàm Thái hậu."
+      },
+      {
+       "k": "slug",
+       "t": "INTERIOR · BUỒNG TRONG · NGÀY"
+      },
+      {
+       "k": "arrow",
+       "t": "Một căn phòng nhỏ, yên. Huệ Tông và Đàm Thái hậu ở trong cùng không gian. Trong shot rộng duy nhất, Thái hậu chỉ là một bóng mềm ở rìa khung hình, lấy nét mềm. Chiếc kỷ thấp nằm ngoài khung này. Từ shot kế tiếp trở đi, bà không còn trong khung."
+      },
+      {
+       "k": "arrow",
+       "t": "Cận chiếc kỷ thấp: trên kỷ có một con dao nhỏ, loại dao dùng việc thường. Không có gương. Con dao chỉ xuất hiện trong những khung không có Thái hậu."
+      },
+      {
+       "k": "arrow",
+       "t": "Cận bàn tay Huệ Tông cầm dao. Bàn tay không run, không quá vững: bàn tay của một người đã nghĩ xong."
+      },
+      {
+       "k": "arrow",
+       "t": "Tay kia nắm một lọn tóc của chính ông."
+      },
+      {
+       "k": "arrow",
+       "t": "Con dao đi qua lọn tóc, một nhịp."
+      },
+      {
+       "k": "arrow",
+       "t": "Tóc rơi xuống nền. Thời gian thực, không slow motion."
+      },
+      {
+       "k": "arrow",
+       "t": "Cận khuôn mặt Huệ Tông sau khi cắt. Ông nhìn thẳng phía trước, không nhìn xuống lọn tóc."
+      },
+      {
+       "k": "arrow",
+       "t": "Shot cuối, top-down: lọn tóc nằm trên nền. Cùng khoảng cách, cùng góc, cùng chiều sáng với khung top-down ở S03."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Khuôn mặt sau khi cắt: không thanh thản, không đau, không tiếc. Diễn viên giữ mặt trống, để khán giả tự đặt tên."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Một shot wide căn phòng (Thái hậu ở rìa, mềm nét, kỷ ngoài khung), rồi các cận: (0) kỷ và con dao; (1) bàn tay và dao; (2) lọn tóc bị nắm; (3) dao qua tóc; (4) tóc rơi; (5) khuôn mặt; (6) top-down lọn tóc trên nền. Luật khóa: KHÔNG BAO GIỜ đặt Thái hậu và con dao trong cùng một khung. Không cut sang phản ứng của Thái hậu."
+      },
+      {
+       "k": "dlg",
+       "who": "MATCH VỚI S03",
+       "lines": []
+      },
+      {
+       "k": "p",
+       "t": "Một lọn tóc được gửi về phía nhà vua (S03). Một lọn tóc rời khỏi chính nhà vua (S09). Cùng một khung top-down, hai chiều ngược nhau. Đây là ngôn ngữ hình ảnh của bộ phim, không phải lời giải thích lịch sử."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Ánh sáng thấp từ một cửa nhỏ. Xám lạnh, mềm."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Rất im. Hơi thở. Dao qua tóc: một tiếng khô, rất nhỏ. Tóc chạm nền: gần như không có tiếng. Gió ngoài xa. [TÙY CHỌN, xem Điểm cần chốt số 5: một tiếng cắt thứ hai, nhỏ hơn, ngoài khung.]"
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Không có nhạc."
+      },
+      {
+       "k": "dlg",
+       "who": "TUYỆT ĐỐI KHÔNG BIẾN CẢNH NÀY THÀNH",
+       "lines": []
+      },
+      {
+       "k": "p",
+       "t": "Một nghi thức lãng mạn. Một cuộc “thề nguyền” giữa hai người. Một thỏa thuận được giải thích. Một hành động do Tự Khánh gây ra trực tiếp theo kiểu causal statement. Không tượng Phật, không nhang, không quần thần chứng kiến (khác cảnh năm 1212)."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "40 giây. Không vội. Không cắt nhanh."
+      }
+     ],
+     "chips": [
+      "lht",
+      "tran"
+     ],
+     "set": "Nha_tranh"
+    }
+   ]
+  },
+  {
+   "t": "CHƯƠNG III · BIỂU TƯỢNG HOÀNG QUYỀN CÒN LẠI",
+   "time": "5:35-7:10",
+   "intro": [
+    {
+     "k": "p",
+     "t": "Thời gian: 1 phút 35 giây. Ba cảnh. Biểu tượng trở về từng cái một. Không gian quyền lực thì không."
+    }
+   ],
+   "scenes": [
+    {
+     "id": "S10",
+     "t": "BÌNH THIÊN",
+     "time": "5:35-6:00",
+     "loc": "LOC-B · Nhà tranh, gian thiết triều · Interior / Ngày",
+     "items": [
+      {
+       "k": "p",
+       "t": "Tháng 11 năm 1215. Một biểu tượng hoàng quyền trở lại. Nhưng nó trở lại trong một thế giới mà quyền lực vật chất của nhà vua đã bị thu nhỏ."
+      },
+      {
+       "k": "slug",
+       "t": "INTERIOR · NHÀ TRANH · BÀN ÁN · NGÀY"
+      },
+      {
+       "k": "arrow",
+       "t": "Mở bằng cận: một bàn tay đặt chiếc mũ Bình Thiên xuống mặt bàn. Không nhận diện được người ấy: tay áo thường, không phẩm phục."
+      },
+      {
+       "k": "arrow",
+       "t": "Mũ chạm mặt bàn. Dây châu khua một tiếng nhỏ rồi yên."
+      },
+      {
+       "k": "arrow",
+       "t": "Huệ Tông nhìn. Không chạm vào mũ. Không đội. Bàn tay kia rút khỏi khung, không thấy mặt."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Huệ Tông: chỉ nhìn. Không thở dài, không mỉm cười, không nhíu mày."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Macro bàn tay và mũ. Rồi medium Huệ Tông sau bàn, giữ. Không zoom."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Xám thấp. Dải dây châu bắt sáng: vật sáng nhất trong khung."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Không nhạc lớn. Chỉ tiếng vật thể chạm mặt bàn, tiếng dây châu, và tiếng tay người rút đi."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Không có nhạc. [TÙY CHỌN: xem Điểm cần chốt số 9.]"
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "Đây là cùng chiếc mũ Bình Thiên của EP01 đến Special Event. Khác biệt duy nhất cho phép: một lớp bụi đường, dấu vết đã đi qua nhiều tay. Huệ Tông không đội mũ trong toàn bộ EP08."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "25 giây."
+      }
+     ],
+     "chips": [
+      "lht"
+     ],
+     "set": "Nha_tranh"
+    },
+    {
+     "id": "S11",
+     "t": "ĐIỆN CỎ / KIM Ỷ",
+     "time": "6:00-6:35",
+     "loc": "LOC-C · Điện cỏ, vườn nhà Đỗ An · Exterior rồi Interior / Ngày",
+     "items": [
+      {
+       "k": "p",
+       "t": "Tháng 12 năm 1215 điện cỏ được dựng. Tháng giêng năm 1216 Huệ Tông và Thái hậu thiết triều ở đó, và Tự Khánh trả lại kim ỷ. Đây là điện cỏ mới, không phải chính căn nhà tranh của S02: sự tiếp nối về hình ảnh, khác về thời điểm và không"
+      },
+      {
+       "k": "p",
+       "t": "gian."
+      },
+      {
+       "k": "slug",
+       "t": "EXTERIOR · VƯỜN · ĐIỆN CỎ · NGÀY"
+      },
+      {
+       "k": "arrow",
+       "t": "Establishing ngắn: một cấu trúc mái cỏ mới, vàng sạch, đứng giữa một khu vườn tháng giêng, cây mới nhú lá, sương mỏng. Hàng cột thẳng, bậc thềm thấp: cố gắng có hình của một điện."
+      },
+      {
+       "k": "slug",
+       "t": "INTERIOR · ĐIỆN CỎ · NGÀY"
+      },
+      {
+       "k": "arrow",
+       "t": "Huệ Tông và Đàm Thái hậu ngồi thiết triều. Các quan đứng và quỳ hai bên. Bên trái ghế ngai tạm, trên một án nhỏ: mũ Bình Thiên."
+      },
+      {
+       "k": "arrow",
+       "t": "Kim ỷ được khiêng vào. Hai người khiêng, không nhận diện, không phải Tự Khánh. Chiếc ghế vàng là vật duy nhất có màu rực trong cả không gian."
+      },
+      {
+       "k": "arrow",
+       "t": "Kim ỷ được đặt xuống. Tiếng nặng."
+      },
+      {
+       "k": "arrow",
+       "t": "Huệ Tông nhìn."
+      },
+      {
+       "k": "dlg",
+       "who": "MATCH CUT",
+       "lines": []
+      },
+      {
+       "k": "p",
+       "t": "Cận mũ Bình Thiên trên án (bắt ánh vàng của dây châu) → kim ỷ (bắt ánh vàng cùng vị trí trong khung) → bàn tay Huệ Tông đặt lên tay vịn, dừng ở đó, không nắm → gương mặt Huệ Tông."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Huệ Tông: bàn tay chạm tay vịn như chạm vào một vật của người khác. Không mừng, không sợ. Thái hậu: hiện diện bên cạnh, không được cắt cận."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Wide establishing, rồi wide trong điện với kim ỷ đặt xuống. Match cut bốn nhịp như trên, mỗi nhịp khoảng 1 giây. Kết ở cận mặt."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Ánh sáng xám vàng nhạt xuyên qua mái cỏ mới, sáng hơn nhà tranh nhưng không ấm. Kim ỷ là điểm sáng duy nhất."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Gió khô trên mái cỏ. Tiếng vải. Kim ỷ chạm nền: nặng và trong, khác hẳn mọi âm thanh gỗ thô trước đó. Không nhạc."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Không có nhạc."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "Điện cỏ này khác điện cỏ Tây Phù Liệt mà ĐVSL chép sau chuyện Thuận Lưu; điện đó không xuất hiện trong EP08."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "35 giây."
+      }
+     ],
+     "chips": [
+      "lht",
+      "tran"
+     ],
+     "set": "Lang_chan_nui"
+    },
+    {
+     "id": "S12",
+     "t": "NGÔI",
+     "time": "6:35-7:10",
+     "loc": "LOC-C · Điện cỏ · Interior rồi Exterior / Ngày, liên tục S11",
+     "items": [
+      {
+       "k": "p",
+       "t": "Ngai vẫn còn. Nhưng thế giới của ngai đã biến mất. S12 là hình ảnh đối xứng với S01: cùng động tác camera (zoom out), cùng kết quả (một người nhỏ dần giữa không gian không còn là của ông). Khác ở chỗ lần này ông đã ngồi xuống."
+      },
+      {
+       "k": "slug",
+       "t": "INTERIOR · ĐIỆN CỎ · NGÀY"
+      },
+      {
+       "k": "arrow",
+       "t": "Huệ Tông nhìn chiếc kim ỷ. Ông không ngồi ngay. Một khoảng lặng, khoảng 7 giây."
+      },
+      {
+       "k": "arrow",
+       "t": "Ông ngồi xuống."
+      },
+      {
+       "k": "arrow",
+       "t": "Camera bắt đầu zoom out chậm. Vua. Kim ỷ. Các quan. Đàm Thái hậu ở rìa khung. Điện cỏ. Khung hình tiếp tục rộng ra, xuyên qua phía mở của điện, ra ngoài vườn."
+      },
+      {
+       "k": "arrow",
+       "t": "Điện cỏ nhỏ dần giữa khu vườn. Chấm vàng của kim ỷ là điểm sáng cuối cùng. Xa, mờ, đường chân trời của kinh thành."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Huệ Tông ngồi thẳng, đúng nghi, như người ngồi vào chỗ được chỉ định. Ông vẫn làm tròn vai. Không có biểu hiện nào khác."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Giữ nguyên khung cận lúc ông nhìn ghế và lúc ông ngồi. Sau đó zoom out liên tục, không cắt, khoảng 22 giây. Kết ở wide exterior tĩnh."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Xám vàng nhạt, như S11. Khi camera ra ngoài: ánh sáng ban ngày mở rộng, nhưng điện cỏ không sáng thêm."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng vải khi ngồi. Sau đó âm thanh rút lại theo khung hình: càng rộng càng ít âm thanh. Kết chỉ còn gió."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Không có nhạc."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "35 giây."
+      }
+     ],
+     "chips": [
+      "lht"
+     ],
+     "set": "Lang_chan_nui"
+    }
+   ]
+  },
+  {
+   "t": "CHƯƠNG IV · VUA PHẢI TÌM QUÂN",
+   "time": "7:10-9:50",
+   "intro": [
+    {
+     "k": "p",
+     "t": "Thời gian: 2 phút 40 giây. Bốn cảnh. Từ người ra mệnh lệnh sang người phải tìm sự trợ giúp (S13, S14), rồi một đêm không lời (S15, S16)."
+    }
+   ],
+   "scenes": [
+    {
+     "id": "S13",
+     "t": "ĐỖ NHUẾ",
+     "time": "7:10-7:45",
+     "loc": "LOC-C · Điện cỏ · Interior / Ngày",
+     "items": [
+      {
+       "k": "p",
+       "t": "Tháng 5 năm 1216. Đỗ Nhuế đánh Huệ Tông. Giữ quy mô chiến sự nhỏ và thực dụng. Không dựng thành đại chiến, không cần cho thấy chiến trường."
+      },
+      {
+       "k": "slug",
+       "t": "INTERIOR · ĐIỆN CỎ · NGÀY"
+      },
+      {
+       "k": "arrow",
+       "t": "Mở bằng âm thanh trước hình ảnh: ngoài kia có tiếng ngựa, tiếng gọi, tiếng chân chạy. Hình vẫn ở trong điện: cận một tấm bản đồ trải trên án."
+      },
+      {
+       "k": "arrow",
+       "t": "Huệ Tông cúi người xuống bản đồ. Đây là lần đầu trong tập ông cúi xuống một vật thay vì ngồi thẳng sau án."
+      },
+      {
+       "k": "arrow",
+       "t": "Trên bản đồ: vài thẻ tre đánh dấu vị trí quân. Rất ít thẻ ở phía ông. Nhiều khoảng trống. Một thẻ nằm đúng vị trí của điện cỏ."
+      },
+      {
+       "k": "dlg",
+       "who": "NGƯỜI BÁO TIN",
+       "lines": [
+        [
+         "p",
+         "(chạy vào, thở gấp, không kịp quỳ hẳn)"
+        ],
+        [
+         "d",
+         "Đỗ Nhuế. Quân đất Cảo."
+        ]
+       ]
+      },
+      {
+       "k": "arrow",
+       "t": "Huệ Tông ngẩng lên nhìn những người trước mặt: quan văn nhiều hơn quân, vài thị vệ, một hai người còn cầm giáo. Mắt ông đếm, môi không mấp máy. Ông dừng lại ở một con số quá nhỏ."
+      },
+      {
+       "k": "arrow",
+       "t": "Ông nhận ra mình cần lực lượng mà mình không có."
+      },
+      {
+       "k": "arrow",
+       "t": "Ông đứng thẳng lên từ bản đồ. Không nói gì. Đi ra cửa."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Huệ Tông: không hoảng, không hét. Sự nhận ra hiện lên như một phép tính đến kết quả, không như một cú sốc."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Bản đồ: top-down, máy rung rất nhẹ, lần đầu trong tập camera không hoàn toàn tĩnh. Cận thẻ tre. Rồi lần lượt cận mặt vài người trong điện, ánh mắt ông đi qua họ. Kết ở lưng ông ra cửa."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Xám vàng nhạt như S11. Ánh sáng từ cửa vụt sáng hơn khi người báo tin chạy vào."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng ngựa, tiếng gọi, chân chạy, xa. Không trống trận. Trong điện: giấy bản đồ sột soạt, thẻ tre chạm mặt án. Không nhạc."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Không có nhạc."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "35 giây."
+      }
+     ],
+     "chips": [
+      "lht"
+     ],
+     "set": "Lang_chan_nui"
+    },
+    {
+     "id": "S14",
+     "t": "XIN QUÂN",
+     "time": "7:45-8:20",
+     "loc": "LOC-D · Khu trại ngoài điện cỏ và con đường · Exterior / Ngày",
+     "items": [
+      {
+       "k": "p",
+       "t": "Bước rất quan trọng của tập. Nhà vua không còn chỉ ban mệnh lệnh: ông đang cần một quyền lực khác để bảo vệ chính quyền lực của mình. Không cho Tự Khánh xuất hiện."
+      },
+      {
+       "k": "slug",
+       "t": "EXTERIOR · TRẠI · ĐƯỜNG · NGÀY"
+      },
+      {
+       "k": "arrow",
+       "t": "Huệ Tông bước ra khỏi điện cỏ vào sân ngoài. Một khu trại nhỏ: vài lều tạm, lửa nấu đã lụi, người ít, phần lớn ngồi hoặc nằm, mệt."
+      },
+      {
+       "k": "arrow",
+       "t": "Ông đi qua. Họ đứng dậy, cúi chào. Ông không dừng."
+      },
+      {
+       "k": "arrow",
+       "t": "Ở cổng vườn có một sứ giả đang dắt ngựa chờ. Huệ Tông không nói. Ông đưa một cuộn văn thư nhỏ, buộc dây, chữ không lộ. Sứ giả nhận bằng hai tay, cúi thấp."
+      },
+      {
+       "k": "arrow",
+       "t": "Sứ giả lên ngựa. Cổng vườn mở. Ngựa đi ra con đường dài."
+      },
+      {
+       "k": "arrow",
+       "t": "Wide, tĩnh: con đường thẳng đến chân trời. Sứ giả nhỏ dần. Ở cuối chân trời: nhiều sợi khói bếp mảnh, rất xa, rải rộng. Dấu hiệu của một đạo quân lớn, không thấy người. Ngược lại phía sau ông: một sợi khói lụi của khu trại này."
+      },
+      {
+       "k": "arrow",
+       "t": "Huệ Tông đứng ở cổng nhìn theo. Không vẫy tay. Không nói. Ông đứng cho đến khi sứ giả khuất."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Huệ Tông: lưng thẳng nhưng không còn ở vị trí cao hơn ai. Ông đưa văn thư ở ngang tầm tay, không phải ban xuống. Không biểu hiện xin lỗi, không biểu hiện nhục."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Tracking theo Huệ Tông đi qua trại, ngang tầm mắt. Cận hai bàn tay trao văn thư. Shot cuối là wide tĩnh dài nhất tập: khoảng cách giữa nơi ông đứng và nơi Tự Khánh có quân phải đọc được bằng mắt, không cần lời."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Xám ban ngày, mở. Không màu thêm."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Gió. Tiếng người trong trại rất ít. Vó ngựa xa dần, không có gì thay thế tiếng ấy. Không nhạc."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Không có nhạc."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "Chiếc ấn không xuất hiện trong S14. Hai hành động được phân biệt bằng vật thể: ở S06 ông ban chiếu (có ấn), ở S14 ông gửi lời xin (không ấn). Văn thư trong S14 chỉ thấy từ bên ngoài, chữ không lộ: tờ giấy ở S15 là bản còn lại ở nhà (xem Điểm cần chốt số 3)."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "35 giây."
+      }
+     ],
+     "chips": [
+      "lht",
+      "tran"
+     ],
+     "set": "Duong_nui_cong_ai"
+    },
+    {
+     "id": "S15",
+     "t": "VĂN THƯ",
+     "time": "8:20-9:05",
+     "loc": "LOC-E · Phòng đêm · Interior / Đêm",
+     "items": [
+      {
+       "k": "p",
+       "t": "Sequence cuối đã khóa về mặt hình ảnh. Camera không cho khán giả đọc toàn bộ văn thư. Chỉ hai cụm chữ được lấy nét."
+      },
+      {
+       "k": "slug",
+       "t": "INTERIOR · PHÒNG ĐÊM · ĐÊM"
+      },
+      {
+       "k": "arrow",
+       "t": "Một căn phòng gần như chìm hoàn toàn trong bóng tối. Huệ Tông ngồi một mình."
+      },
+      {
+       "k": "arrow",
+       "t": "Ánh trăng rất yếu lọt qua cửa sổ, chỉ đủ tạo một mảng sáng lạnh trong căn phòng."
+      },
+      {
+       "k": "arrow",
+       "t": "Trên bàn, trong mảng sáng ấy: một tờ giấy đã được viết sẵn. Không quay Huệ Tông viết."
+      },
+      {
+       "k": "dlg",
+       "who": "CẬN CẢNH VĂN THƯ",
+       "lines": []
+      },
+      {
+       "k": "arrow",
+       "t": "Camera di chuyển thật chậm trên mặt giấy. Rất nhiều chữ Hán, viết tay bằng bút lông, ngay ngắn. Phần lớn văn bản nằm ngoài vùng nét. Các chữ xung quanh: out of focus."
+      },
+      {
+       "k": "dlg",
+       "who": "FOCUS 1",
+       "lines": []
+      },
+      {
+       "k": "center",
+       "t": "嗣慶"
+      },
+      {
+       "k": "arrow",
+       "t": "Rack focus. Chỉ hai chữ này được lấy nét rõ. Các chữ còn lại tiếp tục mờ. Có thể xuất hiện phụ đề Quốc ngữ: Tự Khánh. Sau một nhịp, focus rời khỏi hai chữ ấy."
+      },
+      {
+       "k": "arrow",
+       "t": "Một hồi trống canh rất xa, một lần duy nhất."
+      },
+      {
+       "k": "dlg",
+       "who": "FOCUS 2",
+       "lines": []
+      },
+      {
+       "k": "center",
+       "t": "輔佐"
+      },
+      {
+       "k": "arrow",
+       "t": "Focus chuyển sang hai chữ này. Chỉ hai chữ này rõ nét. Các chữ xung quanh lại chìm vào out of focus. Có thể xuất hiện phụ đề Quốc ngữ: phò trợ."
+      },
+      {
+       "k": "arrow",
+       "t": "Hai cụm chữ nằm ở hai vị trí khác nhau trên tờ giấy, cách nhau nhiều chữ mờ."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Huệ Tông trong phần đầu: ngồi im cạnh tờ giấy, không đọc nó trong hình. Ông ngồi cạnh nó."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Wide tối từ cửa nhìn vào (một lần). Rồi cận tờ giấy: một chuyển động liên tục, chậm, không cut, không zoom. Chỉ hai lần rack focus, nhờ độ sâu trường ảnh rất nông. Phần còn lại luôn out of focus."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Gần như đen. Mảng trăng lạnh, xanh xám. Không có nguồn sáng nào khác."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Rất im. Gió nhỏ. Một hồi trống canh xa, một lần, giữa hai lần lấy nét. Không nhạc."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Không có nhạc."
+      },
+      {
+       "k": "dlg",
+       "who": "LƯU Ý LỊCH SỬ",
+       "lines": []
+      },
+      {
+       "k": "p",
+       "t": "嗣慶 là tên Tự Khánh. 輔佐 là cách diễn đạt cô đọng mang tính ngôn ngữ điện ảnh cho ý “phò trợ”. Không coi hai chữ này là nguyên văn câu trong ĐVSL. Nguồn chỉ xác nhận Huệ Tông sai sứ xin quân của Tự Khánh; không có nguyên văn lời xin quân. Vì vậy:"
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "Tờ giấy là văn thư trong thế giới phim; hai cụm chữ được chọn để dẫn mắt khán giả, không phải trích dẫn nguyên văn ĐVSL."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "45 giây. Phòng tối và wide 10 giây; tờ giấy 10 giây; Focus 1 khoảng 6 giây; khoảng lặng và trống canh 6 giây; Focus 2 khoảng 6 giây; chìm mờ trở lại 7 giây."
+      }
+     ],
+     "chips": [
+      "lht",
+      "tran"
+     ],
+     "set": "Bo_de"
+    },
+    {
+     "id": "S16",
+     "t": "BÓNG TỐI VÀ NGỌN ĐÈN",
+     "time": "9:05-9:50",
+     "loc": "LOC-E · Phòng đêm · Interior / Đêm, liên tục S15",
+     "items": [
+      {
+       "k": "p",
+       "t": "Tiếp nối trực tiếp từ S15. Kết tập bằng một hình ảnh, không bằng một lời tuyên bố. Không lãng mạn hóa. Đây là một chuyển đổi về hình ảnh, chưa phải một kết luận về quan hệ hay động cơ lịch sử."
+      },
+      {
+       "k": "slug",
+       "t": "INTERIOR · PHÒNG ĐÊM · ĐÊM"
+      },
+      {
+       "k": "arrow",
+       "t": "Sau khi camera rời khỏi hai chữ trên giấy: bàn tay Huệ Tông đặt lên văn thư, che các chữ. Ông giữ tay trên đó."
+      },
+      {
+       "k": "arrow",
+       "t": "Cận mặt Huệ Tông. Chỉ một phần khuôn mặt được ánh trăng chiếu vào, phần còn lại chìm trong bóng tối. Không thoại. Không khóc. Chỉ là một gương mặt mệt mỏi, trống rỗng và không biết hướng đi tiếp theo."
+      },
+      {
+       "k": "arrow",
+       "t": "Camera từ từ lùi ra và chuyển góc, ra phía sau vai ông. Phía sau Huệ Tông xuất hiện một vùng sáng ấm, ngoài tiêu điểm. Ban đầu rất nhỏ. Rồi rõ dần."
+      },
+      {
+       "k": "dlg",
+       "who": "NGỌN ĐÈN",
+       "lines": []
+      },
+      {
+       "k": "arrow",
+       "t": "CLOSE-UP: một ngọn đèn dầu. Ánh lửa ấm. Camera không cắt ngay. Để ánh sáng hiện ra như một thay đổi vật lý trong căn phòng: bóng trên tường dịch chuyển; mảng sáng lạnh của trăng bị ánh ấm lấn dần."
+      },
+      {
+       "k": "arrow",
+       "t": "Sau đó: pan / tilt từ ngọn đèn lên. Camera đi qua bàn tay cầm đèn, tay áo, vai, cổ, rồi gương mặt."
+      },
+      {
+       "k": "dlg",
+       "who": "TRẦN NHỊ NƯƠNG",
+       "lines": []
+      },
+      {
+       "k": "arrow",
+       "t": "Trần Nhị Nương đứng trong vùng sáng. Không thoại. Không cười. Không biểu hiện tình cảm lãng mạn. Không ôm. Không chạm vào Huệ Tông."
+      },
+      {
+       "k": "arrow",
+       "t": "Nàng bước đến gần. Chỉ đơn giản thế: bước đến gần, dừng lại cách một sải tay."
+      },
+      {
+       "k": "arrow",
+       "t": "Huệ Tông nhìn lên. Ông nhìn thấy Trần Nhị Nương. Một khoảng lặng. Hai người nhìn nhau."
+      },
+      {
+       "k": "dlg",
+       "who": "CUT TO BLACK",
+       "lines": []
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "WARDROBE",
+       "t": "Trần Nhị Nương: y phục giản dị, tông trầm, không trang sức. Tóc búi gọn. Huệ Tông: áo trắng, và chỗ lọn tóc đã bị cắt vẫn còn thấy ở phía mặt được trăng chiếu, không che, không sửa."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Huệ Tông: mặt trống, mệt. Không diễn trạng thái tâm lý quá rõ. Trần Nhị Nương: tĩnh, chú ý, không đọc được ý định. Nét mặt nàng không là an ủi cũng không là câu hỏi."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Từ cận mặt Huệ Tông: lùi và chuyển góc chậm. Ngọn đèn: close-up giữ lâu. Tilt lên theo bàn tay, tay áo, vai, cổ, mặt: một chuyển động liên tục. Kết ở khung hai người nhìn nhau (two-shot vừa, tĩnh hoặc qua vai), giữ. Cut to black cứng, không fade."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Trăng lạnh, xanh xám (từ trên xuống) đối lập với ánh đèn ấm (từ dưới lên, soi mặt Trần Nhị Nương). Đây là cảnh duy nhất của tập có ánh sáng ấm."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Không thoại. Bước chân nhẹ trên nền. Lửa đèn xì nhỏ. Tiếng vải. Hơi thở. Cut to black: im lặng tuyệt đối 3 giây."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Không có nhạc. [TÙY CHỌN: xem Điểm cần chốt số 9.]"
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "45 giây. CUT TO BLACK."
+      },
+      {
+       "k": "dlg",
+       "who": "CUT TO BLACK.",
+       "lines": []
+      }
+     ],
+     "chips": [
+      "lht",
+      "tran"
+     ],
+     "set": "Bo_de"
+    }
+   ]
+  }
+ ],
+ "back": [
+  {
+   "k": "head",
+   "t": "PRODUCTION NOTES · NHỮNG ĐIỂM CẦN GIỮ"
+  },
+  {
+   "k": "head",
+   "t": "1. Tự Khánh không bao giờ vào khung hình"
+  },
+  {
+   "k": "p",
+   "t": "Không trực diện, không bóng, không lưng, không bàn tay nhận diện được. Ông hiện diện qua vật thể và lời nhắc. Bảng dưới đây là toàn bộ những chỗ ông có mặt."
+  },
+  {
+   "k": "head",
+   "t": "Scene Tự Khánh hiện diện bằng"
+  },
+  {
+   "k": "p",
+   "t": "S03 Lọn tóc ông cắt và gửi đi; câu “Hắn muốn Quan Gia hồi triều.”"
+  },
+  {
+   "k": "p",
+   "t": "S05 Tin một vị vua khác đã được lập (không nói ai ra lệnh)"
+  },
+  {
+   "k": "p",
+   "t": "S06 Tên ông trong giọng đọc chiếu bị lọc"
+  },
+  {
+   "k": "p",
+   "t": "S07 Chiếu đi mà không có hồi đáp: khoảng trống nơi lệnh lẽ ra có hiệu lực"
+  },
+  {
+   "k": "p",
+   "t": "S10 Mũ Bình Thiên được trả lại (bàn tay không nhận diện)"
+  },
+  {
+   "k": "p",
+   "t": "S11 Kim ỷ được trả lại (người khiêng không nhận diện)"
+  },
+  {
+   "k": "p",
+   "t": "S14 Sứ giả, văn thư, khói bếp của một đạo quân ở chân trời"
+  },
+  {
+   "k": "p",
+   "t": "S15 Hai chữ 嗣慶 trên văn thư"
+  },
+  {
+   "k": "head",
+   "t": "2. Thứ tự sử liệu và thứ tự phim ở Chương I"
+  },
+  {
+   "k": "p",
+   "t": "Trong ĐVSL năm 1214, trình tự là: (a) vua và Thái hậu chạy đến Châu Lạng, Tự Khánh cắt tóc sai dâng, Tự Khánh sai Đàm Kinh Bang đón vua, Thái hậu ngăn; (b) tháng 2 đến tháng 3, cải lập, Huệ Văn Vương lên ngôi ở điện Thiên An; (c) mùa thu, Tự Khánh xâm phạm cửa khuyết và đốt phá cung thất, vua và Thái hậu trở về thấy hư hỏng, vua sai dựng nhà tranh để ở."
+  },
+  {
+   "k": "p",
+   "t": "Trình tự trong phim là (c), rồi (a), rồi (b). Nghĩa là S01 và S02 đóng vai overture (kết quả), sau đó phim lùi về những nguyên nhân. Outline đã ghi lựa chọn nén cho S03 và S04; ghi chú này mở rộng cùng nguyên tắc sang S05."
+  },
+  {
+   "k": "p",
+   "t": "Cách script xử lý: không có mốc ngày tháng nào giữa S02 và S05 để khán giả không đọc chúng như một chuỗi thời gian; nhà tranh không được định vị ở nơi nào; “hồi triều” ở S03 và S04 được hiểu là trở về vị trí quyền lực, không nhất thiết là trở về một địa điểm. Khán giả chỉ thấy mốc 1215 ở Chương II."
+  },
+  {
+   "k": "head",
+   "t": "3. Tóc: một motif, ba luật khóa"
+  },
+  {
+   "k": "p",
+   "t": "Luật 1: khung top-down của lọn tóc ở S03 và S09 phải trùng khoảng cách, góc và chiều sáng. Luật 2: KHÔNG BAO GIỜ đặt Đàm Thái hậu và con dao trong cùng một khung ở S09; không cut sang phản ứng của bà. Luật 3: từ sau S09, chỗ tóc đã bị cắt của Huệ Tông luôn thấy được, không che, không sửa."
+  },
+  {
+   "k": "p",
+   "t": "Khác với cảnh năm 1212: không tượng Phật, không quần thần chứng kiến, và lần này ông không dừng lại."
+  },
+  {
+   "k": "head",
+   "t": "4. Chữ Hán trên giấy"
+  },
+  {
+   "k": "p",
+   "t": "Trước S15, mọi chữ trên văn thư đều không đọc được. Ở S15, chỉ hai cụm 嗣慶 và 輔 佐 được lấy nét. Đề nghị các chữ còn lại trên tờ giấy là một văn bản thật có nghĩa (một lá thư viết tay ngay ngắn) chứ không phải nét ngẫu nhiên, phòng khi khán giả dừng hình."
+  },
+  {
+   "k": "head",
+   "t": "5. Không VO, thoại tối thiểu"
+  },
+  {
+   "k": "p",
+   "t": "Toàn bộ lời nói của tập: S03 hai câu của quan; S05 một lượt của người truyền tin; S06 bốn mảnh chiếu nghe qua vách; S08 một câu của Huệ Tông; S13 một câu của người báo tin. Không có thoại nào giải thích chính trị hay tâm lý. Nếu Arc II muốn có VO, đó là quyết định ở cấp series."
+  },
+  {
+   "k": "head",
+   "t": "6. Đàm Thái hậu"
+  },
+  {
+   "k": "p",
+   "t": "Cùng thiết kế nhân vật với Special Event. Hiện diện: S02, S03, S04, S08, S09 (trong phòng, chỉ ở rìa khung trong shot wide), S11, S12 (rìa khung). Vắng: S01, S05, S06, S07, S10, S13 đến S16. Ở mọi cảnh có bà, không gán động cơ cho bà. Đến cuối tập, Trần Nhị Nương xuất hiện trong vùng sáng: một chuyển đổi về hình ảnh, chưa phải kết luận về quan hệ hay động cơ lịch sử."
+  },
+  {
+   "k": "head",
+   "t": "7. Ngôn ngữ camera theo chương"
+  },
+  {
+   "k": "p",
+   "t": "Chương I: zoom out rồi zoom in (S01), quan sát. Chương II: S06 chính diện, cân đối, low angle, sau đó lệch tâm và ngang tầm mắt (S08). Chương III: zoom out (S12) đối xứng với S01. Chương IV: máy bắt đầu rung nhẹ (S13), wide dài nhất tập (S14), macro và rack focus (S15), tilt liên tục và cut to black (S16)."
+  },
+  {
+   "k": "head",
+   "t": "8. Ánh sáng"
+  },
+  {
+   "k": "p",
+   "t": "Kinh thành cháy (đục, còn sót màu) → nhà tranh xám lạnh → điện cỏ xám vàng nhạt, không ấm → bóng tối → ánh trăng → ngọn đèn. Ngọn đèn ở S16 là nguồn sáng ấm duy nhất của cả tập."
+  },
+  {
+   "k": "head",
+   "t": "9. Những điều tập này chủ động không dùng"
+  },
+  {
+   "k": "p",
+   "t": "Cuộc Huệ Tông cùng Trần Nhị Nương chạy đêm đến Thuận Lưu (EP08 chỉ kết ở bước xin quân). Sự kiện Thái hậu đầu độc Trần Nhị Nương (thuộc Toàn thư, không thuộc ĐVSL). Lời tâu Tự Khánh kèm lọn tóc (ĐVSL có nguyên văn). Ngôn ngữ bệnh lý để chẩn đoán Huệ Tông. Tên “Trần Thị Dung”: luôn dùng Trần Nhị Nương. Dấu gạch ngang dài"
+  },
+  {
+   "k": "p",
+   "t": "trong outline và script."
+  },
+  {
+   "k": "p",
+   "t": "ĐVSL chép cùng ngày cải lập, Tự Khánh sai bắt bọn Đàm Kinh Bang, trói và giam ở Mỹ Lộc. Chi tiết này không được dùng trong EP08; đáng lưu ý cho EP09 nếu tập ấy mở từ góc nhìn Đàm Thái hậu."
+  },
+  {
+   "k": "head",
+   "t": "10. Bảng đối chiếu sử liệu"
+  },
+  {
+   "k": "p",
+   "t": "Nguồn chính: Đại Việt sử lược. Toàn thư chỉ dùng để đối chiếu. “Dựng phim” nghĩa là lựa chọn hình ảnh hoặc lời của phim, không phải sự kiện được nguồn chép. Scene Trạng thái Cơ sở"
+  },
+  {
+   "k": "p",
+   "t": "S01 Có nguồn 1214: Tự Khánh xâm phạm cửa khuyết, đốt phá gần hết cung thất và nhà"
+  },
+  {
+   "k": "center",
+   "t": "dân; vua và Thái hậu trở về thấy hư hỏng."
+  },
+  {
+   "k": "p",
+   "t": "S02 Có nguồn, hình Vua sai dựng nhà tranh để ở. Cảnh thiết triều với quan quỳ là dựng"
+  },
+  {
+   "k": "p",
+   "t": "ảnh dựng phim."
+  },
+  {
+   "k": "p",
+   "t": "S03 Có nguồn, nén 1214: Tự Khánh cắt tóc sai người dâng, xin xa giá trở về. Hai câu"
+  },
+  {
+   "k": "center",
+   "t": "thoại là dựng phim."
+  },
+  {
+   "k": "p",
+   "t": "S04 Có nguồn, nén 1214: Tự Khánh sai Đàm Kinh Bang đón vua; vua muốn về, Thái hậu ngăn"
+  },
+  {
+   "k": "center",
+   "t": "(bằng lời trong nguồn, bằng blocking trong phim)."
+  },
+  {
+   "k": "p",
+   "t": "S05 Có nguồn 1214: Tự Khánh triệu vương tước và trăm quan bàn cải lập; Huệ Văn Vương"
+  },
+  {
+   "k": "p",
+   "t": "lên ngôi ở điện Thiên An, niên hiệu Càn Ninh. Lời người truyền tin là"
+  },
+  {
+   "k": "center",
+   "t": "dựng phim."
+  },
+  {
+   "k": "p",
+   "t": "S06 Có nguồn Tháng giêng 1215: vua hạ chiếu nhắc Tự Khánh, chốn kinh sư, tông miếu"
+  },
+  {
+   "k": "center",
+   "t": "xã tắc. Cách quay là dựng phim."
+  },
+  {
+   "k": "p",
+   "t": "S07 Dựng phim Không có sự kiện tương ứng. Hình ảnh cho khoảng cách giữa chiếu và thi"
+  },
+  {
+   "k": "center",
+   "t": "hành."
+  },
+  {
+   "k": "p",
+   "t": "S08 Có nguồn Tháng 5 1215: “Trẫm muốn nhường ngôi, các khanh thấy như thế nào?”;"
+  },
+  {
+   "k": "center",
+   "t": "quần thần ứa lệ ngăn."
+  },
+  {
+   "k": "p",
+   "t": "S09 Có nguồn, khóa Vua và Thái hậu cùng lấy dao cắt tóc. Camera chỉ giữ Huệ Tông là lựa"
+  },
+  {
+   "k": "center",
+   "t": "chọn của phim."
+  },
+  {
+   "k": "p",
+   "t": "S10 Có nguồn Tháng 11 1215: Tự Khánh đưa trả mũ Bình Thiên."
+  },
+  {
+   "k": "p",
+   "t": "S11 Có nguồn Tháng chạp 1215 dựng điện cỏ ở vườn nhà Đỗ An; tháng giêng 1216 vua và"
+  },
+  {
+   "k": "center",
+   "t": "Thái hậu thị triều, Tự Khánh trả ghế bằng vàng."
+  },
+  {
+   "k": "p",
+   "t": "S12 Dựng phim Hành động ngồi xuống không có trong nguồn."
+  },
+  {
+   "k": "p",
+   "t": "S13 Có nguồn Tháng 5 1216: tướng quân Đỗ Nhuế người đất Cảo đánh vua. Bản đồ và"
+  },
+  {
+   "k": "center",
+   "t": "người báo tin là dựng phim."
+  },
+  {
+   "k": "p",
+   "t": "S14 Có nguồn Tháng 5 1216: vua đi thăm ngoài trại, sai sứ xin binh của Tự Khánh để"
+  },
+  {
+   "k": "center",
+   "t": "đánh Đỗ Nhuế."
+  },
+  {
+   "k": "p",
+   "t": "S15 Dựng phim, khóa Nguồn không có nguyên văn lời xin quân. Hai cụm chữ là ngôn ngữ điện"
+  },
+  {
+   "k": "center",
+   "t": "ảnh."
+  },
+  {
+   "k": "p",
+   "t": "S16 Dựng phim, khóa Nguồn chép vua cùng phu nhân Trần thị đi đêm sang trại Thuận Lưu; EP08"
+  },
+  {
+   "k": "center",
+   "t": "không dựng cuộc chạy. Ngọn đèn và cảnh gặp là hình ảnh của phim."
+  },
+  {
+   "k": "head",
+   "t": "11. Cầu nối sang EP09"
+  },
+  {
+   "k": "p",
+   "t": "EP08 không kết bằng một lời tuyên bố. Nó kết bằng một hình ảnh: Huệ Tông trong bóng tối, một ngọn đèn xuất hiện, Trần Nhị Nương bước vào vùng sáng, cut to black. EP09 có thể mở từ góc nhìn Đàm Thái hậu: một người phụ nữ mới đã xuất hiện trong không gian quanh nhà vua; từ đây mở sang tuyến của Đàm Thái hậu và mối quan hệ giữa nhà Lý với người họ Trần. Các động cơ cụ thể của EP09 vẫn phải tiếp tục kiểm theo ĐVSL, không biến những diễn giải kịch bản thành sự kiện lịch sử."
+  },
+  {
+   "k": "head",
+   "t": "ĐIỂM CẦN ĐẠI CHỐT"
+  },
+  {
+   "k": "p",
+   "t": "Các lựa chọn dưới đây là của script, không nằm trong outline khóa. Mỗi điểm đều có thể bỏ hoặc đổi mà không ảnh hưởng cấu trúc tập."
+  },
+  {
+   "k": "head",
+   "t": "1. Opening quote"
+  },
+  {
+   "k": "p",
+   "t": "EP01 đến EP05 đều có; outline EP08 chưa có. Script đề xuất Luận Ngữ, Vệ Linh Công (nói về Cừ Bá Ngọc). Phương án thay: 知足不辱，知止不殆 (Tri túc bất nhục, tri chỉ bất đãi, Đạo Đức Kinh chương 44). Hoặc bỏ quote."
+  },
+  {
+   "k": "head",
+   "t": "2. Thời lượng từng scene"
+  },
+  {
+   "k": "p",
+   "t": "Outline chưa có timing. Tổng 9 phút 50 giây do script phân bổ, cùng biên độ với"
+  },
+  {
+   "k": "p",
+   "t": "Arc I."
+  },
+  {
+   "k": "head",
+   "t": "3. Tờ giấy ở S14 và S15"
+  },
+  {
+   "k": "p",
+   "t": "Outline giữ thứ tự S14 (sứ đi) rồi S15 (văn thư trên bàn). Script hiểu tờ giấy ở S15 là bản còn lại ở nhà sau khi sứ đi. Cách khác: đó là bản chưa gửi của đêm trước, khi đó S15 nên đứng trước S14."
+  },
+  {
+   "k": "head",
+   "t": "4. Hai phụ đề ở S15"
+  },
+  {
+   "k": "p",
+   "t": "Phụ đề thứ nhất là âm đọc (Tự Khánh), phụ đề thứ hai là nghĩa (phò trợ). Âm Hán Việt của 輔佐 là “phụ tá”. Giữ theo outline, hay thống nhất cả hai theo âm hoặc cả"
+  },
+  {
+   "k": "p",
+   "t": "hai theo nghĩa."
+  },
+  {
+   "k": "head",
+   "t": "5. S09: tiếng cắt thứ hai ngoài khung"
+  },
+  {
+   "k": "p",
+   "t": "Để tôn trọng “cùng lấy dao cắt tóc” của ĐVSL mà không cho thấy hình ảnh, script để một tiếng cắt thứ hai, nhỏ hơn, ngoài khung. Bỏ nếu muốn khán giả chỉ nghe Huệ"
+  },
+  {
+   "k": "p",
+   "t": "Tông."
+  },
+  {
+   "k": "head",
+   "t": "6. Mũ Bình Thiên"
+  },
+  {
+   "k": "p",
+   "t": "Script để Huệ Tông không đội mũ trong toàn bộ EP08; mũ nằm trên án cạnh ngai tạm trong S11. Outline chỉ khóa việc mũ được trả lại (S10)."
+  },
+  {
+   "k": "head",
+   "t": "7. Thiết kế kim ỷ"
+  },
+  {
+   "k": "p",
+   "t": "Kim ỷ là continuity prop xuyên series nhưng ngai vàng ở Điện Thiên An (EP01) lớn và cố định, không thể khiêng vào điện cỏ. Cần xác nhận kim ỷ là ghế riêng có thể"
+  },
+  {
+   "k": "p",
+   "t": "khiêng, hay có cách khác."
+  },
+  {
+   "k": "head",
+   "t": "8. Mảnh chiếu ở S06"
+  },
+  {
+   "k": "p",
+   "t": "Bốn cụm lấy từ chiếu thật tháng giêng 1215 trong ĐVSL. Chiếu ấy gọi Tự Khánh là đảng tặc hung bạo và nói ông đốt sạch cung thất. Script chỉ giữ bốn cụm trung tính theo outline. Nếu thêm một cụm gay gắt, khán giả sẽ nghe rõ hơn sự đảo chiều với S14 (vua từng gọi ông là giặc, nay xin quân), nhưng đó là một lựa chọn kể chuyện chủ động hơn outline."
+  },
+  {
+   "k": "head",
+   "t": "9. Nhạc"
+  },
+  {
+   "k": "p",
+   "t": "Nền tảng: không nhạc toàn tập, theo tinh thần “không nhạc lớn” và Special Event. Hai tùy chọn: S10, bốn nốt đầu của leitmotif năm nốt của Cao Tông, nốt thứ năm không vang; S16, một nốt sáo trúc họ Trần duy nhất. Lưu ý: EP01 ghi leitmotif Cao Tông là trống đất năm nốt, còn Special Event ghi đàn bầu năm nốt. Cần thống nhất trước khi dùng lại."
+  },
+  {
+   "k": "head",
+   "t": "10. Thoại ngoài outline"
+  },
+  {
+   "k": "p",
+   "t": "Outline chỉ khóa thoại ở S03 và S08. Script thêm S05 (người truyền tin, một lượt) và S13 (người báo tin, một câu). Bỏ được: S05 thay bằng văn thư có niên hiệu không đọc rõ, S13 thay bằng âm thanh."
+  },
+  {
+   "k": "head",
+   "t": "11. Thứ tự sử liệu Chương I"
+  },
+  {
+   "k": "p",
+   "t": "Xem Production Notes số 2. Script giữ nguyên thứ tự outline (S01, S02, S03, S04,"
+  },
+  {
+   "k": "p",
+   "t": "S05)."
+  },
+  {
+   "k": "head",
+   "t": "12. Chi tiết nhỏ do script thêm"
+  },
+  {
+   "k": "p",
+   "t": "Super 1215 (chữ trắng nhỏ); hàng quan thưa hơn ở S08; Thái hậu có mặt ở S08; ghế gỗ thô làm ngai tạm; bản đồ với thẻ tre (S13); khói bếp ở chân trời (S14); trống canh (S15); ánh đèn soi từ dưới lên (S16); chỗ tóc cắt vẫn thấy sau S09. Gợi ý chưa khóa: ĐVSL chép sau ngày cắt tóc vua về nhà Đỗ An, và điện cỏ dựng ở vườn nhà Đỗ An. Có thể dùng chính ngôi nhà ấy làm buồng trong của S09 để khu vườn của S11 nối liền."
+  },
+  {
+   "k": "center",
+   "t": "HẾT SCRIPT EP08 · TIẾP THEO: EP09 (dự kiến mở từ góc nhìn Đàm Thái hậu)"
+  }
+ ],
+ "cast": [
+  "lht",
+  "tran",
+  "linh"
+ ],
+ "rev": 1
+}

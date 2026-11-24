@@ -1,0 +1,1921 @@
+{
+ "id": "ep04",
+ "code": "EP04",
+ "title": "Phạm Du",
+ "sub": "The Usurper",
+ "arc": "Arc I",
+ "meta": "9:30 · 13 scenes · 5 locations",
+ "front": [
+  {
+   "k": "head",
+   "t": "SCENE INDEX — EP04"
+  },
+  {
+   "k": "p",
+   "t": "Danh sách đầy đủ 13 scenes theo thứ tự phát sóng."
+  },
+  {
+   "k": "p",
+   "t": "S01 [0:00–0:50]     Nghệ An — Mất mùa                  LOC-A · Đồng ruộng nứt nẻ,"
+  },
+  {
+   "k": "p",
+   "t": "Nghệ An   Act I / Phạm Du nhìn đám dân đói — thấy cơ hội"
+  },
+  {
+   "k": "p",
+   "t": "S02 [0:50–1:30]     Mở Kho Lương                       LOC-A · Kho lương + sân làng"
+  },
+  {
+   "k": "p",
+   "t": "Act I / Chiêu tập lưu dân — danh nghĩa cứu dân"
+  },
+  {
+   "k": "p",
+   "t": "S03 [1:30–2:30]     Xây Dựng Lực Lượng                 LOC-B · Doanh trại Nghệ An"
+  },
+  {
+   "k": "p",
+   "t": "Act II / Montage: quân số + uy tín + thu thuế riêng"
+  },
+  {
+   "k": "p",
+   "t": "S04 [2:30–3:15]     Tin Từ Thăng Long                  LOC-B · Lều chỉ huy"
+  },
+  {
+   "k": "p",
+   "t": "Act II / Phạm Bỉnh Di được lệnh xuất quân"
+  },
+  {
+   "k": "p",
+   "t": "S05 [3:15–4:00]     Đêm Trong Căn Nhà Gỗ               LOC-C · Hồng Châu — nhà gỗ"
+  },
+  {
+   "k": "p",
+   "t": "Đoàn Thượng Act II / Lần đầu gặp Đoàn Thượng — không ai tin ai"
+  },
+  {
+   "k": "p",
+   "t": "S06 [4:00–5:00]     Trận Chiến Đầu — Thắng             LOC-D · Chiến trường"
+  },
+  {
+   "k": "p",
+   "t": "Act II / Liên quân đánh lui quân triều đình — tiệc ăn mừng"
+  },
+  {
+   "k": "p",
+   "t": "S07 [5:00–6:00]     Thất Bại — Cơ Nghiệp Cháy          LOC-D · Chiến trường + đồi"
+  },
+  {
+   "k": "p",
+   "t": "nhìn xuống Act III / Signature moment: Phạm Du đứng nhìn lửa — không gào thét"
+  },
+  {
+   "k": "p",
+   "t": "S08 [6:00–6:40]     Quyết Định                         LOC-D · Đồi sau trận"
+  },
+  {
+   "k": "p",
+   "t": "Act III / Phạm Du quay lưng bỏ đi — câu VO chốt Act III"
+  },
+  {
+   "k": "p",
+   "t": "S09 [6:40–7:10]     Vào Thăng Long — Màn Diễn          LOC-E · Cổng thành + đường phố"
+  },
+  {
+   "k": "p",
+   "t": "Act IV / Quần áo rách, mặt bùn đất — màn diễn bắt đầu"
+  },
+  {
+   "k": "p",
+   "t": "S10 [7:10–7:55]     Điện Kim Tinh — Lời Vu Oan         LOC-E · Điện Kim Tinh"
+  },
+  {
+   "k": "p",
+   "t": "Act IV / KHOẢNH KHẮC QUAN TRỌNG NHẤT — 'Phạm Bỉnh Di đã phản'"
+  },
+  {
+   "k": "p",
+   "t": "S11 [7:55–8:25]     Chiếu Chỉ Ban Xuống                LOC-E · Điện Kim Tinh"
+  },
+  {
+   "k": "p",
+   "t": "Act IV / Ấn ngọc đóng xuống — bẫy khép lại"
+  },
+  {
+   "k": "p",
+   "t": "S12 [8:25–9:10]     Tường Thành — Nhìn Về Phương Nam   LOC-E · Tường thành Thăng"
+  },
+  {
+   "k": "p",
+   "t": "Long       Act V / Phạm Du nhìn đoàn quân Bỉnh Di — biết chính xác điều sẽ xảy ra"
+  },
+  {
+   "k": "p",
+   "t": "S13 [9:10–9:20]     Final Image                        LOC-D · Đường về Thăng Long"
+  },
+  {
+   "k": "p",
+   "t": "Act V / Bỉnh Di trên ngựa, không biết gì — fade to black"
+  },
+  {
+   "k": "p",
+   "t": "PC  [9:20–9:30]     Post Credit — Thuỷ Viên        LOC-E · Thuỷ Viên"
+  },
+  {
+   "k": "p",
+   "t": "Post / Giọng Quách Bốc vang lên lần đầu"
+  },
+  {
+   "k": "hr"
+  },
+  {
+   "k": "head",
+   "t": "LOCATION BREAKDOWN — 5 SETS"
+  },
+  {
+   "k": "p",
+   "t": "EP04 trải dài qua 5 địa điểm rất khác nhau về tính chất: từ đồng ruộng khô nứt Nghệ An đến sảnh điện Thăng Long. Sự đối lập địa lý này là ngôn ngữ hình ảnh chính của tập — Phạm Du là người không thuộc về nơi nào, di chuyển qua tất cả."
+  },
+  {
+   "k": "head",
+   "t": "LOC-A  NGHỆ AN — ĐỒNG RUỘNG & KHO LƯƠNG"
+  },
+  {
+   "k": "p",
+   "t": "Đồng ruộng nứt nẻ mùa hạn, đường bụi đỏ, lưu dân. Kho lương: mái ngói thấp, sân đất. Ánh sáng mùa hạn khắc nghiệt — nắng trắng, không có bóng mát. Màu chủ đạo: nâu đỏ, vàng xám, da người sạm nắng."
+  },
+  {
+   "k": "p",
+   "t": "Scenes: S01, S02  —  Tổng runtime: ~1 phút 30 giây  —  Exterior / Ban ngày, mùa hạn"
+  },
+  {
+   "k": "head",
+   "t": "LOC-B  DOANH TRẠI NGHỆ AN"
+  },
+  {
+   "k": "p",
+   "t": "Lớn hơn doanh trại của Bỉnh Di trong EP03 — Phạm Du đã xây dựng được một cơ sở thực sự. Lều vải, bãi tập, kho vũ khí. Ánh sáng ban ngày và đèn đêm. Cảm giác: đây là thứ được xây từ tham vọng, không phải từ kỷ luật quân sự. Scenes: S03, S04  —  Tổng runtime: ~1 phút 30 giây  —  Exterior + Interior / Ngày và đêm"
+  },
+  {
+   "k": "head",
+   "t": "LOC-C  HỒNG CHÂU — CĂN NHÀ GỖ ĐOÀN THƯỢNG"
+  },
+  {
+   "k": "p",
+   "t": "Căn nhà gỗ đơn giản, không phải cung điện — Đoàn Thượng không cần phô trương. Đêm, đèn dầu, mưa bên ngoài. Chỉ 2 người trong phòng. Set nhỏ, ánh sáng tối. Đây là cuộc gặp của hai người nguy hiểm — không gian phản ánh điều đó."
+  },
+  {
+   "k": "head",
+   "t": "Scenes: S05  —  Tổng runtime: ~45 giây  —  Interior / Đêm mưa"
+  },
+  {
+   "k": "head",
+   "t": "LOC-D  CHIẾN TRƯỜNG & ĐỒI"
+  },
+  {
+   "k": "p",
+   "t": "3 sub-set: (1) Chiến trường rừng thưa — quân hai bên, khói, âm thanh chiến trận; (2) Doanh trại sau chiến thắng — lửa trại, ăn mừng; (3) Đồi nhìn xuống cơ nghiệp cháy — chỉ một người, ánh lửa từ xa. Sub-set (3) là Signature Moment — set quan trọng nhất."
+  },
+  {
+   "k": "p",
+   "t": "Scenes: S06, S07, S08, S13  —  Tổng runtime: ~2 phút 30 giây  —  Exterior / Ngày chiến + Đêm lửa"
+  },
+  {
+   "k": "head",
+   "t": "LOC-E  THĂNG LONG — CỔNG THÀNH, ĐIỆN KIM TINH, TƯỜNG THÀNH, THUỶ VIÊN"
+  },
+  {
+   "k": "p",
+   "t": "4 sub-set: (1) Cổng thành + phố — Phạm Du vào thành; (2) Điện Kim Tinh — cùng set với EP03 S09–S10, nhưng góc nhìn đối diện; (3) Tường thành ngoài — nhìn về phương Nam; (4) Thuỷ Viên — post credit, chỉ âm thanh + bóng tối. Quan trọng: S10 dùng lại set điện Kim Tinh của EP03, nhưng camera ở vị trí NGƯỢC LẠI — khán giả xem EP03 trước sẽ nhận ra ngay."
+  },
+  {
+   "k": "p",
+   "t": "Scenes: S09, S10, S11, S12, PC  —  Tổng runtime: ~2 phút 20 giây  —  Interior + Exterior / Ngày + Đêm"
+  },
+  {
+   "k": "hr"
+  },
+  {
+   "k": "head",
+   "t": "PRODUCTION SEQUENCE — LỊCH QUAY ĐỀ XUẤT"
+  },
+  {
+   "k": "p",
+   "t": "Ưu tiên LOC-E trước (dùng lại set điện Kim Tinh đã build cho EP03 — quay ngay sau EP03 để tận dụng). LOC-A quay cuối vì cần thời tiết mùa hạn và nhiều diễn viên phụ (lưu dân)."
+  },
+  {
+   "k": "head",
+   "t": "NGÀY      SCENE   CẢNH                                LOCATION                GHI CHÚ"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 1  S10  Điện Kim Tinh — Lời Vu Oan             LOC-E · Điện                Dùng lại set EP03 — quay ngay sau EP03 ngày 1"
+  },
+  {
+   "k": "head",
+   "t": "Ngày 1  S11  Chiếu Chỉ Ban Xuống                    LOC-E · Điện"
+  },
+  {
+   "k": "p",
+   "t": "Liên tục với S10, cùng setup"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 2  S12  Tường Thành — Nhìn Phương Nam          LOC-E · Tường thành         Đêm — cùng crane setup với EP03 S12"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 2  PC   Post Credit — Thuỷ Viên           LOC-E · Thuỷ viên               Chỉ âm thanh + bóng tối — 10 giây"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 3  S09  Vào Thăng Long — Màn Diễn              LOC-E · Cổng + phố Phạm Du quần rách bùn đất — 1 diễn viên"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 4  S05  Đêm Trong Căn Nhà Gỗ                   LOC-C · Hồng Châu           Set nhỏ, 2 diễn viên, đêm mưa"
+  },
+  {
+   "k": "head",
+   "t": "Ngày 5  S07  Thất Bại — Cơ Nghiệp Cháy              LOC-D · Đồi"
+  },
+  {
+   "k": "p",
+   "t": "Signature moment — ánh lửa từ xa, 1 người"
+  },
+  {
+   "k": "head",
+   "t": "Ngày 5  S08  Quyết Định                             LOC-D · Đồi"
+  },
+  {
+   "k": "p",
+   "t": "Liên tục với S07, cùng ngày"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 5  S13  Final Image                            LOC-D · Đường               Ngày — đoàn quân Bỉnh Di, quay nhanh"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 6  S06  Trận Chiến Đầu — Thắng                 LOC-D · Chiến trường Nhiều diễn viên phụ, khói — quay sáng sớm"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 7  S03  Xây Dựng Lực Lượng (montage)           LOC-B · Doanh trại         Nhiều sub-shot, có thể quay ghép ngày"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 7  S04  Tin Từ Thăng Long                      LOC-B · Lều chỉ huy Liên tục với S03, cùng set"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 8  S01  Nghệ An — Mất mùa                      LOC-A · Đồng ruộng          Cần nhiều lưu dân — extras đông nhất tập"
+  },
+  {
+   "k": "head",
+   "t": "Ngày 8  S02  Mở Kho Lương                           LOC-A · Kho lương"
+  },
+  {
+   "k": "p",
+   "t": "Liên tục với S01, cùng ngày"
+  },
+  {
+   "k": "p",
+   "t": "Ghi chú: LOC-E quay trước để tận dụng set điện Kim Tinh đã build cho EP03. S10 của EP04 là cùng set với S09 EP03 nhưng camera ở góc đối diện — nếu quay trong cùng ngày thì không cần rebuild."
+  },
+  {
+   "k": "hr"
+  },
+  {
+   "k": "head",
+   "t": "VỊ TRÍ TRONG ARC"
+  },
+  {
+   "k": "head",
+   "t": "EP04 là tập duy nhất trong Arc I kể câu chuyện từ góc nhìn của người thực sự biết mình đang làm gì — và không cần bào chữa."
+  },
+  {
+   "k": "p",
+   "t": "Phạm Du không phải villain theo nghĩa thông thường. Ông không tàn ác, không say máu, không có trauma để giải thích hành động. Ông chỉ đơn giản là người nhìn thế giới theo một cách khác: ông thấy hệ thống đang sụp đổ và quyết định đứng ở phía được lợi từ sự sụp đổ đó."
+  },
+  {
+   "k": "p",
+   "t": "Điều khiến EP04 khác biệt so với 4 tập còn lại: đây là tập duy nhất trong đó nhân vật chính KHÔNG bị vận mệnh đánh bại. Phạm Du thua trận, mất tất cả, rồi đứng dậy và thắng bằng lời nói. Đây là loại kẻ thù đáng sợ nhất — không phải vì ông mạnh, mà vì ông hiểu con người."
+  },
+  {
+   "k": "p",
+   "t": "Tone: Cold thriller. Không có một khoảnh khắc nào Phạm Du mất kiểm soát."
+  },
+  {
+   "k": "lab",
+   "c": "vo",
+   "l": "VO",
+   "t": "của ông là giọng giáo sư đang thuyết trình — không phải về bản thân, mà về cách thế giới vận hành."
+  },
+  {
+   "k": "head",
+   "t": "Lưu ý quan trọng về EP03 và EP04:"
+  },
+  {
+   "k": "p",
+   "t": "S10 của EP04 (Điện Kim Tinh — Phạm Du vu oan) và S09 của EP03 (Điện Kim Tinh — Bỉnh Di bước vào) là CÙNG MỘT SỰ KIỆN từ hai góc nhìn đối nghịch. Khán giả xem EP03 trước sẽ thấy cảnh này lần thứ hai — nhưng lần này hiểu tất cả mọi thứ ở phía sau nó. Đây là thiết kế có chủ đích: không phải lặp lại mà là tiết lộ."
+  },
+  {
+   "k": "head",
+   "t": "FORMAT   Animated short — 9 phút 30 giây"
+  },
+  {
+   "k": "p",
+   "t": "CẤU TRÚC   5 Acts: I (Origin) → II (Ambition) → III (Fall) → IV (The Lie) →"
+  },
+  {
+   "k": "p",
+   "t": "V (The Trap)"
+  },
+  {
+   "k": "p",
+   "t": "TONE   Cold thriller. Không có nhịp hùng tráng. Không có khoảnh khắc cảm xúc thông thường."
+  },
+  {
+   "k": "p",
+   "t": "VISUAL   Desaturated + lạnh. Phạm Du luôn đứng hơi lệch khỏi trung tâm khung hình — không bao giờ ở vị trí 'anh hùng'"
+  },
+  {
+   "k": "p",
+   "t": "ÂM NHẠC   Đàn tỳ bà solo — không phải đàn tranh. Tiếng đàn tỳ bà lạnh hơn, tính toán hơn. Không bao giờ crescendo."
+  },
+  {
+   "k": "lab",
+   "c": "vo",
+   "l": "VO",
+   "t": "Giọng giáo sư thuyết trình. Không bao giờ tự bào chữa. Nói về người khác nhiều hơn nói về bản thân."
+  },
+  {
+   "k": "hr"
+  },
+  {
+   "k": "head",
+   "t": "CHARACTER BRIEF — PHẠM DU"
+  },
+  {
+   "k": "p",
+   "t": "Phạm Du là nhân vật phức tạp nhất Arc I không phải vì ông có nhiều mâu thuẫn nội tâm — mà vì ông hoàn toàn nhất quán từ đầu đến cuối. Đó là điều đáng sợ nhất ở ông."
+  },
+  {
+   "k": "p",
+   "t": "Ông nhìn thấy mất mùa ở Nghệ An và thấy cơ hội. Ông nhìn thấy Đoàn Thượng và thấy một con bài. Ông nhìn thấy Phạm Bỉnh Di và thấy một điểm yếu — không phải điểm yếu về sức mạnh hay trí tuệ, mà điểm yếu về niềm tin. Người trung thành luôn có thể bị lợi dụng vì họ không thể tưởng tượng người khác không như mình."
+  },
+  {
+   "k": "lab",
+   "c": "vo",
+   "l": "VO",
+   "t": "của Phạm Du không mang giọng ăn năn, không mang giọng kiêu ngạo. Ông kể câu chuyện của mình như người đang giải thích một bài toán — chính xác, lạnh, không màu sắc cảm xúc. Đây là điều tạo ra sự bất ổn cho khán giả:"
+  },
+  {
+   "k": "p",
+   "t": "ông nói nghe có lý."
+  },
+  {
+   "k": "lab",
+   "c": "act",
+   "l": "WARDROBE",
+   "t": "",
+   "list": [
+    "Nghệ An: mặc thường phục quý tộc giản dị, màu xanh lam nhạt — chức vụ không cao, nhưng đủ để đứng trên đám đông",
+    "Doanh trại: áo võ tướng nhưng không phải giáp chiến — ông không chiến đấu trực tiếp",
+    "Vào Thăng Long: quần áo rách nát, bùn đất từ đầu đến chân — đây là TRANG PHỤC ĐƯỢC CHỌN LỌC CẨN THẬN, không phải ngẫu nhiên",
+    "Trong cung sau đó: triều phục cố vấn — sạch sẽ, đúng phẩm cấp, không một vết bụi",
+    "Visual tell nhất quán qua tất cả các tập: không bao giờ nhìn thẳng vào mắt ai quá 1 giây — không phải vì né tránh, mà vì ông đã xong việc với người đó",
+    "Chi tiết nhỏ: bàn tay luôn buông thõng, không bao giờ nắm — người tự tin không cần căng thẳng"
+   ]
+  },
+  {
+   "k": "hr"
+  }
+ ],
+ "acts": [
+  {
+   "t": "ACT I — ORIGIN",
+   "time": "0:00–1:30",
+   "intro": [
+    {
+     "k": "p",
+     "t": "Thời gian: 1 phút 30 giây. Ngắn và lạnh. Không có backstory dài dòng — chỉ một khoảnh khắc duy nhất định nghĩa toàn bộ nhân vật: Phạm Du nhìn xuống đám dân đói và thấy điều người khác không thấy."
+    },
+    {
+     "k": "quote",
+     "lines": [
+      "巧言令色，鮮矣仁",
+      "Xảo ngôn lệnh sắc, tiển hỹ nhân",
+      "\"Kẻ khéo lời đẹp mặt, hiếm khi có lòng nhân thực sự\"",
+      "— Luận Ngữ · Học Nhi — thiên thứ nhất"
+     ]
+    },
+    {
+     "k": "lab",
+     "c": "note",
+     "l": "NOTE",
+     "t": "Quote hiện lên toàn bộ một lúc — không xuất hiện từng chữ như EP03. Phạm Du không phải người của sự chờ đợi. Câu này là lời người đời dùng để cảnh báo về ông — và cũng là câu ông đã đọc, hiểu, và quyết định: nếu vậy thì ta sẽ là kẻ đó."
+    }
+   ],
+   "scenes": [
+    {
+     "id": "S01",
+     "t": "NGHỆ AN — MẤT MÙA",
+     "time": "0:00–0:50",
+     "loc": "LOC-A · Đồng ruộng nứt nẻ, Nghệ An · Exterior / Ban ngày, mùa hạn",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Cảnh mở đầu không có nhân vật chính trong 15 giây đầu — chỉ là landscape mùa hạn. Phạm Du xuất hiện từ xa, đứng trên gò đất. QUAN TRỌNG: không giải thích ông thấy gì — chỉ thấy mắt ông và hướng nhìn. Khán giả tự đọc."
+      },
+      {
+       "k": "slug",
+       "t": "EXTERIOR — NGHỆ AN — ĐỒNG RUỘNG — NGÀY, MÙA HẠN"
+      },
+      {
+       "k": "arrow",
+       "t": "Đồng ruộng nứt nẻ — đất khô vỡ thành từng mảng lớn, không có nước, không có màu xanh."
+      },
+      {
+       "k": "arrow",
+       "t": "Lưu dân kéo dài trên những con đường bụi đỏ. Người già gục bên vệ đường. Trẻ nhỏ khóc trong những túp lều rách."
+      },
+      {
+       "k": "arrow",
+       "t": "Không khí rung rinh vì nắng — heatwave visible. Màu của cảnh: nâu đỏ, vàng xám, trắng chói."
+      },
+      {
+       "k": "arrow",
+       "t": "Phạm Du (35t) đứng trên một gò đất cao, một mình, nhìn xuống dòng người. Tay buông thõng. Mặt bình thản."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Nắng trắng, không có bóng mát. Key light thẳng từ trên xuống, tạo bóng đổ cứng trực tiếp dưới chân mọi người. Không có fill light lãng mạn hóa — đây là ánh sáng của sự thật phơi bày."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "0:00 — Không có im lặng như EP03. Ngay lập tức: tiếng khóc xa, tiếng gió trên đồng trống, tiếng bánh xe trâu cút kít. Cuộc sống đang chết dần nhưng vẫn đang di chuyển."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Wide shot đám đông lưu dân — 15 giây tĩnh. Sau đó camera pan lên tìm Phạm Du trên gò đất. Close-up mặt ông: mắt đang quan sát, không phải cảm xúc. Camera giữ ở đây 8 giây — đủ để khán giả tự hỏi ông đang nghĩ gì."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Phạm Du trên gò đất: không một biểu cảm cảm xúc — không thương hại, không ghê tởm, không kiêu ngạo. Chỉ là đang xử lý thông tin. Đây là cách ông nhìn mọi thứ. Mắt di chuyển chậm, có hệ thống — như người đang đọc bản đồ."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Xảo ngôn lệnh sắc, tiển hỹ nhân.\""
+      },
+      {
+       "k": "p",
+       "t": "Một nhịp. Phạm Du không nhìn xuống nữa — nhìn thẳng vào camera lần đầu và duy nhất trong tập."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Các nho sinh thích dùng câu ấy để dạy người đời.\""
+      },
+      {
+       "k": "p",
+       "t": "Ông quay lưng lại, bước xuống phía kho lương."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Nhưng ta luôn tự hỏi... nếu lời nói thật sự vô dụng, vì sao thiên hạ lại bị chúng điều khiển?\""
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "0:00: Đàn tỳ bà solo — một nốt dài, không vibrato, không crescendo. Không phải câu hỏi âm nhạc như đàn tranh của EP03. Đây là tiếng đàn của người đã biết câu trả lời và đang đợi người khác nhận ra. LEITMOTIF của Phạm Du: 3 nốt xuống dần, mỗi nốt ngắn hơn nốt trước."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "50 giây. Chậm ở đầu — landscape, lưu dân — nhanh khi Phạm Du xuất hiện."
+      }
+     ],
+     "chips": [
+      "pd"
+     ],
+     "set": "Dong_ruong_cay_bua"
+    },
+    {
+     "id": "S02",
+     "t": "MỞ KHO LƯƠNG",
+     "time": "0:50–1:30",
+     "loc": "LOC-A · Kho lương + sân làng · Exterior / Ban ngày",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Phạm Du mở kho lương — đây là hành động đầu tiên ta thấy ông làm. KHÔNG phải hành động xấu. Đây là lý do tập này khó: ông bắt đầu bằng việc cứu người. VO giải thích POV của ông trong khi hình ảnh cho thấy kết quả."
+      },
+      {
+       "k": "slug",
+       "t": "EXTERIOR — KHO LƯƠNG NGHỆ AN — NGÀY"
+      },
+      {
+       "k": "arrow",
+       "t": "Kho lương: mái ngói thấp, cửa gỗ dày bị khóa. Phạm Du đứng trước cửa với hai lính canh."
+      },
+      {
+       "k": "arrow",
+       "t": "Ông lấy từ túi ra một thẻ bài quan — không phải chìa khóa, mà là quyền lực. Lính canh mở cửa."
+      },
+      {
+       "k": "arrow",
+       "t": "Dân chúng đứng chờ bên ngoài — không ồn ào, chỉ im lặng và mệt mỏi."
+      },
+      {
+       "k": "arrow",
+       "t": "Kho mở ra: lúa gạo đổ ra. Dân chúng không vui mừng ngay — họ quá đói để vui. Họ chỉ tiến vào."
+      },
+      {
+       "k": "p",
+       "t": "Montage ngắn — 20 giây:"
+      },
+      {
+       "k": "p",
+       "t": "Gạo được phân phát. Trai tráng được gọi đến, đăng ký tên. Danh sách được lập. Một lá cờ nhỏ được cắm trên kho lương — không phải cờ triều đình, cờ của Phạm Du, chữ Phạm viết thể triện."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Khi triều đình nhìn thấy tai họa... họ nhìn thấy một vấn đề.\""
+      },
+      {
+       "k": "p",
+       "t": "Camera close-up: bàn tay Phạm Du nhận tờ danh sách trai tráng đăng ký. Ngón tay lướt qua từng tên — nhanh, chính xác."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Còn ta... ta nhìn thấy cơ hội.\""
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Người đói sẽ đi theo người cho họ cơm ăn. Đó là quy luật đơn giản nhất của thiên hạ.\""
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Cảnh phân phát gạo: wide shot — không romanticize. Không có ánh sáng golden hour, không có nhạc cảm xúc. Chỉ là logistics đang diễn ra. Camera duy trì khoảng cách — như Phạm Du đang quan sát, không phải như người trong cuộc."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Ánh sáng ban ngày flat, vẫn mùa hạn. Khi kho mở: ánh sáng từ bên trong kho đổ ra — đây là khoảnh khắc duy nhất có ánh sáng ấm trong Act I, và nó đến từ lúa gạo, không phải từ cảm xúc."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "0:50–1:30: Leitmotif 3 nốt xuống dần lặp lại 2 lần. Chậm, đều. Như người đang đếm."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "40 giây. Nhanh — montage chức năng, không phải cảnh cảm xúc."
+      }
+     ],
+     "chips": [
+      "pd"
+     ],
+     "set": "San_phoi_choi_canh"
+    }
+   ]
+  },
+  {
+   "t": "ACT II — AMBITION",
+   "time": "1:30–4:00",
+   "intro": [
+    {
+     "k": "p",
+     "t": "Thời gian: 2 phút 30 giây. Act dài nhất — nhưng không nặng nề vì được cắt thành nhiều scene nhịp độ khác nhau. Đây là arc tăng trưởng: Phạm Du đi từ quan lại nhỏ đến kẻ thách thức triều đình. VO trong Act này là lạnh nhất — ông đang giải thích quy luật, không phải cảm xúc."
+    }
+   ],
+   "scenes": [
+    {
+     "id": "S03",
+     "t": "XÂY DỰNG LỰC LƯỢNG",
+     "time": "1:30–2:30",
+     "loc": "LOC-B · Doanh trại Nghệ An · Exterior + Interior / Ngày và đêm, nhiều tháng",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Montage — nhiều tháng trong 60 giây. Ba giai đoạn rõ ràng: (1) tốt — cứu dân, tuyển quân hợp pháp; (2) xám — bắt đầu thu thuế riêng; (3) đen — chiếm đất, tước đoạt. VO theo từng giai đoạn, không phán xét."
+      },
+      {
+       "k": "slug",
+       "t": "INTERIOR/EXTERIOR — DOANH TRẠI NGHỆ AN — NHIỀU THÁNG TRÔI QUA"
+      },
+      {
+       "k": "arrow",
+       "t": "Doanh trại lớn dần theo thời gian — mỗi shot montage thêm một lều, thêm người, thêm kho."
+      },
+      {
+       "k": "arrow",
+       "t": "Bản đồ Nghệ An trên tường: dần dần có thêm vùng đất được đánh dấu."
+      },
+      {
+       "k": "arrow",
+       "t": "Kho lương đầy. Sau đó: kho vàng bạc. Sau đó: kho vũ khí."
+      },
+      {
+       "k": "center",
+       "t": "─ MONTAGE BA GIAI ĐOẠN ─"
+      },
+      {
+       "k": "head",
+       "t": "GIAI ĐOẠN 1 — Hợp pháp  [1:30–1:45]"
+      },
+      {
+       "k": "p",
+       "t": "Phạm Du tuyển mộ trai tráng — danh sách, đăng ký, tổ chức. Huấn luyện bài bản. Dân chúng mang ơn, cúi đầu chào khi ông đi qua."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Quyền lực là thứ kỳ lạ.\""
+      },
+      {
+       "k": "head",
+       "t": "GIAI ĐOẠN 2 — Xám  [1:45–2:00]"
+      },
+      {
+       "k": "p",
+       "t": "Quan lại địa phương tới thu thuế — Phạm Du đứng cạnh, ngăn lại. Sau đó: ông tự thu. Kho lương của ông đầy hơn kho triều đình."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Ban đầu ngươi nghĩ mình đang điều khiển nó.\""
+      },
+      {
+       "k": "head",
+       "t": "GIAI ĐOẠN 3 — Đen  [2:00–2:20]"
+      },
+      {
+       "k": "p",
+       "t": "Một gia đình bị đuổi khỏi ruộng đất. Không bạo lực — chỉ có tờ giấy và lính. Phạm Du không có mặt ở đây — ông không cần."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Sau đó mới nhận ra. Chính nó đang điều khiển ngươi.\""
+      },
+      {
+       "k": "p",
+       "t": "Cut lại Phạm Du: ông đang đọc một tờ báo cáo. Không phản ứng với những gì vừa xảy ra. Ký tên. Đưa lại."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Ba giai đoạn: ba tone camera khác nhau. Giai đoạn 1: medium shot, ánh sáng ban ngày bình thường. Giai đoạn 2: góc hơi thấp hơn — Phạm Du bắt đầu cao lên trong khung. Giai đoạn 3: camera ở xa — ta thấy hành động nhưng không ở trong nó. Khoảng cách như của người quan sát lạnh lùng."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "1:30–2:30: Leitmotif 3 nốt tăng BPM dần từ giai đoạn 1 đến 3. Không phải tăng âm lượng — chỉ tăng tốc độ. Đến cuối giai đoạn 3: dừng lại. Silence 2 giây."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "60 giây montage. Mỗi giai đoạn ~15–20 giây."
+      }
+     ],
+     "chips": [
+      "pd"
+     ],
+     "set": "Bo_de"
+    },
+    {
+     "id": "S04",
+     "t": "TIN TỪ THĂNG LONG",
+     "time": "2:30–3:15",
+     "loc": "LOC-B · Lều chỉ huy · Interior / Đêm",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Phạm Du nhận tin Phạm Bỉnh Di được lệnh xuất quân. Đây là scene đầu tiên ông đối mặt với một mối đe dọa thực sự — và phản ứng của ông không phải lo lắng mà là tính toán. VO giải thích logic tiếp theo."
+      },
+      {
+       "k": "slug",
+       "t": "INTERIOR — LỀU CHỈ HUY — ĐÊM"
+      },
+      {
+       "k": "arrow",
+       "t": "Lều riêng của Phạm Du — ngăn nắp bất thường cho một doanh trại. Bản đồ được gấp gọn. Giấy tờ xếp theo thứ tự."
+      },
+      {
+       "k": "arrow",
+       "t": "Một thuộc hạ vào, quỳ xuống, dâng báo cáo tình báo."
+      },
+      {
+       "k": "arrow",
+       "t": "Phạm Du đọc. Không phản ứng ngay."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Khi đọc tin Bỉnh Di xuất quân: Phạm Du đặt tờ giấy xuống, nhìn vào khoảng không trước mặt khoảng 3 giây. Không nói gì. Sau đó lấy một tờ giấy khác — tờ giấy trắng — và bắt đầu viết. Khán giả không thấy ông viết gì. Đây là khoảnh khắc kế hoạch được hình thành."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Người đời luôn nhớ đến chiến thắng cuối cùng.\""
+      },
+      {
+       "k": "p",
+       "t": "Phạm Du tiếp tục viết."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Nhưng chiến thắng đầu tiên... mới là thứ khiến con người trở"
+      },
+      {
+       "k": "p",
+       "t": "nên mù quáng.\""
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Close-up bàn tay viết — không thấy nội dung. Sau đó tilt lên mặt Phạm Du: biểu cảm trung tính, ánh mắt tập trung. Không phải ánh mắt lo lắng, không phải hào hứng. Là ánh mắt của người đang làm bài toán."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Đèn dầu duy nhất — ánh sáng vàng ấm rơi trên bàn và giấy tờ. Phần trên khuôn mặt Phạm Du: trong bóng tối. Phần dưới — miệng và cằm — được chiếu sáng. Đây là đảo ngược của S02 EP03 (Bỉnh Di): cùng lighting nhưng người dùng nó hoàn toàn khác."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "2:30: Leitmotif 3 nốt — lần này chỉ một lần, rất khẽ. Rồi im lặng hoàn toàn. Không có nhạc trong 45 giây còn lại của cảnh."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "45 giây."
+      }
+     ],
+     "chips": [
+      "pbd",
+      "pd"
+     ],
+     "set": "Bo_de"
+    },
+    {
+     "id": "S05",
+     "t": "ĐÊM TRONG CĂN NHÀ GỖ",
+     "time": "3:15–4:00",
+     "loc": "LOC-C · Hồng Châu — Căn nhà gỗ Đoàn Thượng · Interior / Đêm mưa",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Lần đầu Phạm Du và Đoàn Thượng gặp nhau. Không phải liên minh cảm xúc — là liên minh lợi ích. Hai người nguy hiểm trong cùng một phòng, không ai tin ai, nhưng cả hai đều thấy cần nhau. Scene ngắn nhất Act II nhưng nặng nhất."
+      },
+      {
+       "k": "slug",
+       "t": "INTERIOR — CĂN NHÀ GỖ, HỒNG CHÂU — ĐÊM, MƯA"
+      },
+      {
+       "k": "arrow",
+       "t": "Căn nhà gỗ đơn giản — không phải nghèo, chỉ là không cần phô trương. Bàn gỗ, hai ghế, một đèn dầu."
+      },
+      {
+       "k": "arrow",
+       "t": "Đoàn Thượng ngồi sẵn. Phạm Du bước vào — không được mời ngồi, tự ngồi."
+      },
+      {
+       "k": "arrow",
+       "t": "Mưa nặng hạt bên ngoài. Không có ai khác trong phòng."
+      },
+      {
+       "k": "arrow",
+       "t": "Hai người nhìn nhau. Không ai nói trước."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "WARDROBE",
+       "t": "",
+       "list": [
+        "Đoàn Thượng: áo tứ điên bằng vải dày, đai lưng da của hào trưởng, không có trang sức, bàn tay chai cứng, vết đất — bàn tay đã làm việc thật sự. Tóc búi gọn. Trông như người quen đất hơn quen cung điện.",
+        "Phạm Du: vẫn áo doanh trại — ông không mặc triều phục vào đây. Đây là tín hiệu: ta không đại diện cho triều đình."
+       ]
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Hai người: không ai cười trước, không ai cúi đầu trước, không ai rót trà cho người kia. Cả hai đều biết đây không phải cuộc gặp xã giao. Khoảng lặng đầu tiên kéo dài 4 giây — đây là hai người đang đánh giá nhau."
+      },
+      {
+       "k": "p",
+       "t": "Cuối cùng, Phạm Du nhìn đi chỗ khác trước — không phải vì thua, mà vì ông không cần cuộc thi nhìn mắt này."
+      },
+      {
+       "k": "dlg",
+       "who": "PHẠM DU",
+       "lines": [
+        [
+         "p",
+         "(không phải báo động, chỉ là thông tin — như đang thảo luận thời tiết)"
+        ],
+        [
+         "d",
+         "Triều đình đang gửi Phạm Bỉnh Di tới."
+        ],
+        [
+         "d",
+         "Đoàn Thượng không trả lời ngay. Ông nhìn vào đèn dầu."
+        ]
+       ]
+      },
+      {
+       "k": "dlg",
+       "who": "ĐOÀN THƯỢNG",
+       "lines": [
+        [
+         "p",
+         "(ngắn — ông cũng không thích nói nhiều)"
+        ],
+        [
+         "d",
+         "Ta biết."
+        ]
+       ]
+      },
+      {
+       "k": "dlg",
+       "who": "PHẠM DU",
+       "lines": [
+        [
+         "p",
+         "(bằng phẳng, như người đang nêu dữ kiện toán học)"
+        ],
+        [
+         "d",
+         "Một mình ta không thắng được ông ta.Một mình ngài cũng không."
+        ],
+        [
+         "d",
+         "Mưa nặng hơn. Tiếng mưa trên mái nhà gỗ."
+        ],
+        [
+         "d",
+         "Đoàn Thượng nhìn lên. Hai người thực sự nhìn nhau lần đầu tiên suốt một trường đoạn gặp mặt."
+        ]
+       ]
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Kẻ khôn ngoan không cần bạn bè. Chỉ cần những người có cùng lợi"
+      },
+      {
+       "k": "p",
+       "t": "ích.\""
+      },
+      {
+       "k": "p",
+       "t": "Phạm Du đứng dậy, đi đến cửa, dừng lại. Không quay lại. Đặt tay lên khung cửa — một nhịp im lặng, như người đang chờ. Đoàn Thượng không nói gì. Nhưng rót trà ra hai chén và đẩy một chén về phía ghế Phạm Du vừa rời. Tiếng sứ chạm gỗ nhừ trên bàn. Phạm Du nghe tiếng đó. Quay lại nhìn chén trà. Ngồi xuống lại. Không có lời. Liên minh được hình thành bằng một chén trà — và cả hai đều biết đó không phải trà xã giao."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Hai người ở hai đầu bàn — khác EP03 S05 (Bỉnh Di và Quách Bốc) nơi bản đồ là trung gian, ở đây bàn trống. Khoảng cách thực sự. Camera không nghiêng về ai — luôn giữ cân bằng, tạo cảm giác không có ai là protagonist ở đây."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Mưa là âm thanh duy nhất. Không có nhạc. Không có tiếng côn trùng — đây là đô thị Hồng Châu, không phải doanh trại. Tiếng mưa trên mái ngói và mái gỗ: hai texture khác nhau, phân biệt không gian bên trong và bên ngoài."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Silence hoàn toàn — không có nhạc trong toàn bộ S05. Leitmotif của Phạm Du sẽ quay lại ở S07."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "45 giây."
+      }
+     ],
+     "chips": [
+      "dt",
+      "pbd",
+      "pd",
+      "qb"
+     ],
+     "set": "Bo_de"
+    },
+    {
+     "id": "S06",
+     "t": "TRẬN CHIẾN ĐẦU — THẮNG",
+     "time": "4:00–5:00",
+     "loc": "LOC-D · Chiến trường rừng thưa · Exterior / Ngày",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Liên quân Đoàn Thượng - Phạm Du đánh lui quân triều đình lần đầu. Không romanticize chiến thắng — cảnh chiến đấu ngắn, điểm nhấn là AFTERMATH: tiệc ăn mừng và sự khác biệt giữa Đoàn Thượng trầm ngâm và Phạm Du bắt đầu tin mình bất khả chiến bại."
+      },
+      {
+       "k": "head",
+       "t": "― TRANSITION: 1207 → 1209 ―"
+      },
+      {
+       "k": "p",
+       "t": "INSERT SHOT — 3 giây: bản đồ trên bàn Phạm Du. Một bàn tay vẽ thêm tuyến đường mới trên bản đồ. Sau đó một tờ giấy nhở đặt xuống: “Tháng 2, năm Kỷ Tỵ” — viết tay, không phải title card. Cắt ngay vào S06."
+      },
+      {
+       "k": "slug",
+       "t": "EXTERIOR — CHIẾN TRƯỜNG RỪNG THƯA — NGÀY"
+      },
+      {
+       "k": "arrow",
+       "t": "Rừng thưa, địa hình phức tạp. Khói và bụi. Quân triều đình đang rút lui hỗn loạn."
+      },
+      {
+       "k": "arrow",
+       "t": "Không phải trận đánh hùng tráng — đây là trận phục kích. Liên quân đánh từ nhiều phía. Quân triều đình không kịp tổ chức."
+      },
+      {
+       "k": "arrow",
+       "t": "Phạm Du không chiến đấu trực tiếp — ông đứng sau, nhìn bản đồ, ra lệnh qua trung gian."
+      },
+      {
+       "k": "p",
+       "t": "Chiến trận: 20 giây. Không cần chi tiết — chỉ cần thấy kết quả."
+      },
+      {
+       "k": "p",
+       "t": "Sau trận: doanh trại, đêm, lửa trại. Tướng lĩnh ăn mừng."
+      },
+      {
+       "k": "center",
+       "t": "─ TIỆC ĂN MỪNG ─"
+      },
+      {
+       "k": "arrow",
+       "t": "Lửa trại lớn. Tướng lĩnh nâng chén. Tiếng hô vang."
+      },
+      {
+       "k": "arrow",
+       "t": "Đoàn Thượng ngồi một góc, trầm ngâm — ông đã thấy đủ trận chiến để biết một chiến thắng không có nghĩa gì."
+      },
+      {
+       "k": "arrow",
+       "t": "Phạm Du đứng ở trung tâm. Lần đầu tiên trong tập ông không đứng lệch khung hình — ông ở chính giữa, được bao quanh."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Phạm Du trong tiệc ăn mừng: ông uống, ông cười — nhưng mắt vẫn quan sát. Đây là biểu hiện đầu tiên và duy nhất của ông tiếp cận với điều giống cảm xúc thật. Và đây là khoảnh khắc nguy hiểm nhất của ông — khi bắt đầu tin vào chính mình."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Người đời luôn nhớ đến chiến thắng cuối cùng. Nhưng chiến thắng đầu tiên... mới là thứ khiến con người trở nên mù quáng.\""
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Shot chiến thắng: camera lần đầu tiên đặt Phạm Du ở trung tâm khung hình, đối xứng. Khoảnh khắc này sẽ không lặp lại — từ S07 trở đi ông lại lệch khỏi trung tâm. Sự thay đổi này là có chủ đích."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "4:00: Chiến trận không có nhạc — chỉ có tiếng binh khí. Sau chiến thắng: leitmotif Phạm Du xuất hiện, lần này hơi nhanh hơn, cao hơn nửa cung. Như người đang leo lên."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "60 giây. 20 giây chiến trận + 40 giây aftermath tiệc."
+      }
+     ],
+     "chips": [
+      "dt",
+      "pd"
+     ],
+     "set": "Chien_truong_voi_chien"
+    }
+   ]
+  },
+  {
+   "t": "ACT III — THE FALL",
+   "time": "5:00–6:40",
+   "intro": [
+    {
+     "k": "p",
+     "t": "Thời gian: 1 phút 40 giây. Ngắn và nhanh — sự sụp đổ diễn ra nhanh hơn sự xây dựng. Phạm Bỉnh Di trở lại với đội quân tốt hơn, kỷ luật hơn. Mọi thứ Phạm Du xây dựng bị phá. NHƯNG: ông không tuyệt vọng. Act III kết thúc bằng khoảnh khắc quan trọng nhất của tập — không phải thất bại, mà là sự chấp nhận."
+    }
+   ],
+   "scenes": [
+    {
+     "id": "S07",
+     "t": "THẤT BẠI — CƠ NGHIỆP CHÁY",
+     "time": "5:00–6:00",
+     "loc": "LOC-D · Đồi nhìn xuống doanh trại · Exterior / Đêm, lửa lớn",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "SIGNATURE MOMENT. Phạm Du đứng trên đồi nhìn xuống cơ nghiệp đang cháy. Không gào thét, không tuyệt vọng. Chỉ quan sát. Đây là cảnh đẹp nhất và đáng sợ nhất của tập — vì sự bình thản của ông trong lửa."
+      },
+      {
+       "k": "slug",
+       "t": "EXTERIOR — ĐỒI — ĐÊM"
+      },
+      {
+       "k": "arrow",
+       "t": "Montage thất bại trước — 30 giây:"
+      },
+      {
+       "k": "arrow",
+       "t": "Các cứ điểm lần lượt thất thủ. Kho lương bị chiếm. Doanh trại bị phá. Lực lượng tan rã. Đồng minh bỏ chạy."
+      },
+      {
+       "k": "arrow",
+       "t": "Montage nhanh, không âm nhạc — chỉ tiếng chiến trận và tiếng người hô."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Thất bại không đến trong một ngày.\""
+      },
+      {
+       "k": "p",
+       "t": "Các shot montage tiếp tục."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Nó đến từng chút một.\""
+      },
+      {
+       "k": "p",
+       "t": "Shot cuối montage: lính của Phạm Du bỏ trốn, tháo chạy về đêm."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Cho đến khi ngươi không còn gì để mất.\""
+      },
+      {
+       "k": "center",
+       "t": "─ SIGNATURE MOMENT ─"
+      },
+      {
+       "k": "arrow",
+       "t": "Một cơ ngơi rộng lớn chìm trong biển lửa. Kho lương, nhà cửa, gia sản — tất cả đang cháy."
+      },
+      {
+       "k": "arrow",
+       "t": "Phạm Du đứng trên đồi, một mình, nhìn xuống. Ánh lửa phản chiếu trong mắt ông."
+      },
+      {
+       "k": "arrow",
+       "t": "Không gào thét. Không tuyệt vọng. Không quỳ xuống. Chỉ lặng lẽ quan sát — như đang xem một thí nghiệm diễn ra đúng như dự đoán."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Đây là diễn xuất khó nhất của tập. Phạm Du nhìn xuống lửa với cùng biểu cảm khi ông nhìn danh sách trai tráng ở S02 — trung tính, xử lý thông tin. KHÔNG PHẢI vô cảm giả tạo. Ông đang thực sự trải qua điều này — nhưng ông trải qua nó theo cách của ông. Diễn viên cần tìm điểm cân bằng giữa 'không cảm xúc' và 'đã chấp nhận'."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Ánh lửa từ dưới đồi: nguồn sáng duy nhất, màu cam đỏ, flickering. Phạm Du đứng trong ánh sáng lửa — nhưng vì ông đứng trên cao, ánh sáng chiếu từ dưới lên, tạo shadow ngược trên mặt. Khác hoàn toàn với mọi cảnh chiếu sáng trước đó. Đây là lần đầu tiên ông không kiểm soát được nguồn sáng."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Bắt đầu: wide shot từ xa — thấy đồi, thấy lửa, thấy bóng người nhỏ bé trên đồi. Dần dần tiến gần. Medium shot: thấy ánh lửa trong mắt. Close-up: chỉ đôi mắt phản chiếu ngọn lửa. Đây là close-up đầu tiên và duy nhất của Phạm Du trong toàn tập — đặc biệt để nhấn mạnh khoảnh khắc này."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "5:00: Montage thất bại — không có nhạc, chỉ tiếng chiến trận. 5:30: Khi Phạm Du xuất hiện trên đồi — leitmotif 3 nốt xuất hiện lần cuối, lần này rất chậm, rất thấp. Gần như không nghe thấy. Rồi fade out hoàn toàn. Sau đó: silence tuyệt đối, chỉ tiếng lửa."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "60 giây. 30 giây montage thất bại + 30 giây Signature Moment trên đồi."
+      }
+     ],
+     "chips": [
+      "pd"
+     ],
+     "set": "Bo_de"
+    },
+    {
+     "id": "S08",
+     "t": "QUYẾT ĐỊNH",
+     "time": "6:00–6:40",
+     "loc": "LOC-D · Đồi, liên tục với S07 · Exterior / Đêm, lửa",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Phạm Du quay lưng bỏ đi. Đây không phải cảnh tuyệt vọng — đây là cảnh của người đã quyết định kế hoạch tiếp theo. VO chốt lại toàn bộ Act III và mở ra Act IV."
+      },
+      {
+       "k": "p",
+       "t": "Phạm Du đứng trên đồi thêm vài giây. Không quay lại nhìn lửa nữa."
+      },
+      {
+       "k": "p",
+       "t": "Ông nhìn về phía Bắc — hướng Thăng Long."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Ta đã mất tất cả.\""
+      },
+      {
+       "k": "p",
+       "t": "Một nhịp."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Và chính lúc ấy...\""
+      },
+      {
+       "k": "p",
+       "t": "Ông nhìn thẳng về phía Bắc."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Ta hiểu một điều.\""
+      },
+      {
+       "k": "p",
+       "t": "Ông quay lưng bỏ đi — không chạy, bước bình thường, xuống dốc về phía con đường dẫn đến Thăng Long."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Đao kiếm có thể cướp đi quyền lực.\""
+      },
+      {
+       "k": "p",
+       "t": "Camera ở lại nhìn bóng ông dần nhỏ lại xuống dốc."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Nhưng lời nói... có thể cướp đi cả một vương triều.\""
+      },
+      {
+       "k": "p",
+       "t": "Bóng ông biến vào bóng tối. Chỉ còn lửa phía sau."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Camera không theo Phạm Du khi ông đi xuống dốc. Giữ nguyên góc nhìn từ đỉnh đồi — thấy lưng ông dần nhỏ lại. Khi ông biến mất vào bóng tối: camera pan nhẹ sang phải, thấy đám lửa bên dưới. Cảnh kết thúc với lửa — không phải với con người."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng bước chân trên đất khô. Tiếng lửa. Không có gì khác. Khi Phạm Du biến vào bóng tối: tiếng bước chân dừng lại — không phải vì ông dừng lại mà vì ông đã ra khỏi tầm nghe. Sự vắng mặt của âm thanh đó là âm thanh quan trọng nhất cảnh này."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "6:00–6:40: Silence hoàn toàn trong toàn bộ S08. VO được đọc a capella trên nền tiếng lửa. Đây là lần duy nhất trong tập VO và âm nhạc tách biệt hoàn toàn."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "40 giây."
+      }
+     ],
+     "chips": [
+      "pd"
+     ],
+     "set": "Bo_de"
+    }
+   ]
+  },
+  {
+   "t": "ACT IV — THE LIE",
+   "time": "6:40–8:25",
+   "intro": [
+    {
+     "k": "p",
+     "t": "Thời gian: 1 phút 45 giây. Đây là trái tim của tập — không phải trận chiến, mà là lời nói. Phạm Du vào Thăng Long không phải để cầu xin ân xá, mà để thực hiện một màn diễn đã được tính toán từ trước. Mỗi cử chỉ, mỗi giọt nước mắt, mỗi câu nói đều là nghệ thuật."
+    }
+   ],
+   "scenes": [
+    {
+     "id": "S09",
+     "t": "VÀO THĂNG LONG — MÀN DIỄN BẮT ĐẦU",
+     "time": "6:40–7:10",
+     "loc": "LOC-E · Cổng thành Thăng Long + đường phố · Exterior / Ngày",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Phạm Du xuất hiện trước cổng thành — quần áo rách, bùn đất từ đầu đến chân. ĐÂY LÀ TRANG PHỤC ĐƯỢC CHỌN LỌC CẨN THẬN. VO giải thích: ông biết chính xác mình trông như thế nào trong mắt người khác."
+      },
+      {
+       "k": "slug",
+       "t": "EXTERIOR — CỔNG THÀNH THĂNG LONG — NGÀY"
+      },
+      {
+       "k": "arrow",
+       "t": "Phạm Du đứng trước cổng thành. Một mình — không có thuộc hạ, không có ngựa."
+      },
+      {
+       "k": "arrow",
+       "t": "Quần áo rách nát, bùn đất từ đầu đến chân. Vết xước trên mặt và tay. Tóc bù xù."
+      },
+      {
+       "k": "arrow",
+       "t": "Ông trông giống hệt một người vừa chạy trốn khỏi thất trận và suýt chết."
+      },
+      {
+       "k": "arrow",
+       "t": "Lính gác nhìn ông."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Phạm Du trước cổng thành: lưng hơi còng — không phải vì kiệt sức, mà vì đây là tư thế ông đã chọn. Bước đi chậm hơn bình thường, tay run nhẹ. Tất cả đều là diễn xuất — nhưng phải diễn ở mức vừa đủ để tin được, không phải mức kịch tính."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Sự thật là thứ mong manh.\""
+      },
+      {
+       "k": "p",
+       "t": "Lính gác mở cổng cho ông vào."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Người ta không tin điều gì là thật.\""
+      },
+      {
+       "k": "p",
+       "t": "Phạm Du bước qua cổng. Khi qua ngưỡng cửa — một khoảnh khắc không ai thấy — lưng ông thẳng lại. Chỉ nửa giây. Rồi lại còng."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Người ta tin điều gì nghe có vẻ thật.\""
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Shot từ sau Phạm Du khi ông bước qua cổng thành. Camera ở tầm lưng — không thấy mặt ông, chỉ thấy hành động. Khoảnh khắc lưng thẳng lại: camera đủ gần để khán giả thấy, nhưng lính gác thì không. Đây là khoảnh khắc dành riêng cho khán giả."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "Khoảnh khắc lưng thẳng lại là điểm chia tay giữa 'Phạm Du thật' và 'nhân vật Phạm Du đang diễn'. Sau khoảnh khắc này, mọi thứ ông làm trong điện đều là màn trình diễn."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "6:40: Leitmotif 3 nốt quay lại — nhưng lần này không phải đàn tỳ bà, mà là một nhạc cụ khác: tiêu trúc. Âm thanh nhẹ hơn, khó nhận ra hơn — như màn diễn đang bắt đầu."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "30 giây."
+      }
+     ],
+     "chips": [
+      "pd"
+     ],
+     "set": "Thang_Long_kinh_thanh"
+    },
+    {
+     "id": "S10",
+     "t": "ĐIỆN KIM TINH — LỜI VU OAN",
+     "time": "7:10–7:55",
+     "loc": "LOC-E · Điện Kim Tinh · Interior / Ngày — cùng set EP03 S09, góc camera đối diện",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "KHOẢNH KHẮC QUAN TRỌNG NHẤT CỦA TẬP. Phạm Du quỳ trước Cao Tông và vu oan Phạm Bỉnh Di. Cùng set với EP03 S09 nhưng CAMERA Ở VỊ TRÍ ĐỐI DIỆN — lần này ta thấy từ góc của Phạm Du, không phải Bỉnh Di. VO chạy song song với hành động — giải thích kỹ thuật đằng sau từng cử chỉ."
+      },
+      {
+       "k": "slug",
+       "t": "INTERIOR — ĐIỆN KIM TINH — NGÀY"
+      },
+      {
+       "k": "arrow",
+       "t": "Cùng điện Kim Tinh từ EP03 S09 — cột đỏ đen, khói trầm hương, ngai vàng."
+      },
+      {
+       "k": "arrow",
+       "t": "Lý Cao Tông trên ngai. Triều thần đông đủ."
+      },
+      {
+       "k": "arrow",
+       "t": "KHÁC BIỆT VỀ CAMERA: Lần này ta đứng từ phía ngai vàng nhìn ra — thấy Phạm Du quỳ ở giữa điện, phía sau là cửa vào. Vị trí camera này là góc nhìn của người có quyền lực."
+      },
+      {
+       "k": "arrow",
+       "t": "Phạm Du quỳ sụp xuống. Run rẩy. Mặt đầy bùn đất."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Phạm Du trong điện: đây là diễn xuất hoàn hảo nhất của ông. Run rẩy nhưng không quá mức. Giọng khóc nhưng vẫn đủ to để nghe rõ. Mắt đỏ — có thể ông đã làm gì đó với mắt trước khi vào, hoặc bụi đường thật sự làm mắt đỏ. Chi tiết nhỏ: khi ông khóc, tay ông không che mặt — ông muốn mọi người nhìn thấy."
+      },
+      {
+       "k": "dlg",
+       "who": "PHẠM DU",
+       "lines": [
+        [
+         "p",
+         "(run rẩy, đứt quãng — như người vừa chạy thoát chết)"
+        ],
+        [
+         "d",
+         "Bệ hạ...Thần liều chết trở về...Chỉ để báo cho người biết..."
+        ],
+        [
+         "d",
+         "Ngừng. Thở. Nhìn lên."
+        ]
+       ]
+      },
+      {
+       "k": "dlg",
+       "who": "PHẠM DU",
+       "lines": [
+        [
+         "p",
+         "(giọng vỡ ra — không to, không hùng hồn. Chỉ là tiếng của người đang chuyển tải tin dữ)"
+        ],
+        [
+         "d",
+         "Phạm Bỉnh Di đã phản rồi."
+        ],
+        [
+         "d",
+         "Cả triều đình chấn động."
+        ]
+       ]
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Chỉ cần gieo một hạt giống nghi ngờ.\""
+      },
+      {
+       "k": "p",
+       "t": "Lý Cao Tông dao động — nhìn sang các đại thần. Không ai nói gì. Không ai chắc."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Phần còn lại... con người sẽ tự làm lấy.\""
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Sau khi nói xong: Phạm Du cúi đầu xuống sàn — tư thế phục tùng hoàn toàn. Nhưng khi đầu cúi xuống, khán giả thấy — và chỉ khán giả thấy — một thứ thoáng qua trên mặt ông. Không phải nụ cười. Chỉ là sự thư giãn của cơ mặt người vừa hoàn thành một việc khó."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Góc nhìn từ phía ngai vàng: Phạm Du ở giữa khung, nhỏ bé, quỳ xuống. Phía sau ông: cánh cửa điện — ánh sáng bên ngoài. Composition này có chủ ý: ông trông như nạn nhân đến báo tin, nhưng thực ra ông đang ở vị trí kiểm soát hoàn toàn. Shot close-up mặt Phạm Du: chỉ khi ông ngẩng lên nói 'Phạm Bỉnh Di đã phản' — đủ gần để thấy mắt ông không ướt, chỉ đỏ."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Cùng cột ánh sáng từ EP03 S09. Nhưng lần này: ánh sáng chiếu xuống Phạm Du từ phía trước — ông trong sáng, tường phía sau tối. Ngược với Bỉnh Di trong EP03 S10 (Bỉnh Di trong sáng khi bị xiềng). Hai người trong cùng một ánh sáng — hoàn cảnh ngược nhau hoàn toàn."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "7:10: Không có nhạc trong toàn bộ S10. Sự vắng mặt của nhạc là có chủ đích — đây là cảnh duy nhất trong hai tập (EP03 và EP04) không có bất kỳ âm nhạc nào. Âm thanh duy nhất: tiếng xì xào của triều đình, tiếng Phạm Du thở, tiếng giày trên nền đá khi quan lại cựa quậy."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "45 giây."
+      }
+     ],
+     "chips": [
+      "lct",
+      "pbd",
+      "pd"
+     ],
+     "set": "Dien_buoi_chau"
+    },
+    {
+     "id": "S11",
+     "t": "CHIẾU CHỈ BAN XUỐNG",
+     "time": "7:55–8:25",
+     "loc": "LOC-E · Điện Kim Tinh · Interior — liên tục với S10, không dọn cảnh",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Ấn ngọc đóng xuống chiếu chỉ — bẫy khép lại. Phạm Du được ban thưởng, phục chức. Cảnh ngắn, không có dialogue quan trọng. Điểm nhấn: âm thanh của ấn ngọc trên giấy."
+      },
+      {
+       "k": "p",
+       "t": "Lý Cao Tông ra lệnh."
+      },
+      {
+       "k": "p",
+       "t": "Một quan lại bưng chiếu chỉ đã được chuẩn bị sẵn — nhanh hơn bình thường, như đã được soạn từ trước."
+      },
+      {
+       "k": "p",
+       "t": "Ấn ngọc đóng xuống. Âm thanh vang trong không gian rộng."
+      },
+      {
+       "k": "p",
+       "t": "Chiếu chỉ được cuộn lại, trao cho mã phu. Mã phu rời điện ngay lập tức."
+      },
+      {
+       "k": "p",
+       "t": "Phạm Du vẫn quỳ. Được ra lệnh đứng dậy. Được ban phẩm phục."
+      },
+      {
+       "k": "p",
+       "t": "Ông cúi đầu tạ ơn. Bước lui. Mắt nhìn xuống sàn trong suốt quá trình."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng ấn ngọc đóng xuống chiếu chỉ: âm thanh này được thiết kế đặc biệt — nặng, dứt khoát, không vang. Như cánh cửa đóng lại. Đây là âm thanh tương ứng với tiếng xiềng xích trong EP03 S10 — cùng một sự kiện, hai âm thanh, hai góc nhìn."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Close-up ấn ngọc đóng xuống — cùng cú shot với EP03 S04 nhưng lần này camera tilt nhẹ để thấy nội dung sơ bộ: 'Triệu hồi Phạm Bỉnh Di...' Khán giả xem EP03 sẽ nhận ra ngay."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Khi Phạm Du đứng dậy và nhận phẩm phục: ông không nhìn vào bộ phẩm phục, không kiểm tra. Ông biết nó sẽ đến. Tay nhận như người nhận thứ mình đã đặt hàng từ trước."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "7:55: Âm nhạc trở lại — một nốt tỳ bà duy nhất, rất dài, khi ấn ngọc đóng xuống. Giữ nốt đó qua toàn bộ cảnh. Fade ra."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "30 giây."
+      }
+     ],
+     "chips": [
+      "lct",
+      "pbd",
+      "pd"
+     ],
+     "set": "Dien_buoi_chau"
+    }
+   ]
+  },
+  {
+   "t": "ACT V — THE TRAP",
+   "time": "8:25–9:30",
+   "intro": [
+    {
+     "k": "p",
+     "t": "Thời gian: 1 phút 5 giây + post credit. Act cuối ngắn và lạnh. Phạm Du đứng trên tường thành nhìn về phương Nam — nơi Phạm Bỉnh Di đang trên đường về. Ông biết chính xác điều sẽ xảy ra. Không có drama, không có triumph. Chỉ là một người đang kiểm chứng kết quả của phép tính."
+    }
+   ],
+   "scenes": [
+    {
+     "id": "S12",
+     "t": "TƯỜNG THÀNH — NHÌN VỀ PHƯƠNG NAM",
+     "time": "8:25–9:10",
+     "loc": "LOC-E · Tường thành Thăng Long · Exterior / Chiều tà",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Phạm Du đứng trên tường thành. Đã thay phẩm phục — sạch sẽ, đúng phẩm cấp. Nhìn về phương Nam. Biết chính xác đoàn quân Bỉnh Di đang ở đâu, đang làm gì, và sẽ đi về đâu."
+      },
+      {
+       "k": "slug",
+       "t": "EXTERIOR — TƯỜNG THÀNH THĂNG LONG — CHIỀU TÀ"
+      },
+      {
+       "k": "arrow",
+       "t": "Phạm Du đứng trên tường thành, nhìn về phương Nam. Đã mặc triều phục cố vấn — sạch sẽ, không một vết bụi."
+      },
+      {
+       "k": "arrow",
+       "t": "Ánh chiều vàng. Bóng ông đổ dài trên tường thành."
+      },
+      {
+       "k": "arrow",
+       "t": "Xa xa phía Nam: đường chân trời. Đoàn quân Bỉnh Di đang ở đâu đó ngoài đó."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Ánh chiều tà — lần đầu tiên trong tập có ánh sáng vàng ấm. Nhưng đây không phải ánh sáng của hy vọng hay thắng lợi. Ánh chiều tà là ánh sáng của sự kết thúc. Bóng Phạm Du đổ về phía Đông — về phía biển, không phải về phía Bắc hay Nam."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Người trung thành luôn tin rằng người khác cũng sống bằng danh dự.\""
+      },
+      {
+       "k": "p",
+       "t": "Phạm Du nhìn về phương Nam. Không cần nhìn lâu."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Đó là lý do họ luôn dễ đoán.\""
+      },
+      {
+       "k": "p",
+       "t": "Ông quay lưng lại. Bước xuống tường thành. Về phía điện."
+      },
+      {
+       "k": "p",
+       "t": "Camera ở lại trên tường thành — không theo ông. Nhìn về phía Nam theo hướng ông vừa nhìn."
+      },
+      {
+       "k": "p",
+       "t": "Ở phương Nam: một điểm bụi nhỏ trên đường chân trời. Đoàn quân Bỉnh Di đang tiến về."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Đây là duy nhất POV shot không phải của nhân vật chính — camera ở lại sau khi Phạm Du rời đi, nhìn về phương Nam. Điểm bụi của đoàn quân Bỉnh Di: rất nhỏ, khán giả phải nhìn kỹ. Đây là lần đầu tiên ta thấy hai câu chuyện cùng tồn tại trong một khung hình."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "8:25: Leitmotif Phạm Du — lần cuối, đầy đủ nhất trong tập. Lần này đàn tỳ bà được chơi với đủ 3 nốt và thêm một nốt thứ 4 — kết thúc là nốt hỏi, bỏ lửng. Không phải nốt hoàn chỉnh. Bởi vì câu chuyện chưa kết thúc."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Gió trên tường thành. Xa xa: tiếng trống nhỏ từ hướng Nam — đoàn quân Bỉnh Di đang hành quân. Phạm Du nghe tiếng này. Khán giả nghe tiếng này. Nhưng chỉ khán giả hiểu nghĩa của nó."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "45 giây."
+      }
+     ],
+     "chips": [
+      "pbd",
+      "pd"
+     ],
+     "set": "Thang_Long_kinh_thanh"
+    },
+    {
+     "id": "S13",
+     "t": "FINAL IMAGE",
+     "time": "9:10–9:20",
+     "loc": "LOC-D · Con đường về Thăng Long · Exterior / Chiều, từ xa",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Mirror shot của EP03 S12: lần đó ta thấy đoàn quân Quách Bốc tiến về Thăng Long. Lần này ta thấy Phạm Bỉnh Di đơn độc trên ngựa cùng con trai hắn, tiến về Thăng Long, không biết gì."
+      },
+      {
+       "k": "center",
+       "t": "─ FINAL IMAGE ─"
+      },
+      {
+       "k": "arrow",
+       "t": "Đường về Thăng Long từ phía Nam — cùng con đường của S06 EP03."
+      },
+      {
+       "k": "arrow",
+       "t": "Phạm Bỉnh Di cưỡi ngựa ở đầu đoàn, mặc triều phục đỏ."
+      },
+      {
+       "k": "arrow",
+       "t": "Ông hoàn toàn không biết điều gì đang chờ phía trước."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "Đây là shot duy nhất trong EP04 mà nhân vật chính không xuất hiện. Phạm Bỉnh Di — nhân vật của EP03 — bước vào cuối EP04 không phải để được giới thiệu, mà để hoàn thành bức tranh. Khán giả đã biết điều gì sẽ xảy ra."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Wide shot từ xa — đoàn quân nhỏ bé trên con đường dài. Màu đỏ của triều phục Bỉnh Di: điểm màu ấm duy nhất trong khung. Camera tĩnh. Không theo. Không zoom. Chỉ nhìn."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "9:10: Không có nhạc của Phạm Du. Thay vào đó: leitmotif 4 nốt đàn tranh của Phạm Bỉnh Di từ EP03 — lần đầu tiên xuất hiện trong EP04, chỉ một lần, rất nhỏ. Fade out trước khi kết thúc. Như một câu nói bị bỏ dở."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "10 giây. Fade to black."
+      },
+      {
+       "k": "dlg",
+       "who": "FADE TO BLACK.",
+       "lines": []
+      }
+     ],
+     "chips": [
+      "pbd",
+      "pd",
+      "qb"
+     ],
+     "set": "Duong_nui_cong_ai"
+    }
+   ]
+  },
+  {
+   "t": "POST CREDIT",
+   "time": "9:20–9:30",
+   "intro": [
+    {
+     "k": "center",
+     "t": "─ POST CREDIT ─"
+    },
+    {
+     "k": "lab",
+     "c": "note",
+     "l": "SEQ",
+     "t": "Quay cùng ngày với S11 (LOC-E). Không thấy mặt bất kỳ ai. Chỉ âm thanh + bóng tối."
+    },
+    {
+     "k": "lab",
+     "c": "loc",
+     "l": "LOC",
+     "t": "LOC-E · Ngục thất · Interior / Đêm — cùng set EP03 S11"
+    },
+    {
+     "k": "slug",
+     "t": "INTERIOR — THUỶ VIÊN — ĐÊM"
+    },
+    {
+     "k": "arrow",
+     "t": "Bóng tối. Thuỷ tạ lặng lẽ giữa hồ phẳng lặng tối om."
+    },
+    {
+     "k": "arrow",
+     "t": "Tiếng thở dài trong bóng tối."
+    },
+    {
+     "k": "arrow",
+     "t": "Im lặng."
+    },
+    {
+     "k": "p",
+     "t": "Một giọng nói vang lên — không thấy người, chỉ nghe giọng. Đây là lần đầu tiên Quách Bốc xuất hiện trong series."
+    },
+    {
+     "k": "dlg",
+     "who": "QUÁCH BỐC",
+     "lines": [
+      [
+       "p",
+       "(giọng thấp, cẩn thận — ông đang hỏi lính canh, không phải đang hét)"
+      ],
+      [
+       "d",
+       "Tướng quân đâu rồi?"
+      ],
+      [
+       "d",
+       "Không có câu trả lời. Chỉ có tiếng chân bước đi xa dần."
+      ],
+      [
+       "d",
+       "Tiếng xiềng xích chạm nhau một lần nữa — rất nhỏ, trong bóng tối."
+      ]
+     ]
+    },
+    {
+     "k": "lab",
+     "c": "sound",
+     "l": "SOUND",
+     "t": "Toàn bộ post credit: chỉ âm thanh. Tiếng cửa đóng, tiếng xiềng, tiếng bước chân, giọng Quách Bốc, tiếng chân đi xa. Không có hình ảnh nào ngoài bóng tối và vệt sáng dưới khe cửa."
+    },
+    {
+     "k": "lab",
+     "c": "music",
+     "l": "MUSIC",
+     "t": "Không có nhạc. Câu hỏi của Quách Bốc phải vang trong đầu khán giả không có gì lấn át."
+    },
+    {
+     "k": "lab",
+     "c": "note",
+     "l": "TIMING",
+     "t": "10 giây. CUT TO BLACK."
+    },
+    {
+     "k": "dlg",
+     "who": "CUT TO BLACK.",
+     "lines": []
+    }
+   ],
+   "scenes": []
+  }
+ ],
+ "back": [
+  {
+   "k": "head",
+   "t": "PRODUCTION NOTES — NHỮNG ĐIỂM CẦN GIỮ"
+  },
+  {
+   "k": "head",
+   "t": "1. EP03 và EP04 là cùng một sự kiện — không phải hai câu chuyện khác"
+  },
+  {
+   "k": "head",
+   "t": "nhau"
+  },
+  {
+   "k": "p",
+   "t": "S10 của EP04 và S09 của EP03 là cùng một sự kiện tại điện Kim Tinh. Camera ở vị trí đối diện. Khán giả xem cả hai tập sẽ thấy cùng một không gian từ hai góc nhìn đối nghịch — đây là thiết kế cốt lõi của cặp tập này. Nếu set không khớp, hiệu ứng này sẽ mất."
+  },
+  {
+   "k": "head",
+   "t": "2. Phạm Du KHÔNG phải villain — ông là người nói thật về cách thế giới vận hành"
+  },
+  {
+   "k": "p",
+   "t": "Điều đáng sợ nhất của nhân vật này: VO của ông nghe có lý. Người đói đi theo người cho họ cơm ăn — đúng. Chỉ cần gieo hạt nghi ngờ — đúng. Người trung thành dễ đoán — đúng. Ông không nói dối trong VO. Ông chỉ nói sự thật mà người khác không muốn thừa nhận."
+  },
+  {
+   "k": "head",
+   "t": "3. Leitmotif tỳ bà — 3 nốt xuống dần"
+  },
+  {
+   "k": "p",
+   "t": "Xuất hiện 5 lần: S01 (giới thiệu), S02 (đếm), S03 (tăng tốc → dừng), S06 (lên cao), S07 (rất thấp → biến mất). Không xuất hiện trong Act IV — vì trong Act IV ông không còn là chính mình, ông đang diễn. Quay lại ở S12 dưới dạng đầy đủ nhất, kết thúc bằng nốt hỏi bỏ lửng."
+  },
+  {
+   "k": "p",
+   "t": "4. Framing rule — Phạm Du không bao giờ ở chính giữa khung hình (ngoại trừ S06)"
+  },
+  {
+   "k": "p",
+   "t": "Đây là ngôn ngữ hình ảnh nhất quán: protagonist thường ở trung tâm khung hình — Phạm Du thì không. Ông luôn lệch sang trái hoặc phải một chút. Ngoại lệ duy nhất: S06, khoảnh khắc chiến thắng, ông ở chính giữa. Đây là khoảnh khắc ông gần nhất với việc trở thành hero thông thường — và đó là lúc ông nguy hiểm nhất."
+  },
+  {
+   "k": "head",
+   "t": "5. Close-up duy nhất — S07"
+  },
+  {
+   "k": "p",
+   "t": "Trong toàn bộ EP04, chỉ có một close-up mặt Phạm Du: khi ông đứng trên đồi nhìn cơ nghiệp cháy (S07). Tất cả các cảnh khác đều là medium shot trở ra. Sự tiết kiệm này có nghĩa là khi close-up xuất hiện, nó có trọng lượng đặc biệt — khán giả biết đây là khoảnh khắc quan trọng nhất để nhìn vào mắt ông."
+  },
+  {
+   "k": "hr"
+  },
+  {
+   "k": "center",
+   "t": "— HẾT SCRIPT EP04 —"
+  },
+  {
+   "k": "center",
+   "t": "TIẾP THEO: EP05 — QUÁCH BỐC / THE AVENGER"
+  }
+ ],
+ "cast": [
+  "lct",
+  "dt",
+  "pbd",
+  "pd",
+  "qb",
+  "linh"
+ ],
+ "rev": 1
+}

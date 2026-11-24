@@ -1,0 +1,1431 @@
+{
+ "id": "se",
+ "code": "SE",
+ "title": "Special Event",
+ "sub": "Đêm kinh thành thất thủ",
+ "arc": "Arc I",
+ "meta": "12–15 phút · 12 scenes · 4 acts",
+ "front": [
+  {
+   "k": "center",
+   "t": "Nhân vật chính:"
+  },
+  {
+   "k": "center",
+   "t": "Quách Bốc · Phạm Bỉnh Di · Phạm Phụ · Phạm Du · Phạm Kính"
+  },
+  {
+   "k": "p",
+   "t": "Lý Cao Tông · Thái tử Lý Sảm · Đàm Thái Hậu · [Gia nô Trần Gia]"
+  },
+  {
+   "k": "center",
+   "t": "Biểu tượng phe phái:"
+  },
+  {
+   "k": "p",
+   "t": "Nhà Lý 李   |   Họ Trần 陳   |   Phe phản Lý 反   |   Hào trưởng 亂 GHI CHÚ SẢN XUẤT"
+  },
+  {
+   "k": "p",
+   "t": "Special Event này là payoff trực tiếp của toàn bộ Arc I. Năm tập trước đã thiết lập năm điểm nhìn độc lập — Special Event hội tụ tất cả vào một đêm duy nhất, tuyến tính, không nhảy POV."
+  },
+  {
+   "k": "p",
+   "t": "Cấu trúc bốn act: mỗi act có nhịp điệu riêng biệt. ACT I — căng thẳng chính trị nhanh. ACT II — hầu như tĩnh, chậm, rồi vỡ ra đột ngột. ACT III — hành động ngắn. ACT IV — hậu quả trống rỗng."
+  },
+  {
+   "k": "p",
+   "t": "Nhạc đặc trưng: mỗi lần một nhân vật từ Arc I xuất hiện, leitmotif của họ vang lên ngắn — như một tiếng vọng. Không nhạc nền liên tục. Âm thanh môi trường và im lặng là chủ đạo."
+  },
+  {
+   "k": "p",
+   "t": "Mũ bình thiên (冕旒) xuất hiện lần cuối trong series này — nằm trên đầu Lý Thầm, một đứa trẻ. Final image."
+  },
+  {
+   "k": "p",
+   "t": "[Gia nô Trần Gia] — nhân vật ẩn danh. Không gọi tên on-screen. Nhận diện bằng: bàn tay sẹo sông nước, vai rộng, lưng hơi cúi, da sạm. Payoff ở EP06 (Tô Trung Từ) khi xuất hiện lại trong đoàn tùy tùng."
+  }
+ ],
+ "acts": [
+  {
+   "t": "ACT I — CỬA THÀNH MỞ",
+   "time": "",
+   "intro": [
+    {
+     "k": "p",
+     "t": "Đoàn quân Quách Bốc áp sát Thăng Long"
+    }
+   ],
+   "scenes": [
+    {
+     "id": "S01",
+     "t": "Đêm trước kinh thành",
+     "time": "",
+     "loc": "Ngoại thành Thăng Long — phía Bắc · Đêm khuya, trăng lu",
+     "items": [
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Ánh đuốc từ đoàn quân — không hàng lối chính quy. Ánh lửa bất ổn, gió thổi nghiêng. Bầu trời phía trên kinh thành có màu cam nhạt của ánh đèn vọng ra."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Mở bằng aerial rất cao: Thăng Long về đêm, những ánh đèn rải rác trong thành. Pull back để lộ đoàn quân Quách Bốc áp sát từ phía Bắc — không phải đội hình tấn công, giống hơn một dòng người đang chảy về phía trước."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng bước chân đất, ngựa thở, giáp khua nhẹ. Không có trống trận. Không có hiệu lệnh. Hành quân trong im lặng gần như kỳ lạ."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Leitmotif EP05 (Quách Bốc) — 4 note trầm, đàn bầu đơn độc, xuất hiện rồi tan vào âm thanh gió."
+      },
+      {
+       "k": "p",
+       "t": "Camera hạ xuống ngang tầm mắt, tìm Quách Bốc ở giữa đoàn quân. Ông không đi đầu — đi giữa. Mặt hướng về phía thành, tay nắm cương ngựa không chặt."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Quách Bốc không nhìn đoàn quân, không nhìn tướng sĩ xung quanh. Mắt chỉ nhìn về phía Thăng Long. Biểu cảm không phải quyết tâm — gần hơn với lo lắng. Một người đang chạy đua với thời gian, không biết mình có kịp không."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Đi cứu chính ân nhân đời mình.\""
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Không ai nói đến ngai vàng. Không ai cần ngai vàng.\""
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Close-up bàn tay Quách Bốc trên cương ngựa. Cut sang: bóng tường thành Thăng Long hiện ra phía chân trời."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng gió lớn dần. Tiếng bước chân dày lên. Một tiếng trống xa — từ trong thành vọng ra. Báo động đã bắt đầu."
+      }
+     ],
+     "chips": [
+      "qb"
+     ],
+     "set": "Thang_Long_kinh_thanh"
+    },
+    {
+     "id": "S02",
+     "t": "Trong thành",
+     "time": "",
+     "loc": "Điện Đại Hưng — Thăng Long nội thành · Cùng thời điểm",
+     "items": [
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Đèn lồng đỏ rực trong điện — ánh sáng không yên tĩnh, lung lay theo chuyển động. Bóng người đổ lên tường, lớn và méo mó."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Cắt cứng vào nội thất. Cận cảnh một viên quan chạy vào điện, mặt tái. Rồi pull back để lộ khung cảnh: triều đình đang tan rã trong thời gian thực."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng trống báo động từ ngoài thành vọng vào — xa, nhưng liên tục. Tiếng giày đá trên sàn đá. Tiếng tranh cãi."
+      },
+      {
+       "k": "p",
+       "t": "Lý Cao Tông ngồi trên ngai — không phải tư thế của vua, mà của người chưa kịp hiểu chuyện gì đang xảy ra. Tay chống lên thành ghế, người hơi ngồi dậy rồi lại ngồi xuống."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Cao Tông: hoảng hốt thật sự nhưng cố che giấu — kết quả là một biểu cảm kỳ lạ, vừa cứng vừa run. Mắt di chuyển liên tục giữa các quan đang tranh cãi."
+      },
+      {
+       "k": "p",
+       "t": "Ba tướng quan xen lẫn nhau:"
+      },
+      {
+       "k": "dlg",
+       "who": "QUAN A",
+       "lines": [
+        [
+         "d",
+         "\"Đóng cửa thành! Không cho một người vào!\""
+        ]
+       ]
+      },
+      {
+       "k": "dlg",
+       "who": "QUAN B",
+       "lines": [
+        [
+         "d",
+         "\"Cấm quân chưa đủ lực — phải thương lượng—\""
+        ]
+       ]
+      },
+      {
+       "k": "dlg",
+       "who": "QUAN C",
+       "lines": [
+        [
+         "d",
+         "\"Thương lượng với loạn quân? Điều binh đến cửa Đại Thanh ngay!\""
+        ]
+       ]
+      },
+      {
+       "k": "p",
+       "t": "Không ai nghe ai. Ba hướng, ba giọng, không thống nhất. Cao Tông nhìn từ người này sang người kia."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Cao Tông muốn ra lệnh nhưng không biết lệnh gì. Miệng mở ra rồi ngậm lại hai lần trước khi thực sự nói được điều gì."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Camera dần pull back, thấy toàn bộ điện — những bóng người to nhỏ, ánh đèn lung lay, ngai vàng ở trung tâm mà không ai nhìn về đó. Một khoảnh khắc: ngai vàng trông như đồ vật bị bỏ quên."
+      }
+     ],
+     "chips": [
+      "lct"
+     ],
+     "set": "Dien_buoi_chau"
+    },
+    {
+     "id": "S03",
+     "t": "Phạm Du xin hộ giá",
+     "time": "",
+     "loc": "Điện Đại Hưng — tiếp nối S02 · Vài phút sau",
+     "items": [
+      {
+       "k": "p",
+       "t": "Giữa tiếng ồn, một người bước vào từ bên trái. Không chạy. Bước đi bình thường, như thể không có gì khẩn cấp. Phạm Du."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Phạm Du: bình tĩnh hơn tất cả mọi người trong phòng — nhưng đây không phải bình tĩnh của người không sợ. Đây là bình tĩnh của người đã biết mình sẽ làm gì. Mắt đã quyết từ trước khi bước vào."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Khi Phạm Du bước qua ngưỡng cửa, một ngọn đèn lồng phía sau ông tạo ra bóng dài về phía trước — bóng tối đi trước ông vào điện."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Leitmotif EP04 (Phạm Du) — 3 note tỳ bà, khẽ, gần như không nghe thấy. Chỉ người để ý mới nhận ra."
+      },
+      {
+       "k": "p",
+       "t": "Tiếng tranh cãi lặng xuống khi Phạm Du tiến về phía ngai."
+      },
+      {
+       "k": "dlg",
+       "who": "PHẠM DU",
+       "lines": [
+        [
+         "p",
+         "(bái, bình tĩnh)"
+        ],
+        [
+         "d",
+         "\"Thần xin điều cấm quân bảo vệ Quan Gia.\""
+        ]
+       ]
+      },
+      {
+       "k": "p",
+       "t": "Một nhịp im lặng. Rồi các quan gật đầu — vì đây là điều duy nhất nghe có vẻ như một kế hoạch."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Cao Tông: nhìn Phạm Du lần đầu tiên kể từ khi cuộc tranh cãi bắt đầu. Trong mắt ông có gì đó — không hẳn là tin tưởng, nhưng là sự trút bỏ của người được người khác quyết định thay."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Close-up mặt Phạm Du khi Cao Tông gật đầu. Không có gì thay đổi trên khuôn mặt ông. Không nhếch miệng, không thở phào. Ông đã biết câu trả lời từ trước."
+      },
+      {
+       "k": "p",
+       "t": "Lệnh ban xuống. Cấm quân bắt đầu tập trung quanh cung điện. Trong màn đêm ngoài cửa sổ, ánh đuốc của cấm quân di chuyển như những con đom đóm đang hội tụ."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng bước chân cấm quân đều đặn — nhiều và đồng bộ hơn tiếng hành quân của Quách Bốc ở ngoài. Nhưng tiếng trống báo động vẫn không dừng."
+      },
+      {
+       "k": "p",
+       "t": "Khán giả hiểu: đây là tuyến phòng thủ chính."
+      },
+      {
+       "k": "p",
+       "t": "Nhưng Phạm Du đã quay người, bước về phía cửa sau — hướng dẫn đến ngự đường, nơi có binh khí nội cung."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Camera giữ Phạm Du từ phía sau, bóng dài trên sàn đá, bước đi không thay đổi nhịp. Cut."
+      }
+     ],
+     "chips": [
+      "lct",
+      "pd",
+      "qb"
+     ],
+     "set": "Dien_buoi_chau"
+    }
+   ]
+  },
+  {
+   "t": "ACT II — THỦY VIÊN → ĐIỆN KIM TINH",
+   "time": "",
+   "intro": [
+    {
+     "k": "p",
+     "t": "Trái tim của Special Event"
+    }
+   ],
+   "scenes": [
+    {
+     "id": "S04",
+     "t": "Gặp mặt cuối cùng",
+     "time": "",
+     "loc": "Thủy Viên — Nội cung Thăng Long · Cùng lúc với S02–S03",
+     "items": [
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Thủy Viên về đêm: ánh trăng phản chiếu trên mặt hồ, tạo ra ánh sáng từ dưới lên thay vì từ trên xuống. Không khí lạ lùng yên tĩnh — như thể nơi này tách biệt với tất cả những gì đang xảy ra bên ngoài."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Mở bằng cận cảnh mặt nước hồ Thủy Viên — gợn nhẹ vì gió. Phản chiếu ánh đèn xa. Camera ngước lên từ từ để lộ Phạm Bỉnh Di ngồi trên bậc đá, Phạm Phụ đứng phía sau."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng nước hồ nhỏ giọt. Xa xa — tiếng trống báo động lần đầu vọng vào, nhưng mờ, như tiếng từ giấc mơ. Phạm Bỉnh Di không giật mình khi nghe."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Leitmotif EP03 (Phạm Bỉnh Di) — 4 note đàn tranh, câu hỏi chưa trả lời. Chậm hơn bình thường."
+      },
+      {
+       "k": "p",
+       "t": "Không xiềng xích. Không lính canh trong tầm nhìn. Thủy Viên trông không giống nhà giam — trông giống nơi nghỉ ngơi. Đây chính xác là vấn đề: Bỉnh Di đang bị giam trong một nơi quá đẹp để ông nhận ra mức độ nghiêm trọng."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Phạm Bỉnh Di: ngồi thẳng, hai tay trên đùi. Không bồn chồn. Biểu cảm của người đang chờ — nhưng chờ với sự tự tin rằng mình sẽ được gọi vào, được nghe, được giải thích. Ông chưa có khái niệm về nguy hiểm thực sự."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Phạm Phụ: trẻ hơn, đứng phía sau cha, mắt nhìn ra ngoài — về phía âm thanh trống báo động. Lo lắng hơn cha, nhưng không biết cách nói ra."
+      },
+      {
+       "k": "p",
+       "t": "Hai cha con trao đổi nhỏ:"
+      },
+      {
+       "k": "dlg",
+       "who": "PHẠM PHỤ",
+       "lines": [
+        [
+         "p",
+         "(nhỏ giọng)"
+        ],
+        [
+         "d",
+         "\"Cha... tiếng trống từ phía cửa Tây.\""
+        ]
+       ]
+      },
+      {
+       "k": "dlg",
+       "who": "PHẠM BỈNH DI",
+       "lines": [
+        [
+         "p",
+         "(không nhìn lại, nhận ra ngay)"
+        ],
+        [
+         "d",
+         "\"Quách Bốc.\""
+        ]
+       ]
+      },
+      {
+       "k": "dlg",
+       "who": "PHẠM PHỤ",
+       "lines": [
+        [
+         "d",
+         "\"Ông ấy đến cứu chúng ta?\""
+        ]
+       ]
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Bỉnh Di im lặng một nhịp — không phải vì không biết trả lời, mà vì câu trả lời phức tạp hơn ông muốn giải thích cho con."
+      },
+      {
+       "k": "dlg",
+       "who": "PHẠM BỈNH DI",
+       "lines": [
+        [
+         "p",
+         "(khẽ, không giận — chỉ mệt)"
+        ],
+        [
+         "d",
+         "\"Ông ấy đến làm mọi thứ tệ hơn.\""
+        ]
+       ]
+      },
+      {
+       "k": "p",
+       "t": "Phạm Phụ không hiểu. Ông nhìn về phía tiếng trống. Bỉnh Di nhìn về phía hồ nước."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Camera từ từ pull back, hai bóng người trên nền ánh nước — cha và con, cùng nhìn về hai hướng khác nhau. Tiếng trống xa dần vì gió đổi chiều."
+      }
+     ],
+     "chips": [
+      "pbd",
+      "qb"
+     ],
+     "set": "Hoang_cung_dien_cac"
+    },
+    {
+     "id": "S05",
+     "t": "Hai vị khách",
+     "time": "",
+     "loc": "Thủy Viên — tiếp nối · Ít phút sau",
+     "items": [
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng bước chân vội trên đường đá. Phạm Du và Phạm Kính bước vào Thủy Viên — ánh đuốc Phạm Kính cầm tạo bóng tối chạy nhảy trên tường."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Phạm Bỉnh Di đứng dậy khi thấy Phạm Du. Không phải vì sợ — vì ngạc nhiên. Ông chưa nghĩ đến khả năng Phạm Du sẽ đến đây tối nay."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Leitmotif EP04 (Phạm Du) ngắn, 3 note. Cắt ngang leitmotif EP03 đang còn vang."
+      },
+      {
+       "k": "p",
+       "t": "Bên ngoài Thủy Viên, tiếng chiến trận đã rõ hơn — tiếng trống, tù và, hô hét xa. Nhưng trong Thủy Viên, không khí vẫn yên tĩnh một cách bất thường."
+      },
+      {
+       "k": "dlg",
+       "who": "PHẠM DU",
+       "lines": [
+        [
+         "p",
+         "(không chào, đi thẳng vào vấn đề)"
+        ],
+        [
+         "d",
+         "\"Quân Quách Bốc đang đánh vào cửa Đại Thành.\""
+        ]
+       ]
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Phạm Bỉnh Di nhìn Phạm Du — đây là lần đầu tiên hai người đứng đối diện kể từ trận Nghệ An. Không có thù hằn bùng phát. Chỉ có một sự nhận ra lạnh lùng: cả hai đang trong cùng một tình huống, dù vì những lý do khác nhau."
+      },
+      {
+       "k": "dlg",
+       "who": "PHẠM DU",
+       "lines": [
+        [
+         "p",
+         "(giọng đề xuất, không ra lệnh)"
+        ],
+        [
+         "d",
+         "\"Bỉnh Di huynh có thể điều đình. Quách Bốc sẽ nghe lời huynh.\""
+        ]
+       ]
+      },
+      {
+       "k": "p",
+       "t": "Phạm Kính đứng phía sau Phạm Du, không nói. Mắt nhìn đâu đó phía trên vai Phạm Bỉnh Di."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Phạm Bỉnh Di cân nhắc. Đây là cơ hội — nếu ông ra được ngoài, gặp được Quách Bốc, có thể còn tháo gỡ được. Ông nhìn sang Phạm Phụ."
+      },
+      {
+       "k": "p",
+       "t": "Phạm Du nhìn ra xa, nghe tiếng chiến trận. Ánh mắt nặng xuống rồi mới nói. Điều này cho thấy: ông biết mình sắp làm gì và không vui vẻ gì với chuyện đó. Chỉ là không còn lựa chọn."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Close-up mắt Phạm Phụ — cậu ta nhìn Phạm Du, rồi nhìn Phạm Kính. Có điều gì đó ông không đọc được. Nhưng ông chưa đủ kinh nghiệm để biết đặt tên cho cảm giác đó."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng chiến trận ngoài xa tăng lên rồi giảm xuống theo từng đợt gió. Một tiếng nổ lớn — cửa thành bị phá."
+      },
+      {
+       "k": "dlg",
+       "who": "PHẠM BỈNH DI",
+       "lines": [
+        [
+         "p",
+         "(quyết định)"
+        ],
+        [
+         "d",
+         "\"Được. Ta sẽ ra.\""
+        ]
+       ]
+      }
+     ],
+     "chips": [
+      "pbd",
+      "pd",
+      "qb"
+     ],
+     "set": "Hoang_cung_dien_cac"
+    },
+    {
+     "id": "S06",
+     "t": "Lệnh chuyển",
+     "time": "",
+     "loc": "Thủy Viên → hành lang dẫn đến Điện Kim Tinh · Ngay sau S05",
+     "items": [
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng chạy bộ. Một cấm quân từ phía trong nội cung chạy đến Thủy Viên, hơi thở gấp."
+      },
+      {
+       "k": "dlg",
+       "who": "CẤM QUÂN",
+       "lines": []
+      },
+      {
+       "k": "p",
+       "t": "\"Quan Gia lệnh! Hai phạm nhân được giải ra Điện Kim Tinh để hộ giá. Quan Gia"
+      },
+      {
+       "k": "center",
+       "t": "cần có người điều đình với quân nổi loạn!\""
+      },
+      {
+       "k": "p",
+       "t": "Một nhịp dừng. Phạm Bỉnh Di nghe lệnh — biểu cảm của ông thay đổi. \"Điều đình với quân nổi loạn\" — Quan Gia đang dùng ông. Đây là dấu hiệu ông vẫn còn có giá trị. Ông vẫn còn cơ hội."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Phạm Bỉnh Di: một tia hy vọng thực sự — mong manh nhưng thật. Ông thẳng người lên, bước đi nhanh hơn. Lần đầu tiên tối nay ông trông như chính mình — người tướng quen ra trận."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Phạm Phụ đi theo cha, sát hơn bình thường. Tay cậu ta vô thức nắm lại rồi mở ra."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Phạm Du gật đầu với cấm quân, ra hiệu. Lính trong Thủy Viên lần lượt rút đi theo hướng khác — về phía hộ giá Cao Tông. Khung hình Thủy Viên dần trống. Chỉ còn Phạm Du, Phạm Kính, và hai cha con Bỉnh Di."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng bước chân cấm quân rút đi — mỗi tiếng bước xa hơn một chút. Rồi im lặng. Gió thổi qua Thủy Viên trống trải."
+      },
+      {
+       "k": "p",
+       "t": "Phạm Du nói nhỏ với Phạm Kính — không nghe được lời. Phạm Kính gật đầu một lần. Tay ông đặt lên cán vũ khí."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Camera giữ hành động nhỏ này ở góc xa — không chỉ vào trực tiếp. Chỉ là một chi tiết. Khán giả có thể thấy hoặc không thấy."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Khi đoàn người rời Thủy Viên bước vào hành lang dẫn đến Điện Kim Tinh: ánh đèn lồng thưa hơn. Bóng tối nhiều hơn ánh sáng."
+      }
+     ],
+     "chips": [
+      "lct",
+      "pbd",
+      "pd"
+     ],
+     "set": "Hoang_cung_dien_cac"
+    },
+    {
+     "id": "S07",
+     "t": "Điện Kim Tinh",
+     "time": "",
+     "loc": "Bệ đá nghỉ mát — Điện Kim Tinh · Đêm khuya",
+     "items": [
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Điện Kim Tinh: không gian mở một phần, bệ đá lớn ở giữa, xung quanh là cột trụ. Ánh trăng lọt vào từ mái hiên hở. Không có đèn lồng — chỉ có ánh trăng và bóng tối."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Bốn người bước vào Điện Kim Tinh. Camera giữ ở tầm trung — nhìn thấy tất cả nhưng không nhấn mạnh ai."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng chiến trận bên ngoài — gần hơn bây giờ. Tiếng quân Quách Bốc đã vào được nội thành. Nhưng trong Điện Kim Tinh, âm thanh bị tường đá hấp thụ — vọng vào như từ thế giới khác."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Phạm Bỉnh Di bước ra giữa, nhìn về hướng cổng — hướng ông sẽ đi ra điều đình. Ông đang tập trung, chuẩn bị tinh thần cho việc phải nói gì với Quách Bốc."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Phạm Phụ đứng sát cha. Cậu ta nhìn Phạm Kính một lần nữa — Phạm Kính đang đứng sau lưng họ, khoảng cách đã gần hơn lúc nãy."
+      },
+      {
+       "k": "p",
+       "t": "Phạm Du dừng ở ngưỡng cửa — ra hiệu:"
+      },
+      {
+       "k": "dlg",
+       "who": "PHẠM DU",
+       "lines": [
+        [
+         "p",
+         "(bình thường, như đang sắp xếp đội hình)"
+        ],
+        [
+         "d",
+         "\"Bỉnh Di huynh đi trước. Ta theo sau.\""
+        ]
+       ]
+      },
+      {
+       "k": "p",
+       "t": "Phạm Bỉnh Di gật đầu. Xoay người về phía cổng. Quay lưng lại với Phạm Kính."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Camera chuyển sang góc Phạm Phụ — cậu ta nhìn cha quay lưng, rồi nhìn Phạm Kính. Khoảnh khắc này kéo dài nửa giây."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Phạm Phụ: trong đôi mắt cậu ta — nhận ra. Không phải lo lắng mơ hồ nữa. Là nhận ra rõ ràng, bất ngờ, một phần giây trước khi mọi thứ xảy ra. Miệng cậu ta hé mở — nhưng không kịp."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Im lặng tuyệt đối. Tiếng chiến trận bên ngoài biến mất trong một nhịp — như thể thế giới nín thở."
+      },
+      {
+       "k": "p",
+       "t": "Kiếm xuống."
+      },
+      {
+       "k": "p",
+       "t": "Không báo trước. Không tranh luận. Không tuyên án. Không một lời."
+      },
+      {
+       "k": "p",
+       "t": "Phạm Phụ ngã."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng ngã xuống trên nền đá — nặng, một lần. Rồi im lặng trở lại ngay lập tức."
+      },
+      {
+       "k": "p",
+       "t": "Phạm Bỉnh Di chưa kịp hiểu âm thanh đó. Ông còn đang nhìn về phía cổng."
+      },
+      {
+       "k": "p",
+       "t": "Rồi ông quay lại."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Cận cảnh mắt Phạm Bỉnh Di — khoảnh khắc nhìn thấy. Không cut đi. Giữ nguyên."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Phạm Bỉnh Di: lần đầu tiên trong toàn bộ series — mất kiểm soát hoàn toàn. Không phải vì ông — vì con. Một thứ gì đó vỡ ra trong mắt ông mà không có từ nào mô tả được. Khuôn mặt người tướng tan biến. Chỉ còn người cha."
+      },
+      {
+       "k": "p",
+       "t": "Ông lao tới. Đầu gối chạm đất bên cạnh Phạm Phụ. Hai tay ôm lấy con trai."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Bỉnh Di không khóc thành tiếng. Người ông run — cái run từ bên trong, của người cố giữ lại điều gì đó đã không còn giữ được. Mắt ngấn lệ nhưng không rơi — vì ông còn chưa tin. Tay ông sờ lên mặt Phạm Phụ như đang kiểm tra xem mình có nhìn nhầm không."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Im lặng hoàn toàn. Không nhạc. Không gì cả."
+      },
+      {
+       "k": "dlg",
+       "who": "PHẠM BỈNH DI",
+       "lines": [
+        [
+         "p",
+         "(lẩm bẩm, không phải nói với ai — nói với chính mình)"
+        ],
+        [
+         "d",
+         "\"Là cha hại con rồi.\""
+        ]
+       ]
+      },
+      {
+       "k": "p",
+       "t": "Phạm Kính đứng phía sau, không di chuyển. Phạm Du đứng ở ngưỡng cửa, ông nhìn cảnh ấy không phải bằng thỏa mãn, cũng không phải bằng ghê tởm. Chỉ nhìn. Như đang chứng kiến một việc cần phải hoàn tất."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Phạm Bỉnh Di vẫn ôm lấy Phạm Phụ, đầu cúi thấp, bàn tay run lên trên mái tóc người con trai. Ông không nhìn Phạm Kính. Không nhìn thanh kiếm. Không nhìn bất kỳ ai. Chỉ nhìn Phạm Phụ."
+      },
+      {
+       "k": "p",
+       "t": "Một nhịp."
+      },
+      {
+       "k": "p",
+       "t": "Hai nhịp."
+      },
+      {
+       "k": "p",
+       "t": "Rồi lưỡi kiếm khẽ đặt lên cổ Phạm Bỉnh Di, ông không chống cự, không vùng dậy. không một lời nói. Phạm Bỉnh Di khẽ nhắm mắt. Thân người đổ xuống. Cánh tay vẫn ôm lấy con trai mình."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Góc nhìn từ tầm thấp — POV Phạm Bỉnh Di nằm trên mặt đất. Bầu trời qua mái hiên Điện Kim Tinh. Ánh trăng. Và Phạm Du đang bước ra khỏi khung hình, Phạm Kính theo sau, lau kiếm vào vạt áo, tra vào bao không vội."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng bước chân Phạm Du và Phạm Kính rời đi — đều, bình thường, không hấp tấp. Tiếng tra kiếm vào bao. Tiếng gió qua mái hiên. Rồi chỉ còn tiếng chiến trận xa."
+      },
+      {
+       "k": "p",
+       "t": "Cắt đen."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Một nhịp im lặng hoàn toàn. Rồi từ bóng tối — 4 note đàn tranh EP03 vang lên lần cuối, câu hỏi không có trả lời, rồi tắt."
+      }
+     ],
+     "chips": [
+      "pbd",
+      "pd",
+      "qb"
+     ],
+     "set": "Hoang_cung_dien_cac"
+    }
+   ]
+  },
+  {
+   "t": "ACT III — KINH THÀNH THẤT THỦ",
+   "time": "",
+   "intro": [
+    {
+     "k": "p",
+     "t": "Thăng Long trong loạn chiến"
+    }
+   ],
+   "scenes": [
+    {
+     "id": "S08",
+     "t": "Cửa thành vỡ",
+     "time": "",
+     "loc": "Cửa Đại Thành — Cổng Tây Thăng Long · Đêm — cùng thời điểm",
+     "items": [
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Lửa đuốc và lửa chiến — ánh sáng hỗn loạn, cam và đỏ. Khói mỏng bắt đầu lan trong không khí."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Góc trên cao nhìn xuống: Cửa Đại Thành vỡ ra — không phải vỡ từ từ mà vỡ cùng lúc. Đoàn quân Quách Bốc tràn vào như nước qua đập."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Âm thanh cửa thành vỡ — gỗ, kim loại, đất đá. Tiếng la hét tăng vọt lên một lần rồi dần hỗn loạn. Không có một tiếng hô khải hoàn — chỉ là tiếng của một đám đông đang chạy vào không gian mới."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Quách Bốc dẫn đầu đoàn qua cửa. Mặt ông không có hân hoan của người thắng trận. Ông đang tìm kiếm — mắt quét qua cảnh hỗn loạn, không dừng ở đâu quá lâu."
+      },
+      {
+       "k": "p",
+       "t": "Cấm quân không chiến đấu đến cùng — nhiều đơn vị rút lui hoặc tan rã ngay khi quân Quách Bốc tràn qua. Không phải vì hèn nhát — vì không có lệnh rõ ràng, không có chỉ huy thống nhất."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Camera theo Quách Bốc xuyên qua hỗn loạn — ông đi như người đang đi về phía một điểm cụ thể, không bị phân tâm bởi chiến trận xung quanh."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng chiến đấu, tiếng chạy, tiếng ngựa. Rồi — một khoảng lặng nhỏ khi Quách Bốc dừng lại ở ngã ba đường. Ông nghe tiếng gì đó. Một người chạy tới, thì thầm vào tai ông."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Quách Bốc nghe tin. Biểu cảm ông không thay đổi ngay — phải mất một nhịp. Rồi mắt ông nhắm lại một giây. Chỉ một giây."
+      },
+      {
+       "k": "p",
+       "t": "Ông mở mắt ra. Bước tiếp. Về phía Điện Kim Tinh."
+      }
+     ],
+     "chips": [
+      "qb"
+     ],
+     "set": "Thang_Long_kinh_thanh"
+    },
+    {
+     "id": "S09",
+     "t": "Người đến quá muộn",
+     "time": "",
+     "loc": "Điện Kim Tinh · Ít phút sau S07",
+     "items": [
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Điện Kim Tinh như đã được mô tả ở S07 — nhưng bây giờ có thêm bóng người đứng ở ngưỡng cửa. Ánh trăng vẫn chiếu vào từ mái hiên."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng bước chân Quách Bốc dừng lại. Im lặng. Chỉ có gió."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Camera ở trong Điện Kim Tinh nhìn ra — thấy bóng Quách Bốc đứng ở cửa, ngược sáng. Ông nhìn vào. Camera không lia vào bên trong để cho khán giả thấy — chỉ cần thấy phản ứng của Quách Bốc."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Quách Bốc đứng yên. Lần đầu tiên tối nay — lần đầu tiên có lẽ từ rất lâu rồi — ông hoàn toàn mất phương hướng. Không phải đau — chưa phải lúc đau. Chỉ là trống. Như người vừa chạy hết sức đến nơi và phát hiện ra không có gì ở đó."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Leitmotif EP05 (Quách Bốc) — 4 note đàn bầu. Nhưng lần này không kết thúc — bị cắt ngang bằng im lặng."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Ta đã đến.\""
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Nhưng... chậm mất rồi\""
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Close-up tay Quách Bốc — cùng tay đã cầm cương ngựa ở S01. Bây giờ buông thõng, không nắm vào gì. Bàn tay mở ra."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng chiến trận ngoài xa tiếp tục — như thể thế giới không biết điều vừa xảy ra. Gió thổi vào Điện Kim Tinh, lay nhẹ vạt áo Quách Bốc."
+      },
+      {
+       "k": "p",
+       "t": "Quách Bốc đứng thêm một nhịp. Rồi ông bước vào."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Cut ra ngoài — nhìn Điện Kim Tinh từ xa. Bóng Quách Bốc trong ánh trăng. Camera bắt đầu pull back chậm."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Vẫn là chiến trận. Vẫn là hỗn loạn. Nhưng từ góc này, từ khoảng cách này, tất cả nghe như tiếng ồn xa xôi không liên quan."
+      }
+     ],
+     "chips": [
+      "qb"
+     ],
+     "set": "Dien_buoi_chau"
+    },
+    {
+     "id": "S10",
+     "t": "Quan Gia bỏ kinh",
+     "time": "",
+     "loc": "Cổng phía Đông Thăng Long — bến thuyền · Cùng lúc với S09",
+     "items": [
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Tối, không đuốc — cố tình. Một nhóm người di chuyển trong bóng tối theo hướng ra khỏi thành."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Không góc nhìn rộng — chỉ những mảnh cắt nhau: bàn chân chạy, bàn tay kéo ai đó, bóng người khuất sau góc tường. Không ai nhìn thấy mặt rõ ràng cho đến khi ra đến bến thuyền."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Không âm thanh chiến trận ở đây — chỉ tiếng bước chân nhanh và tiếng hơi thở. Xa xa, tiếng trống vọng lại."
+      },
+      {
+       "k": "p",
+       "t": "Tại bến thuyền: một con thuyền nhỏ đã sẵn sàng. Người đứng ở mũi thuyền không phải cấm quân, không phải quan lại — một người đàn ông trong y phục giản dị, không giáp trụ."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Camera dừng lại ở người này đủ lâu để nhận ra: vai rộng bất thường. Lưng hơi cúi về phía trước. Da mặt sạm, nhiều nếp nhăn quanh mắt dù còn không già. Ông ta đang nhìn về phía trong thành — chờ."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "[Gia nô Trần Gia]: không có vẻ lo lắng. Ông ta đứng như người đang đứng trên boong thuyền — chân dang rộng tự nhiên, trọng tâm thấp. Người của sông nước. Ông ta biết mình đang làm gì."
+      },
+      {
+       "k": "p",
+       "t": "Một đám người chạy đến từ bóng tối: Thái tử Lý Sảm — còn rất trẻ, mặt trắng ra vì sợ. Đàm Thái Hậu theo sau. Vài thị vệ và cung nhân còn lại."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Lý Sảm dừng lại khi thấy người đàn ông lạ ở mũi thuyền — do dự một giây. Đàm Thái Hậu không do dự: bà bước thẳng lên thuyền, kéo các con theo."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Close-up bàn tay [Gia nô Trần Gia] khi ông đỡ Đàm Thái Hậu bước lên thuyền — trong ánh trăng, có thể thấy: vết sẹo trắng chạy chéo lòng bàn tay. Các chai dày ở gốc ngón cái. Bàn tay của người đã kéo lưới, kéo dây neo hàng ngàn lần."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng thuyền cọ vào bến. Tiếng nước. Tiếng [Gia nô Trần Gia] ra hiệu bằng tay — không ai hiểu trừ những người trên thuyền."
+      },
+      {
+       "k": "p",
+       "t": "Lý Sảm nhìn về phía Thăng Long lần cuối — ánh lửa, bóng tối, tiếng chiến trận. Rồi bước xuống thuyền."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "[Gia nô Trần Gia] không nhìn về Thăng Long. Ông đẩy mái chèo. Thuyền rời bến."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Pull back từ từ: con thuyền nhỏ trên mặt sông, bóng Thăng Long sau lưng — thành quách trong bóng đêm và ánh lửa. Thuyền đi về phía Nam, về phía Hải Ấp. Camera giữ cảnh này đủ lâu. Rồi cut."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Không leitmotif cụ thể — một giai điệu mới, chưa từng nghe trước đó, khởi đầu từ tiếng sáo trúc đơn độc. Rất ngắn. Giai điệu này sẽ thuộc về họ Trần."
+      }
+     ],
+     "chips": [
+      "lht",
+      "tran"
+     ],
+     "set": "Thang_Long_kinh_thanh"
+    }
+   ]
+  },
+  {
+   "t": "ACT IV — TÂN VƯƠNG",
+   "time": "",
+   "intro": [
+    {
+     "k": "p",
+     "t": "Hậu quả của một đêm"
+    }
+   ],
+   "scenes": [
+    {
+     "id": "S11",
+     "t": "Kinh thành không có vua",
+     "time": "",
+     "loc": "Điện Đại Hưng — Thăng Long · Gần sáng",
+     "items": [
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Trước bình minh — bầu trời chuyển từ đen sang xám sâu. Ánh đèn lồng trong điện vẫn còn sáng nhưng không có nghĩa lý gì trong ánh sáng mới của ban mai."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Điện Đại Hưng trống — ngai vàng không có người ngồi. Camera dừng ở ngai vàng một nhịp. Rồi pan sang: Quách Bốc đứng giữa điện, thuộc tướng vây quanh."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Im lặng của buổi sáng sớm. Tiếng chiến trận đã tắt. Thành phố trong trạng thái kỳ lạ — không yên bình, nhưng không còn chiến đấu. Tiếng chó sủa xa. Tiếng gió."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Quách Bốc đứng nhìn ngai vàng trống. Biểu cảm ông của người vừa hoàn thành một việc và phát hiện ra mình không biết tiếp theo là gì. Kế hoạch đã kết thúc ở Điện Kim Tinh. Không có bước tiếp theo."
+      },
+      {
+       "k": "dlg",
+       "who": "THUỘC TƯỚNG A",
+       "lines": [
+        [
+         "d",
+         "\"Tướng quân. Bây giờ làm gì?\""
+        ]
+       ]
+      },
+      {
+       "k": "p",
+       "t": "Quách Bốc không trả lời ngay. Câu hỏi này — lần đầu tiên trong đời ông — không có câu trả lời sẵn."
+      },
+      {
+       "k": "dlg",
+       "who": "THUỘC TƯỚNG B",
+       "lines": [
+        [
+         "d",
+         "\"Kinh thành trống ngôi. Cần có người ngồi lên đó.\""
+        ]
+       ]
+      },
+      {
+       "k": "dlg",
+       "who": "THUỘC TƯỚNG A",
+       "lines": [
+        [
+         "d",
+         "\"Cần danh nghĩa. Cần hoàng tử.\""
+        ]
+       ]
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Quách Bốc nhìn từ người này sang người kia. Ông nghe. Nhưng mắt ông vẫn còn ở đâu đó khác — còn ở Điện Kim Tinh."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Camera dừng ở ngai vàng một lần nữa. Dưới ánh sáng ban mai, nó trông khác với ban đêm — lớn hơn, cũ hơn, trống rỗng hơn."
+      }
+     ],
+     "chips": [
+      "qb"
+     ],
+     "set": "Dien_buoi_chau"
+    },
+    {
+     "id": "S12",
+     "t": "Lý Thầm",
+     "time": "",
+     "loc": "Cung Vạn Diên — Thăng Long · Bình minh",
+     "items": [
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Ánh sáng đầu tiên của ngày mới lọt qua cửa sổ cung Vạn Diên — không khải hoàn, không huy hoàng. Chỉ là ánh sáng bình thường của buổi sáng."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Một đứa trẻ — Lý Thầm — đứng giữa điện, xung quanh là những người lớn đang bận rộn chuẩn bị. Cậu ta không hiểu chuyện gì đang xảy ra. Mắt cậu ta di chuyển từ người này sang người kia."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Lý Thầm: sợ hãi nhưng cố gắng không lộ ra — vì cậu ta đã đủ lớn để biết đây là lúc không được khóc. Nhưng tay cậu ta nắm chặt vạt áo từ phía sau."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng chuẩn bị nghi lễ: âm thanh của những vật thể được di chuyển, người thì thầm chỉ bảo nhau. Không trống nhạc lớn. Nghi lễ được làm trong vội vàng."
+      },
+      {
+       "k": "p",
+       "t": "Mũ bình thiên được đưa ra — trong tay một viên thái giám già, run run. Ông ta nhìn cái mũ, nhìn đứa trẻ, nhìn lại cái mũ."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Close-up mũ bình thiên — cùng chiếc mũ đã xuất hiện trong EP01, EP02, EP03, EP04, EP05. Lần này nó đang được đặt lên đầu một đứa trẻ."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Một nhịp im lặng khi mũ được đặt xuống. Rồi — từ xa, rất nhẹ — 5 note đàn bầu của EP01 (leitmotif Lý Cao Tông). Nhưng chậm hơn. Xuống thấp hơn. Như một bản nhạc đang sắp kết thúc."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Lý Thầm ngồi lên ngai vàng. Cậu ta nhỏ bé hơn rất nhiều so với ngai — chân không chạm đất. Tay cậu đặt trên thành ngai, rồi nhấc lên, rồi đặt lại — không biết tay mình phải để đâu."
+      },
+      {
+       "k": "p",
+       "t": "Quách Bốc đứng phía dưới, nhìn lên. Đàm Dĩ Mông và vài đại thần quỳ xuống."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Quách Bốc: trong khoảnh khắc này — không có gì trên mặt ông ngoài mệt mỏi. Không chiến thắng. Không thỏa mãn. Một người đã đi rất xa, làm rất nhiều, và kết quả là: một đứa trẻ ngồi trên ngai vàng không vừa."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Ta đã cứu được kinh thành.\""
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Hay phá hủy nó.\""
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Đến lúc ấy...\""
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Ta không còn biết mình vừa làm gì nữa.\""
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng quỳ của triều thần — lần lượt, không đồng loạt. Tiếng y phục trên sàn đá. Tiếng của một triều đình đang được dựng lên vội vàng."
+      },
+      {
+       "k": "head",
+       "t": "FINAL IMAGE"
+      },
+      {
+       "k": "p",
+       "t": "Lý Thầm ngồi trên ngai vàng."
+      },
+      {
+       "k": "p",
+       "t": "Còn rất trẻ. Nhỏ bé. Mũ bình thiên quá lớn so với đầu cậu ta — hơi lệch sang một bên."
+      },
+      {
+       "k": "p",
+       "t": "Lạc lõng."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Camera pull back chậm — bắt đầu từ close-up khuôn mặt Lý Thầm, từ từ lùi ra. Thấy ngai vàng. Thấy điện Vạn Diên. Thấy những người quỳ. Tiếp tục pull back — qua cửa sổ, qua mái điện, lên cao."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Aerial: Thăng Long trong buổi bình minh — khói bốc lên ở nhiều nơi, một số khu vực đổ nát, đường phố trống. Kinh thành sau một đêm loạn. Không phải cảnh chiến trận huy hoàng — cảnh của buổi sáng sau, khi tất cả đã xong mà chưa có gì bắt đầu."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Chim bắt đầu hót — tiếng chim buổi sáng sớm, không biết gì về đêm qua. Bên dưới, Thăng Long im lặng."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Giai điệu sáo trúc họ Trần từ S10 trở lại — lần này rõ hơn, dài hơn. Không phải thắng trận. Là một điều gì đó đang đến."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Quan Gia đã rời khỏi Thăng Long.\""
+      },
+      {
+       "k": "p",
+       "t": "Im lặng"
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Ở Hải Ấp...\""
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Có người đang chờ.\""
+      },
+      {
+       "k": "center",
+       "t": "Fade to black."
+      },
+      {
+       "k": "center",
+       "t": "— KẾT THÚC ARC I —"
+      },
+      {
+       "k": "center",
+       "t": "* * *"
+      }
+     ],
+     "chips": [
+      "lct",
+      "qb",
+      "tran"
+     ],
+     "set": "Hoang_cung_dien_cac"
+    }
+   ]
+  },
+  {
+   "t": "POST-CREDIT",
+   "time": "",
+   "intro": [
+    {
+     "k": "p",
+     "t": "Hải Ấp. Bình minh."
+    },
+    {
+     "k": "p",
+     "t": "Con thuyền cập bến. Một bến sông nhỏ, bình thường — lau sậy, nước sớm, sương mờ."
+    },
+    {
+     "k": "lab",
+     "c": "cam",
+     "l": "CAMERA",
+     "t": "Camera giữ ở mực nước — nhìn từ bờ ra. [Gia nô Trần Gia] buộc thuyền vào cọc. Tay ông thao tác dây thừng nhanh, quen thuộc — bàn tay chai sần, vết sẹo trắng trên lòng bàn tay trái thoáng hiện trong ánh sáng sớm."
+    },
+    {
+     "k": "p",
+     "t": "Lý Sảm bước lên bờ. Đàm Thái Hậu theo sau. Họ dừng lại, nhìn về phía con đường đất dẫn vào làng."
+    },
+    {
+     "k": "p",
+     "t": "Một người đứng ở đầu đường — đợi từ trước. Trần Lý."
+    },
+    {
+     "k": "lab",
+     "c": "act",
+     "l": "ACTING",
+     "t": "Trần Lý nhìn [Gia nô Trần Gia] — không nói gì, chỉ gật đầu một lần. [Gia nô Trần Gia] gật lại, rồi bước sang một bên, đứng phía sau."
+    },
+    {
+     "k": "lab",
+     "c": "cam",
+     "l": "CAMERA",
+     "t": "Camera theo Trần Lý bước xuống đón Lý Sảm — dừng lại ở khoảng cách vừa đủ. Hai người nhìn nhau. Khoảnh khắc im lặng giữa một thái tử vừa mất tất cả và một hào trưởng vừa nhận được tất cả."
+    },
+    {
+     "k": "lab",
+     "c": "sound",
+     "l": "SOUND",
+     "t": "Tiếng sông. Tiếng chim. Tiếng gió sậy."
+    },
+    {
+     "k": "lab",
+     "c": "music",
+     "l": "MUSIC",
+     "t": "Giai điệu sáo trúc họ Trần — đầy đủ hơn lần này, rõ hơn, như một chủ đề đang tự giới thiệu mình lần đầu."
+    },
+    {
+     "k": "p",
+     "t": "Fade to black."
+    },
+    {
+     "k": "dlg",
+     "who": "HẾT — SPECIAL EVENT",
+     "lines": [
+      [
+       "d",
+       "Phase 2 · Arc II · EP06: Tô Trung Từ"
+      ]
+     ]
+    }
+   ],
+   "scenes": []
+  }
+ ],
+ "back": [],
+ "cast": [
+  "lct",
+  "pbd",
+  "pd",
+  "qb",
+  "lht",
+  "tran",
+  "linh"
+ ],
+ "rev": 1
+}

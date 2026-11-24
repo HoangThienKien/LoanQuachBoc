@@ -1,0 +1,2001 @@
+{
+ "id": "ep03",
+ "code": "EP03",
+ "title": "Phạm Bỉnh Di",
+ "sub": "The Loyal General",
+ "arc": "Arc I",
+ "meta": "9:30 · 12 scenes · 5 locations",
+ "front": [
+  {
+   "k": "head",
+   "t": "SCENE INDEX — EP03"
+  },
+  {
+   "k": "p",
+   "t": "Danh sách đầy đủ 12 scenes theo thứ tự phát sóng."
+  },
+  {
+   "k": "p",
+   "t": "S01 [0:00–0:45]     Bình Minh Sau Trận                   LOC-A · Đồng bằng Hồng Châu"
+  },
+  {
+   "k": "p",
+   "t": "Act I / Mở đầu tập"
+  },
+  {
+   "k": "p",
+   "t": "S02 [0:45–1:45]     Người Đứng Trên Gò                   LOC-A · Gò đất cao"
+  },
+  {
+   "k": "p",
+   "t": "Act I / Bỉnh Di lần đầu xuất hiện — giáp chiến, VO đầu"
+  },
+  {
+   "k": "p",
+   "t": "S03 [1:45–2:20]     Tiệc Mừng Chiến Thắng                LOC-B · Doanh trại — Lều"
+  },
+  {
+   "k": "p",
+   "t": "lớn   Act II / Bỉnh Di & Quách Bốc lần đầu cùng khung"
+  },
+  {
+   "k": "p",
+   "t": "S04 [2:20–2:55]     Chiếu Chỉ                            LOC-B · Doanh trại — Lều"
+  },
+  {
+   "k": "p",
+   "t": "lớn   Act II / Plot trigger: chiếu chỉ triệu hồi"
+  },
+  {
+   "k": "p",
+   "t": "S05 [2:55–3:30]     Cảnh Báo Của Quách Bốc               LOC-B · Lều chủ soái"
+  },
+  {
+   "k": "p",
+   "t": "Act II / 'Nhưng ta phải về' — 3 chữ nặng nhất tập"
+  },
+  {
+   "k": "p",
+   "t": "S06 [3:30–4:15]     Hành Quân Trở Về + 3 Can Ngăn        LOC-C · Con đường về Thăng"
+  },
+  {
+   "k": "p",
+   "t": "Long Act III / Montage mưa — 3 lần can ngăn"
+  },
+  {
+   "k": "p",
+   "t": "S07 [4:15–5:45]     Bên Đống Lửa — Đêm Cuối              LOC-C · Trại đóng quân"
+  },
+  {
+   "k": "p",
+   "t": "Act III / Scene dài nhất — 90 giây — VO di chúc"
+  },
+  {
+   "k": "p",
+   "t": "S08 [5:45–6:30]     Thăng Long — Điều Gì Đó Sai          LOC-D · Cổng thành + phố"
+  },
+  {
+   "k": "p",
+   "t": "Act IV / 4 chi tiết bất thường — không dialogue"
+  },
+  {
+   "k": "p",
+   "t": "S09 [6:30–7:30]     Điện Kim Tinh — Nhận Ra              LOC-E · Điện Kim Tinh"
+  },
+  {
+   "k": "p",
+   "t": "Act IV / KHOẢNH KHẮC QUAN TRỌNG NHẤT — Bỉnh Di thấy Phạm Du"
+  },
+  {
+   "k": "p",
+   "t": "S10 [7:30–8:00]     Signature Moment — Thuỷ Viên         LOC-E · Điện Kim Tinh"
+  },
+  {
+   "k": "p",
+   "t": "Act IV / Slow-mo — cúi đầu hành lễ lần cuối"
+  },
+  {
+   "k": "p",
+   "t": "S11 [8:00–9:00]     Thuỷ Viên                            LOC-E · Thuỷ Viên"
+  },
+  {
+   "k": "p",
+   "t": "Act V / Camera pull-back liên tục — 1 shot duy nhất"
+  },
+  {
+   "k": "p",
+   "t": "S12 [9:00–9:20]     Final Image                          LOC-D · Tường thành ngoài"
+  },
+  {
+   "k": "p",
+   "t": "Act V / Orchestra vào lần đầu — toàn bộ tập"
+  },
+  {
+   "k": "p",
+   "t": "PC  [9:20–9:30]     Post Credit — Phạm Du                LOC-E · Căn phòng tối trong"
+  },
+  {
+   "k": "p",
+   "t": "cung Post / VO của Phạm Du — không nhạc"
+  },
+  {
+   "k": "hr"
+  },
+  {
+   "k": "head",
+   "t": "LOCATION BREAKDOWN — 5 SETS"
+  },
+  {
+   "k": "p",
+   "t": "Toàn tập EP03 quay tại 5 địa điểm. Phân nhóm theo location giúp tối ưu lịch production: LOC-B (doanh trại) và LOC-E (cung điện + ngục) là hai set lớn nhất, chiếm phần lớn runtime."
+  },
+  {
+   "k": "head",
+   "t": "LOC-A  ĐỒNG BẰNG & GÒ ĐẤT — HỒNG CHÂU"
+  },
+  {
+   "k": "p",
+   "t": "Bình nguyên rộng, cỏ tranh, bầu trời overcast sau trận chiến. Khói từ làng cháy xa xa. Ánh sáng bình minh flat, desaturated. Không cần set build phức tạp — chủ yếu là environment và lighting."
+  },
+  {
+   "k": "p",
+   "t": "Scenes: S01, S02  —  Tổng runtime: ~1 phút 45 giây  —  Exterior / Bình minh"
+  },
+  {
+   "k": "head",
+   "t": "LOC-B  DOANH TRẠI — BA LỀU"
+  },
+  {
+   "k": "p",
+   "t": "3 sub-set: (1) Lều lớn — bàn dài, đuốc, ~10 người; (2) Lều chủ soái — bản đồ, đèn dầu, riêng tư; (3) Chuồng ngựa tạm bên ngoài (chỉ âm thanh). Ánh sáng đêm — đuốc và đèn dầu là nguồn sáng duy nhất."
+  },
+  {
+   "k": "p",
+   "t": "Scenes: S03 (lều lớn), S04 (lều lớn), S05 (lều chủ soái)  —  Tổng runtime: ~1 phút 45 giây  —  Interior / Đêm"
+  },
+  {
+   "k": "head",
+   "t": "LOC-C  CON ĐƯỜNG + TRẠI ĐÓNG QUÂN"
+  },
+  {
+   "k": "p",
+   "t": "2 sub-set: (1) Con đường đất đỏ, mưa phùn → mưa tầm tã, cảnh hành quân; (2) Trại dọc đường — đống lửa nhỏ dưới tấm che mưa, 2 người. Đây là location duy nhất có mưa thật — sound design và lighting theo từng cảnh can ngăn. Scenes: S06 (đường + 3 can ngăn), S07 (trại đóng quân)  —  Tổng runtime: ~2 phút 15 giây —  Exterior / Ngày mưa → Đêm mưa"
+  },
+  {
+   "k": "head",
+   "t": "LOC-D  THĂNG LONG — ĐƯỜNG PHỐ & TƯỜNG THÀNH"
+  },
+  {
+   "k": "p",
+   "t": "2 sub-set: (1) Cổng thành và phố bên trong — đường đá ướt, cửa phủ đóng, lộ trình trống; (2) Tường thành từ bên ngoài — crane shot, đêm. Sub-set (2) chỉ dùng cho Final Image (S12), có thể quay cùng ngày với S08. Scenes: S08 (cổng + phố), S12 (tường ngoài)  —  Tổng runtime: ~1 phút 5 giây  —  Exterior / Ngày ướt + Đêm"
+  },
+  {
+   "k": "head",
+   "t": "LOC-E  CUNG ĐIỆN — ĐIỆN KIM TINH, THUỶ VIÊN, PHÒNG RIÊNG"
+  },
+  {
+   "k": "p",
+   "t": "3 sub-set: (1) Điện Kim Tinh — cột đỏ đen, cột ánh sáng xuyên khói trầm, ngai vàng, ~20 quan lại; (2) Thuỷ Viên — một khu vực trong tử cấm thành, bao quanh tường cung, một hồ nước lớn, xung quanh là cây to, giữa hồ có thủy tạ nơi giam giữ; (3) Căn phòng tối — nến đơn, Phạm Du một mình [Post Credit]. Sub-set (2) và (3) nhỏ, có thể build trong cùng một studio ngày. Scenes: S09, S10 (điện Kim Tinh), S11 (Thuỷ Viên), Post Credit (phòng Phạm Du)  —  Tổng runtime: ~2 phút 10 giây  —  Interior / Ngày + Đêm"
+  },
+  {
+   "k": "hr"
+  },
+  {
+   "k": "head",
+   "t": "PRODUCTION SEQUENCE — LỊCH QUAY ĐỀ XUẤT"
+  },
+  {
+   "k": "p",
+   "t": "Thứ tự quay tối ưu theo location, không theo thứ tự phát sóng. Mục tiêu: gom các cảnh cùng set, cùng lighting setup, cùng thời tiết vào cùng ngày quay để giảm chi phí setup."
+  },
+  {
+   "k": "p",
+   "t": "Ưu tiên quay LOC-E trước vì đây là set phức tạp nhất (quan lại đông, lighting tinh tế), cần nhiều giờ setup. LOC-C quay sau vì phụ thuộc thời tiết thực tế (mưa có thể capture hoặc tái tạo)."
+  },
+  {
+   "k": "head",
+   "t": "NGÀY      SCENE   CẢNH                              LOCATION            GHI CHÚ"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 1  S09  Điện Kim Tinh — Nhận Ra              LOC-E · Điện           Set lớn nhất, nhiều diễn viên — quay khi ekip tươi nhất"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 1  S10  Signature Moment — Thuỷ Viên        LOC-E · Điện           Liên tục với S09, cùng setup — không dọn cảnh"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 2  S11  Thuỷ Viên                            LOC-E · Ngục           Set nhỏ, build trong studio — quay sáng ngày 2"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 2  PC   Post Credit — Phạm Du                LOC-E · Phòng          Chỉ 10 giây, 1 diễn viên — quay cuối buổi ngày 2"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 3  S03  Tiệc Mừng Chiến Thắng                LOC-B · Lều lớn        Đêm — setup đuốc + extras"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 3  S04  Chiếu Chỉ                            LOC-B · Lều lớn        Liên tục với S03, cùng set"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 4  S05  Cảnh Báo Của Quách Bốc               LOC-B · Lều nhỏ        Set khác trong cùng doanh trại"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 5  S01  Bình Minh Sau Trận                   LOC-A · Bình nguyên    Golden hour sáng sớm — quay lúc 5:30am"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 5  S02  Người Đứng Trên Gò                   LOC-A · Gò đất         Liên tục với S01, cùng ngày"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 6  S08  Thăng Long — Điều Gì Đó Sai          LOC-D · Phố            Overcast preferred, sau mưa"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 6  S12  Final Image                          LOC-D · Ngoài thành    Đêm — crane shot, quay cuối ngày 6"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 7  S06  Hành Quân + 3 Can Ngăn               LOC-C · Đường          Phụ thuộc mưa — có thể dùng rain machine"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 7  S07  Bên Đống Lửa — Đêm Cuối              LOC-C · Trại           Mưa + lửa — 2 diễn viên chính, tối giản"
+  },
+  {
+   "k": "p",
+   "t": "Ghi chú: Ngày 7 quay last vì phụ thuộc thời tiết và là 2 cảnh cần mưa thật / rain machine liên tục. S07 (90 giây, 2 người) nên quay nguyên ngày để lấy đủ coverage với các biến thể ánh lửa."
+  },
+  {
+   "k": "hr"
+  },
+  {
+   "k": "head",
+   "t": "VỊ TRÍ TRONG ARC"
+  },
+  {
+   "k": "head",
+   "t": "EP03 là trung tâm narrative của toàn Arc I."
+  },
+  {
+   "k": "p",
+   "t": "Nếu EP01 là câu hỏi (tại sao Đại Việt sụp đổ?) và EP02 là hệ quả tất yếu (dân tự cứu lấy mình), thì EP03 là khoảnh khắc tất cả những mâu thuẫn đó gặp nhau trong một con người — và nghiền nát ông."
+  },
+  {
+   "k": "p",
+   "t": "Phạm Bỉnh Di không bị phản bội bởi kẻ thù. Ông bị phản bội bởi chính hệ thống mà ông dành cả đời bảo vệ. Đây là loại bi kịch mạnh nhất — không phải bi kịch của bạo lực, mà là bi kịch của lòng tin."
+  },
+  {
+   "k": "p",
+   "t": "Tone: Greek tragedy. Không có villain. Không có anh hùng. Chỉ có một người tốt trong một thời đại sai."
+  },
+  {
+   "k": "head",
+   "t": "FORMAT   Animated short — 9 phút 30 giây"
+  },
+  {
+   "k": "p",
+   "t": "CẤU TRÚC   5 Acts (bất đối xứng: Act I–II ngắn, Act III là trái tim, Act IV–V là aftermath)"
+  },
+  {
+   "k": "p",
+   "t": "TONE   Bi tráng — không có nhịp vui, nhưng cũng không tuyệt vọng. Ông không hối hận."
+  },
+  {
+   "k": "p",
+   "t": "VISUAL   Lords of War: Durotan — desaturated, weight của từng cảnh, không có spectacle rẻ"
+  },
+  {
+   "k": "p",
+   "t": "ÂM NHẠC   Đàn tranh solo → dần nhường chỗ cho trống trận khi narrative xuống dốc"
+  },
+  {
+   "k": "head",
+   "t": "NHỊP   Chậm có chủ đích. Silence là vũ khí chính. Không có cảnh thừa."
+  },
+  {
+   "k": "hr"
+  },
+  {
+   "k": "head",
+   "t": "CHARACTER BRIEF — PHẠM BỈNH DI"
+  },
+  {
+   "k": "p",
+   "t": "Phạm Bỉnh Di là kiểu nhân vật bi kịch thuần túy nhất trong 5 tập: ông không có điểm mù, không có tham vọng ẩn, không có mâu thuẫn nội tâm phức tạp. Ông đơn giản là người tin vào trật tự — và bị giết bởi chính niềm"
+  },
+  {
+   "k": "p",
+   "t": "tin đó."
+  },
+  {
+   "k": "p",
+   "t": "Điều khiến ông khác với Cao Tông hay Phạm Du: ông BIẾT hệ thống đang mục rỗng. Ông thấy Phạm Du, ông thấy bẫy, ông có thể chọn không trở về. Nhưng ông vẫn trở về — không phải vì ngây thơ, mà vì ông tin rằng nếu ngay cả chiếu chỉ của vua cũng không đáng tin, thì không còn gì đáng bảo vệ nữa."
+  },
+  {
+   "k": "p",
+   "t": "Voice Over của ông mang giọng di chúc: ông kể cho khán giả nghe như người đã biết kết cục, không tiếc nuối, chỉ muốn người đời sau hiểu tại sao ông làm vậy."
+  },
+  {
+   "k": "lab",
+   "c": "act",
+   "l": "WARDROBE",
+   "t": "",
+   "list": [
+    "Giáp trận: da và đồng, màu nâu xám — không phải vàng son, đây là giáp của người ra trận thật",
+    "Áo lót: vải đen thô, vết mồ hôi và bụi đất từ chiến trận",
+    "Khi vào điện: triều phục đỏ thẫm, mũ quan — KHÔNG mang kiếm, KHÔNG mang giáp (quan trọng)",
+    "Chi tiết: một vết sẹo nhỏ trên gò má phải — không cần giải thích, chỉ gợi ý nhiều năm chinh chiến",
+    "Tóc: vấn khăn, một số sợi tóc trắng — ông không già, nhưng đã già hơn tuổi"
+   ]
+  },
+  {
+   "k": "hr"
+  }
+ ],
+ "acts": [
+  {
+   "t": "ACT I — MEMORY",
+   "time": "0:00–1:45",
+   "intro": [
+    {
+     "k": "p",
+     "t": "Thời gian: 1 phút 45 giây. Đây là act ngắn nhất — chỉ để thiết lập một điều duy nhất: Phạm Bỉnh Di tin vào trật tự, và ông không hề ngây thơ về điều đó."
+    },
+    {
+     "k": "quote",
+     "lines": [
+      "君君，臣臣，父父，子子",
+      "Quân quân, thần thần, phụ phụ, tử tử",
+      "\"Vua ra vua, tôi ra tôi, cha ra cha, con ra con\"",
+      "— Luận Ngữ · Nhan Uyên — Khổng Tử trả lời Tề Cảnh Công về cách trị nước"
+     ]
+    },
+    {
+     "k": "lab",
+     "c": "note",
+     "l": "NOTE",
+     "t": "Quote hiện lên từng chữ Hán, mỗi cụm 2 chữ xuất hiện cách nhau 0.8 giây. Không có âm thanh — chỉ im lặng tuyệt đối trước khi hình ảnh đầu tiên xuất hiện. Đây là toàn bộ triết lý của Phạm Bỉnh Di trong 8 chữ."
+    }
+   ],
+   "scenes": [
+    {
+     "id": "S01",
+     "t": "BÌNH MINH SAU TRẬN",
+     "time": "0:00–0:45",
+     "loc": "LOC-A · Đồng bằng Hồng Châu · Exterior / Bình minh",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Cảnh mở đầu. Không có nhân vật chính trên màn hình — chỉ là bức tranh toàn cảnh chiến trường. Thiết lập không khí trước khi Bỉnh Di xuất hiện ở S02."
+      },
+      {
+       "k": "slug",
+       "t": "EXTERIOR — ĐỒNG BẰNG HỒNG CHÂU — BÌNH MINH"
+      },
+      {
+       "k": "arrow",
+       "t": "Bình nguyên rộng lớn, cỏ tranh dập dờn trong gió nhẹ. Mặt trời vừa ló rạng, ánh sáng vàng nhạt và ngang."
+      },
+      {
+       "k": "arrow",
+       "t": "Khói từ đống lửa trại và từ những ngôi làng bị đốt phía xa bện vào nhau — khó phân biệt khói nào là của ai."
+      },
+      {
+       "k": "arrow",
+       "t": "Quân lính đang dọn chiến trường. Không phải cảnh hùng tráng — đây là công việc nặng nhọc, im lặng."
+      },
+      {
+       "k": "arrow",
+       "t": "Cờ nhà Lý tung bay trên một cọc gỗ bị cắm vội vào đất. Vải cờ có một vết cháy nhỏ ở góc."
+      },
+      {
+       "k": "arrow",
+       "t": "Xa xa: tàn tích của một ngôi làng. Một bức tường đất sụp một nửa. Vài con gà đi lang thang."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Key light từ chân trời phải, góc thấp 15 độ — ánh sáng chiến trường bình minh, không ấm áp, chỉ sáng. Fill light rất yếu, để bóng đổ dài. Không có màu vàng lãng mạn — desaturate tổng thể, chỉ lá cờ giữ màu đỏ đậm."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "0:00 — Silence hoàn toàn trong 3 giây. Sau đó: tiếng gió nhẹ qua cỏ tranh, tiếng bước chân quân lính xa, một con chim kêu đơn lẻ rồi im. Không có nhạc — chỉ texture của buổi sáng sau trận chiến."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Cực rộng — aerial nhìn xuống bình nguyên từ cao 40m. Camera không di chuyển trong 5 giây đầu. Để khán giả đọc khung hình: thấy quân, thấy cờ, thấy làng cháy, thấy sự im lặng của cảnh vật."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "0:00–0:07: Aerial tĩnh. 0:07–0:15: Camera bắt đầu hạ xuống chậm, tiến về phía một gò đất cao nơi một bóng người đang đứng nhìn."
+      }
+     ],
+     "chips": [
+      "pbd"
+     ],
+     "set": "Xom_tren_binh_nguyen"
+    },
+    {
+     "id": "S02",
+     "t": "NGƯỜI ĐỨNG TRÊN GÒ",
+     "time": "0:45–1:45",
+     "loc": "LOC-A · Gò đất cao — Exterior / Bình minh, liên tục với S01",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Bỉnh Di xuất hiện lần đầu. Thoại đầu tiên của cả tập — 4 chữ: 'Không ai thắng cả.' VO đầu tiên thiết lập giọng di chúc. Kết Act I bằng CUT CỨNG."
+      },
+      {
+       "k": "slug",
+       "t": "EXTERIOR — GÒ ĐẤT CAO — LIÊN TỤC"
+      },
+      {
+       "k": "arrow",
+       "t": "Phạm Bỉnh Di (30t) đứng trên gò đất, lưng về phía camera. Nhìn về phía Hồng Châu — nơi quân Đoàn Thượng vừa rút lui."
+      },
+      {
+       "k": "arrow",
+       "t": "Ông mặc giáp chiến, một tay buông thõng, một tay đặt nhẹ lên cán kiếm — không phải chuẩn bị rút kiếm, chỉ là thói quen."
+      },
+      {
+       "k": "arrow",
+       "t": "Một thuộc hạ trẻ, khoảng 20 tuổi, tiến lên bên cạnh. Gương mặt đỏ bừng vì phấn khích sau chiến thắng."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Phạm Bỉnh Di: tuyệt đối bất động. Ông không nhìn thuộc hạ khi nói chuyện. Mắt vẫn hướng về phía Hồng Châu. Giọng bằng phẳng, không mệt mỏi, không kiêu ngạo — chỉ là một người đang nhìn thấy điều người khác không nhìn thấy."
+      },
+      {
+       "k": "dlg",
+       "who": "THUỘC HẠ",
+       "lines": [
+        [
+         "p",
+         "(hào hứng, chưa đủ tuổi để hiểu chiến thắng có giá gì)"
+        ],
+        [
+         "d",
+         "Chúng ta thắng rồi, tướng quân!"
+        ],
+        [
+         "d",
+         "Bỉnh Di không trả lời ngay. Một nhịp im lặng kéo dài — đủ để thuộc hạ bắt đầu bối rối."
+        ],
+        [
+         "d",
+         "Camera chuyển sang profile của Bỉnh Di. Mắt ông không đổi hướng. Ông nhìn những ngôi làng cháy dở phía chân trời."
+        ]
+       ]
+      },
+      {
+       "k": "dlg",
+       "who": "PHẠM BỈNH DI",
+       "lines": [
+        [
+         "p",
+         "(nhẹ nhàng, không phán xét — ông không dạy, ông chỉ nói thật)"
+        ],
+        [
+         "d",
+         "Không.Không ai thắng cả."
+        ],
+        [
+         "d",
+         "Thuộc hạ im lặng, không hiểu. Không cần giải thích thêm."
+        ]
+       ]
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Từ khi còn là một đứa trẻ, ta đã tin rằng chỉ cần mỗi người giữ đúng bổn phận của mình... thiên hạ sẽ mãi thái bình.\""
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Medium shot từ phía sau và bên trái. Bỉnh Di chiếm 1/3 khung hình bên phải. 2/3 còn lại là cảnh Hồng Châu phía xa — khói, đổ nát, người dân lác đác trên đường. Camera không zoom — để khán giả tự đọc landscape."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Mặt Bỉnh Di nằm trong bóng đổ của chiếc mũ giáp. Chỉ phần dưới gương mặt — miệng và cằm — được chiếu sáng. Ánh mắt ông gần như chìm trong bóng tối. Điều này sẽ đảo ngược hoàn toàn ở Act III khi ông bước vào điện dưới ánh đèn đầy đủ."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "0:45: Đàn tranh solo bắt đầu — một motif ngắn, 4 nốt, rất chậm. Không phải giai điệu hoàn chỉnh — chỉ là một câu hỏi âm nhạc bỏ lửng. Đây là LEITMOTIF của Bỉnh Di và sẽ quay lại ở Act III và V."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng gió tăng nhẹ. Xa xa: tiếng trẻ con khóc từ một ngôi làng bị phá — một note đơn lẻ, không kéo dài."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "Toàn bộ S02: 60 giây. Không được cắt ngắn. Silence sau câu thoại của Bỉnh Di phải kéo dài tối thiểu 4 giây trước khi VO bắt đầu."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Ta đã tin điều đó suốt cả cuộc đời.\""
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "VO kết thúc. Fade âm nhạc. CUT CỨNG sang Act II."
+      }
+     ],
+     "chips": [
+      "dt",
+      "pbd"
+     ],
+     "set": "Xom_tren_binh_nguyen"
+    }
+   ]
+  },
+  {
+   "t": "ACT II — THE BURDEN",
+   "time": "1:45–3:30",
+   "intro": [
+    {
+     "k": "p",
+     "t": "Thời gian: 1 phút 45 giây. Act này thiết lập hai thứ đồng thời: sự nghi ngờ của Quách Bốc (người duy nhất đọc được tình hình đúng) và quyết định của Bỉnh Di (người biết sự thật nhưng vẫn chọn bổn phận). Tension không đến từ drama — đến từ sự im lặng giữa hai người hiểu nhau."
+    }
+   ],
+   "scenes": [
+    {
+     "id": "S03",
+     "t": "TIỆC MỪNG CHIẾN THẮNG",
+     "time": "1:45–2:20",
+     "loc": "LOC-B · Doanh trại — Lều lớn · Interior / Đêm",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Giới thiệu Quách Bốc trong cùng khung với Bỉnh Di lần đầu. Không có dialogue giữa hai người — chỉ là ánh mắt Quách Bốc quan sát chủ soái. VO Bỉnh Di đặt câu hỏi cốt lõi của Act II."
+      },
+      {
+       "k": "slug",
+       "t": "INTERIOR — DOANH TRẠI — ĐÊM"
+      },
+      {
+       "k": "arrow",
+       "t": "Một căn lều lớn, ánh đuốc lung linh. Bàn gỗ thô với vài bình rượu và đồ ăn đơn giản — không phải đại yến, chỉ là bữa ăn của lính."
+      },
+      {
+       "k": "arrow",
+       "t": "Khoảng 8–10 tướng lĩnh và sĩ quan ngồi xung quanh. Không khí sôi nổi — đây là chiến thắng thật sự sau nhiều tháng chiến dịch."
+      },
+      {
+       "k": "arrow",
+       "t": "Phạm Bỉnh Di ngồi ở đầu bàn. Không uống. Tay đặt trên mặt bàn, nhìn vào chén rượu chưa uống."
+      },
+      {
+       "k": "arrow",
+       "t": "Quách Bốc ngồi gần cuối bàn, bên trái. Ông cũng không uống nhiều. Thỉnh thoảng nhìn Bỉnh Di."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Ánh đuốc tạo chiaroscuro mạnh — nửa tối nửa sáng. Mặt Bỉnh Di: ánh lửa chiếu từ dưới lên, tạo bóng đổ lạ trên gương mặt ông. Quách Bốc: ngồi vùng tối hơn, chỉ đôi mắt phản chiếu ánh lửa."
+      },
+      {
+       "k": "p",
+       "t": "Một tướng đứng dậy, nâng chén."
+      },
+      {
+       "k": "dlg",
+       "who": "TƯỚNG LĨNH",
+       "lines": [
+        [
+         "p",
+         "(hào hứng, sincere — ông ta không xấu, chỉ không thấy được những gì Bỉnh Di thấy)"
+        ],
+        [
+         "d",
+         "Đoàn Thượng đã lui! Phạm Du bỏ chạy! Đại Việt lại yên bình!"
+        ],
+        [
+         "d",
+         "Mọi người nâng chén. Tiếng hô hào. Bỉnh Di nhấc chén lên — nhưng không uống, chỉ đặt lại."
+        ]
+       ]
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Điều đáng sợ nhất không phải chiến tranh. Mà là những thứ chiến tranh để lại.\""
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Sequence ngắn — cắt qua nhiều góc: wide shot toàn bàn (sự tương phản giữa mọi người hào hứng và Bỉnh Di trầm ngâm), close-up chén rượu của Bỉnh Di chưa uống, medium shot Quách Bốc đang quan sát chủ soái."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Nhạc nhẹ vui từ phía ngoài lều — tiếng tiêu và tiếng vỗ tay của lính. Nhưng bên trong lều, âm nhạc đó nghe như từ xa — như được lọc qua vải. Tạo cảm giác Bỉnh Di đang đứng ngoài niềm vui chung."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "35 giây. Nhanh — montage cảm giác, không phải scene drama."
+      }
+     ],
+     "chips": [
+      "dt",
+      "pbd",
+      "pd",
+      "qb"
+     ],
+     "set": "Bo_de"
+    },
+    {
+     "id": "S04",
+     "t": "CHIẾU CHỈ",
+     "time": "2:20–2:55",
+     "loc": "LOC-B · Doanh trại — Lều lớn · Interior / Đêm (liên tục với S03)",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Plot trigger chính: chiếu chỉ triệu hồi. Liên tục với S03 — cùng set, không dọn cảnh. TRANSITION âm thanh quan trọng: tiếng tiêu CẮT ĐỨNG → khoảng lặng 1 giây → tiếng vó ngựa."
+      },
+      {
+       "k": "slug",
+       "t": "INTERIOR — DOANH TRẠI — ĐÊM, MUỘN HƠN"
+      },
+      {
+       "k": "arrow",
+       "t": "Tiếng ngựa từ ngoài. Dồn dập, cấp bách. Tiếng gọi cổng."
+      },
+      {
+       "k": "arrow",
+       "t": "Một mã phu vào lều, bùn đất từ đầu đến chân — rõ ràng đã phi không nghỉ."
+      },
+      {
+       "k": "arrow",
+       "t": "Ông ta quỳ xuống, rút từ trong ngực áo ra một ống tre bọc vải đỏ — chiếu chỉ."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "TRANSITION: Tiếng vỗ tay và tiếng tiêu CẮT ĐỘT NGỘT. Thay thế bằng tiếng vó ngựa dồn dập từ xa, ngày càng gần. Khoảng cách 1 giây giữa hai âm thanh này — khoảng lặng ngắn đó là quan trọng."
+      },
+      {
+       "k": "p",
+       "t": "Bỉnh Di đứng dậy. Nhận ống tre. Mở ra. Đọc chiếu chỉ — camera không cho thấy nội dung, chỉ thấy mặt ông."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Khi đọc chiếu: mặt Bỉnh Di không thay đổi biểu cảm. Không ngạc nhiên, không sợ hãi. Chỉ đọc. Đặt chiếu chỉ xuống bàn. Một nhịp im lặng. Sau đó nói."
+      },
+      {
+       "k": "dlg",
+       "who": "PHẠM BỈNH DI",
+       "lines": [
+        [
+         "p",
+         "(đọc to — không phải thông báo, chỉ là xác nhận thông tin)"
+        ],
+        [
+         "d",
+         "Triệu hồi khẩn cấp. Lập tức hồi kinh."
+        ],
+        [
+         "d",
+         "Toàn bộ doanh trại im lặng. Tướng lĩnh nhìn nhau. Không ai hiểu."
+        ]
+       ]
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Close-up chiếu chỉ trên bàn — camera không tilt để đọc chữ. Chỉ thấy ấn ngọc đỏ thẫm ở cuối tờ giấy. Sau đó cut lên mặt Bỉnh Di — medium shot, để thấy ngữ cảnh xung quanh ông."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Leitmotif đàn tranh 4 nốt quay lại — lần này chậm hơn, thấp hơn nửa cung. Không phải báo hiệu nguy hiểm, chỉ là một dấu hỏi âm nhạc."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "35 giây."
+      }
+     ],
+     "chips": [
+      "pbd"
+     ],
+     "set": "Bo_de"
+    },
+    {
+     "id": "S05",
+     "t": "CẢNH BÁO CỦA QUÁCH BỐC",
+     "time": "2:55–3:30",
+     "loc": "LOC-B · Lều chủ soái · Interior / Đêm",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Scene riêng tư nhất của Act I–II. Hai người ngang hàng. 'Nhưng ta phải về' — câu ngắn nhất và nặng nhất của Bỉnh Di trong toàn tập. Kết Act II bằng close-up bàn tay trên chữ Kinh Sư."
+      },
+      {
+       "k": "slug",
+       "t": "INTERIOR — LỀU CHỦ SOÁI — ĐÊM, SAU ĐÓ"
+      },
+      {
+       "k": "arrow",
+       "t": "Phòng nhỏ hơn — chỉ có bản đồ, đèn dầu, và vài tờ quân báo. Không gian riêng tư của một chủ soái."
+      },
+      {
+       "k": "arrow",
+       "t": "Bỉnh Di đứng nhìn bản đồ. Quách Bốc bước vào, không gõ — họ đã quen với sự thân mật này từ bao giờ."
+      },
+      {
+       "k": "arrow",
+       "t": "Đây là scene quan trọng: hai người ngang hàng nhất trong 5 tập. Không có cấp trên cấp dưới ở đây."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "WARDROBE",
+       "t": "",
+       "list": [
+        "Quách Bốc: áo trong không mặc giáp ngoài, tóc xổ một phần — ông vừa bỏ giáp ra sau bữa tiệc. Trông trẻ hơn, dễ tổn thương hơn."
+       ]
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Quách Bốc trong scene này: không phải cấp dưới báo cáo. Ông là người bạn đang cố cứu chủ soái. Giọng thấp, trực tiếp, không có kính ngữ dư thừa. Bỉnh Di: nghe rất kỹ, nhưng đã quyết định từ trước rồi."
+      },
+      {
+       "k": "dlg",
+       "who": "QUÁCH BỐC",
+       "lines": [
+        [
+         "p",
+         "(bước vào không chào, thẳng vào vấn đề)"
+        ],
+        [
+         "d",
+         "Có gì đó không ổn."
+        ]
+       ]
+      },
+      {
+       "k": "dlg",
+       "who": "PHẠM BỈNH DI",
+       "lines": [
+        [
+         "p",
+         "(quay lại nhìn — không ngạc nhiên, chỉ muốn nghe Quách Bốc nói rõ)"
+        ],
+        [
+         "d",
+         "Ý ngươi là gì?"
+        ]
+       ]
+      },
+      {
+       "k": "dlg",
+       "who": "QUÁCH BỐC",
+       "lines": [
+        [
+         "p",
+         "(giọng điều tra, không phải chất vấn — ông đang suy luận, không phải tố cáo)"
+        ],
+        [
+         "d",
+         "Phạm Du chưa bị bắt. Hồng Châu chưa yên. Tại sao lúc này lại gọi ngài về?"
+        ],
+        [
+         "d",
+         "Im lặng. Ngọn đèn dầu cháy lách tách. Không ai nói gì trong 5 giây."
+        ],
+        [
+         "d",
+         "Bỉnh Di nhìn lại bản đồ. Ngón tay chạm vào điểm ghi 'Kinh Sư'."
+        ]
+       ]
+      },
+      {
+       "k": "dlg",
+       "who": "PHẠM BỈNH DI",
+       "lines": [
+        [
+         "p",
+         "(rất nhỏ — không phải thú nhận, không phải yếu đuối. Chỉ là hai chữ nặng nhất trong tập.)"
+        ],
+        [
+         "d",
+         "Có lẽ ngươi đúng. Nhưng ta phải về."
+        ],
+        [
+         "d",
+         "Quách Bốc không nói thêm. Ông hiểu: Bỉnh Di đã thấy hết, và vẫn chọn về."
+        ]
+       ]
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Hai nhân vật ở hai đầu bàn — bản đồ nằm giữa họ, như một chiến trường khác. Camera ở góc ngang, hai người ngang bằng trong khung. Không ai cao hơn ai. Shot cuối: close-up bàn tay Bỉnh Di đặt trên bản đồ — ngón tay trên chữ 'Kinh Sư'. Hold 3 giây."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Silence hoàn toàn trong dialogue. Chỉ tiếng đèn dầu và tiếng gió đêm. Khi Bỉnh Di nói 'Nhưng ta phải về' — một nốt đàn tranh duy nhất, rất thấp, không vibrato. Rồi im."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng côn trùng đêm từ xa. Bên ngoài lều: tiếng lính gác thay ca, bình thường. Cuộc sống tiếp tục trong khi hai người đang đối mặt với điều không thể nói ra."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "35 giây. Scene này không được vội."
+      }
+     ],
+     "chips": [
+      "pbd",
+      "pd",
+      "qb"
+     ],
+     "set": "Bo_de"
+    }
+   ]
+  },
+  {
+   "t": "ACT III — THE ROAD HOME",
+   "time": "3:30–5:45",
+   "intro": [
+    {
+     "k": "p",
+     "t": "Thời gian: 2 phút 15 giây — act dài nhất, trái tim của tập. Đây là hành trình vật lý và tâm lý: đoàn quân về Thăng Long trong khi mưa đầu mùa bắt đầu. Ba cảnh can ngăn liên tiếp — không phải để thuyết phục Bỉnh Di đổi ý, mà để khán giả thấy rõ: ông BIẾT và vẫn CỨ ĐI."
+    }
+   ],
+   "scenes": [
+    {
+     "id": "S06",
+     "t": "HÀNH QUÂN TRỞ VỀ + MONTAGE 3 CAN NGĂN",
+     "time": "3:30–4:15",
+     "loc": "LOC-C · Con đường đất đỏ về Thăng Long · Exterior / Ngày mưa nhẹ → mưa vừa",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Montage liên tục — đoàn quân đang đi + 3 lần bị can ngăn. Pattern: mỗi cảnh can ngăn bắt đầu từ POV người can ngăn → kết bằng shot họ nhìn theo sau đoàn quân. Mưa nặng dần qua từng cảnh. Bỉnh Di đã thay giáp → triều phục: chi tiết quan trọng."
+      },
+      {
+       "k": "slug",
+       "t": "EXTERIOR — CON ĐƯỜNG VỀ THĂNG LONG — NGÀY, MƯA NHẸ"
+      },
+      {
+       "k": "arrow",
+       "t": "Con đường đất đỏ chạy qua đồng bằng. Mưa đầu mùa — không mưa to, chỉ mưa phùn, nhưng đủ để áo quần thấm ướt."
+      },
+      {
+       "k": "arrow",
+       "t": "Đoàn quân đi hàng đôi, yên lặng. Không có tiếng trống. Không có cờ được cầm cao."
+      },
+      {
+       "k": "arrow",
+       "t": "Phạm Bỉnh Di cưỡi ngựa ở đầu đoàn, khoác áo tơi, đội mũ rơm, đi bên cạnh là con trai Phạm Phụ. Quách Bốc cưỡi ngựa theo sau vài bước."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Overcast hoàn toàn. Không có bóng đổ — ánh sáng flat, xám bạc. Màu cả cảnh: đất nâu đỏ, áo quân xanh lam sẫm, trời xám. Duy nhất màu ấm: áo triều phục đỏ của Bỉnh Di lấp ló bên dưới áo tơi."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "Đây là lần đầu tiên khán giả thấy Bỉnh Di mặc triều phục — ông đã bỏ giáp, chuẩn bị để vào triều. Ông không trốn, không chuẩn bị chiến đấu. Ông vào triều như một quan đại thần."
+      },
+      {
+       "k": "center",
+       "t": "─ MONTAGE: BA LẦN CAN NGĂN ─"
+      },
+      {
+       "k": "p",
+       "t": "Ba cảnh ngắn — mỗi cảnh 10–12 giây. Mưa ngày càng nặng hạt hơn qua mỗi cảnh."
+      },
+      {
+       "k": "head",
+       "t": "CAN NGĂN 1 — Lão tướng"
+      },
+      {
+       "k": "p",
+       "t": "Một lão tướng già — tóc bạc trắng, mặt đầy sẹo — phi ngựa theo kịp. Không cần giới thiệu tên."
+      },
+      {
+       "k": "dlg",
+       "who": "LÃO TƯỚNG",
+       "lines": [
+        [
+         "p",
+         "(không có lý lẽ — chỉ có hai chữ, đủ sức nặng của người đã thấy quá nhiều)"
+        ],
+        [
+         "d",
+         "Tướng quân. Đừng về."
+        ],
+        [
+         "d",
+         "Bỉnh Di quay đầu nhìn ông một lúc. Không trả lời. Tiếp tục đi."
+        ]
+       ]
+      },
+      {
+       "k": "head",
+       "t": "CAN NGĂN 2 — Thuộc hạ cũ (nhân vật từ S02)"
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "Đây là anh lính trẻ hào hứng từ S02 — continuity quan trọng: khán giả nhận ra mặt anh ta."
+      },
+      {
+       "k": "p",
+       "t": "Anh đứng giữa đường, mưa trên mặt, không phân biệt được mưa và nước mắt. Quỳ xuống ngay giữa đường — chắn đường đoàn quân."
+      },
+      {
+       "k": "dlg",
+       "who": "THUỘC HẠ",
+       "lines": [
+        [
+         "p",
+         "(giọng người trẻ không hiểu thế giới — sincere đến mức đau lòng)"
+        ],
+        [
+         "d",
+         "Tướng quân không cần về. Tướng quân thắng rồi. Xin ngài nán lại."
+        ],
+        [
+         "d",
+         "Bỉnh Di nhìn xuống anh lính. Một khoảnh khắc — có lẽ là khoảnh khắc duy nhất trong tập ông suýt thay đổi quyết định. Rồi ông nhẹ nhàng thúc ngựa đi vòng qua — chậm, không ép, như người cha không muốn bước qua con. Anh lính vẫn quỳ, nhìn theo đoàn quân tiếp tục đi."
+        ]
+       ]
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Cử chỉ gỡ tay: rất nhẹ nhàng, như người cha. Không phải từ chối — là từ biệt."
+      },
+      {
+       "k": "head",
+       "t": "CAN NGĂN 3 — Viên quan địa phương"
+      },
+      {
+       "k": "p",
+       "t": "Một viên quan địa phương — áo ướt đẫm, đứng giữa đường chắn đường. Ông ta cúi đầu sâu."
+      },
+      {
+       "k": "dlg",
+       "who": "VIÊN QUAN",
+       "lines": [
+        [
+         "p",
+         "(ấp úng, sợ hãi — có tin đồn nhưng không dám nói rõ)"
+        ],
+        [
+         "d",
+         "Thần nghe nói Thăng Long... thần nghe nói..."
+        ]
+       ]
+      },
+      {
+       "k": "dlg",
+       "who": "PHẠM BỈNH DI",
+       "lines": [
+        [
+         "p",
+         "(không dừng ngựa — nói trong khi tiếp tục đi)"
+        ],
+        [
+         "d",
+         "Ta biết những gì ngươi nghe nói."
+        ],
+        [
+         "d",
+         "Viên quan nhìn theo đoàn quân. Không còn cố ngăn cản."
+        ]
+       ]
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "3:30: Mưa là âm thanh chủ đạo. Trên nền đó: motif đàn tranh 4 nốt lặp lại 3 lần, mỗi lần chậm hơn một chút. Không có nhạc drama."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Mưa ngày càng nặng qua mỗi cảnh can ngăn. Tiếng nước rỏ từ cờ. Tiếng vó ngựa trên đường đất ướt — bùn hút vào, nặng nề hơn đường khô."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Mỗi cảnh can ngăn: bắt đầu từ góc nhìn của người can ngăn (họ thấy Bỉnh Di từ phía trước). Kết thúc bằng shot từ phía sau của người đó nhìn theo đoàn quân tiếp tục đi. Pattern lặp lại ba lần tạo ra nhịp điệu."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "45 giây cho toàn bộ montage ba cảnh."
+      }
+     ],
+     "chips": [
+      "pbd",
+      "qb"
+     ],
+     "set": "Duong_nui_cong_ai"
+    },
+    {
+     "id": "S07",
+     "t": "BÊN ĐỐNG LỬA — ĐÊM CUỐI",
+     "time": "4:15–5:45",
+     "loc": "LOC-C · Trại đóng quân giữa đường · Exterior / Đêm mưa",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Scene dài nhất của Act I–III: 90 giây, không cắt nhanh. Chỉ 2 diễn viên, 1 ngọn lửa. Đây là VO di chúc thực sự — 'Trung thành không phải để được đền đáp. Mà là để biết mình là ai.' Quách Bốc nhìn Bỉnh Di lần đầu trong cảnh = khoảnh khắc quyết định hành động của ông sau này."
+      },
+      {
+       "k": "slug",
+       "t": "EXTERIOR — TRẠI ĐÓNG QUÂN — ĐÊM, MƯA"
+      },
+      {
+       "k": "arrow",
+       "t": "Họ đóng quân giữa đường về. Mưa tầm tã — những tấm cót tre che mưa được dựng vội vàng dùng các thanh tre buộc bằng dây lạt tạo khung chống đỡ."
+      },
+      {
+       "k": "arrow",
+       "t": "Một đống lửa nhỏ cháy dưới tấm che — ánh lửa duy nhất trong màn tối."
+      },
+      {
+       "k": "arrow",
+       "t": "Bỉnh Di ngồi một mình bên lửa. Quách Bốc bước tới. Ông ngồi xuống bên cạnh — không đối diện, mà ngồi cạnh, nhìn cùng hướng vào ngọn lửa."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "WARDROBE",
+       "t": "",
+       "list": [
+        "Bỉnh Di: tấm áo tơi phủ lên triều phục. Mưa nhỏ bắn vào mặt — ông không che.",
+        "Quách Bốc: áo thường, ướt đẫm. Không mặc giáp — đây là Quách Bốc người bạn, không phải chiến tướng."
+       ]
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Ngọn lửa là nguồn sáng duy nhất. Flickering mạnh vì mưa và gió. Hai khuôn mặt thay nhau sáng và tối theo nhịp lửa. Ánh sáng ấm nhất và cũng nguy hiểm nhất trong tập — ấm áp giả tạo trước cái lạnh sắp đến."
+      },
+      {
+       "k": "p",
+       "t": "Hai người ngồi im một lúc. Tiếng mưa trên tấm che. Tiếng lửa."
+      },
+      {
+       "k": "dlg",
+       "who": "QUÁCH BỐC",
+       "lines": [
+        [
+         "p",
+         "(không nhìn Bỉnh Di khi hỏi — nhìn vào lửa. Câu hỏi này đã ở trong ông từ đêm qua.)"
+        ],
+        [
+         "d",
+         "Nếu đây là cái bẫy thì sao?"
+        ],
+        [
+         "d",
+         "Im lặng. Bỉnh Di không trả lời ngay. 6 giây im lặng."
+        ]
+       ]
+      },
+      {
+       "k": "dlg",
+       "who": "PHẠM BỈNH DI",
+       "lines": [
+        [
+         "p",
+         "(nhẹ nhàng, không hùng tráng — đây không phải tuyên ngôn, chỉ là câu hỏi ông đang tự hỏi chính mình)"
+        ],
+        [
+         "d",
+         "Nếu ngay cả chiếu chỉ của thiên tử ta cũng nghi ngờ...Thì còn ai tin vào triều đình nữa?"
+        ],
+        [
+         "d",
+         "Quách Bốc không đáp. Một cành cây trong lửa gãy. Tàn lửa bay lên rồi tắt trong mưa."
+        ]
+       ]
+      },
+      {
+       "k": "dlg",
+       "who": "QUÁCH BỐC",
+       "lines": [
+        [
+         "p",
+         "(nhìn thẳng vào Bỉnh Di khi hỏi)"
+        ],
+        [
+         "d",
+         "Thiên tử không phải kẻ đang đứng cạnh thiên tử."
+        ],
+        [
+         "d",
+         "PHẠM PHỤ"
+        ],
+        [
+         "p",
+         "(ngập ngùng, không thể che giấu sự băn khoăn đầy bất an trong lòng)"
+        ],
+        [
+         "d",
+         "Cha có nghĩ...lần triệu kiến này có điều bất thường?"
+        ],
+        [
+         "d",
+         "Im lặng. Bỉnh Di nhìn con."
+        ]
+       ]
+      },
+      {
+       "k": "dlg",
+       "who": "PHẠM BỈNH DI",
+       "lines": [
+        [
+         "d",
+         "Con có biết vì sao cha gọi con đi cùng không? PHẠM PHỤ"
+        ],
+        [
+         "d",
+         "Vì con là phó tướng?"
+        ],
+        [
+         "d",
+         "Bỉnh Di lắc đầu."
+        ],
+        [
+         "d",
+         "PHẠM BỈNH DI"
+        ],
+        [
+         "d",
+         "Vì con là con ta."
+        ],
+        [
+         "d",
+         "Im lặng một nhịp,"
+        ],
+        [
+         "d",
+         "PHẠM BỈNH DI"
+        ],
+        [
+         "d",
+         "Người muốn phản sẽ không mang huyết mạch của mình vào kinh."
+        ],
+        [
+         "d",
+         "Phạm Bỉnh Di im lặng, mắn nhìn chăm chú về đám lửa."
+        ]
+       ]
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Người ta có thể phản bội một vị vua.\""
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Nhưng nếu ai cũng phản bội bổn phận của mình...\""
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"thì thiên hạ này còn lại gì?\""
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Camera ở rất gần — medium shot của hai người, lửa giữa khung hình như nhân vật thứ ba. Khi Bỉnh Di nói, không cắt sang Quách Bốc — giữ nguyên shot để thấy phản ứng trong cùng khung. VO bàn tay: cut xuống extreme close-up bàn tay, rồi cut lên mặt Bỉnh Di từ góc thấp."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Quách Bốc: nghe rất kỹ. Không gật đầu. Khi Bỉnh Di nói xong, ông quay sang nhìn chủ soái lần đầu tiên trong cảnh — và khán giả thấy trong mắt ông: sự quyết định. Ông đã biết mình sẽ làm gì."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "4:15–5:45: Silence gần như hoàn toàn. Chỉ mưa, lửa, và tiếng thở. Không có nhạc nền. VO được đọc a capella."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng mưa chia làm hai lớp: mưa trên tấm che (gần, rõ, đều đặn) và mưa trên cây cối xa (mờ hơn, sâu hơn). Thi thoảng: tiếng ngựa động cựa, tiếng lính gác xa xa."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "90 giây. Scene dài nhất trong Act I–III. Không được cắt ngắn."
+      }
+     ],
+     "chips": [
+      "pbd",
+      "qb"
+     ],
+     "set": "Bo_de"
+    }
+   ]
+  },
+  {
+   "t": "ACT IV — THE TRAP",
+   "time": "5:45–8:00",
+   "intro": [
+    {
+     "k": "p",
+     "t": "Thời gian: 2 phút 15 giây. Đây là act nhanh nhất và căng nhất — nhịp tim tăng, cut nhanh hơn, âm nhạc thay đổi. Nhưng điểm cao trào không phải là hành động mà là khoảnh khắc Bỉnh Di NHÌN THẤY và HIỂU — và vẫn không làm"
+    },
+    {
+     "k": "p",
+     "t": "gì."
+    }
+   ],
+   "scenes": [
+    {
+     "id": "S08",
+     "t": "THĂNG LONG — ĐIỀU GÌ ĐÓ SAI",
+     "time": "5:45–6:30",
+     "loc": "LOC-D · Cổng thành + phố Thăng Long · Exterior / Ngày sau mưa",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Không có dialogue. Chỉ là 4 chi tiết bất thường được cắt nhanh từ POV Bỉnh Di trên ngựa. Âm nhạc đột ngột thay đổi: đàn tranh → trống nhỏ BPM 72. Mỗi cut đồng bộ 1 tiếng trống."
+      },
+      {
+       "k": "slug",
+       "t": "EXTERIOR — CỔNG THÀNH THĂNG LONG — NGÀY, SAU CƠN MƯA"
+      },
+      {
+       "k": "arrow",
+       "t": "Kinh thành sau mưa — đường phố ướt, ánh nắng yếu ớt qua mây. Trên giấy tờ, Thăng Long vẫn tráng lệ."
+      },
+      {
+       "k": "arrow",
+       "t": "Chi tiết 1: Lính gác cổng thành — ánh mắt lạ. Không phải kính trọng. Không phải thù địch. Là ánh mắt của người đang chờ điều gì đó xảy ra."
+      },
+      {
+       "k": "arrow",
+       "t": "Chi tiết 2: Những cánh cửa các quan phủ đóng kín dù đang giờ hành chánh. Không ai ra đón."
+      },
+      {
+       "k": "arrow",
+       "t": "Chi tiết 3: Đường phố dọc theo lộ trình vào cung gần như trống — đã được dọn sạch người."
+      },
+      {
+       "k": "arrow",
+       "t": "Chi tiết 4: Một tốp lính cung đình đi theo sau đoàn quân Bỉnh Di — không xa quá, không gần quá."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Sau mưa: ánh sáng bạc, ướt. Kinh thành bóng bẩy nhưng lạnh. Bỉnh Di mặc triều phục đỏ nổi bật trong khung màu xám bạc — ông đang bước vào như con mồi đi vào bẫy trong ánh sáng ban ngày."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng đoàn quân trên đường đá. Nhưng từ hai bên: im lặng bất thường. Không có tiếng chợ búa, không có tiếng trẻ con. Sự im lặng đô thị là âm thanh đáng sợ nhất trong cảnh này."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "POV của Bỉnh Di — camera đặt ở tầm mắt ông trên ngựa, nhìn về phía trước. Cắt nhanh giữa những chi tiết: mắt lính gác, cánh cửa đóng, lộ trình trống, tốp lính theo sau. Không có dialogue."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Bỉnh Di trên ngựa: thẳng lưng, mặt không lộ cảm xúc. Nhưng đôi mắt đang scan, đang xử lý, đang ghép những mảnh thông tin. Và đang nhận ra."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Khi ấy... ta đã cảm nhận được.\""
+      },
+      {
+       "k": "p",
+       "t": "Một nhịp."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Nhưng ta không muốn tin.\""
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "5:45: Âm nhạc thay đổi đột ngột. Đàn tranh biến mất. Thay bằng: tiếng trống nhỏ — rất khẽ, như tiếng tim đập. BPM: 72, đều đặn và lạnh lùng. Mỗi cut nhanh đồng bộ với một tiếng trống."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "45 giây. Cắt nhanh — mỗi detail shot không quá 3 giây."
+      }
+     ],
+     "chips": [
+      "pbd"
+     ],
+     "set": "Thang_Long_kinh_thanh"
+    },
+    {
+     "id": "S09",
+     "t": "ĐIỆN KIM TINH — KHOẢNH KHẮC NHẬN RA",
+     "time": "6:30–7:30",
+     "loc": "LOC-E · Điện Kim Tinh · Interior / Ngày — set lớn nhất, ~20 quan lại",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "KHOẢNH KHẮC QUAN TRỌNG NHẤT CỦA TẬP. Bỉnh Di bước vào, nhìn thấy Phạm Du. Hai cut cứng — không slow-mo, không dramatic zoom. Trống DỪNG ĐỘT NGỘT → 3 giây silence → tiếng chuông đồng một tiếng duy nhất."
+      },
+      {
+       "k": "slug",
+       "t": "INTERIOR — ĐIỆN KIM TINH — NGÀY"
+      },
+      {
+       "k": "arrow",
+       "t": "Điện chính của triều đình. Rộng lớn, cột gỗ sơn đỏ và đen, khói trầm hương dày."
+      },
+      {
+       "k": "arrow",
+       "t": "Ngai vàng xa phía trước. Hai hàng quan lại đứng im hai bên — không ai nhìn Bỉnh Di khi ông bước vào."
+      },
+      {
+       "k": "arrow",
+       "t": "Lý Cao Tông ngồi trên ngai. Trông mệt mỏi, lo lắng — nhưng không nhìn Bỉnh Di."
+      },
+      {
+       "k": "arrow",
+       "t": "Một người đứng bên trái ngai vàng — vị trí của cố vấn thân tín. Người này quay lưng lại."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "WARDROBE",
+       "t": "",
+       "list": [
+        "Điện Kim Tinh: tất cả quan lại mặc triều phục đầy đủ, mũ quan vuông. Màu sắc theo phẩm cấp.",
+        "Quan trọng: Bỉnh Di KHÔNG mang kiếm, KHÔNG mặc giáp — đây là triều phục. Ông đến như thần tử, không phải như tướng quân.",
+        "Phạm Phụ: Đi cùng Bỉnh Di, mặc triều phục màu xanh ngọc."
+       ]
+      },
+      {
+       "k": "p",
+       "t": "Bỉnh Di bước vào, theo sau là con trai Phạm Phụ. Tiếng bước chân trên nền đá vang dội — cô đơn trong không gian lớn. Không ai chào đón."
+      },
+      {
+       "k": "p",
+       "t": "Ông bước theo đường chính giữa. Nhìn thẳng về phía trước."
+      },
+      {
+       "k": "p",
+       "t": "Người cố vấn bên ngai vàng từ từ quay lại."
+      },
+      {
+       "k": "center",
+       "t": "─ ĐÂY LÀ KHOẢNH KHẮC QUAN TRỌNG NHẤT CỦA TẬP ─"
+      },
+      {
+       "k": "p",
+       "t": "Phạm Du. Còn sống. Mặc triều phục cố vấn. Mỉm cười rất nhẹ — không đắc thắng, không ác độc. Chỉ là người đang xác nhận một phép tính đã được tính từ trước."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Bỉnh Di khi nhìn thấy Phạm Du: KHÔNG thay đổi bước chân. Không dừng lại. Không run rẩy. Nhưng trong vòng 2 giây — khán giả thấy trong mắt ông tất cả những mảnh ghép lại: chiếu chỉ đột ngột, đường phố trống, mắt lính gác, Phạm Du đứng đây. Ông hiểu hết. Và ông vẫn tiếp tục đi tới ngai vàng."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Phạm Du: không giao tiếp mắt với Bỉnh Di quá 1 giây. Nhìn đi chỗ khác — không phải vì tội lỗi, mà vì ông đã xong phần của mình rồi. Đây không phải màn đối đầu."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "6:30: Tiếng trống DỪNG ĐỘT NGỘT khi Bỉnh Di nhìn thấy Phạm Du. Silence hoàn toàn — 3 giây. Rồi: tiếng chuông đồng lớn, một tiếng duy nhất, vang rất lâu. Đây là âm thanh triều đình — bình thường dùng để khai lễ. Nhưng ở đây nó nghe như chuông báo tử."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Bắt đầu ở góc sau và trên cao của điện — thấy Bỉnh Di đơn độc đi vào không gian rộng lớn, quan lại hai bên như bức tường. Camera chậm rãi tiến xuống và vào gần theo ông. Khi Phạm Du quay lại: cut CỨNG sang close-up mặt Bỉnh Di. Sau đó cut CỨNG sang medium shot Phạm Du. Không có slow-mo, không có dramatic zoom. Chỉ là cut cứng — như sự thật."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Điện Kim Tinh: ánh sáng từ trên cao qua các ô cửa — cột ánh sáng thẳng đứng xuyên khói trầm. Khi Bỉnh Di nhìn thấy Phạm Du: một cột sáng chiếu thẳng xuống phía sau Phạm Du — như spotlight trong nhà hát."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "60 giây. Bước chân vào điện + recognition moment = phải cảm thấy dài hơn thực tế."
+      }
+     ],
+     "chips": [
+      "lct",
+      "pbd",
+      "pd"
+     ],
+     "set": "Dien_buoi_chau"
+    },
+    {
+     "id": "S10",
+     "t": "SIGNATURE MOMENT — THUỶ VIÊN",
+     "time": "7:30–8:00",
+     "loc": "LOC-E · Điện Kim Tinh · Interior — liên tục với S09, không dọn cảnh",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Slow-motion sequence. KHÔNG có bạo lực. KHÔNG có bắt bớ. Chỉ là sự im lặng tuyệt đối của một bản án đã được quyết định từ trước."
+      },
+      {
+       "k": "center",
+       "t": "─ SIGNATURE CINEMATIC MOMENT ─"
+      },
+      {
+       "k": "head",
+       "t": "Đây là cảnh phải được nhớ mãi. Không phải vì xiềng xích được khóa vào tay. Mà vì từ khoảnh khắc này, Phạm Bỉnh Di đã không còn tự quyết định số phận mình nữa."
+      },
+      {
+       "k": "arrow",
+       "t": "Nội thị bước ra. Không nhìn Bỉnh Di, chỉ đọc chiếu chỉ."
+      },
+      {
+       "k": "dlg",
+       "who": "NỘI THỊ",
+       "lines": []
+      },
+      {
+       "k": "p",
+       "t": "Phụng chỉ. Phụng ngự Phạm Bỉnh Di cùng Phạm Phụ... Tạm lưu tại Thủy Viên, chờ tra xét."
+      },
+      {
+       "k": "arrow",
+       "t": "Cả triều đình: im lặng. Không ai nói gì. Không ai nhìn ông."
+      },
+      {
+       "k": "p",
+       "t": "Camera chậm lại. Bỉnh Di không chống cự. Phạm Phụ bẽ bàng nhìn về phía Bỉnh Di không nói một lời nào."
+      },
+      {
+       "k": "p",
+       "t": "Ông nhìn quanh — không tìm kiếm cứu giúp. Ông nhìn những người từng sát cánh. Những người từng gọi ông là trụ cột triều đình."
+      },
+      {
+       "k": "p",
+       "t": "Tất cả đều cúi đầu."
+      },
+      {
+       "k": "p",
+       "t": "Cuối cùng, ông nhìn về phía ngai vàng. Lý Cao Tông không nhìn lại."
+      },
+      {
+       "k": "p",
+       "t": "Bỉnh Di cúi đầu hành lễ — chậm, đầy đủ nghi lễ, lần cuối."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Ta từng nghĩ lòng trung thành sẽ được đền đáp.\""
+      },
+      {
+       "k": "p",
+       "t": "Im lặng 4 giây."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Sau này ta mới hiểu. Trung thành không phải để được đền đáp.\""
+      },
+      {
+       "k": "p",
+       "t": "Im lặng 2 giây."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Mà là để biết mình là ai.\""
+      },
+      {
+       "k": "arrow",
+       "t": "Sau khi hành lễ, Bỉnh Di quay người tự bước đi Phạm Phụ theo sau."
+      },
+      {
+       "k": "arrow",
+       "t": "Không có lính áp giải. Không có xiềng xích. Nhưng khoảng cách từ Điện Kim Tinh đến Thủy Viên dài hơn bất kỳ đoạn đường nào ông từng đi trong đời."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Slow motion Cận cảnh: Gương mặt các quan lại cúi xuống. Bàn tay Phạm Phụ siết chặt. Long ngai ở xa. Lý Cao Tông quay mặt. Shot cuối: Bỉnh Di cúi đầu hành lễ — camera ở phía sau, Bỉnh Di và Phạm Phụ bước khỏi điện, hai bóng người nhỏ dần giữa không gian khổng lồ."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Cúi đầu hành lễ cuối: không phải cay đắng, không mỉa mai, không trách móc. Đây là cúi đầu thật — Ông vẫn là thần tử, không ai có thể lấy điều đó khỏi ông."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "7:30: Leitmotif đàn tranh 4 nốt quay lại — lần này do dàn dây (violin và viola) kéo. Âm thanh quen thuộc nhưng nặng hơn, đậm hơn. Khi Bỉnh Di cúi đầu hành lễ: nhạc dừng. Chỉ còn sự im lặng."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Không có tiếng xiềng, không có tiếng hô bắt. Chỉ còn tiếng vải áo chuyển động. Tiếng bước chân trên nền điện trong sự im lặng tuyệt đối."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Một cột sáng từ cửa sổ chiếu xuống vị trí Bỉnh Di đứng. Ông trong ánh sáng, toàn bộ triều đình trong bóng tối. Đảo ngược hình ảnh Act I."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "30 giây. Slow motion nhưng không lạm dụng — chỉ những khoảnh khắc quan trọng nhất."
+      }
+     ],
+     "chips": [
+      "lct",
+      "pbd"
+     ],
+     "set": "Hoang_cung_dien_cac"
+    }
+   ]
+  },
+  {
+   "t": "ACT V — THE STORM",
+   "time": "8:00–9:30",
+   "intro": [
+    {
+     "k": "p",
+     "t": "Thời gian: 1 phút 30 giây. Act này là aftermath và foreshadowing đồng thời. Bỉnh Di ở trong ngục và nghe cơn bão kéo đến — ông không vui mừng, không hy vọng. Vì ông hiểu: mỗi cơn bão chỉ là bước đầu của cơn bão lớn hơn."
+    }
+   ],
+   "scenes": [
+    {
+     "id": "S11",
+     "t": "THUỶ VIÊN",
+     "time": "8:00–9:00",
+     "loc": "LOC-E · Thuỷ Viên · Interior / Đêm",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Camera pull-back liên tục — 1 shot duy nhất không cắt: từ mặt Bỉnh Di trong bóng tối ra đến tường thành bên ngoài nơi đoàn quân Quách Bốc đang tiến đến. Đây là cảnh kỹ thuật khó nhất của tập."
+      },
+      {
+       "k": "slug",
+       "t": "INTERIOR — THUỶ VIÊN — ĐÊM"
+      },
+      {
+       "k": "arrow",
+       "t": "Một thủy tạ biệt lập giữa hồ, bao quanh bởi tường cung, không cửa khó, không có song sắt, không có xiềng xích chỉ có lính canh đứng xa bên ngoài. Bỉnh Di và Phạm Phụ ngồi trong thủy tạ. Không ai nói một lời."
+      },
+      {
+       "k": "arrow",
+       "t": "Mặt hồ phẳng lặng."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Ánh trăng chiếu lên mặt nước. Nguồn sáng duy nhất phản chiếu từ hồ vào bên trong. Nhưng không chạm tới Bỉnh Di, ông ngồi hoàn toàn trong bóng tối. Đảo ngược lần thứ hai: Từ cột sáng ở Điện Kim Tinh xuống bóng tối của Thủy Viên. Xa xa tiếng vó ngựa ban đầu rất nhỏ, rồi lớn dần, càng lúc càng gần. Tiếng quân lính hô hoán trên thành, tiếng trống liên hồi báo động, một toán lính chạy ngang qua bờ hồ."
+      },
+      {
+       "k": "dlg",
+       "who": "LÍNH CANH",
+       "lines": [
+        [
+         "p",
+         "(hét vào khoảng trống — không nói với ai, chỉ hét)"
+        ],
+        [
+         "d",
+         "CÓ ĐỊCH!"
+        ],
+        [
+         "d",
+         "Bỉnh Di nhắm mắt."
+        ]
+       ]
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Khoảnh khắc nhắm mắt: Bỉnh Di KHÔNG vui mừng. Mà buồn. Ông vừa nghe tin Quách Bốc đang làm điều ông đã biết Quách Bốc sẽ làm — và ông buồn vì điều đó. Không phải vì ông không muốn được cứu. Mà vì ông hiểu cái giá của nó."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Người ta thường nghĩ...\""
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Một triều đại sụp đổ vì trận chiến cuối cùng.\""
+      },
+      {
+       "k": "p",
+       "t": "Một nhịp."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Không.\""
+      },
+      {
+       "k": "p",
+       "t": "Im lặng 3 giây."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Nó sụp đổ từ rất lâu trước đó.\""
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "8:00: Trống trận bắt đầu — từ xa, nhỏ, nghe như tiếng tim đập của Thăng Long. Ngày càng gần, ngày càng lớn. Nhưng không nhanh hơn — cùng BPM, chỉ to hơn."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Layered sound design: lớp 1 (xa nhất) — tiếng vó ngựa hàng nghìn con; lớp 2 — tiếng hô của lính gác trên thành; lớp 3 (gần nhất) — hơi thở của Bỉnh Di trong bóng tối. Ba lớp cùng tồn tại."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Camera bắt đầu từ cận cảnh mặt Bỉnh Di trong bóng tối. Rất chậm, pull back liên tục — Ra khỏi thủy tạ. Ra mặt hồ. Ra khỏi Thủy Viên. Qua những hành lang cung cấm. Qua tường thành. Final frame: tường thành từ bên ngoài, hàng nghìn ngọn đuốc đang tiến đến trong bóng đêm."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "60 giây. Camera pull back cần liên tục — không cắt, một shot duy nhất từ ngục thất ra ngoài thành."
+      }
+     ],
+     "chips": [
+      "pbd",
+      "qb"
+     ],
+     "set": "Hoang_cung_dien_cac"
+    },
+    {
+     "id": "S12",
+     "t": "FINAL IMAGE",
+     "time": "9:00–9:20",
+     "loc": "LOC-D · Tường thành Thăng Long — ngoài thành · Exterior / Đêm — crane shot",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Lần đầu tiên trong tập toàn bộ orchestra vào — không triumphant, không tragic, chỉ là to, nặng, không thể tránh. Crane shot thấy cả hai biển sáng: bên trong thành và đoàn quân Quách Bốc bên ngoài."
+      },
+      {
+       "k": "center",
+       "t": "─ FINAL IMAGE ─"
+      },
+      {
+       "k": "arrow",
+       "t": "Tường thành Thăng Long từ bên ngoài, nhìn về phía Nam."
+      },
+      {
+       "k": "arrow",
+       "t": "Hàng nghìn ngọn đuốc kéo dài đến tận chân trời."
+      },
+      {
+       "k": "arrow",
+       "t": "Dẫn đầu: một người cưỡi ngựa, đuốc trong tay, mặt không thấy rõ."
+      },
+      {
+       "k": "arrow",
+       "t": "Đó là Quách Bốc."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Toàn bộ orchestra vào — lần đầu tiên trong tập. Không phải triumphant, không phải tragic. Chỉ là to, nặng, không thể tránh. Như thủy triều."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Âm thanh cuối cùng trước fade to black: tiếng tường thành rung chuyển khi trống trận vọng vào đá. Không phải tiếng vỡ — chỉ là rung động. Như Thăng Long đang thở trong sợ hãi."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Crane shot từ trên cao — thấy cả hai phía: bên trong thành (ánh đèn lung linh của cung điện) và bên ngoài thành (biển lửa của đoàn quân Quách Bốc). Hai biển sáng nhìn về nhau."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "20 giây. Fade to black."
+      },
+      {
+       "k": "dlg",
+       "who": "FADE TO BLACK.",
+       "lines": []
+      }
+     ],
+     "chips": [
+      "qb"
+     ],
+     "set": "Thang_Long_kinh_thanh"
+    }
+   ]
+  },
+  {
+   "t": "POST CREDIT",
+   "time": "9:20–9:30",
+   "intro": [
+    {
+     "k": "center",
+     "t": "─ POST CREDIT (không thuộc scene đánh số S01–S12) ─"
+    },
+    {
+     "k": "lab",
+     "c": "note",
+     "l": "SEQ",
+     "t": "Quay cùng ngày với S09–S10 (LOC-E). Set nhỏ nhất — chỉ 1 diễn viên, 1 nến. 10 giây thực tế nhưng cần 30 phút setup lighting."
+    },
+    {
+     "k": "lab",
+     "c": "loc",
+     "l": "LOC",
+     "t": "LOC-E · Căn phòng tối trong cung · Interior / Đêm"
+    },
+    {
+     "k": "slug",
+     "t": "INTERIOR — CĂN PHÒNG TỐI TRONG CUNG — ĐÊM"
+    },
+    {
+     "k": "arrow",
+     "t": "Căn phòng riêng. Nến đơn. Phạm Du ngồi một mình."
+    },
+    {
+     "k": "arrow",
+     "t": "Ông không nhìn ra ngoài — ông đã biết Quách Bốc sẽ đến từ trước."
+    },
+    {
+     "k": "arrow",
+     "t": "Ông đang uống trà. Bình thản."
+    },
+    {
+     "k": "p",
+     "t": "Ông mỉm cười. Không phải nụ cười ác. Nụ cười của người vừa xác nhận một"
+    },
+    {
+     "k": "p",
+     "t": "phép toán."
+    },
+    {
+     "k": "lab",
+     "c": "vo",
+     "l": "VO",
+     "t": "\"Người trung thành luôn là những người dễ đoán nhất.\""
+    },
+    {
+     "k": "lab",
+     "c": "sound",
+     "l": "SOUND",
+     "t": "10 giây im lặng sau VO. Chỉ tiếng mưa bên ngoài."
+    },
+    {
+     "k": "lab",
+     "c": "music",
+     "l": "MUSIC",
+     "t": "Không có nhạc — chỉ im lặng sau tiếng VO. Câu VO của Phạm Du phải vang trong đầu khán giả mà không có nhạc lấn át."
+    },
+    {
+     "k": "lab",
+     "c": "note",
+     "l": "TIMING",
+     "t": "10 giây. CUT TO BLACK."
+    },
+    {
+     "k": "dlg",
+     "who": "CUT TO BLACK.",
+     "lines": []
+    }
+   ],
+   "scenes": []
+  }
+ ],
+ "back": [
+  {
+   "k": "head",
+   "t": "PRODUCTION NOTES — NHỮNG ĐIỂM CẦN GIỮ"
+  },
+  {
+   "k": "head",
+   "t": "1. KHÔNG có villain trong tập này"
+  },
+  {
+   "k": "p",
+   "t": "Phạm Du mỉm cười nhẹ và uống trà. Sự lạnh lùng đó đáng sợ hơn bất kỳ villainy nào được diễn đạt rõ ràng. Khán giả ghét ông không phải vì ông hung ác — mà vì ông đúng về cách thế giới vận hành."
+  },
+  {
+   "k": "head",
+   "t": "2. KHÔNG giải thích những gì hình ảnh đã nói"
+  },
+  {
+   "k": "lab",
+   "c": "vo",
+   "l": "VO",
+   "t": "không được trùng lặp với hình ảnh. VO là nội tâm, hình ảnh là thực tế — hai thứ bổ sung nhau, không phải giải thích nhau."
+  },
+  {
+   "k": "head",
+   "t": "3. SILENCE là vũ khí chính"
+  },
+  {
+   "k": "p",
+   "t": "Đã có 7 khoảnh khắc silence được ghi rõ trong script. Những khoảnh khắc này không được cắt ngắn vì 'không có gì xảy ra.' Chính sự không xảy ra đó là điều đang xảy ra."
+  },
+  {
+   "k": "head",
+   "t": "4. LEITMOTIF 4 nốt đàn tranh"
+  },
+  {
+   "k": "p",
+   "t": "Xuất hiện 4 lần: lần 1 (S02) — đàn tranh, tone hỏi; lần 2 (S04) — đàn tranh thấp hơn nửa cung; lần 3 (S06) — đàn tranh, chậm hơn; lần 4 (S10) — dàn dây, nặng hơn. Biến mất khi Bỉnh Di vào ngục. Sẽ quay lại trong"
+  },
+  {
+   "k": "p",
+   "t": "Special Event 1209."
+  },
+  {
+   "k": "head",
+   "t": "5. VISUAL TELL của Phạm Du"
+  },
+  {
+   "k": "p",
+   "t": "Không nhìn thẳng vào mắt ai quá 1 giây — nhất quán trong tất cả các tập. Không phải vì né tránh, mà vì ông đã xong với người đó rồi."
+  },
+  {
+   "k": "hr"
+  },
+  {
+   "k": "center",
+   "t": "— HẾT SCRIPT EP03 v2 —"
+  },
+  {
+   "k": "center",
+   "t": "TIẾP THEO: EP04 — PHẠM DU / THE USURPER"
+  }
+ ],
+ "cast": [
+  "lct",
+  "dt",
+  "pbd",
+  "pd",
+  "qb",
+  "linh"
+ ],
+ "rev": 1
+}

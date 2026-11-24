@@ -1,0 +1,1847 @@
+{
+ "id": "ep02",
+ "code": "EP02",
+ "title": "Đoàn Thượng",
+ "sub": "The Frontier King",
+ "arc": "Arc I",
+ "meta": "9:30 · 13 scenes · 3 locations",
+ "front": [
+  {
+   "k": "head",
+   "t": "SCENE INDEX — EP02 V2"
+  },
+  {
+   "k": "p",
+   "t": "13 scenes theo thứ tự phát sóng."
+  },
+  {
+   "k": "p",
+   "t": "S01 [0:00–0:50]     Bình Minh Hồng Châu                LOC-A · Sông, bãi bồi"
+  },
+  {
+   "k": "p",
+   "t": "Act I / Mirror EP01 S01 — thế giới không có triều đình"
+  },
+  {
+   "k": "p",
+   "t": "S02 [0:50–1:35]     Người Cha Chỉ Xuống Cánh Đồng      LOC-A · Đê sông"
+  },
+  {
+   "k": "p",
+   "t": "Act I / Truyền thừa — không thoại"
+  },
+  {
+   "k": "p",
+   "t": "S03 [1:35–2:20]     Trưởng Thành — Hồng Châu Không Ai  LOC-A · Bờ biển, đê, làng"
+  },
+  {
+   "k": "p",
+   "t": "Act I / Montage: ba lần triều đình vắng mặt — Đoàn Thượng ở lại"
+  },
+  {
+   "k": "p",
+   "t": "S04 [2:20–3:05]     Phát Lúa                           LOC-A · Sân kho lương"
+  },
+  {
+   "k": "p",
+   "t": "Act II / Đoàn Thượng thay chức năng cứu tế triều đình"
+  },
+  {
+   "k": "p",
+   "t": "S05 [3:05–3:50]     Xử Kiện                            LOC-A · Sân đình làng"
+  },
+  {
+   "k": "p",
+   "t": "Act II / Đoàn Thượng thay chức năng xét xử triều đình"
+  },
+  {
+   "k": "p",
+   "t": "S06 [3:50–4:35]     Sửa Đê                             LOC-A · Bờ đê mùa lũ"
+  },
+  {
+   "k": "p",
+   "t": "Act II / Đoàn Thượng thay chức năng công trình triều đình"
+  },
+  {
+   "k": "p",
+   "t": "S07 [4:35–5:20]     Dẹp Cướp                           LOC-A · Làng bìa rừng đêm"
+  },
+  {
+   "k": "p",
+   "t": "Act II / Chốt Act II — quân triều đình vắng mặt lần cuối"
+  },
+  {
+   "k": "p",
+   "t": "S08 [5:20–6:15]     Bà Lão Quỳ                         LOC-A · Sân đình chiều"
+  },
+  {
+   "k": "p",
+   "t": "Act III / MIDPOINT — dân trao trách nhiệm, không phải quyền lực"
+  },
+  {
+   "k": "p",
+   "t": "S09 [6:15–7:00]     Một Mình Với Sổ Sách               LOC-A · Nhà Đoàn Thượng đêm"
+  },
+  {
+   "k": "p",
+   "t": "Act IV / THE BURDEN — bản đồ, danh sách, gánh nặng không ai chọn"
+  },
+  {
+   "k": "p",
+   "t": "S10 [7:00–7:30]     Câu Hỏi Của Thuộc Hạ               LOC-A · Bến sông đêm"
+  },
+  {
+   "k": "p",
+   "t": "Act IV → V / Câu hỏi về Thăng Long — Đoàn Thượng im lặng dài"
+  },
+  {
+   "k": "p",
+   "t": "S11 [7:30–8:30]     Signature Moment — Lời Thề         LOC-B · Bến sông đêm, đuốc"
+  },
+  {
+   "k": "p",
+   "t": "Act V / Lời thề bảo vệ — không lên ngôi, không tung hô"
+  },
+  {
+   "k": "p",
+   "t": "S12 [8:30–9:10]     Final Image — Hồng Châu Vận Hành   LOC-A · Aerial Hồng Châu ngày"
+  },
+  {
+   "k": "p",
+   "t": "Act V / Cộng đồng tự cứu — không phải vương quốc"
+  },
+  {
+   "k": "p",
+   "t": "S13 [9:10–9:20]     Final Voice Over                   LOC-A · Liên tục S12"
+  },
+  {
+   "k": "p",
+   "t": "Act V / VO cuối — fade to black"
+  },
+  {
+   "k": "p",
+   "t": "PC  [9:20–9:30]     Post Credit — Phạm Bỉnh Di         LOC-A · Bình nguyên ngày"
+  },
+  {
+   "k": "p",
+   "t": "Post / Hook sang EP03"
+  },
+  {
+   "k": "hr"
+  },
+  {
+   "k": "head",
+   "t": "LOCATION BREAKDOWN — 3 SETS"
+  },
+  {
+   "k": "head",
+   "t": "LOC-A  HỒNG CHÂU — TOÀN BỘ VÙNG ĐẤT"
+  },
+  {
+   "k": "p",
+   "t": "Sông, bãi bồi, đê điều, đồng ruộng, làng xóm, kho lương, sân đình, bến sông. LOC-A chiếm 12/13 scenes. Thăng Long không xuất hiện trong EP02 — chỉ tồn tại qua VO và sự vắng mặt. Ánh sáng không desaturate mạnh như EP03/EP04 — Hồng Châu không phải chiến trường, nó là cuộc sống. Scenes: S01–S10, S12, S13, PC  —  ~8 phút 30 giây  —  Exterior + Interior / Nhiều thời điểm"
+  },
+  {
+   "k": "head",
+   "t": "LOC-B  BẾN SÔNG ĐÊM — SIGNATURE LOCATION"
+  },
+  {
+   "k": "p",
+   "t": "Bến sông Hồng Châu ban đêm: đuốc sáng, nước tối, người dân tụ tập tự nhiên — không phải theo lệnh. Đây là nơi diễn ra Signature Moment S11. Không phải đền, không phải sân điện — bến sông. Người dân Hồng Châu họp nhau ở bờ nước vì đó là nơi cuộc sống của họ."
+  },
+  {
+   "k": "head",
+   "t": "Scenes: S10 (phần mở đầu), S11  —  ~1 phút  —  Exterior / Đêm có đuốc"
+  },
+  {
+   "k": "head",
+   "t": "LOC-C  HỒNG CHÂU TỪ TRÊN CAO — FINAL IMAGE"
+  },
+  {
+   "k": "p",
+   "t": "Aerial Hồng Châu ban ngày cho Final Image S12: thấy đê điều được sửa, kho lương mở, dân binh tuần tra, thuyền bè trên sông. Cùng góc nhìn aerial như S01 nhưng bây giờ thấy kết quả của tất cả những gì đã diễn ra. Vận hành như cộng đồng, không phải như vương quốc."
+  },
+  {
+   "k": "head",
+   "t": "Scenes: S12  —  ~40 giây  —  Aerial / Ngày"
+  },
+  {
+   "k": "hr"
+  },
+  {
+   "k": "head",
+   "t": "PRODUCTION SEQUENCE — LỊCH QUAY ĐỀ XUẤT"
+  },
+  {
+   "k": "p",
+   "t": "EP02 v2 đơn giản về logistics hơn v1: không còn cảnh đội mũ vương trong mưa tầm tã. Thách thức mới: S11 (Signature Moment — Lời Thề) cần đuốc + bến sông đêm + đông người. S12 (Final Image aerial) cần drone và thời tiết tốt."
+  },
+  {
+   "k": "head",
+   "t": "NGÀY      SCENE   CẢNH                                LOCATION                GHI CHÚ"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 1  S11  Signature Moment — Lời Thề             LOC-B · Bến sông đêm       Đuốc + nhiều extras — cảnh phức tạp nhất tập"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 1  S10  Câu Hỏi Của Thuộc Hạ                   LOC-B · Bến sông đêm       Liên tục S11, cùng setup lighting"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 2  S08  Bà Lão Quỳ                             LOC-A · Sân đình           Chiều tà — cần golden hour, đông extras"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 3  S07  Dẹp Cướp                               LOC-A · Làng bìa rừng      Đêm — đuốc, dân binh, cảnh hành động"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 3  S09  Một Mình Với Sổ Sách                   LOC-A · Nhà Đoàn Thượng    Đêm — 1 diễn viên, đèn dầu, set nhỏ"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 4  S04  Phát Lúa                               LOC-A · Sân kho lương      Ngày — extras đông (dân nhận lúa)"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 4  S05  Xử Kiện                                LOC-A · Sân đình           Ngày — 2–3 diễn viên, cùng set S08"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 4  S06  Sửa Đê                                 LOC-A · Bờ đê              Ngày — cần nước/bùn, extras làm việc"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 5  S01  Bình Minh Hồng Châu                    LOC-A · Sông sương         Bình minh 5:30am — aerial + sương mù"
+  },
+  {
+   "k": "head",
+   "t": "Ngày 5  S02  Người Cha Chỉ Xuống Cánh Đồng          LOC-A · Đê chiều"
+  },
+  {
+   "k": "p",
+   "t": "Chiều — liên tục S01 cùng ngày"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 5  S03  Montage — Hồng Châu Không Ai           LOC-A · Nhiều điểm Nhiều sub-shot — quay cả ngày"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 6  S12  Final Image — Aerial                   LOC-C · Từ trên cao        Drone ngày — cần thời tiết tốt"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 6  S13  Final Voice Over                       LOC-A · Bến sông           Liên tục S12 về mặt narrative"
+  },
+  {
+   "k": "p",
+   "t": "Ngày 6  PC   Post Credit                            LOC-A · Bình nguyên        Quay nhanh cùng ngày — 10 giây"
+  },
+  {
+   "k": "hr"
+  },
+  {
+   "k": "head",
+   "t": "VỊ TRÍ TRONG ARC — THÔNG ĐIỆP ĐÃ ĐƯỢC SỬA"
+  },
+  {
+   "k": "head",
+   "t": "EP02 v2 là tập về sự vắng mặt, không phải sự nổi lên."
+  },
+  {
+   "k": "p",
+   "t": "Triều đình Lý không sụp đổ vì có kẻ thù mạnh hơn. Nó sụp đổ vì nó ngừng tồn tại trong đời sống thực tế của người dân. Khi thuế vẫn đến nhưng bảo vệ không còn đến, khi hạn hán xảy ra mà cứu tế không đến, khi cướp tấn công mà quân không đến — triều đình trở thành khái niệm trừu tượng. Và người ta không thể dựa vào khái niệm trừu tượng."
+  },
+  {
+   "k": "p",
+   "t": "Đoàn Thượng không lấp đầy khoảng trống quyền lực. Ông lấp đầy khoảng trống chức năng. Đó là sự khác biệt quyết định — và là lý do EP02 phải được kể theo cách này, không phải cách khác."
+  },
+  {
+   "k": "head",
+   "t": "TONE   Folk epic về sự tự cứu, không phải về sự nổi dậy"
+  },
+  {
+   "k": "head",
+   "t": "CÂU HỎI TRUNG TÂM   Khi không còn ai đến, ai sẽ ở lại?"
+  },
+  {
+   "k": "head",
+   "t": "CÂU TRẢ LỜI   Người đã ở đây từ trước."
+  },
+  {
+   "k": "lab",
+   "c": "vo",
+   "l": "VO",
+   "t": "Ngắn gọn, cụ thể, không lãng mạn hóa. Giọng của người đang giải thích thực tế."
+  },
+  {
+   "k": "p",
+   "t": "ÂM NHẠC   Trống đất + sáo trúc. Không crescendo. Nhịp của cuộc sống, không phải nhịp của sử thi."
+  },
+  {
+   "k": "hr"
+  },
+  {
+   "k": "head",
+   "t": "CHARACTER BRIEF — ĐOÀN THƯỢNG V2"
+  },
+  {
+   "k": "p",
+   "t": "Điều quan trọng nhất cần hiểu về Đoàn Thượng trong v2: ông không muốn quyền lực. Điều này không phải vì ông khiêm tốn hay cao thượng — mà vì quyền lực không phải thứ ông đang nghĩ đến. Ông đang nghĩ đến đê điều cần sửa, kho lương cần mở, tranh chấp cần giải quyết. Đây là tư duy của người quản lý, không phải người cai trị."
+  },
+  {
+   "k": "p",
+   "t": "Trong tất cả các cảnh Act II, ông không bao giờ được gọi là 'Vương' hay 'Chúa'. Chỉ là 'Đoàn công' hoặc 'Chủ công'. Đây là tiêu chuẩn diễn xuất và scripting nhất quán xuyên suốt tập."
+  },
+  {
+   "k": "p",
+   "t": "Khi sang EP04, Phạm Du tìm đến Đoàn Thượng không phải vì ông là 'ông vua địa phương' mà vì ông là người đang kiểm soát thứ mà triều đình đã đánh mất: lòng dân và trật tự thực tế. Đó là tài nguyên chiến lược mà Phạm Du cần."
+  },
+  {
+   "k": "lab",
+   "c": "act",
+   "l": "WARDROBE",
+   "t": "",
+   "list": [
+    "Thời trẻ (S02–S03): áo vải nông dân, không khác gì người dân xung quanh",
+    "Trưởng thành (S04–S11): áo vải dày hơn, đai lưng da — dấu hiệu thẩm quyền thực tế, không phải phú quý",
+    "Không bao giờ mặc long bào hay triều phục trong EP02",
+    "S11 Signature Moment — Lời Thề: cùng trang phục hàng ngày. Không thay đổi gì. Đây là điều quan trọng nhất.",
+    "Bàn tay chai cứng, vết đất — bàn tay đã làm việc thật sự"
+   ]
+  },
+  {
+   "k": "hr"
+  }
+ ],
+ "acts": [
+  {
+   "t": "ACT I — THE ABSENCE",
+   "time": "0:00–2:20",
+   "intro": [
+    {
+     "k": "p",
+     "t": "Thời gian: 2 phút 20 giây. Ba cảnh thiết lập một sự thật trước khi câu chuyện bắt đầu: Hồng Châu là một thế giới không có triều đình trong đời sống thực tế. Không phải vì triều đình bị đuổi đi — mà vì triều đình chưa bao giờ thực sự ở đây."
+    },
+    {
+     "k": "quote",
+     "lines": [
+      "得道者多助，失道者寡助",
+      "Đắc đạo giả đa trợ, thất đạo giả quả trợ",
+      "\"Người hợp với đạo nghĩa sẽ được nhiều người giúp đỡ. Kẻ mất đạo nghĩa sẽ",
+      "ngày càng ít người ủng hộ\"",
+      "— Mạnh Tử · Công Tôn Sửu hạ"
+     ]
+    },
+    {
+     "k": "lab",
+     "c": "note",
+     "l": "NOTE",
+     "t": "Quote không xuất hiện trong VO của Đoàn Thượng — ông không cần triết lý để giải thích mình. Đây là lời nhận xét của người kể chuyện về những gì sẽ xảy ra, không phải của nhân vật. Câu Mạnh Tử mô tả điều mà EP02 sẽ chứng minh qua hành động."
+    }
+   ],
+   "scenes": [
+    {
+     "id": "S01",
+     "t": "BÌNH MINH HỒNG CHÂU",
+     "time": "0:00–0:50",
+     "loc": "LOC-A · Sông Hồng Châu — bãi bồi · Exterior / Bình minh",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Mirror shot EP01 S01 — cùng thời điểm bình minh, cùng chiều cao aerial. Nhưng đây là thế giới khác. Và quan trọng: không có dấu hiệu nào của triều đình ở đây — không cờ, không lính, không quan lại. Chỉ có người dân và đất."
+      },
+      {
+       "k": "slug",
+       "t": "EXTERIOR — HỒNG CHÂU — BÌNH MINH"
+      },
+      {
+       "k": "arrow",
+       "t": "Sông Hồng Châu lúc bình minh: mặt nước bạc xám, sương phù sa lảng bảng."
+      },
+      {
+       "k": "arrow",
+       "t": "Ngư dân đã ra từ trước khi trời sáng — thuyền nhỏ di chuyển chậm trong sương."
+      },
+      {
+       "k": "arrow",
+       "t": "Bãi bồi: trẻ con kéo lưới cùng người lớn. Không phải chơi — đang làm việc thật."
+      },
+      {
+       "k": "arrow",
+       "t": "Đê điều, ruộng lúa, xóm làng. Không có tường thành, không có mái ngói cong."
+      },
+      {
+       "k": "arrow",
+       "t": "Không có cờ triều đình. Không có lính canh. Không có quan lại."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "Chi tiết vắng mặt quan trọng nhất: không có bất kỳ biểu tượng quyền lực triều đình nào trong khung hình — không cờ, không lính, không quan. Đây là Hồng Châu tự vận hành."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Bình minh xanh bạc — khác ánh vàng hồng của Thăng Long EP01. Đây là ánh sáng của buổi sáng làm việc. Key light diffused qua sương, không có bóng đổ cứng."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng sông, tiếng chèo, tiếng người gọi nhau. Thế giới đang làm việc trước khi Thăng Long mở mắt."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Aerial từ 50m — cùng chiều cao EP01 S01. Tĩnh 15 giây. Sau đó hạ xuống mặt sông. Kết thúc ở tầm ngang mặt người trên bờ. Trong suốt shot: không thấy bất kỳ biểu tượng quyền lực nào."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "0:00: Trống đất — 5 nốt đều, nhịp bước chân. Rất nhỏ. Leitmotif của Đoàn Thượng."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Người ở kinh thành gọi nơi này là biên địa.\""
+      },
+      {
+       "k": "p",
+       "t": "Shot sông, sương, thuyền."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Nhưng với chúng tôi...\""
+      },
+      {
+       "k": "p",
+       "t": "Shot bãi bồi, trẻ con, dấu chân trên đất ẩm."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Đây là quê hương.\""
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "50 giây."
+      }
+     ],
+     "chips": [
+      "dt"
+     ],
+     "set": "Bo_song_be_tre"
+    },
+    {
+     "id": "S02",
+     "t": "NGƯỜI CHA CHỈ XUỐNG CÁNH ĐỒNG",
+     "time": "0:50–1:35",
+     "loc": "LOC-A · Đê sông — chiều tà · Exterior / Chiều",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Không thoại. Không exposition. Cha chỉ xuống cánh đồng — không nói gì. Và Đoàn Thượng trẻ hiểu. Đây là sự truyền thừa không cần lời: đây là đất của chúng ta, chúng ta có trách nhiệm với nó."
+      },
+      {
+       "k": "slug",
+       "t": "EXTERIOR — ĐÊ SÔNG — CHIỀU TÀ"
+      },
+      {
+       "k": "arrow",
+       "t": "Con đê đất chạy dọc bờ sông. Đoàn Thượng trẻ (12–13t) đứng cạnh cha."
+      },
+      {
+       "k": "arrow",
+       "t": "Người cha đặt tay lên vai con. Chỉ tay về phía đồng lúa, sông, làng."
+      },
+      {
+       "k": "arrow",
+       "t": "Không nói gì. Đoàn Thượng trẻ nhìn theo. Gật đầu. Cũng không nói gì."
+      },
+      {
+       "k": "arrow",
+       "t": "Ở phía xa: không có lính tuần, không có quan lại. Chỉ có đất và người."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Người cha chỉ tay: chậm, rồi dừng lại giữa chừng — như tay muốn ghi nhớ hướng. Đoàn Thượng trẻ không cần nhìn cha để gật đầu — ông đã hiểu rồi."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Một vùng đất không sống nhờ vua.\""
+      },
+      {
+       "k": "p",
+       "t": "Bóng hai cha con kéo dài về phía Đông trên đê."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Nó sống nhờ những người bảo vệ nó.\""
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Từ phía sau hai người — cánh đồng phía trước. Khi cha chỉ tay: giữ shot thêm 3 giây trước khi cut sang cảnh đồng lúa, sông, làng — thứ tay cha đã chỉ."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Chiều tà vàng — ánh sáng duy nhất ấm áp thật sự trong tập. Bóng đổ dài và cứng. Không lãng mạn hóa — đây là buổi chiều của công việc sắp giao lại."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Leitmotif trống — chậm hơn, nặng hơn. Như bước chân người lớn tuổi."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "45 giây."
+      }
+     ],
+     "chips": [
+      "dt"
+     ],
+     "set": "Bo_de"
+    },
+    {
+     "id": "S03",
+     "t": "TRƯỞNG THÀNH — HỒNG CHÂU KHÔNG AI",
+     "time": "1:35–2:20",
+     "loc": "LOC-A · Bờ biển + đê + làng · Exterior / Nhiều mùa",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Montage ba lần — không phải ba chiến thắng của Đoàn Thượng, mà là ba lần triều đình vắng mặt và ông ở lại. Mỗi lần: xảy ra sự cố → không có quân triều đình → Đoàn Thượng làm điều cần làm. Pattern này lặp lại ba lần để khắc sâu: đây không phải ngoại lệ, đây là quy tắc."
+      },
+      {
+       "k": "center",
+       "t": "─ MONTAGE BA LẦN VẮNG MẶT ─"
+      },
+      {
+       "k": "p",
+       "t": "Pattern mỗi lần: (1) Sự cố xảy ra. (2) Không có quân triều đình. (3) Đoàn Thượng làm điều cần làm."
+      },
+      {
+       "k": "head",
+       "t": "LẦN 1 — Giặc biển  [1:35–1:52]"
+      },
+      {
+       "k": "arrow",
+       "t": "Bờ biển: giặc biển đổ bộ."
+      },
+      {
+       "k": "arrow",
+       "t": "Một người chạy đi tìm lính triều đình — không ai đến."
+      },
+      {
+       "k": "arrow",
+       "t": "Đoàn Thượng (20t) dẫn dân binh ra. Giặc rút."
+      },
+      {
+       "k": "head",
+       "t": "LẦN 2 — Đê vỡ  [1:52–2:05]"
+      },
+      {
+       "k": "arrow",
+       "t": "Dân làng và Đoàn Thượng cùng gia nô đắp đê suốt đêm."
+      },
+      {
+       "k": "arrow",
+       "t": "Đê giữ được."
+      },
+      {
+       "k": "arrow",
+       "t": "Bình minh."
+      },
+      {
+       "k": "arrow",
+       "t": "Một đoạn ruộng phía ngoài đê đã bị nước cuốn mất."
+      },
+      {
+       "k": "arrow",
+       "t": "Người nông dân đứng nhìn."
+      },
+      {
+       "k": "arrow",
+       "t": "Đoàn Thượng đứng cạnh."
+      },
+      {
+       "k": "arrow",
+       "t": "Không ai nói gì."
+      },
+      {
+       "k": "head",
+       "t": "LẦN 3 — Nạn đói nhỏ  [2:05–2:15]"
+      },
+      {
+       "k": "arrow",
+       "t": "Mùa màng kém — nhiều gia đình thiếu ăn."
+      },
+      {
+       "k": "arrow",
+       "t": "Tấu chương xin cứu tế gửi lên Thăng Long. Không có phản hồi."
+      },
+      {
+       "k": "arrow",
+       "t": "Đoàn Thượng cho gia nô mở kho nhà mình phát lúa."
+      },
+      {
+       "k": "arrow",
+       "t": "Hàng người nhận lúa kéo dài."
+      },
+      {
+       "k": "arrow",
+       "t": "Khi kho đóng cửa, vẫn còn vài người đứng đợi phía ngoài."
+      },
+      {
+       "k": "arrow",
+       "t": "Đoàn Thượng nhìn danh sách trong tay."
+      },
+      {
+       "k": "arrow",
+       "t": "Không nói gì."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Người dân bắt đầu kính trọng ông.\""
+      },
+      {
+       "k": "p",
+       "t": "Shot bà lão cúi đầu chào Đoàn Thượng trên đường. Ông gật đầu — không hơn, không kém."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Không phải vì ông giải quyết được mọi chuyện.\""
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Mà vì ông không bỏ đi.\""
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "Trong ba lần montage: không thấy mặt bất kỳ quan lại hay lính triều đình nào. Sự vắng mặt này phải rõ ràng — không nói ra, nhưng thấy được."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Mỗi lần: medium shot, flat lighting. Tone camera giống nhau. Đây không phải montage anh hùng — đây là montage của công việc được làm xong khi không còn ai khác làm."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Leitmotif trống tăng nhịp nhẹ qua ba lần — không dramatic, chỉ là nhịp cuộc sống tiếp tục."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "45 giây."
+      }
+     ],
+     "chips": [
+      "dt"
+     ],
+     "set": "Ben_thuyen_bo_bien"
+    }
+   ]
+  },
+  {
+   "t": "ACT II — THE SUBSTITUTE",
+   "time": "2:20–5:20",
+   "intro": [
+    {
+     "k": "p",
+     "t": "Thời gian: 3 phút. Bốn cảnh — mỗi cảnh một chức năng của triều đình mà Đoàn Thượng thay thế: cứu tế, xét xử, hạ tầng, an ninh. Quan trọng: ông không tự đặt mình vào vị trí này. Người dân đến với ông vì không còn ai khác. Ông ở đây. Ông làm được. Không có lựa chọn nào khác."
+    }
+   ],
+   "scenes": [
+    {
+     "id": "S04",
+     "t": "PHÁT LÚA",
+     "time": "2:20–3:05",
+     "loc": "LOC-A · Sân kho lương · Exterior / Ngày",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Đoàn Thượng phát lúa từ kho của ông — không phải kho triều đình. Cảnh này thiết lập: ông đang dùng tài nguyên của bản thân để làm việc triều đình đáng lẽ phải làm. Đây là substitution, không phải power grab."
+      },
+      {
+       "k": "slug",
+       "t": "EXTERIOR — SÂN KHO LƯƠNG — NGÀY"
+      },
+      {
+       "k": "arrow",
+       "t": "Kho lương của Đoàn Thượng — không phải kho triều đình, kho tư."
+      },
+      {
+       "k": "arrow",
+       "t": "Hàng dài người dân chờ nhận lúa. Trật tự, không hỗn loạn."
+      },
+      {
+       "k": "arrow",
+       "t": "Đoàn Thượng và gia nô đứng bên cạnh — không ngồi ghế cao, không có lính hầu hai bên."
+      },
+      {
+       "k": "arrow",
+       "t": "Ông ghi sổ cùng một người gia nô: tên, số lúa nhận, tình trạng gia đình."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "Ông ghi sổ — chi tiết quan trọng. Đây không phải bố thí, đây là quản lý. Ông đang làm hành chính. Việc ông làm giống công việc của một quan lại hơn là của một hảo hán."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Đoàn Thượng khi phát lúa: không có nghĩa cử ban phát hào phóng. Ông nhìn vào sổ, hỏi tên, ghi lại, gật đầu. Bình thường như công việc hàng ngày. Vì với ông, đây là công việc hàng ngày."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Thăng Long có luật lệ.\""
+      },
+      {
+       "k": "p",
+       "t": "Shot: người dân nhận lúa, cúi đầu, đi về."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Nhưng luật lệ không no bụng được người đói.\""
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Wide shot hàng người và kho lương. Đoàn Thượng là một người trong nhiều người đang làm việc — không phải trung tâm cảnh. Camera không glamourize hành động phát lúa."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Leitmotif trống + sáo trúc — lần đầu sáo trúc xuất hiện cùng trống. Hai nhạc cụ cùng nhịp, khác tầng: trống ở dưới, sáo ở trên."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "45 giây."
+      }
+     ],
+     "chips": [
+      "dt"
+     ],
+     "set": "San_phoi_choi_canh"
+    },
+    {
+     "id": "S05",
+     "t": "XỬ KIỆN",
+     "time": "3:05–3:50",
+     "loc": "LOC-A · Sân đình làng — ngày · Exterior / Ngày",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Một tranh chấp ruộng đất — hai gia đình, không có quan lại nào giải quyết. Họ đến gặp Đoàn Thượng. Ông nghe, hỏi, phán quyết. Không có nghi lễ, không có uy quyền triều đình đằng sau ông — chỉ có uy tín cá nhân và sự hợp lý."
+      },
+      {
+       "k": "slug",
+       "t": "EXTERIOR — SÂN ĐÌNH LÀNG — NGÀY"
+      },
+      {
+       "k": "arrow",
+       "t": "Sân đình: hai gia đình đứng hai phía. Không khí căng nhưng không bạo lực."
+      },
+      {
+       "k": "arrow",
+       "t": "Đoàn Thượng ngồi trên bậc thềm đình — không phải ngai, chỉ là bậc thềm."
+      },
+      {
+       "k": "arrow",
+       "t": "Một người cao tuổi trong làng ngồi bên cạnh ông — người làm chứng, không phải thuộc hạ."
+      },
+      {
+       "k": "p",
+       "t": "Đoàn Thượng nghe cả hai phía nói. Không ngắt lời. Không thể hiện ý kiến trong khi nghe."
+      },
+      {
+       "k": "p",
+       "t": "Ông hỏi thêm: 'Đất này được khai hoang từ bao giờ? Ai đóng thuế cho nó?' Câu hỏi thực tế, không phán xét."
+      },
+      {
+       "k": "p",
+       "t": "Sau đó ông phân tích — đơn giản, cụ thể. Không có phán quyết phức tạp."
+      },
+      {
+       "k": "p",
+       "t": "Bên thua: không vui nhưng không phản đối. Đây là uy tín được xây bằng thời gian, không phải bằng quyền lực."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Người ta không đến gặp ta vì ta có quyền phán xét.\""
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Người ta đến vì không còn ai khác lắng nghe.\""
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Đoàn Thượng khi xử kiện: không có cử chỉ uy quyền — không gõ tay xuống bàn, không chỉ tay về phía người bị phán xét. Ông nói như người đang giải thích một thực tế, không phải tuyên án."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Cảnh xử kiện: camera ở tầm bậc thềm nơi Đoàn Thượng ngồi — không cao hơn, không thấp hơn. Ông ngang bằng với người dân trong khung hình."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "45 giây."
+      }
+     ],
+     "chips": [
+      "dt"
+     ],
+     "set": "Duong_lang"
+    },
+    {
+     "id": "S06",
+     "t": "SỬA ĐÊ",
+     "time": "3:50–4:35",
+     "loc": "LOC-A · Bờ đê mùa lũ · Exterior / Ngày",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Đê sắp vỡ trước mùa lũ. Không có ngân sách triều đình, không có công nhân triều đình. Đoàn Thượng tổ chức dân làng sửa đê. Cảnh lao động thật sự — không anh hùng, không hùng tráng. Chỉ là công việc nặng nhọc."
+      },
+      {
+       "k": "slug",
+       "t": "EXTERIOR — BỜ ĐÊ — NGÀY, TRƯỚC MÙA LŨ"
+      },
+      {
+       "k": "arrow",
+       "t": "Bờ đê: một đoạn đất đã sụt, cần gia cố trước khi lũ về."
+      },
+      {
+       "k": "arrow",
+       "t": "Dân làng làm việc — xúc đất, đóng cọc, đắp bao cát. Đoàn Thượng ở giữa họ, làm cùng."
+      },
+      {
+       "k": "arrow",
+       "t": "Không có quan lại giám sát. Không có ngân sách triều đình cấp xuống. Chỉ có người và công việc."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Đoàn Thượng làm việc cùng dân — không đứng chỉ đạo từ xa. Ông xúc đất. Bàn tay ông bùn đất. Đây là chi tiết nhất quán với wardrobe và character brief: ông không tách mình ra khỏi công việc thực tế."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Đê này được đắp bằng tay người dân Hồng Châu.\""
+      },
+      {
+       "k": "p",
+       "t": "Shot: hàng người chuyền đất từ tay sang tay."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Không phải bằng lệnh từ Thăng Long.\""
+      },
+      {
+       "k": "p",
+       "t": "Shot: Đoàn Thượng và một người nông dân đang cùng đóng cọc gỗ."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Đoàn Thượng trong khung: luôn ở cùng tầm với người dân xung quanh, không cao hơn. Công việc đắp đê: camera ở tầm đất — bùn nước, bàn tay, gỗ cọc. Không có shot từ trên cao lãng mạn hóa lao động."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Ánh sáng ban ngày flat — ánh sáng của công việc, không phải của nghệ thuật. Bùn nước phản chiếu ánh sáng yếu."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Trống đất theo nhịp công việc — nhịp xúc đất, nhịp đóng cọc. Nhạc và lao động cùng nhịp."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "45 giây."
+      }
+     ],
+     "chips": [
+      "dt"
+     ],
+     "set": "Bo_de"
+    },
+    {
+     "id": "S07",
+     "t": "DẸP CƯỚP",
+     "time": "4:35–5:20",
+     "loc": "LOC-A · Làng bìa rừng — đêm · Exterior / Đêm",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Chốt Act II. Toán cướp tấn công làng. Quân triều đình không đến — lần này không phải lần đầu, đây là lần đã quen. Người dân biết gọi ai. Đây là cảnh khoảnh khắc: trong mắt Hồng Châu, Đoàn Thượng đã là người bảo vệ họ từ lâu rồi."
+      },
+      {
+       "k": "slug",
+       "t": "EXTERIOR — LÀNG BÌA RỪNG — ĐÊM"
+      },
+      {
+       "k": "arrow",
+       "t": "Làng nhỏ bìa rừng. Tiếng hô từ phía rừng — toán cướp đang tiến vào."
+      },
+      {
+       "k": "arrow",
+       "t": "Dân làng: không hoảng loạn nhiều — họ đã biết làm gì. Một người chạy đi gọi Đoàn Thượng."
+      },
+      {
+       "k": "arrow",
+       "t": "Không ai gửi sứ giả lên Thăng Long. Không ai nghĩ đến điều đó nữa."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "Chi tiết này là điểm mấu chốt của S07: không ai nghĩ đến việc gọi triều đình. Không phải vì họ căm ghét triều đình — chỉ vì họ đã biết triều đình sẽ không đến. Đây là hậu quả tích lũy của S03 montage."
+      },
+      {
+       "k": "p",
+       "t": "Đoàn Thượng dẫn dân binh ra — không mặc giáp, không nghi lễ. Đứng thành hàng trước làng."
+      },
+      {
+       "k": "p",
+       "t": "Cảnh đối đầu: 10 giây. Toán cướp thấy số lượng dân binh và rút lui."
+      },
+      {
+       "k": "p",
+       "t": "Sau đó: người dân không ăn mừng. Họ kiểm tra xem có ai bị thương không, rồi về nhà."
+      },
+      {
+       "k": "p",
+       "t": "Đoàn Thượng ngồi xuống bên một người bị thương nhẹ. Kiểm tra vết thương. Bình thường."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Đây không phải lần đầu.\""
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Sẽ không phải lần cuối.\""
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Đoàn Thượng sau khi cướp rút: không diễn thuyết, không ăn mừng. Ông đi kiểm tra từng người. Đây là hành động của người có trách nhiệm, không phải của người có quyền lực."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Shot quan trọng nhất S07: camera ở tầm mắt người dân — thấy Đoàn Thượng từ góc nhìn của họ khi ông ngồi xuống bên người bị thương. Không phải góc nhìn anh hùng từ dưới lên — chỉ là người đang làm điều cần làm."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Trống nhanh trong cảnh đối đầu. Sau khi cướp rút: trở về nhịp bình thường ngay lập tức. Không có crescendo chiến thắng."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "45 giây."
+      }
+     ],
+     "chips": [
+      "dt"
+     ],
+     "set": "Bo_de"
+    }
+   ]
+  },
+  {
+   "t": "ACT III — BÀ LÃO QUỲ",
+   "time": "5:20–6:15",
+   "intro": [
+    {
+     "k": "p",
+     "t": "Thời gian: 55 giây. Act ngắn nhất nhưng nặng nhất. Đây là Midpoint — không phải vì bà lão trao quyền lực cho Đoàn Thượng, mà vì bà trao trách nhiệm. Và trách nhiệm nặng hơn quyền lực."
+    }
+   ],
+   "scenes": [
+    {
+     "id": "S08",
+     "t": "BÀ LÃO QUỲ",
+     "time": "5:20–6:15",
+     "loc": "LOC-A · Sân đình làng — chiều tà · Exterior / Chiều tà",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "MIDPOINT. Bà lão quỳ trước Đoàn Thượng. Không xin tiền, không xin lương thực. Chỉ xin đừng bỏ mặc. Câu này khác hoàn toàn với 'xin ngài làm chủ Hồng Châu' — nó không trao quyền lực, nó trao nỗi sợ hãi của người đã không còn gì để dựa vào."
+      },
+      {
+       "k": "center",
+       "t": "─ MIDPOINT ─"
+      },
+      {
+       "k": "slug",
+       "t": "EXTERIOR — SÂN ĐÌNH LÀNG — CHIỀU TÀ"
+      },
+      {
+       "k": "arrow",
+       "t": "Sân đình chiều tà. Đoàn Thượng đang chuẩn bị rời đi sau một việc thường ngày."
+      },
+      {
+       "k": "arrow",
+       "t": "Bà lão từ trong đám người bước ra — chậm, đi khó khăn."
+      },
+      {
+       "k": "arrow",
+       "t": "Bà quỳ xuống trước Đoàn Thượng."
+      },
+      {
+       "k": "arrow",
+       "t": "Đây không phải quỳ của kẻ yếu trước người mạnh. Đây là quỳ của người đã làm hết mọi thứ khác."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Đoàn Thượng khi bà lão quỳ: dừng lại. Không giơ tay đỡ bà ngay — đứng yên và nhìn bà. Không phải lạnh lùng: ông đang cho bà nói. Sau khi bà nói xong, ông mới quỳ xuống bên cạnh bà — ngang bằng, không đứng trên."
+      },
+      {
+       "k": "dlg",
+       "who": "BÀ LÃO",
+       "lines": [
+        [
+         "p",
+         "(không khóc — giọng của người đã khóc hết rồi. Câu xin khác với 'xin làm chủ' — đây là xin đừng biến mất)"
+        ],
+        [
+         "d",
+         "Nếu triều đình không cứu chúng tôi...Xin ngài đừng bỏ mặc"
+        ],
+        [
+         "d",
+         "chúng tôi."
+        ],
+        [
+         "d",
+         "Im lặng. Tiếng gió chiều."
+        ],
+        [
+         "d",
+         "Đoàn Thượng nhìn bà lão. Nhìn những người xung quanh sân đình."
+        ],
+        [
+         "d",
+         "Ông quỳ xuống bên cạnh bà — không đứng trên bà để nghe. Đỡ tay bà."
+        ]
+       ]
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Ngày hôm đó...\""
+      },
+      {
+       "k": "p",
+       "t": "Đoàn Thượng nhìn ra phía sông Hồng Châu."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Ta hiểu.\""
+      },
+      {
+       "k": "p",
+       "t": "Ánh chiều tà đổ dài."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Có những trách nhiệm không thể chờ người khác gánh vác.\""
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "Câu bà lão nói — 'đừng bỏ mặc chúng tôi' — phải khác với 'xin ngài làm chủ'. Đây không phải dân trao vương quyền. Đây là dân xin không bị bỏ lại một mình. Hai điều này khác nhau về bản chất."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Cú shot quan trọng nhất tập: Đoàn Thượng quỳ xuống bên cạnh bà lão — camera ở tầm đất, nhìn lên. Cả hai ngang bằng trong khung. Rồi: wide shot sân đình — hai người nhỏ bé giữa không gian, những người xung quanh đứng im."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Chiều tà vàng — lần này không phải ánh sáng đẹp. Đây là ánh sáng của khoảnh khắc không thể quay lại. Bóng hai người đổ về cùng một phía."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "5:20: Nhạc dừng khi bà lão quỳ. Silence trong toàn bộ dialogue. Khi"
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "bắt đầu: sáo trúc đơn độc — một nốt dài. Lần đầu sáo trúc xuất hiện một mình."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "55 giây. Không được vội."
+      }
+     ],
+     "chips": [
+      "dt"
+     ],
+     "set": "Duong_lang"
+    }
+   ]
+  },
+  {
+   "t": "ACT IV — THE BURDEN",
+   "time": "6:15–7:30",
+   "intro": [
+    {
+     "k": "p",
+     "t": "Thời gian: 1 phút 15 giây. Đoàn Thượng ngồi một mình với những thứ ông đang quản lý — sổ sách, bản đồ, danh sách. Và ông hiểu mình không còn là hào trưởng bình thường nữa. Không phải vì muốn. Mà vì không còn ai khác."
+    }
+   ],
+   "scenes": [
+    {
+     "id": "S09",
+     "t": "MỘT MÌNH VỚI SỔ SÁCH",
+     "time": "6:15–7:00",
+     "loc": "LOC-A · Nhà Đoàn Thượng — đêm · Interior / Đêm",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Đoàn Thượng ngồi một mình ban đêm — trước mặt là sổ lương, bản đồ đê điều, danh sách người cần cứu trợ. Không ai ra lệnh ông làm điều này. Ông làm vì nếu không có ông làm thì không ai làm."
+      },
+      {
+       "k": "slug",
+       "t": "INTERIOR — NHÀ ĐOÀN THƯỢNG — ĐÊM"
+      },
+      {
+       "k": "arrow",
+       "t": "Căn nhà đơn giản — nhà gỗ, không phải nhà quan. Đèn dầu duy nhất."
+      },
+      {
+       "k": "arrow",
+       "t": "Trên bàn: sổ lương thực (ai nhận, bao nhiêu), bản đồ đê điều (chỗ nào cần sửa, ưu tiên ra sao), danh sách lưu dân (tên, số người trong gia đình, tình trạng)."
+      },
+      {
+       "k": "arrow",
+       "t": "Đoàn Thượng ngồi một mình. Không có thuộc hạ. Không có người phục vụ."
+      },
+      {
+       "k": "arrow",
+       "t": "Ông đang đọc danh sách — chậm, đọc từng tên."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Đoàn Thượng khi đọc danh sách: không phải đọc như hành chính — ông dừng lại ở một cái tên. Nhìn. Rồi tiếp tục. Khoảnh khắc dừng lại đó là khoảnh khắc ông cảm nhận trọng lượng của từng tên trong danh sách."
+      },
+      {
+       "k": "p",
+       "t": "Ông đặt danh sách xuống. Nhìn bản đồ đê điều. Nhìn sổ lương thực."
+      },
+      {
+       "k": "p",
+       "t": "Một tay ông ôm mặt — không phải tuyệt vọng, chỉ là mệt."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Thăng Long có quan lại để làm việc này.\""
+      },
+      {
+       "k": "p",
+       "t": "Đoàn Thượng nhìn lại danh sách. Lấy bút. Tiếp tục ghi."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Ta chỉ có ta.\""
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Interior đêm: đèn dầu là nguồn sáng duy nhất. Chiaroscuro — mặt Đoàn Thượng nửa sáng nửa tối. Sổ sách và bản đồ trên bàn: ánh đèn chiếu lên, rõ ràng. Phần còn lại của căn phòng: bóng tối. Đây là thế giới của ông thu hẹp lại bằng vòng ánh đèn."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Đèn dầu: ánh vàng ấm nhưng yếu. Đây là ánh sáng của sự cô đơn, không phải của uy quyền. Không có cột ánh sáng, không có dramatic lighting — chỉ là một người với một ngọn đèn."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "6:15: Sáo trúc solo — một câu ngắn, không hoàn chỉnh, bỏ lửng. Rồi im. Đây là lần đầu tiên trong tập nhạc bỏ lửng — không kết thúc trọn vẹn."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng bút viết trên giấy. Tiếng lật trang. Tiếng đèn dầu. Tiếng côn trùng đêm từ xa. Không có gì khác."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "45 giây."
+      }
+     ],
+     "chips": [
+      "dt"
+     ],
+     "set": "Bo_de"
+    },
+    {
+     "id": "S10",
+     "t": "CÂU HỎI CỦA THUỘC HẠ",
+     "time": "7:00–7:30",
+     "loc": "LOC-B · Bến sông — đêm · Exterior / Đêm, trăng",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Transition từ Act IV sang Act V. Thuộc hạ hỏi câu hỏi mà tất cả mọi người đang nghĩ: Thăng Long có đến không? Đoàn Thượng im lặng rất dài. Đây là khoảng lặng quan trọng nhất tập — không phải ông không biết trả lời, mà ông đang chọn cách trả lời."
+      },
+      {
+       "k": "slug",
+       "t": "EXTERIOR — BẾN SÔNG — ĐÊM"
+      },
+      {
+       "k": "arrow",
+       "t": "Bến sông Hồng Châu ban đêm: trăng phản chiếu trên mặt nước. Im lặng."
+      },
+      {
+       "k": "arrow",
+       "t": "Đoàn Thượng đứng nhìn sông. Một gia nô trẻ đứng bên cạnh."
+      },
+      {
+       "k": "arrow",
+       "t": "Không ai khác. Chỉ hai người và con sông."
+      },
+      {
+       "k": "dlg",
+       "who": "GIA NÔ",
+       "lines": [
+        [
+         "p",
+         "(trẻ, chưa biết câu hỏi này nặng đến mức nào)"
+        ],
+        [
+         "d",
+         "Thăng Long sẽ cứu chúng ta chứ, Đoàn công?"
+        ],
+        [
+         "d",
+         "Im lặng."
+        ],
+        [
+         "d",
+         "Đoàn Thượng không trả lời ngay. Nhìn con sông."
+        ],
+        [
+         "d",
+         "10 giây im lặng — đủ để thuộc hạ trẻ bắt đầu bất an."
+        ],
+        [
+         "d",
+         "Đoàn Thượng vẫn nhìn sông."
+        ],
+        [
+         "d",
+         "Rồi ông quay lại — không nhìn thuộc hạ, nhìn về phía làng phía sau."
+        ]
+       ]
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "10 giây im lặng: đây là khoảng lặng quan trọng nhất tập. Đoàn Thượng không im lặng vì không biết trả lời — ông biết rõ câu trả lời. Ông im lặng vì đang chọn nói thật thay vì nói dối. Đây là một quyết định nhỏ nhưng nặng. Diễn viên cần thể hiện điều đó qua vai và ánh mắt, không phải qua biểu cảm mặt."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Shot từ phía sông nhìn vào: thấy hai người đứng trên bờ, làng phía sau. Khi Đoàn Thượng im lặng: camera không cắt sang mặt ông — giữ nguyên wide shot. Im lặng trong wide shot nặng hơn im lặng trong close-up."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng sông đêm. Im lặng của hai người. Tiếng trăng trên nước — không có âm thanh, chỉ là ánh sáng di chuyển trên mặt nước. Cuối cảnh — khi Đoàn Thượng quay nhìn về phía làng và giữ nguyên wide shot: tiếng bước chân đầu tiên xuất hiện trên soundtrack, từ rất xa. Một người. Rồi thêm một người nữa. Rồi thêm. Không thấy họ trong khung hình — chỉ nghe. Tiếng bước chân tăng dần, từ xa đến gần, cho đến khi cut sang S11. Đoàn Thượng không quay lại nhìn — ông vẫn nhìn về phía làng, như thể ông đã biết họ sẽ đến."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Silence hoàn toàn trong S10. Không có nhạc."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "30 giây."
+      }
+     ],
+     "chips": [
+      "dt"
+     ],
+     "set": "Ben_song_cau_tre"
+    }
+   ]
+  },
+  {
+   "t": "ACT V — THE OATH",
+   "time": "7:30–9:30",
+   "intro": [
+    {
+     "k": "p",
+     "t": "Thời gian: 2 phút. Act V là câu trả lời cho câu hỏi của thuộc hạ — không phải câu trả lời về Thăng Long, mà là câu trả lời về Hồng Châu. Không có lên ngôi, không có tung hô, không có mũ vương. Chỉ có một lời thề và một cộng đồng đang tự cứu lấy mình."
+    }
+   ],
+   "scenes": [
+    {
+     "id": "S11",
+     "t": "SIGNATURE MOMENT — LỜI THỀ",
+     "time": "7:30–8:30",
+     "loc": "LOC-B · Bến sông đêm — đuốc · Exterior / Đêm, liên tục S10",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "SIGNATURE CINEMATIC MOMENT. Bến sông đêm. Đuốc sáng. Người dân tụ tập tự nhiên — không được triệu tập. Đoàn Thượng trả lời câu hỏi của thuộc hạ trẻ. Không có mũ vương, không có ngai, không có long bào. Chỉ có lời thề của người đứng giữa đất và trời Hồng Châu."
+      },
+      {
+       "k": "center",
+       "t": "─ SIGNATURE CINEMATIC MOMENT ─"
+      },
+      {
+       "k": "head",
+       "t": "Đây là cảnh phải được nhớ mãi. Không phải vì hào hùng — mà vì sự giản dị của nó."
+      },
+      {
+       "k": "slug",
+       "t": "EXTERIOR — BẾN SÔNG — ĐÊM, ĐÃ CÓ NGƯỜI TỤ TẬP"
+      },
+      {
+       "k": "arrow",
+       "t": "Bến sông Hồng Châu: người dân đã tụ tập — không ai triệu tập họ, họ tự đến vì nghe có cuộc họp. Đám đông không được trông như đã được triệu tập: họ đến với tốc độ khác nhau, một số còn cầm đuốc chưa thắp hết, một số đang buộc lại áo. Đây là người dân tự đến, không phải đội hình."
+      },
+      {
+       "k": "arrow",
+       "t": "Đuốc được thắp lên dọc bến — không phải nghi lễ, chỉ để thấy đường."
+      },
+      {
+       "k": "arrow",
+       "t": "Không có cờ. Không có ngai. Không có long bào. Không có nghi thức."
+      },
+      {
+       "k": "arrow",
+       "t": "Đoàn Thượng đứng ở mép bờ nước — không phải trên cao, không phải dưới thấp. Ngang bằng với mọi người."
+      },
+      {
+       "k": "p",
+       "t": "Thuộc hạ trẻ từ S10 đứng bên cạnh. Vẫn chờ câu trả lời."
+      },
+      {
+       "k": "p",
+       "t": "Đoàn Thượng nhìn về phía Bắc — hướng Thăng Long. Rất lâu."
+      },
+      {
+       "k": "p",
+       "t": "Người dân xung quanh im lặng chờ."
+      },
+      {
+       "k": "dlg",
+       "who": "ĐOÀN THƯỢNG",
+       "lines": [
+        [
+         "p",
+         "(bằng phẳng, không bi quan — đây là sự thật, không phải thất bại)"
+        ],
+        [
+         "d",
+         "Gọi các hương binh."
+        ],
+        [
+         "d",
+         "Một nhịp."
+        ]
+       ]
+      },
+      {
+       "k": "dlg",
+       "who": "ĐOÀN THƯỢNG",
+       "lines": [
+        [
+         "p",
+         "(không to hơn bình thường — giọng của người đang nói điều đã được quyết định từ lâu)"
+        ],
+        [
+         "d",
+         "Gia cố toàn bộ đê phía đông. Từ hôm nay...Hồng Châu tự giữ lấy Hồng Châu."
+        ]
+       ]
+      },
+      {
+       "k": "p",
+       "t": "Không ai hô vang. Không ai vung tay. Không có tung hô."
+      },
+      {
+       "k": "p",
+       "t": "Một người gật đầu. Rồi người khác. Rồi người khác nữa."
+      },
+      {
+       "k": "p",
+       "t": "Không phải đồng ý với một lãnh tụ. Chỉ là đồng ý với nhau: chúng ta sẽ ở lại và tự bảo vệ, tất cả ai vào việc nấy, răm rắp cùng hành động."
+      },
+      {
+       "k": "lab",
+       "c": "act",
+       "l": "ACTING",
+       "t": "Đoàn Thượng khi nói 'Hồng Châu tự giữ lấy Hồng Châu': không cúi đầu, không nhìn xuống. Nhìn thẳng về phía Bắc — hướng Thăng Long. Đây là sự thật được nói ra, không phải sự thất bại được thừa nhận. Khi nói câu thứ hai: ông quay lại nhìn người dân xung quanh. Không phải nhìn tất cả — chỉ nhìn gia nô trẻ, như trả lời trực tiếp câu hỏi của anh ta."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Sequence: (1) Medium shot Đoàn Thượng nhìn về phía Bắc — thấy lưng ông và đường chân trời. (2) Wide shot bến sông — thấy ông và người dân xung quanh, đuốc, nước. Khi ông nói: không cắt close-up — giữ wide shot. Lời thề không cần dramatic close-up để nặng. (3) Crane shot nhẹ kéo lên: thấy bến sông, đuốc, người dân — một cộng đồng đang quyết định tồn tại."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Đuốc bến sông: không phải ánh lửa rực rỡ — là ánh đuốc thực tế, vàng ấm, flickering. Đây là ánh sáng của người dân tự mang đến, không phải ánh sáng cung đình. Mặt sông phản chiếu đuốc — nhân đôi ánh sáng mà không làm nó hoành tráng hơn."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "7:30: Trống đất và sáo trúc cùng vào — đủ âm lượng lần đầu tiên trong tập. Không phải nhạc khải hoàn: cùng nhịp bình thường của leitmotif, chỉ to hơn. Khi crane shot kéo lên: nhạc giữ nguyên âm lượng, không tăng thêm. Đây không phải chiến thắng — đây là quyết định."
+      },
+      {
+       "k": "lab",
+       "c": "sound",
+       "l": "SOUND",
+       "t": "Tiếng sông đêm. Tiếng đuốc. Tiếng gió. Im lặng của đám đông sau khi Đoàn Thượng nói. Rồi tiếng gật đầu — không có âm thanh, nhưng người xem cảm nhận được sự chuyển động trong im lặng đó."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "60 giây."
+      }
+     ],
+     "chips": [
+      "dt"
+     ],
+     "set": "Ben_song_cau_tre"
+    },
+    {
+     "id": "S12",
+     "t": "FINAL IMAGE — HỒNG CHÂU VẬN HÀNH",
+     "time": "8:30–9:10",
+     "loc": "LOC-C · Aerial Hồng Châu · Exterior / Ngày",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "Aerial Hồng Châu ban ngày — nhưng không phải Hồng Châu đầu tập. Đây là Hồng Châu sau tất cả những gì đã xảy ra: đê được sửa, kho lương mở, dân binh tuần tra, thuyền bè trên sông. Cộng đồng đang tự vận hành. Không phải vương quốc — cộng đồng."
+      },
+      {
+       "k": "center",
+       "t": "─ FINAL IMAGE ─"
+      },
+      {
+       "k": "slug",
+       "t": "EXTERIOR — HỒNG CHÂU TỪ TRÊN CAO — NGÀY"
+      },
+      {
+       "k": "arrow",
+       "t": "Aerial Hồng Châu ban ngày — cùng góc nhìn với S01 nhưng ánh sáng khác: ngày rõ, không có sương."
+      },
+      {
+       "k": "arrow",
+       "t": "Đê điều được gia cố: thấy chỗ được sửa mới, đất còn chưa khô."
+      },
+      {
+       "k": "arrow",
+       "t": "Kho lương: cửa mở, người ra vào."
+      },
+      {
+       "k": "arrow",
+       "t": "Dân binh tuần tra dọc bờ sông — không phải quân đội, chỉ là người dân cầm giáo."
+      },
+      {
+       "k": "arrow",
+       "t": "Thuyền bè trên sông: buôn bán, đánh cá, vận chuyển — cuộc sống tiếp tục."
+      },
+      {
+       "k": "arrow",
+       "t": "Không có cờ vương. Không có biểu tượng quyền lực mới. Chỉ có cuộc sống đang tiếp tục."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "NOTE",
+       "t": "Chi tiết quan trọng nhất của Final Image: không có cờ mới, không có biểu tượng mới. Hồng Châu không trở thành vương quốc của Đoàn Thượng — nó trở thành cộng đồng tự quản. Sự khác biệt này phải thấy được trong hình ảnh."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Aerial chậm, từ từ di chuyển qua từng phần của Hồng Châu. Không có cú zoom dramatic, không có shot anh hùng. Chỉ là nhìn — nhìn một cộng đồng đang hoạt động. Kết thúc bằng shot sông Hồng Châu nhìn từ trên cao: con sông tiếp tục chảy, như nó đã chảy từ trước khi có triều đình và sẽ chảy sau khi triều đình qua đi."
+      },
+      {
+       "k": "lab",
+       "c": "light",
+       "l": "LIGHT",
+       "t": "Ngày sáng, ánh sáng rõ — không dramatize. Hồng Châu trong ánh sáng bình thường của ban ngày. Không cần ánh sáng đặc biệt để làm nó đẹp hơn: cuộc sống đang tiếp tục là đủ."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "8:30: Trống đất và sáo trúc — nhịp bình thường của leitmotif, không phải crescendo. Âm nhạc của cuộc sống đang tiếp tục, không phải của chiến thắng."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "40 giây."
+      }
+     ],
+     "chips": [
+      "dt"
+     ],
+     "set": "Dong_lua"
+    },
+    {
+     "id": "S13",
+     "t": "FINAL VOICE OVER",
+     "time": "9:10–9:20",
+     "loc": "LOC-A · Hồng Châu — liên tục · Exterior / Ngày",
+     "items": [
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "SEQ",
+       "t": "VO cuối — câu cuối cùng của Đoàn Thượng trong tập. Không phải VO của người chiến thắng hay người thất bại. Chỉ là sự thật được nói ra."
+      },
+      {
+       "k": "p",
+       "t": "Aerial tiếp tục — sông Hồng Châu từ trên cao."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Người đời sau gọi chúng ta là phản loạn.\""
+      },
+      {
+       "k": "p",
+       "t": "Con sông tiếp tục chảy."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Người đời sau có quyền gọi như vậy."
+      },
+      {
+       "k": "p",
+       "t": "Shot cuối: bến sông ban ngày — nơi đêm qua mọi người đứng thề. Giờ chỉ có nước và ánh sáng."
+      },
+      {
+       "k": "lab",
+       "c": "vo",
+       "l": "VO",
+       "t": "\"Họ không sống ngày hôm ấy.\""
+      },
+      {
+       "k": "p",
+       "t": "Fade to black."
+      },
+      {
+       "k": "lab",
+       "c": "cam",
+       "l": "CAMERA",
+       "t": "Shot cuối trước fade: bến sông ban ngày — không có người, chỉ có nước và ánh nắng. Nơi đêm qua có đuốc và người, giờ trống. Sự vắng lặng này không phải buồn — nó là dấu vết của điều đã xảy ra."
+      },
+      {
+       "k": "lab",
+       "c": "music",
+       "l": "MUSIC",
+       "t": "Sáo trúc solo — câu cuối, hoàn chỉnh lần đầu tiên trong tập. Rồi fade ra."
+      },
+      {
+       "k": "lab",
+       "c": "note",
+       "l": "TIMING",
+       "t": "10 giây."
+      },
+      {
+       "k": "dlg",
+       "who": "FADE TO BLACK.",
+       "lines": []
+      }
+     ],
+     "chips": [
+      "dt"
+     ],
+     "set": "Xom_tren_binh_nguyen"
+    }
+   ]
+  },
+  {
+   "t": "POST CREDIT",
+   "time": "9:20–9:30",
+   "intro": [
+    {
+     "k": "lab",
+     "c": "note",
+     "l": "SEQ",
+     "t": "Phạm Bỉnh Di nói lần đầu trong series. Hook sang EP03. Quay cùng ngày S12/S13."
+    },
+    {
+     "k": "lab",
+     "c": "loc",
+     "l": "LOC",
+     "t": "LOC-A · Bình nguyên Hồng Châu · Exterior / Ngày — phía đoàn quân"
+    },
+    {
+     "k": "slug",
+     "t": "EXTERIOR — BÌNH NGUYÊN — NGÀY, PHÍA ĐẠO QUÂN"
+    },
+    {
+     "k": "arrow",
+     "t": "Đạo quân nhà Lý đang tiến về phía Hồng Châu."
+    },
+    {
+     "k": "arrow",
+     "t": "Phạm Bỉnh Di cưỡi ngựa ở đầu — không thấy mặt, chỉ thấy lưng và cờ soái."
+    },
+    {
+     "k": "arrow",
+     "t": "Phía trước: Hồng Châu, thuyền bè trên sông, khói bếp."
+    },
+    {
+     "k": "dlg",
+     "who": "PHẠM BỈNH DI",
+     "lines": [
+      [
+       "p",
+       "(giọng thấp, không hùng hồn, không buồn — chỉ là sự thật)"
+      ],
+      [
+       "d",
+       "Có những cuộc chiến...Ta không muốn đánh.Nhưng bổn phận không cho phép ta quay lưng."
+      ]
+     ]
+    },
+    {
+     "k": "lab",
+     "c": "note",
+     "l": "NOTE",
+     "t": "VO của Đoàn Thượng trong S12 và VO của Phạm Bỉnh Di ở đây có cùng cấu trúc câu. Hai người nói về cùng một điều từ hai phía đối diện. Họ không phải kẻ thù — họ là hai người bị đặt vào vị trí đối đầu bởi một hệ thống không còn hoạt động."
+    },
+    {
+     "k": "lab",
+     "c": "sound",
+     "l": "SOUND",
+     "t": "Tiếng vó ngựa. Tiếng gió trên bình nguyên. Giọng Phạm Bỉnh Di. Không có nhạc."
+    },
+    {
+     "k": "lab",
+     "c": "music",
+     "l": "MUSIC",
+     "t": "Silence sau VO. Câu nói phải vang một mình."
+    },
+    {
+     "k": "lab",
+     "c": "note",
+     "l": "TIMING",
+     "t": "10 giây. CUT TO BLACK."
+    },
+    {
+     "k": "dlg",
+     "who": "CUT TO BLACK.",
+     "lines": []
+    }
+   ],
+   "scenes": []
+  }
+ ],
+ "back": [
+  {
+   "k": "head",
+   "t": "PRODUCTION NOTES — NHỮNG ĐIỂM CẦN GIỮ"
+  },
+  {
+   "k": "head",
+   "t": "1. Không ai gọi Đoàn Thượng là 'Vương' hay 'Chúa' trong toàn tập"
+  },
+  {
+   "k": "p",
+   "t": "Chỉ là 'Đoàn công' hoặc 'Chủ công'. Đây là tiêu chuẩn dialogue và scripting nhất quán. Nếu có bất kỳ câu nào gọi ông bằng tước vị cao hơn, cần sửa lại."
+  },
+  {
+   "k": "head",
+   "t": "2. Triều đình vắng mặt — không bao giờ xuất hiện trực tiếp"
+  },
+  {
+   "k": "p",
+   "t": "Thăng Long không có cảnh trực tiếp trong EP02. Sự vắng mặt của triều đình phải được thể hiện qua những thứ không có trong khung hình: không có cờ triều đình, không có lính tuần, không có quan lại. Khán giả nhận ra sự vắng mặt mà không cần được nói."
+  },
+  {
+   "k": "head",
+   "t": "3. S11 không có mũ vương, không có nghi lễ"
+  },
+  {
+   "k": "p",
+   "t": "Signature Moment của EP02 v2 là một lời thề đơn giản tại bến sông. Đoàn Thượng mặc trang phục bình thường. Không có prop quan trọng nào được trao. Sức mạnh của cảnh đến từ sự giản dị, không phải từ nghi lễ."
+  },
+  {
+   "k": "head",
+   "t": "4. Lời thề S11 — giản dị là sức mạnh"
+  },
+  {
+   "k": "p",
+   "t": "Signature Moment của EP02 là lời thề đơn giản tại bến sông. Không có prop quan trọng nào được trao, không có nghi lễ, không có trang phục đặc biệt. Đoàn Thượng mặc trang phục hàng ngày. Sức mạnh của cảnh đến từ sự giản dị — câu nói “Hồng Châu tự giữ lấy Hồng Châu” không cần dramatic close-up để có trọng lượng. Diễn viên không được thêm cảm xúc quá mức vào câu này: đây là sự thật được nói ra, không phải tuyên ngôn."
+  },
+  {
+   "k": "head",
+   "t": "5. Final Image — không có cờ mới, không có biểu tượng mới"
+  },
+  {
+   "k": "p",
+   "t": "Hồng Châu trong S12 không được trông như vương quốc của Đoàn Thượng. Không có cờ vương, không có lính canh theo kiểu mới, không có biểu tượng quyền lực mới nào. Chỉ là cuộc sống đang tiếp tục. Đây là điểm khác biệt cốt lõi của EP02 v2 so với v1."
+  },
+  {
+   "k": "hr"
+  },
+  {
+   "k": "center",
+   "t": "— HẾT SCRIPT EP02 v2 —"
+  },
+  {
+   "k": "center",
+   "t": "TIẾP THEO: EP03 — PHẠM BỈNH DI / THE LOYAL GENERAL"
+  }
+ ],
+ "cast": [
+  "dt",
+  "linh"
+ ],
+ "rev": 1
+}
