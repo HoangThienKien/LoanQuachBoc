@@ -1253,17 +1253,29 @@
         ],
         [
          "d",
-         "Triều đình xáo động. Tiếng xì xào."
+         ""
         ],
         [
          "d",
-         "Cao Tông nhìn đại thần. Không nổi giận. Không ra lệnh ngay. Chỉ nhìn."
+         ""
         ],
         [
          "d",
-         "Và trong khoảnh khắc đó: lần đầu tiên trong tập, gương mặt ông hiện ra một điều gì đó chưa từng thấy trước đây."
+         ""
         ]
        ]
+      },
+      {
+       "k": "p",
+       "t": "Triều đình xáo động. Tiếng xì xào."
+      },
+      {
+       "k": "p",
+       "t": "Cao Tông nhìn đại thần. Không nổi giận. Không ra lệnh ngay. Chỉ nhìn."
+      },
+      {
+       "k": "p",
+       "t": "Và trong khoảnh khắc đó: lần đầu tiên trong tập, gương mặt ông hiện ra một điều gì đó chưa từng thấy trước đây."
       },
       {
        "k": "lab",
@@ -1621,5 +1633,6 @@
   "lct",
   "dt"
  ],
- "rev": 1
+ "rev": 1,
+ "updated": "2026-11-24T05:46:22.851Z"
 }
