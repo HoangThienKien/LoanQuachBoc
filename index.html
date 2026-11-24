@@ -30,6 +30,9 @@ a{color:inherit}
 #btnSave{display:none;background:var(--edit);border-color:var(--edit);color:#fff;font-weight:700}
 body.editing #btnSave,body.dirty #btnSave{display:inline-block}
 body.dirty #btnSave::before{content:"● "}
+.ubtn{display:none;font-size:15px;padding:4px 10px}
+body.editing .ubtn{display:inline-block}
+.ubtn:disabled{opacity:.35;cursor:default}
 .sp{flex:1}
 #prog{position:absolute;left:0;bottom:-1px;height:2px;background:var(--red);width:0}
 #panel{display:none;position:fixed;right:12px;top:52px;z-index:60;width:min(400px,calc(100vw - 24px));background:var(--paper);border:1px solid var(--line);border-radius:14px;box-shadow:0 12px 40px rgba(0,0,0,.18);padding:14px 16px;font-size:14px;max-height:calc(100vh - 70px);overflow:auto}
@@ -212,10 +215,12 @@ body.editing #ebanner{display:block}
   <span class="sp"></span>
   <button class="ibtn" id="btnRead" title="Ẩn/hiện toàn bộ ghi chú kỹ thuật">Chỉ đọc</button>
   <button class="ibtn" id="btnEdit" title="Bật/tắt chế độ sửa">✎ Sửa</button>
+  <button class="ibtn ubtn" id="btnUndo" title="Hoàn tác (Ctrl/⌘+Z)" disabled>↶</button>
+  <button class="ibtn ubtn" id="btnRedo" title="Làm lại (Ctrl/⌘+Shift+Z)" disabled>↷</button>
   <button class="ibtn" id="btnSave" title="Lưu lên GitHub (Ctrl/⌘+S)">Lưu</button>
   <button class="ibtn" id="btnSet" title="Tùy chỉnh">Aa ⚙</button>
 </div><div id="prog"></div></div>
-<div id="ebanner">Chế độ sửa — bấm vào chữ để sửa · rê chuột / chạm vào một đoạn để thêm hoặc xoá · <b>Lưu</b> (Ctrl/⌘+S) để ghi lên GitHub</div>
+<div id="ebanner">Chế độ sửa — bấm vào chữ để sửa · rê chuột / chạm vào một đoạn để thêm hoặc xoá · lỡ tay thì bấm <b>↶</b> · <b>Lưu</b> (Ctrl/⌘+S) để ghi lên GitHub</div>
 
 <div id="panel">
   <h4>Ghi chú sản xuất</h4>
@@ -423,21 +428,21 @@ document.getElementById('brand').onclick=()=>{location.hash='home'};
 main.addEventListener('click',async e=>{
   if(EDITING&&e.target.closest('.ed'))return;
   const t=e.target;
-  if(t.closest('[data-delchar]')){e.stopPropagation();const k=t.closest('[data-delchar]').dataset.delchar;if(confirm('Bỏ "'+D.chars[k].n+'" khỏi danh sách nhân vật? (file ảnh vẫn giữ trên GitHub)')){M.characters=M.characters.filter(c=>c.id!==k);delete D.chars[k];mark('manifest');rerenderView('home')}return}
-  if(t.closest('[data-delset]')){const [gi,ii]=t.closest('[data-delset]').dataset.delset.split('|').map(Number);if(confirm('Bỏ ảnh "'+D.sets[gi].items[ii].cap+'" khỏi thư mục? (file ảnh vẫn giữ trên GitHub)')){D.sets[gi].items.splice(ii,1);mark('manifest');rerenderView('sets')}return}
+  if(t.closest('[data-delchar]')){e.stopPropagation();const k=t.closest('[data-delchar]').dataset.delchar;if(confirm('Bỏ "'+D.chars[k].n+'" khỏi danh sách nhân vật? (có thể Hoàn tác)')){snap('manifest','bỏ nhân vật '+D.chars[k].n);M.characters=M.characters.filter(c=>c.id!==k);delete D.chars[k];mark('manifest');rerenderView('home')}return}
+  if(t.closest('[data-delset]')){const [gi,ii]=t.closest('[data-delset]').dataset.delset.split('|').map(Number);if(confirm('Bỏ ảnh "'+D.sets[gi].items[ii].cap+'" khỏi thư mục? (có thể Hoàn tác)')){snap('manifest','bỏ ảnh '+D.sets[gi].items[ii].cap);D.sets[gi].items.splice(ii,1);mark('manifest');rerenderView('sets')}return}
   if(t.closest('[data-addset]')){pickFiles(f=>addSetImages(+t.closest('[data-addset]').dataset.addset,f));return}
-  if(t.closest('[data-addgroup]')){const n=prompt('Tên nhóm ảnh mới:','Nhóm mới');if(n){D.sets.push({g:n,items:[]});mark('manifest');rerenderView('sets')}return}
+  if(t.closest('[data-addgroup]')){const n=prompt('Tên nhóm ảnh mới:','Nhóm mới');if(n){snap('manifest','tạo nhóm ảnh');D.sets.push({g:n,items:[]});mark('manifest');rerenderView('sets')}return}
   if(t.closest('[data-addchar]')){pickFiles(f=>addCharacter(f),false);return}
   if(t.closest('[data-newep]')){newEpisode();return}
   if(t.closest('[data-scop]')){sceneOp(t.closest('[data-scop]'));return}
-  if(t.closest('[data-actop]')){const ep=D.eps.find(x=>x.id===t.closest('[data-actop]').dataset.ep);ep.acts.push({t:'ACT MỚI',time:'',intro:[],scenes:[{id:'S'+String(ep.acts.reduce((n,a)=>n+a.scenes.length,0)+1).padStart(2,'0'),t:'Cảnh mới',time:'',loc:'',items:[{k:'p',t:''}],chips:[]}]});mark('ep:'+ep.id);rerenderView(ep.id);return}
+  if(t.closest('[data-actop]')){const ep=D.eps.find(x=>x.id===t.closest('[data-actop]').dataset.ep);snap('ep:'+ep.id,'thêm act');ep.acts.push({t:'ACT MỚI',time:'',intro:[],scenes:[{id:'S'+String(ep.acts.reduce((n,a)=>n+a.scenes.length,0)+1).padStart(2,'0'),t:'Cảnh mới',time:'',loc:'',items:[{k:'p',t:''}],chips:[]}]});mark('ep:'+ep.id);rerenderView(ep.id);return}
   const gt=t.closest('[data-goto]');if(gt){location.hash=gt.dataset.goto;return}
   const g=t.closest('[data-go]');if(g){location.hash=g.dataset.go;window.scrollTo(0,0);return}
   const c=t.closest('[data-ch]');if(c){const ch=D.chars[c.dataset.ch];if(ch)openLb(ch.imgs.map(p=>({src:imgURL(p),cap:ch.n+' — '+ch.r})),0);return}
   const st=t.closest('[data-set]');if(st){const L=ALLSETS();const i=Math.max(0,L.findIndex(x=>x.k===st.dataset.set));openLb(L.map(x=>({src:imgURL(x.file),cap:'Bối cảnh · '+x.cap})),i);return}
   const di=t.closest('[data-img]');if(di){openLb([{src:imgURL(di.dataset.img),cap:di.dataset.cap||''}],0);return}
 });
-main.addEventListener('change',e=>{const s=e.target.closest('[data-setpick]');if(!s)return;const [ep,ai,si]=s.dataset.setpick.split('|');const E=D.eps.find(x=>x.id===ep);E.acts[+ai].scenes[+si].set=s.value||undefined;mark('ep:'+ep);rerenderView(ep)});
+main.addEventListener('change',e=>{const s=e.target.closest('[data-setpick]');if(!s)return;const [ep,ai,si]=s.dataset.setpick.split('|');snap('ep:'+ep,'đổi bối cảnh');const E=D.eps.find(x=>x.id===ep);E.acts[+ai].scenes[+si].set=s.value||undefined;mark('ep:'+ep);rerenderView(ep)});
 /* lightbox */
 const lb=document.getElementById('lb'),lbi=lb.querySelector('img'),lbc=lb.querySelector('.cap');let LBs=[],LBi=0;
 function openLb(list,i){LBs=list;LBi=i;lb.classList.remove('zoom');paintLb();lb.classList.add('on')}
@@ -449,6 +454,7 @@ lbi.onclick=e=>{e.stopPropagation();lb.classList.toggle('zoom')};
 lb.onclick=e=>{if(e.target===lb||e.target.classList.contains('wrap'))lb.classList.remove('on')};
 document.addEventListener('keydown',e=>{
   if((e.metaKey||e.ctrlKey)&&e.key.toLowerCase()==='s'){e.preventDefault();save();return}
+  if(EDITING&&(e.metaKey||e.ctrlKey)&&(e.key.toLowerCase()==='z'||e.key.toLowerCase()==='y')){const inEd=document.activeElement&&document.activeElement.isContentEditable;if(!inEd){e.preventDefault();if(e.key.toLowerCase()==='y'||e.shiftKey)redo();else undo();return}}
   if(lb.classList.contains('on')){if(e.key==='Escape')lb.classList.remove('on');if(e.key==='ArrowRight'&&LBs.length>1)lb.querySelector('.nx').click();if(e.key==='ArrowLeft'&&LBs.length>1)lb.querySelector('.pv').click();return}
   if(e.key==='Escape'){openToc(false);panel.classList.remove('open');if(document.activeElement&&document.activeElement.isContentEditable)document.activeElement.blur()}
 });
@@ -463,7 +469,7 @@ function setEditable(){
 }
 document.getElementById('btnEdit').onclick=()=>{EDITING=!EDITING;setEditable();etool.classList.remove('on');if(EDITING&&!tok())toast('Chế độ sửa đã bật. Để lưu lên GitHub, dán token trong ⚙ (một lần cho mỗi máy).')};
 function ownerOf(el){const v=el.closest('.view');return !v?null:v.id==='v-home'||v.id==='v-sets'?'manifest':'ep:'+v.id.slice(2)}
-main.addEventListener('input',e=>{const el=e.target.closest('[data-f]');if(!el)return;const r=FLD[+el.dataset.f];if(!r)return;r[0][r[1]]=el.innerText.replace(/\n+$/,'');const o=ownerOf(el);if(o)mark(o)});
+main.addEventListener('input',e=>{const el=e.target.closest('[data-f]');if(!el)return;const r=FLD[+el.dataset.f];if(!r)return;if(snapEl!==el){const k=ownerOf(el);if(k)snap(k,'sửa chữ');snapEl=el}r[0][r[1]]=el.innerText.replace(/\n+$/,'');const o=ownerOf(el);if(o)mark(o)});
 main.addEventListener('paste',e=>{if(!e.target.closest('.ed'))return;e.preventDefault();const t=(e.clipboardData||window.clipboardData).getData('text/plain');document.execCommand('insertText',false,t)});
 function mark(k){DIRTY.add(k);if(k.startsWith('ep:')){const ep=D.eps.find(x=>x.id===k.slice(3));if(ep&&!M.episodes.find(x=>x.id===ep.id)){}};document.body.classList.add('dirty');clearTimeout(window._dt);window._dt=setTimeout(saveDraft,800)}
 function saveDraft(){const d={t:Date.now(),keys:[...DIRTY],eps:{},manifest:DIRTY.has('manifest')?M:null};DIRTY.forEach(k=>{if(k.startsWith('ep:'))d.eps[k.slice(3)]=D.eps.find(x=>x.id===k.slice(3))});if(!store.set('draft',d))toast('Không lưu nháp tạm được — nhớ bấm Lưu.')}
@@ -473,24 +479,43 @@ main.addEventListener('mouseover',e=>{if(!EDITING)return;const b=e.target.closes
 main.addEventListener('focusin',e=>{if(!EDITING)return;const b=e.target.closest('.blk[data-a]');if(b)placeTool(b)});
 etool.addEventListener('mousedown',e=>e.preventDefault());
 etool.onclick=e=>{const op=e.target.dataset.op;if(!op||!tgt)return;const arr=ARR[+tgt.dataset.a],i=+tgt.dataset.i,ep=tgt.dataset.ep;if(!arr)return;
-  let nb=null;
-  if(op==='del'){if(!confirm('Xoá đoạn này?'))return;arr.splice(i,1)}
+  let nb=null;snap('ep:'+ep,op==='del'?'xoá đoạn':'thêm đoạn');
+  if(op==='del'){arr.splice(i,1)}
   else if(op==='p'){nb={k:'p',t:''};arr.splice(i+1,0,nb)}
   else if(op==='dlg'){nb={k:'dlg',who:'NHÂN VẬT',lines:[['p','(chỉ dẫn)'],['d','Lời thoại…']]};arr.splice(i+1,0,nb)}
   else if(op==='note'){const ty=prompt('Loại ghi chú: '+NOTE_TYPES.map((x,j)=>(j+1)+'='+(LBL[x[0]]||x[0])).join(', '),'1');const n=NOTE_TYPES[(+ty||1)-1]||NOTE_TYPES[0];nb={k:'lab',l:n[0],c:n[1],t:''};arr.splice(i+1,0,nb)}
   mark('ep:'+ep);const nv=rerenderView(ep);focusObj(nv,nb)};
 function focusObj(nv,o){if(!o||!nv)return;const fi=FLD.findIndex(r=>r[0]===o||(o.lines&&r[0]===o.lines[1]));const el=fi>=0&&nv.querySelector(`[data-f="${fi}"]`);if(el){el.focus();const s=getSelection(),rg=document.createRange();rg.selectNodeContents(el);s.removeAllRanges();s.addRange(rg)}}
 function sceneOp(b){const [ep,ai,si]=b.dataset.sc.split('|');const E=D.eps.find(x=>x.id===ep);const sc=E.acts[+ai].scenes;
-  if(b.dataset.scop==='del'){if(!confirm('Xoá toàn bộ cảnh '+sc[+si].id+'?'))return;sc.splice(+si,1)}
+  snap('ep:'+ep,b.dataset.scop==='del'?'xoá cảnh '+sc[+si].id:'thêm cảnh');
+  if(b.dataset.scop==='del'){if(!confirm('Xoá toàn bộ cảnh '+sc[+si].id+'? (có thể Hoàn tác)')){HIST.pop();updUndo();return}sc.splice(+si,1)}
   else{const n=E.acts.reduce((n,a)=>n+a.scenes.length,0)+1;const ns={id:'S'+String(n).padStart(2,'0'),t:'Cảnh mới',time:'',loc:'',items:[{k:'p',t:''}],chips:[]};sc.splice(+si+1,0,ns)}
   mark('ep:'+ep);rerenderView(ep)}
 function newEpisode(){
   const n=Math.max(0,...D.eps.map(e=>+(String(e.id).match(/\d+/)||[0])[0]))+1;const id=prompt('Mã tập mới (vd: ep09):','ep'+String(n).padStart(2,'0'));if(!id)return;
   const eid=id.toLowerCase().replace(/[^a-z0-9_-]/g,'');if(!eid||D.eps.find(x=>x.id===eid)){toast('Mã tập không hợp lệ hoặc đã có.');return}
   const lastArc=D.eps.length?D.eps[D.eps.length-1].arc:'Arc I';
+  snap('all','tạo tập '+eid.toUpperCase());
   const ep={id:eid,code:eid.toUpperCase(),title:'Tập mới',sub:'',arc:lastArc,meta:'',cast:[],front:[],back:[],acts:[{t:'ACT I',time:'',intro:[],scenes:[{id:'S01',t:'Cảnh mở đầu',time:'',loc:'',items:[{k:'p',t:''}],chips:[]}]}]};
   D.eps.push(ep);M.episodes.push({id:eid,file:'data/episodes/'+eid+'.json'});mark('ep:'+eid);mark('manifest');renderAll();location.hash=eid;
 }
+/* ---------- undo / redo ---------- */
+const HIST=[],REDO=[];let snapEl=null;
+function grab(key){if(key==='all')return JSON.stringify({M,eps:D.eps});if(key==='manifest')return JSON.stringify(M);const e=D.eps.find(x=>'ep:'+x.id===key);return e?JSON.stringify(e):null}
+function snap(key,label){const data=grab(key);if(data==null)return;HIST.push({key,data,label:label||'',view:cur,y:window.scrollY});if(HIST.length>100)HIST.shift();REDO.length=0;updUndo()}
+function syncFromM(){D.chars={};M.characters.forEach(c=>D.chars[c.id]=c);D.sets=M.sets}
+function restore(h){
+  if(h.key==='all'){const o=JSON.parse(h.data);M=o.M;D.eps=o.eps;syncFromM();DIRTY.add('manifest');D.eps.forEach(e=>DIRTY.add('ep:'+e.id))}
+  else if(h.key==='manifest'){M=JSON.parse(h.data);syncFromM();DIRTY.add('manifest')}
+  else{const e=JSON.parse(h.data);const i=D.eps.findIndex(x=>x.id===e.id);if(i>=0)D.eps[i]=e;else D.eps.push(e);DIRTY.add(h.key)}
+  document.body.classList.add('dirty');clearTimeout(window._dt);window._dt=setTimeout(saveDraft,800);
+  renderAll();show(h.view&&document.getElementById('v-'+h.view)?h.view:cur);window.scrollTo(0,h.y||0);
+}
+function undo(){if(!HIST.length)return;if(document.activeElement&&document.activeElement.isContentEditable)document.activeElement.blur();const h=HIST.pop();REDO.push({key:h.key,data:grab(h.key),label:h.label,view:cur,y:window.scrollY});restore(h);updUndo();toast('Đã hoàn tác'+(h.label?': '+h.label:'')+'.')}
+function redo(){if(!REDO.length)return;if(document.activeElement&&document.activeElement.isContentEditable)document.activeElement.blur();const h=REDO.pop();HIST.push({key:h.key,data:grab(h.key),label:h.label,view:cur,y:window.scrollY});restore(h);updUndo();toast('Đã làm lại'+(h.label?': '+h.label:'')+'.')}
+function updUndo(){const u=document.getElementById('btnUndo'),r=document.getElementById('btnRedo');u.disabled=!HIST.length;r.disabled=!REDO.length;u.title='Hoàn tác'+(HIST.length?' — '+(HIST[HIST.length-1].label||'thay đổi gần nhất'):'')+' (Ctrl/⌘+Z)';r.title='Làm lại'+(REDO.length?' — '+(REDO[REDO.length-1].label||''):'')+' (Ctrl/⌘+Shift+Z)'}
+document.getElementById('btnUndo').onclick=undo;document.getElementById('btnRedo').onclick=redo;
+main.addEventListener('focusout',e=>{if(e.target===snapEl)snapEl=null});
 /* ---------- images ---------- */
 const filePick=document.getElementById('filePick');let pickCb=null;
 function pickFiles(cb,multi=true){pickCb=cb;filePick.multiple=multi;filePick.value='';filePick.click()}
@@ -500,6 +525,7 @@ function resizeImg(file,max,q){return new Promise((res,rej)=>{const u=URL.create
 function cropThumb(dataUrl){return new Promise(res=>{const im=new Image();im.onload=()=>{const W=im.naturalWidth,H=im.naturalHeight;let cw=W,ch=H;const want=240/343;if(W/H>want)cw=Math.round(H*want);else ch=Math.round(W/want);const c=document.createElement('canvas');c.width=240;c.height=343;c.getContext('2d').drawImage(im,0,0,cw,ch,0,0,240,343);res(c.toDataURL('image/jpeg',.78))};im.src=dataUrl})}
 function queueUpload(path,dataUrl){PREVIEW[path]=dataUrl;PENDING_UP=PENDING_UP.filter(x=>x.path!==path);PENDING_UP.push({path,b64:dataUrl.split(',')[1]});document.body.classList.add('dirty')}
 async function addSetImages(gi,files){
+  snap('manifest','thêm ảnh bối cảnh');
   for(const f of files){
     const cap=prompt('Chú thích cho ảnh "'+f.name+'":',f.name.replace(/\.[^.]+$/,''));if(cap===null)continue;
     let k=slug(cap);while(setByK(k))k+='_2';
@@ -509,7 +535,7 @@ async function addSetImages(gi,files){
   mark('manifest');rerenderView('sets');toast('Ảnh đã thêm — bấm Lưu để tải lên GitHub.');
 }
 async function addCharacter(files){
-  const f=files[0];const n=prompt('Tên nhân vật:','');if(!n)return;const r=prompt('Vai trò / ghi chú ngắn:','')||'';
+  const f=files[0];const n=prompt('Tên nhân vật:','');if(!n)return;snap('manifest','thêm nhân vật '+n);const r=prompt('Vai trò / ghi chú ngắn:','')||'';
   let id=slug(n).toLowerCase();while(D.chars[id])id+='_2';
   const d=await resizeImg(f,1800,.8),th=await cropThumb(d);
   const p='images/characters/'+id+'.jpg',pt='images/characters/thumb/'+id+'.jpg';queueUpload(p,d);queueUpload(pt,th);
