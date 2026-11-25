@@ -138,7 +138,7 @@ body.editing .sc-tools{display:flex}
 body.noimg .chips,body.noimg .epcast{display:none}
 .sc-body p,.intro p{margin:.75em 0}
 .beat{margin:.6em 0;padding-left:16px;position:relative}
-.beat::before{content:"";position:absolute;left:0;top:.72em;width:6px;height:6px;border-radius:50%;background:var(--line)}
+.beat::after{content:"";position:absolute;left:0;top:.72em;width:6px;height:6px;border-radius:50%;background:var(--line)}
 .slug{font-size:12.5px;font-weight:700;letter-spacing:.1em;color:var(--ink2);margin:1.4em 0 .4em;text-transform:uppercase}
 .sub-h{font-weight:700;font-size:13px;letter-spacing:.06em;color:var(--red);margin:1.5em 0 .3em}
 .emph{font-style:italic;font-weight:600;color:var(--ink);border-left:3px solid var(--red);padding-left:12px;margin:1em 0}
@@ -160,6 +160,35 @@ body.noimg .chips,body.noimg .epcast{display:none}
 .n-cam{--c:var(--c-cam)}.n-light{--c:var(--c-light)}.n-sound{--c:var(--c-sound)}.n-music{--c:var(--c-music)}.n-act{--c:var(--c-act)}.n-note{--c:var(--c-note)}
 body.h-cam .n-cam,body.h-light .n-light,body.h-sound .n-sound,body.h-music .n-music,body.h-act .n-act,body.h-note .n-note{display:none!important}
 .anc,.ancrow{display:none}
+/* note chips */
+.nbar{display:flex;flex-wrap:wrap;gap:6px;margin:.7em 0 .3em}
+.nchip{--c:var(--c-note);border:1px solid color-mix(in srgb,var(--c) 55%,transparent);background:color-mix(in srgb,var(--c) 6%,transparent);color:var(--c);border-radius:999px;font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;padding:2px 10px 2px 8px;line-height:1.6}
+.nchip::before{content:"▸ "}
+.nchip.on{background:var(--c);color:var(--paper)}
+.nchip.on::before{content:"▾ "}
+.npanel{display:none}
+.npanel.open,body.notes-open .npanel{display:block}
+body.notes-open .nchip{background:var(--c);color:var(--paper)}
+body.notes-open .nchip::before{content:"▾ "}
+body.h-cam.h-light.h-sound.h-music.h-act.h-note .nbar{display:none}
+/* line numbers */
+main{padding-left:64px}
+[data-ln]{position:relative}
+body.lnum [data-ln]::before{content:attr(data-ln);position:absolute;left:-58px;width:44px;text-align:right;font-family:var(--sans);font-size:11px;font-weight:400;font-style:normal;letter-spacing:0;text-transform:none;color:var(--mute);opacity:.75;line-height:inherit;top:0;pointer-events:none}
+body.lnum .bul[data-ln]::before{left:calc(-58px - 1.1em)}
+body.lnum .sc-t[data-ln]::before{line-height:2.2}
+body.lnum .nbar[data-ln]::before{top:2px}
+.dlgw{display:block}
+.flash{animation:flash 1.6s ease-out}
+@keyframes flash{0%{background:color-mix(in srgb,var(--gold) 40%,transparent)}100%{background:transparent}}
+b.nm{font-weight:700}
+.dlg .who{font-weight:800}
+/* find */
+#findBox{display:none;position:fixed;top:52px;right:12px;z-index:62;background:var(--paper);border:1px solid var(--line);border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,.15);padding:8px;gap:6px;align-items:center;font-size:13px}
+#findBox.on{display:flex}
+#findBox input{width:min(260px,52vw);padding:6px 8px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--ink);font-size:13px}
+#findBox button{border:1px solid var(--line);background:var(--bg);color:var(--ink);border-radius:7px;padding:4px 8px;font-size:12px}
+#findInfo{color:var(--mute);font-size:12px;min-width:52px;text-align:center}
 body.side-on .scene,body.side-on .intro{display:grid;grid-template-columns:minmax(0,var(--col)) var(--side);column-gap:44px}
 body.side-on .sc-main,body.side-on .intro-main{grid-column:1}
 body.side-on .sc-side,body.side-on .intro-side{grid-column:2;align-self:start;position:sticky;top:64px;max-height:calc(100vh - 80px);overflow:auto;padding:18px 4px 10px 0}
@@ -198,7 +227,9 @@ body.editing #ebanner{display:block}
 .foot{font-size:11px;color:var(--mute);text-align:center;margin:60px 0 0;line-height:1.6}
 @media (max-width:640px){
   :root{--fs:16px}
-  main{padding:0 14px 100px}
+  main{padding:0 14px 100px 38px}
+  body.lnum [data-ln]::before{left:-36px;width:30px;font-size:10px}
+  body.lnum .bul[data-ln]::before{left:calc(-36px - 1.1em)}
   #bar .brand,#bar .sp{display:none}
   #bar .in{gap:6px;padding:8px 10px;flex-wrap:wrap}
   #bar select{max-width:none;flex:1;min-width:0}
@@ -213,6 +244,7 @@ body.editing #ebanner{display:block}
   <span class="brand" id="brand">LOẠN QUÁCH BỐC</span>
   <select id="sel" aria-label="Chọn tập"></select>
   <span class="sp"></span>
+  <button class="ibtn" id="btnFind" title="Tìm chữ / đi tới số dòng (Ctrl/⌘+F)">⌕</button>
   <button class="ibtn" id="btnRead" title="Ẩn/hiện toàn bộ ghi chú kỹ thuật">Chỉ đọc</button>
   <button class="ibtn" id="btnEdit" title="Bật/tắt chế độ sửa">✎ Sửa</button>
   <button class="ibtn ubtn" id="btnUndo" title="Hoàn tác (Ctrl/⌘+Z)" disabled>↶</button>
@@ -226,10 +258,11 @@ body.editing #ebanner{display:block}
   <h4>Ghi chú sản xuất</h4>
   <div class="row" id="cats"></div>
   <div class="row" style="margin-top:8px"><button class="tg" id="allOn">Hiện tất cả</button><button class="tg" id="allOff">Ẩn tất cả</button></div>
-  <h4>Vị trí ghi chú</h4>
-  <div class="seg" id="mode"><button data-m="inline">Trong dòng</button><button data-m="side">Cột bên cạnh</button></div>
+  <h4>Cách hiện ghi chú</h4>
+  <div class="seg" id="mode"><button data-m="collapsed">Nút bấm (thu gọn)</button><button data-m="open">Mở sẵn tất cả</button></div>
+  <div class="hint">Mặc định mỗi ghi chú (Camera, Ánh sáng, Âm thanh…) chỉ hiện thành nút — bấm vào nút để xổ nội dung.</div>
   <h4>Hiển thị</h4>
-  <div class="row"><button class="tg" id="tImg">Nhân vật & nhãn bối cảnh</button><button class="tg" id="tDos">Hồ sơ sản xuất</button><button class="tg" id="tDark">Nền tối</button></div>
+  <div class="row"><button class="tg" id="tLn">Số dòng</button><button class="tg" id="tImg">Nhân vật & nhãn bối cảnh</button><button class="tg" id="tDos">Hồ sơ sản xuất</button><button class="tg" id="tDark">Nền tối</button></div>
   <h4>Cỡ chữ</h4>
   <div class="row"><button class="tg" id="fsM">A−</button><button class="tg" id="fsP">A+</button><span class="hint" id="fsV" style="margin:6px 4px 0"></span></div>
   <h4>Kết nối GitHub (để lưu)</h4>
@@ -242,6 +275,7 @@ body.editing #ebanner{display:block}
   <div class="hint">Gói toàn bộ kịch bản + ảnh hiện tại vào một file để đọc khi không có mạng.</div>
 </div>
 
+<div id="findBox"><input id="findQ" placeholder="Tìm chữ hoặc gõ số dòng…" autocomplete="off"><button id="findPrev" title="Trước">↑</button><button id="findNext" title="Sau">↓</button><span id="findInfo"></span><button id="findX" title="Đóng">✕</button></div>
 <nav id="toc"></nav><div id="scrim"></div>
 <main id="main"><div id="loading">Đang tải kịch bản…</div></main>
 <div id="etool"><button data-op="p" title="Thêm đoạn mô tả bên dưới">＋ Đoạn</button><button data-op="dlg" title="Thêm thoại bên dưới">＋ Thoại</button><button data-op="note" title="Thêm ghi chú bên dưới">＋ Ghi chú</button><button data-op="del" title="Xoá đoạn này">✕</button></div>
@@ -257,7 +291,7 @@ const CATS=[['cam','Camera'],['light','Ánh sáng'],['sound','Âm thanh'],['musi
 const LBL={CAMERA:'Camera',VFX:'VFX',LIGHT:'Ánh sáng',SOUND:'Âm thanh',SFX:'SFX',MUSIC:'Âm nhạc',ACTING:'Diễn xuất',WARDROBE:'Phục trang',PROP:'Đạo cụ',PROPS:'Đạo cụ',NOTE:'Ghi chú',TIMING:'Thời lượng',SEQ:'Ý đồ cảnh','NGUỒN':'Nguồn sử','Ý NGHĨA CHÍNH TRỊ':'Ý nghĩa chính trị'};
 const NOTE_TYPES=[['CAMERA','cam'],['LIGHT','light'],['SOUND','sound'],['MUSIC','music'],['ACTING','act'],['WARDROBE','act'],['SEQ','note'],['NOTE','note'],['TIMING','note']];
 const store={get(k,d){try{const v=localStorage.getItem('lqb_'+k);return v===null?d:JSON.parse(v)}catch(e){return d}},set(k,v){try{localStorage.setItem('lqb_'+k,JSON.stringify(v));return true}catch(e){return false}},del(k){try{localStorage.removeItem('lqb_'+k)}catch(e){}}};
-const S={hide:store.get('hide',[]),mode:store.get('mode','inline'),img:store.get('img',true),dos:store.get('dos',true),dark:store.get('dark',false),fs:store.get('fs',17)};
+const S={ln:store.get('ln',true),hide:store.get('hide',[]),mode:(m=>m==='open'?'open':'collapsed')(store.get('nmode','collapsed')),img:store.get('img',true),dos:store.get('dos',true),dark:store.get('dark',false),fs:store.get('fs',17)};
 const esc=t=>String(t==null?'':t).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 let M=null;            // manifest
 const D={eps:[],chars:{},sets:[]};
@@ -289,31 +323,50 @@ async function load(){
 const F=(o,k)=>{FLD.push([o,k]);return FLD.length-1};
 const fa=(o,k)=>`data-f="${F(o,k)}"`;
 const A=a=>{ARR.push(a);return ARR.length-1};
+let LNC=0;const ln=()=>`data-ln="${++LNC}"`;
+let NAMERE=null;
+const DEFAULT_NAMES=['Lý Cao Tông','Cao Tông','Lý Huệ Tông','Huệ Tông','Lý Sảm','Thái tử Sảm','Lý Thầm','Tô Hiến Thành','Tô Trung Từ','Đàm Thái hậu','Đàm Thái Hậu','Thái hậu','Đàm Dĩ Mông','Đàm Kinh Bang','Đoàn Thượng','Phạm Bỉnh Di','Bỉnh Di','Phạm Phụ','Phạm Kính','Phạm Du','Quách Bốc','Trần Lý','Trần Tự Khánh','Tự Khánh','Trần Thủ Độ','Thủ Độ','Trần Thừa','Trần Nhị Nương','Nhị Nương','Trần Tam Nương','Tam Nương','Gia nô Trần Gia','Công chúa Thiên Cực','Thiên Cực','Đỗ Kính Tu','Đỗ Anh Doãn','Đỗ An','Đỗ Nhuế','Từ Lệnh Hinh','Phí Lang','Nguyễn Nộn','Nguyễn Nậu','Nguyễn Nải','Huệ Văn Vương'];
+function buildNames(){
+  const set=new Set(DEFAULT_NAMES);(M.names||[]).forEach(n=>n&&set.add(n));
+  (M.characters||[]).forEach(c=>{if(['linh','kybinh','tran'].includes(c.id))return;if(c.n)set.add(c.n);(c.kw||[]).forEach(k=>k&&k[0]===k[0].toUpperCase()&&set.add(k))});
+  const L=[...set].filter(x=>x&&x.length>1).sort((a,b)=>b.length-a.length).map(x=>esc(x).replace(/[.*+?^${}()|[\]\\]/g,'\\$&'));
+  try{NAMERE=new RegExp('(?<![\\p{L}\\p{M}])('+L.join('|')+')(?![\\p{L}\\p{M}])','gu')}catch(e){NAMERE=new RegExp('('+L.join('|')+')','g')}
+}
+const fmt=t=>{const h=esc(t);return NAMERE?h.replace(NAMERE,'<b class="nm">$1</b>'):h};
+function noteChip(b,id){const c=b.c||'note';return `<button type="button" class="nchip n-${c}" data-nt="${id}" title="Bấm để xem / ẩn">${esc(LBL[b.l]||b.l)}</button>`}
+function notePanel(b,id,at){const c=b.c||'note';
+  let inner=`<span class="ed" ${fa(b,'t')}>${fmt(b.t)}</span>`;
+  if(b.list&&b.list.length) inner+='<ul>'+b.list.map((x,j)=>`<li class="ed" ${fa(b.list,j)}>${fmt(x)}</li>`).join('')+'</ul>';
+  return `<div class="blk note npanel n-${c}" id="${id}" ${at}><span class="nt">${esc(LBL[b.l]||b.l)}</span>${inner}</div>`}
+const isNote=b=>b.k==='lab'&&b.c!=='vo'&&b.c!=='loc';
 function item(b,aid,i,epid){
   const at=`data-a="${aid}" data-i="${i}" data-ep="${epid}"`;
   switch(b.k){
     case 'lab':
-      if(b.c==='vo') return `<div class="blk vo" ${at}><span class="tag">VO</span><span class="ed" ${fa(b,'t')}>${esc(b.t)}</span></div>`;
+      if(b.c==='vo') return `<div class="blk vo" ${at} ${ln()}><span class="tag">VO</span><span class="ed" ${fa(b,'t')}>${fmt(b.t)}</span></div>`;
       if(b.c==='loc') return `<div class="blk sc-loc ed" ${at} ${fa(b,'t')}>${esc(b.t)}</div>`;
-      {const id='n'+(++nid),c=b.c||'note';
-       let inner=`<span class="ed" ${fa(b,'t')}>${esc(b.t)}</span>`;
-       if(b.list&&b.list.length) inner+='<ul>'+b.list.map((x,j)=>`<li class="ed" ${fa(b.list,j)}>${esc(x)}</li>`).join('')+'</ul>';
-       return `<p class="ancrow"><i class="anc n-${c}" data-n="${id}"></i></p><div class="blk note n-${c}" id="${id}" ${at}><span class="nt">${esc(LBL[b.l]||b.l)}</span>${inner}</div>`;}
-    case 'p': return `<p class="blk ed" ${at} ${fa(b,'t')}>${esc(b.t)}</p>`;
-    case 'arrow': return `<p class="blk beat ed" ${at} ${fa(b,'t')}>${esc(b.t)}</p>`;
-    case 'bullet': return `<p class="blk bul" ${at}>• <span class="ed" ${fa(b,'t')}>${esc(b.t)}</span></p>`;
-    case 'slug': return `<div class="blk slug ed" ${at} ${fa(b,'t')}>${esc(b.t)}</div>`;
-    case 'head': return (b.t||'').length>58?`<p class="blk emph ed" ${at} ${fa(b,'t')}>${esc(b.t)}</p>`:`<div class="blk sub-h ed" ${at} ${fa(b,'t')}>${esc(b.t)}</div>`;
-    case 'center': return `<div class="blk ctr ed" ${at} ${fa(b,'t')}>${esc(b.t)}</div>`;
+      return '';
+    case 'p': return `<p class="blk ed" ${at} ${ln()} ${fa(b,'t')}>${fmt(b.t)}</p>`;
+    case 'arrow': return `<p class="blk beat ed" ${at} ${ln()} ${fa(b,'t')}>${fmt(b.t)}</p>`;
+    case 'bullet': return `<p class="blk bul" ${at} ${ln()}>• <span class="ed" ${fa(b,'t')}>${fmt(b.t)}</span></p>`;
+    case 'slug': return `<div class="blk slug ed" ${at} ${ln()} ${fa(b,'t')}>${esc(b.t)}</div>`;
+    case 'head': return (b.t||'').length>58?`<p class="blk emph ed" ${at} ${ln()} ${fa(b,'t')}>${fmt(b.t)}</p>`:`<div class="blk sub-h ed" ${at} ${ln()} ${fa(b,'t')}>${esc(b.t)}</div>`;
+    case 'center': return `<div class="blk ctr ed" ${at} ${ln()} ${fa(b,'t')}>${esc(b.t)}</div>`;
     case 'dlg':
-      if(!b.lines||!b.lines.length) return `<div class="blk sub-h ed" ${at} ${fa(b,'who')}>${esc(b.who)}</div>`;
-      return `<div class="blk dlg" ${at}><div class="who ed" ${fa(b,'who')}>${esc(b.who)}</div>${b.lines.map(l=>`<div class="${l[0]==='p'?'par':'ln'} ed" ${fa(l,1)}>${esc(l[1])}</div>`).join('')}</div>`;
-    case 'quote':{const L=b.lines||[];if(!L.length)return'';let h=`<div class="blk quote" ${at}>`;L.forEach((x,j)=>{const isA=/^—/.test(String(x).trim());h+=`<div class="${j===0?'q0':isA?'qa':'qn'} ed" ${fa(L,j)}>${esc(x)}</div>`});return h+'</div>'}
+      if(!b.lines||!b.lines.length) return `<div class="blk sub-h ed" ${at} ${ln()} ${fa(b,'who')}>${esc(b.who)}</div>`;
+      return `<div class="blk dlgw" ${at} ${ln()}><div class="dlg"><div class="who ed" ${fa(b,'who')}>${esc(b.who)}</div>${b.lines.map(l=>`<div class="${l[0]==='p'?'par':'ln'} ed" ${fa(l,1)}>${fmt(l[1])}</div>`).join('')}</div></div>`;
+    case 'quote':{const L=b.lines||[];if(!L.length)return'';let h=`<div class="blk dlgw" ${at} ${ln()}><div class="quote">`;L.forEach((x,j)=>{const isA=/^—/.test(String(x).trim());h+=`<div class="${j===0?'q0':isA?'qa':'qn'} ed" ${fa(L,j)}>${esc(x)}</div>`});return h+'</div></div>'}
     case 'hr': return '';
-    default: return b.t!=null?`<p class="blk ed" ${at} ${fa(b,'t')}>${esc(b.t)}</p>`:'';
+    default: return b.t!=null?`<p class="blk ed" ${at} ${ln()} ${fa(b,'t')}>${fmt(b.t)}</p>`:'';
   }
 }
-const items=(arr,epid)=>{const aid=A(arr);return arr.map((b,i)=>item(b,aid,i,epid)).join('')};
+const items=(arr,epid)=>{const aid=A(arr);let h='',i=0;
+  while(i<arr.length){
+    if(isNote(arr[i])){let chips='',panels='';const cats=new Set();
+      while(i<arr.length&&isNote(arr[i])){const b=arr[i],id='n'+(++nid);cats.add(b.c||'note');chips+=noteChip(b,id);panels+=notePanel(b,id,`data-a="${aid}" data-i="${i}" data-ep="${epid}"`);i++}
+      h+=`<div class="nbar ${[...cats].map(c=>'has-'+c).join(' ')}" ${ln()}>${chips}</div><div class="npanels">${panels}</div>`;continue}
+    h+=item(arr[i],aid,i,epid);i++}
+  return h};
 function dossier(title,bl){
   if(!bl||!bl.length) return '';
   let h=`<details class="dossier"><summary>${esc(title)}</summary><div class="dz">`;
@@ -334,6 +387,7 @@ const ALLSETS=()=>D.sets.flatMap(g=>g.items);
 const setByK=k=>ALLSETS().find(x=>x.k===k);
 function setOptions(sel){return '<option value="">— không gắn bối cảnh —</option>'+D.sets.map(g=>`<optgroup label="${esc(g.g)}">${g.items.map(it=>`<option value="${esc(it.k)}" ${it.k===sel?'selected':''}>${esc(it.cap)}</option>`).join('')}</optgroup>`).join('')}
 function renderEp(e,i){
+  LNC=0;
   let h=`<section class="view" id="v-${e.id}"><header class="ephead"><div class="code"><span class="ed" ${fa(e,'code')}>${esc(e.code)}</span> · <span class="ed" ${fa(e,'arc')}>${esc(e.arc)}</span></div><h2 class="ed" ${fa(e,'title')}>${esc(e.title)}</h2><div class="sub ed" ${fa(e,'sub')}>${esc(e.sub)}</div><div class="meta ed" ${fa(e,'meta')}>${esc(e.meta)}</div></header>`;
   if(e.cast&&e.cast.length) h+=`<div class="epcast">${e.cast.map(k=>castCard(k)).join('')}</div>`;
   h+=dossier('Hồ sơ sản xuất — scene index, bối cảnh, lịch quay, nhân vật',e.front);
@@ -342,7 +396,7 @@ function renderEp(e,i){
     h+=`<div class="intro"><div class="intro-main">${items(a.intro,e.id)}</div><aside class="intro-side"></aside></div>`;
     a.scenes.forEach((s,si)=>{
       const st=s.set&&setByK(s.set);
-      let hd=`<div class="sc-head"><div class="sc-id"><span class="ed" ${fa(s,'id')}>${esc(s.id)}</span><span class="tm ed" ${fa(s,'time')}>${esc(s.time)}</span></div><div class="sc-t ed" ${fa(s,'t')}>${esc(s.t)}</div><div class="sc-loc ed" ${fa(s,'loc')}>${esc(s.loc)}</div>`;
+      let hd=`<div class="sc-head"><div class="sc-id"><span class="ed" ${fa(s,'id')}>${esc(s.id)}</span><span class="tm ed" ${fa(s,'time')}>${esc(s.time)}</span></div><div class="sc-t ed" ${ln()} ${fa(s,'t')}>${esc(s.t)}</div><div class="sc-loc ed" ${fa(s,'loc')}>${esc(s.loc)}</div>`;
       const ch=(s.chips||[]).filter(k=>D.chars[k]).map(k=>`<span class="chip" data-ch="${k}"><img src="${charThumb(D.chars[k])}" alt="">${esc(D.chars[k].n)}</span>`).join('');
       const sc=st?`<span class="chip set" data-set="${esc(st.k)}" title="Xem ảnh bối cảnh">Bối cảnh · ${esc(st.cap)}</span>`:'';
       if(ch||sc) hd+=`<div class="chips">${ch}${sc}</div>`;
@@ -426,6 +480,7 @@ sel.onchange=()=>{location.hash=sel.value};
 document.getElementById('brand').onclick=()=>{location.hash='home'};
 /* ================= clicks ================= */
 main.addEventListener('click',async e=>{
+  const nc=e.target.closest('.nchip');if(nc){const p=document.getElementById(nc.dataset.nt);if(p){if(S.mode==='open'){S.mode='collapsed';apply();document.querySelectorAll('.npanel.open').forEach(x=>x.classList.remove('open'));document.querySelectorAll('.nchip.on').forEach(x=>x.classList.remove('on'))}const o=!p.classList.contains('open');p.classList.toggle('open',o);nc.classList.toggle('on',o)}return}
   if(EDITING&&e.target.closest('.ed'))return;
   const t=e.target;
   if(t.closest('[data-delchar]')){e.stopPropagation();const k=t.closest('[data-delchar]').dataset.delchar;if(confirm('Bỏ "'+D.chars[k].n+'" khỏi danh sách nhân vật? (có thể Hoàn tác)')){snap('manifest','bỏ nhân vật '+D.chars[k].n);M.characters=M.characters.filter(c=>c.id!==k);delete D.chars[k];mark('manifest');rerenderView('home')}return}
@@ -485,7 +540,7 @@ etool.onclick=e=>{const op=e.target.dataset.op;if(!op||!tgt)return;const arr=ARR
   else if(op==='dlg'){nb={k:'dlg',who:'NHÂN VẬT',lines:[['p','(chỉ dẫn)'],['d','Lời thoại…']]};arr.splice(i+1,0,nb)}
   else if(op==='note'){const ty=prompt('Loại ghi chú: '+NOTE_TYPES.map((x,j)=>(j+1)+'='+(LBL[x[0]]||x[0])).join(', '),'1');const n=NOTE_TYPES[(+ty||1)-1]||NOTE_TYPES[0];nb={k:'lab',l:n[0],c:n[1],t:''};arr.splice(i+1,0,nb)}
   mark('ep:'+ep);const nv=rerenderView(ep);focusObj(nv,nb)};
-function focusObj(nv,o){if(!o||!nv)return;const fi=FLD.findIndex(r=>r[0]===o||(o.lines&&r[0]===o.lines[1]));const el=fi>=0&&nv.querySelector(`[data-f="${fi}"]`);if(el){el.focus();const s=getSelection(),rg=document.createRange();rg.selectNodeContents(el);s.removeAllRanges();s.addRange(rg)}}
+function focusObj(nv,o){if(!o||!nv)return;if(o.k==='lab'){const fi_=FLD.findIndex(r=>r[0]===o);const el_=fi_>=0&&nv.querySelector(`[data-f="${fi_}"]`);const p=el_&&el_.closest('.npanel');if(p){p.classList.add('open');const c=nv.querySelector(`.nchip[data-nt="${p.id}"]`);if(c)c.classList.add('on')}}const fi=FLD.findIndex(r=>r[0]===o||(o.lines&&r[0]===o.lines[1]));const el=fi>=0&&nv.querySelector(`[data-f="${fi}"]`);if(el){el.focus();const s=getSelection(),rg=document.createRange();rg.selectNodeContents(el);s.removeAllRanges();s.addRange(rg)}}
 function sceneOp(b){const [ep,ai,si]=b.dataset.sc.split('|');const E=D.eps.find(x=>x.id===ep);const sc=E.acts[+ai].scenes;
   snap('ep:'+ep,b.dataset.scop==='del'?'xoá cảnh '+sc[+si].id:'thêm cảnh');
   if(b.dataset.scop==='del'){if(!confirm('Xoá toàn bộ cảnh '+sc[+si].id+'? (có thể Hoàn tác)')){HIST.pop();updUndo();return}sc.splice(+si,1)}
@@ -499,6 +554,26 @@ function newEpisode(){
   const ep={id:eid,code:eid.toUpperCase(),title:'Tập mới',sub:'',arc:lastArc,meta:'',cast:[],front:[],back:[],acts:[{t:'ACT I',time:'',intro:[],scenes:[{id:'S01',t:'Cảnh mở đầu',time:'',loc:'',items:[{k:'p',t:''}],chips:[]}]}]};
   D.eps.push(ep);M.episodes.push({id:eid,file:'data/episodes/'+eid+'.json'});mark('ep:'+eid);mark('manifest');renderAll();location.hash=eid;
 }
+/* ---------- find / go to line ---------- */
+const fb=document.getElementById('findBox'),fq=document.getElementById('findQ'),fi=document.getElementById('findInfo');let FM=[],FMi=-1,FMq='';
+const fold=t=>String(t).normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/đ/g,'d').replace(/Đ/g,'D').toLowerCase();
+function openFind(){fb.classList.add('on');fq.focus();fq.select()}
+function revealAndGo(el){const p=el.closest('.npanel');if(p&&!p.classList.contains('open')&&S.mode!=='open'){p.classList.add('open');const c=document.querySelector(`.nchip[data-nt="${p.id}"]`);if(c)c.classList.add('on')}
+  const y=el.getBoundingClientRect().top+window.scrollY-120;window.scrollTo({top:y,behavior:'smooth'});el.classList.remove('flash');void el.offsetWidth;el.classList.add('flash')}
+function doFind(dir){
+  const q=fq.value.trim();const v=document.getElementById('v-'+cur);if(!q||!v){fi.textContent='';return}
+  if(/^\d+$/.test(q)){const el=v.querySelector(`[data-ln="${q}"]`);if(el){revealAndGo(el);fi.textContent='dòng '+q}else fi.textContent='không có';return}
+  if(q!==FMq){FMq=q;const f=fold(q);FM=[...v.querySelectorAll('[data-ln], .npanel')].filter(el=>fold(el.innerText).includes(f));FMi=-1}
+  if(!FM.length){fi.textContent='0 kết quả';return}
+  FMi=(FMi+(dir||1)+FM.length)%FM.length;revealAndGo(FM[FMi]);fi.textContent=(FMi+1)+'/'+FM.length;
+}
+document.getElementById('btnFind').onclick=()=>fb.classList.contains('on')?fb.classList.remove('on'):openFind();
+document.getElementById('findX').onclick=()=>fb.classList.remove('on');
+document.getElementById('findNext').onclick=()=>doFind(1);document.getElementById('findPrev').onclick=()=>doFind(-1);
+fq.addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();doFind(e.shiftKey?-1:1)}if(e.key==='Escape')fb.classList.remove('on')});
+fq.addEventListener('input',()=>{FMq='';fi.textContent=''});
+document.addEventListener('keydown',e=>{if((e.metaKey||e.ctrlKey)&&e.key.toLowerCase()==='f'&&cur!=='home'&&cur!=='sets'){e.preventDefault();openFind()}});
+window.addEventListener('hashchange',()=>{FMq='';fi.textContent=''});
 /* ---------- undo / redo ---------- */
 const HIST=[],REDO=[];let snapEl=null;
 function grab(key){if(key==='all')return JSON.stringify({M,eps:D.eps});if(key==='manifest')return JSON.stringify(M);const e=D.eps.find(x=>'ep:'+x.id===key);return e?JSON.stringify(e):null}
@@ -574,7 +649,20 @@ function toast(m,btns){const t=document.getElementById('toast');t.innerHTML=esc(
 function ghInfo(){const g=GH();document.getElementById('ghRepoName').textContent=g.repo;document.getElementById('ghInfo').innerHTML=`Repo: <b>${esc(g.repo)}</b> · nhánh <b>${esc(g.branch)}</b> · thư mục <b>${esc(g.base||'/')}</b><br>Token: ${tok()?'<span class="ok">đã lưu trên máy này</span>':'<span class="bad">chưa có</span>'}`}
 document.getElementById('ghSaveTok').onclick=()=>{const v=document.getElementById('ghTok').value.trim();if(!v)return;store.set('ghtoken',v);document.getElementById('ghTok').value='';ghInfo();toast('Đã lưu token trên máy này.')};
 document.getElementById('ghClear').onclick=()=>{store.del('ghtoken');ghInfo();toast('Đã xoá token.')};
-document.getElementById('ghTest').onclick=async()=>{try{const r=await fetch(`https://api.github.com/repos/${GH().repo}`,{headers:{Authorization:'Bearer '+tok(),Accept:'application/vnd.github+json'}});const j=await r.json();toast(r.ok?(j.permissions&&j.permissions.push?'Token hợp lệ — có quyền ghi vào '+GH().repo:'Token đọc được repo nhưng KHÔNG có quyền ghi.'):'Token không dùng được: '+(j.message||r.status))}catch(e){toast('Không kết nối được GitHub: '+e.message)}};
+document.getElementById('ghTest').onclick=async()=>{
+  if(!tok()){toast('Chưa có token — dán token rồi bấm Lưu token trước.');return}
+  try{
+    const H={Authorization:'Bearer '+tok(),Accept:'application/vnd.github+json','X-GitHub-Api-Version':'2022-11-28'};
+    const r=await fetch(`https://api.github.com/repos/${GH().repo}`,{headers:H});
+    if(r.status===401){toast('Token không hợp lệ hoặc đã hết hạn — tạo token mới.');return}
+    if(!r.ok){toast('Token không đọc được repo '+GH().repo+' ('+r.status+'). Kiểm tra token đã chọn đúng repo chưa.');return}
+    // thử ghi "giả": PUT với sha sai → nếu có quyền ghi GitHub trả 409/422 (không ghi gì), nếu không có quyền trả 403
+    const p=(GH().base?GH().base+'/':'')+'data/manifest.json';
+    const w=await fetch(`https://api.github.com/repos/${GH().repo}/contents/${encPath(p)}`,{method:'PUT',headers:H,body:JSON.stringify({message:'permission check',content:'',sha:'0000000000000000000000000000000000000000',branch:GH().branch})});
+    if(w.status===403||w.status===404){toast('Token ĐỌC được repo nhưng CHƯA có quyền GHI. Vào GitHub → token → Edit → Repository permissions → Contents: Read and write → Update.');return}
+    toast('Token hợp lệ — có quyền ghi vào '+GH().repo+'. Bấm Lưu được rồi.');
+  }catch(e){toast('Không kết nối được GitHub: '+e.message)}
+};
 /* ---------- offline export ---------- */
 document.getElementById('btnOffline').onclick=async()=>{
   if(EMB){toast('Đây đã là bản offline. Mở bản online để đóng gói bản mới nhất.');return}
@@ -599,19 +687,14 @@ cats.onclick=e=>{const b=e.target.closest('[data-c]');if(!b)return;const k=b.dat
 document.getElementById('allOn').onclick=()=>{S.hide=[];apply()};
 document.getElementById('allOff').onclick=()=>{S.hide=CATS.map(c=>c[0]);apply()};
 document.getElementById('btnRead').onclick=()=>{const all=S.hide.length===CATS.length;S.hide=all?store.get('prevHide',[]):CATS.map(c=>c[0]);if(!all)store.set('prevHide',S.hide.length===CATS.length?[]:S.hide);apply()};
+document.getElementById('tLn').onclick=()=>{S.ln=!S.ln;apply()};
 document.getElementById('mode').onclick=e=>{const b=e.target.closest('[data-m]');if(!b)return;S.mode=b.dataset.m;apply()};
 document.getElementById('tImg').onclick=()=>{S.img=!S.img;apply()};
 document.getElementById('tDos').onclick=()=>{S.dos=!S.dos;apply()};
 document.getElementById('tDark').onclick=()=>{S.dark=!S.dark;apply()};
 document.getElementById('fsM').onclick=()=>{S.fs=Math.max(13,S.fs-1);apply()};
 document.getElementById('fsP').onclick=()=>{S.fs=Math.min(26,S.fs+1);apply()};
-function applyMode(){
-  const side=S.mode==='side'&&window.innerWidth>=1080;document.body.classList.toggle('side-on',side);
-  const v=document.getElementById('v-'+cur);if(!v)return;
-  v.querySelectorAll('.anc').forEach(a=>{const n=document.getElementById(a.dataset.n);if(!n)return;
-    if(side){const box=a.closest('.scene,.intro');const asd=box&&box.querySelector(':scope > .sc-side, :scope > .intro-side');if(asd&&n.parentElement!==asd)asd.appendChild(n)}
-    else{const row=a.parentElement;if(row.nextElementSibling!==n)row.after(n)}});
-}
+function applyMode(){document.body.classList.toggle('notes-open',S.mode==='open');const v=document.getElementById('v-'+cur);if(v)v.querySelectorAll('.nbar').forEach(b=>{const vis=[...b.children].some(c=>getComputedStyle(c).display!=='none');b.style.display=vis?'':'none';const p=b.nextElementSibling;if(p&&p.classList.contains('npanels'))p.style.display=vis?'':'none'})}
 function apply(){
   const B=document.body;
   CATS.forEach(([k])=>B.classList.toggle('h-'+k,S.hide.includes(k)));
@@ -622,7 +705,8 @@ function apply(){
   B.classList.toggle('hide-dossier',!S.dos);document.getElementById('tDos').classList.toggle('off',!S.dos);
   B.classList.toggle('dark',S.dark);document.getElementById('tDark').classList.toggle('off',!S.dark);
   document.documentElement.style.setProperty('--fs',S.fs+'px');document.getElementById('fsV').textContent=S.fs+'px';
-  ['hide','mode','img','dos','dark','fs'].forEach(k=>store.set(k,S[k]));applyMode();
+  B.classList.toggle('lnum',!!S.ln);document.getElementById('tLn').classList.toggle('off',!S.ln);
+  ['hide','img','dos','dark','fs','ln'].forEach(k=>store.set(k,S[k]));store.set('nmode',S.mode);applyMode();
 }
 let rt;window.addEventListener('resize',()=>{clearTimeout(rt);rt=setTimeout(applyMode,150)});
 const prog=document.getElementById('prog');
@@ -630,7 +714,7 @@ window.addEventListener('scroll',()=>{const h=document.documentElement.scrollHei
 /* ================= boot ================= */
 (async()=>{
   try{await load()}catch(e){main.innerHTML=`<div id="loading">Không tải được dữ liệu kịch bản (${esc(e.message)}).<br><br>Nếu anh đang mở file index.html trực tiếp trên máy, trình duyệt sẽ chặn đọc dữ liệu — hãy mở qua link GitHub Pages, hoặc dùng bản offline (⚙ → Tải bản offline).</div>`;apply();ghInfo();return}
-  document.title=M.title+' — Kịch bản';
+  document.title=M.title+' — Kịch bản';buildNames();
   const d=store.get('draft',null);
   renderAll();apply();ghInfo();route();
   if(d&&d.keys&&d.keys.length){
